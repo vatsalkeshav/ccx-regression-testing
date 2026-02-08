@@ -1,0 +1,5 @@
+binaries/
+samples/
+tests/isdb/0/new_op/
+tests/xds/0/new_op/
+tests/xds/1/new_op/

@@ -1,0 +1,8 @@
+4c4
+< Input: 1.ts
+---
+> Input: /Users/dev/upsidedown/tests/xds/1/new_op/1.ts
+25c25
+< [KOpening file: 1.ts
+---
+> [KOpening file: /Users/dev/upsidedown/tests/xds/1/new_op/1.ts
