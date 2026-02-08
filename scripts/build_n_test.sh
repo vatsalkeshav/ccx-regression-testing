@@ -1,5 +1,5 @@
-# CCX_SRC="$HOME/ccextractor-z" 
-CCX_SRC="$HOME/s04e09" # important: this should point to the CCExtractor source code directory
+CCX_SRC="$HOME/ccextractor-z" 
+# CCX_SRC="$HOME/s04e09" # important: this should point to the CCExtractor source code directory
 
 # binary loc
 BINARYBASE="$HOME/upsidedown/binaries"
@@ -173,12 +173,46 @@ rm -f \
 diff "$MASTER_OP/terminal.txt" "$NEW_OP/terminal.txt" \
   > "$DIFF/diff_terminal.txt"
 
-diff -y -W 1000 \
-  "$MASTER_OP/0.txt" "$NEW_OP/0.txt" \
+# diff -y -W 1000 \
+diff "$MASTER_OP/0.txt" "$NEW_OP/0.txt" \
   > "$DIFF/diff_0_txt.txt"
 
-diff -y -W 1000 \
-  "$MASTER_OP/0.srt" "$NEW_OP/0.srt" \
+# diff -y -W 1000 \
+diff "$MASTER_OP/0.srt" "$NEW_OP/0.srt" \
   > "$DIFF/diff_0_srt.txt"
+
+}
+
+# ---- fouth test (isdb 1) start ----
+
+function ccxtestisdb1() {
+
+# BASE DIRECTORIES
+local BASE="$HOME/upsidedown/tests/isdb/1"
+local MASTER_OP="$BASE/master_op"
+local NEW_OP="$BASE/new_op"
+local DIFF="$BASE/diff"
+
+#  CLEAN OLD OUTPUT 
+rm -f \
+  "$NEW_OP/terminal.txt" \
+  "$NEW_OP/1.txt"
+
+#  RUN CCEXTRACTOR 
+"$NEWCCXR/ccextractor" \
+  "$NEW_OP/1.mpg" \
+  2>&1 | tee "$NEW_OP/terminal.txt"
+
+# CLEAN OLD DIFF 
+rm -f \
+  "$DIFF/diff_terminal.txt" \
+  "$DIFF/diff_1.txt"
+
+# GENERATE DIFF
+diff "$MASTER_OP/terminal.txt" "$NEW_OP/terminal.txt" \
+  > "$DIFF/diff_terminal.txt"
+
+diff "$MASTER_OP/1.srt" "$NEW_OP/1.srt" \
+  > "$DIFF/diff_1.txt"
 
 }

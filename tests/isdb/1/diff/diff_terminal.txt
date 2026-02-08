@@ -1,0 +1,8 @@
+4c4
+< Input: 1.mpg
+---
+> Input: /Users/dev/upsidedown/tests/isdb/1/new_op/1.mpg
+25c25
+< [KOpening file: 1.mpg
+---
+> [KOpening file: /Users/dev/upsidedown/tests/isdb/1/new_op/1.mpg

@@ -1,0 +1,40 @@
+CCExtractor 0.96.5, Carlos Fernandez Sanz, Volker Quetschke.
+Teletext portions taken from Petr Kutalek's telxcc
+--------------------------------------------------------------------------
+Input: /Users/dev/upsidedown/tests/isdb/1/new_op/1.mpg
+[Extract: 1] [Stream mode: Autodetect]
+[Program : Auto ] [Hauppage mode: No] [Use MythTV code: Auto]
+[CEA-708: 63 decoders active]
+[CEA-708: using charset "none" for all services]
+[Timing mode: Auto] [Debug: No] [Buffer input: No]
+[Use pic_order_cnt_lsb for H.264: No] [Print CC decoder traces: No]
+[Target format: .srt] [Encoding: UTF-8] [Delay: 0] [Trim lines: No]
+[Add font color data: Yes] [Add font typesetting: Yes]
+[Convert case: No][Filter profanity: No] [Video-edit join: No]
+[Extraction start time: not set (from start)]
+[Extraction end time: not set (to end)]
+[Live stream: No] [Clock frequency: 90000]
+[Teletext page: Autodetect]
+[Start credits text: None]
+[Quantisation-mode: None]
+[Tesseract PSM: 3]
+
+-----------------------------------------------------------------
+[KOpening file: /Users/dev/upsidedown/tests/isdb/1/new_op/1.mpg
+Detected MP4 box with name: wide
+File seems to be a transport stream[KAnalyzing data in general mode
+*****ISDB subtitles detected
+  0%  |  00:00  1%  |  00:21  2%  |  00:41  3%  |  01:02  4%  |  01:23  5%  |  01:42  6%  |  02:03  7%  |  02:24  8%  |  02:44  9%  |  03:06 10%  |  03:25 11%  |  03:46 12%  |  04:07 13%  |  04:28 14%  |  04:48 15%  |  05:10 16%  |  05:30 17%  |  05:51 18%  |  06:12 19%  |  06:32 20%  |  06:53 21%  |  07:14 22%  |  07:34 23%  |  07:55 24%  |  08:15 25%  |  08:37 26%  |  08:57 27%  |  09:18 28%  |  09:39 29%  |  09:59 30%  |  10:21 31%  |  10:40 32%  |  11:02 33%  |  11:23 34%  |  11:43 35%  |  12:04 36%  |  12:25 37%  |  12:45 38%  |  13:06 39%  |  13:27 40%  |  13:47 41%  |  14:08 42%  |  14:29 43%  |  14:49 44%  |  15:10 45%  |  15:31 46%  |  15:51 47%  |  16:12 48%  |  16:33 49%  |  16:53 50%  |  17:14 51%  |  17:35 52%  |  17:56 53%  |  18:16 54%  |  18:38 55%  |  18:58 56%  |  19:18 57%  |  19:40 58%  |  20:00 59%  |  20:20 60%  |  20:42 61%  |  21:02 62%  |  21:22 63%  |  21:44 64%  |  22:04 65%  |  22:25 66%  |  22:46 67%  |  23:06 68%  |  23:28 69%  |  23:48 70%  |  24:08 71%  |  24:29 72%  |  24:50 73%  |  25:10 74%  |  25:30 75%  |  25:52 76%  |  26:13 77%  |  26:34 78%  |  26:55 79%  |  27:15 80%  |  27:36 81%  |  27:56 82%  |  28:17 83%  |  28:38 84%  |  28:59 85%  |  29:20 86%  |  29:40 87%  |  30:01 88%  |  30:21 89%  |  30:42 90%  |  31:03 91%  |  31:23 92%  |  31:45 93%  |  32:05 94%  |  32:26 95%  |  32:46 96%  |  33:07 97%  |  33:27 98%  |  33:49 99%  |  34:10Premature end of file - Transport Stream packet is incomplete (expected 188 bytes, got 148).
+100%  |  34:30
+Number of NAL_type_7: 0
+Number of VCL_HRD: 0
+Number of NAL HRD: 0
+Number of jump-in-frames: 0
+Number of num_unexpected_sei_length: 0
+
+Min PTS:				10:29:14:347
+Max PTS:				11:03:44:628
+Length:				 00:34:30:281
+[KDone, processing time = 13 seconds
+Issues? Open a ticket here
+https://github.com/CCExtractor/ccextractor/issues

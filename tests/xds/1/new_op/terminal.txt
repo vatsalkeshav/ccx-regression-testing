@@ -1,0 +1,674 @@
+CCExtractor 0.96.5, Carlos Fernandez Sanz, Volker Quetschke.
+Teletext portions taken from Petr Kutalek's telxcc
+--------------------------------------------------------------------------
+Input: /Users/dev/upsidedown/tests/xds/1/new_op/1.ts
+[Extract: 1] [Stream mode: Autodetect]
+[Program : Auto ] [Hauppage mode: No] [Use MythTV code: Auto]
+[CEA-708: 63 decoders active]
+[CEA-708: using charset "none" for all services]
+[Timing mode: Auto] [Debug: No] [Buffer input: No]
+[Use pic_order_cnt_lsb for H.264: No] [Print CC decoder traces: No]
+[Target format: .txt] [Encoding: Latin-1] [Delay: 0] [Trim lines: No]
+[Add font color data: Yes] [Add font typesetting: Yes]
+[Convert case: No][Filter profanity: No] [Video-edit join: No]
+[Extraction start time: not set (from start)]
+[Extraction end time: not set (to end)]
+[Live stream: No] [Clock frequency: 90000]
+[Teletext page: Autodetect]
+[Start credits text: None]
+[Quantisation-mode: None]
+[Tesseract PSM: 3]
+
+-----------------------------------------------------------------
+[KOpening file: /Users/dev/upsidedown/tests/xds/1/new_op/1.ts
+File seems to be a transport stream[KAnalyzing data in general mode
+
+
+New video information found
+[1920 * 1080] [AR: 03 - 16:9] [FR: 04 - 29.97] [progressive: no]
+
+  0%  |  00:00[KXDS: Program length (HH:MM): 00:02  Elapsed (HH:MM): 00:51
+XDS Notice: Network is now   
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS: ContentAdvisory: US TV Parental Guidelines. Age Rating: TV-MA (Mature Audience Only)
+  [KXDS: [Violence] [Adult Language] 
+  [KXDS Notice: Program is now Dext: erDo You Take Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+  1%  |  00:33[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now xtDeer: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+  2%  |  00:59[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+  3%  |  01:31[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+[KXDS Notice: Program is now xtDeer: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+  4%  |  01:58[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now xtDeer: Doou Y Take xtDeer Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+  5%  |  02:28[KXDS Notice: Program is now Dext: erDo Youake Dexter M To
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now xtDeerDo:  You Te akDextero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+  6%  |  02:59[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do You Take Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+  7%  |  03:27[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+  8%  |  04:09[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+  9%  |  04:34[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deer: Do You Take Dexterxto
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+ 10%  |  05:01[KXDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+[KXDS Notice: Program is now Dext: Do You Take Dexter Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 11%  |  05:25[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 12%  |  05:52[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youake Dexter M To
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+ 13%  |  06:16[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do Y Take Dexterou Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 14%  |  06:45[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter:  YDoou TakDee xter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now xtDeer: Doou Y Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 15%  |  07:15 16%  |  07:39[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+[KXDS Notice: Program is now Deerxt: Do You Take Deerxt Mo
+[KXDS Notice: Program is now Dext: Do You Take Dexter Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 17%  |  08:07[KXDS Notice: Program is now Dexter: Do You Te akDextero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now xter: Do You Take DeDextero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+ 18%  |  08:36[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: Do You Take Dexter Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 19%  |  09:05[KXDS Notice: Program is now Dexter: Do Y Take Dexterou Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter:  YDoou TakDee xter Mo
+ 20%  |  09:30[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now DexterDo:  You Te akDextero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+ 21%  |  09:58[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 22%  |  10:29[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now xter: Do YouDe Take Dexter Mo
+ 23%  |  11:00[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Dexter Mo
+[KXDS Notice: Program is now DexterDo:  You Te akDextero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+ 24%  |  11:34[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now xtDeer: Doou Y Te akDextero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+ 25%  |  12:07[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Doou Y Take xtDeer Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deer: Do You Txtake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: Do You Take Dexter Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 26%  |  12:34 27%  |  13:02[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 28%  |  13:32[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 29%  |  14:04[KXDS Notice: Program is now DexterDo:  You Te akDextero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now DexterDo:  You Te akDextero
+ 30%  |  14:39[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deer: Do You Txtake Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now xtDeer: Doou Y Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+ 31%  |  15:12[KXDS Notice: Program is now Deerxt: Do Y Touake Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now xtDeerDo:  You Te akDextero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 32%  |  15:40[KXDS Notice: Program is now Dexter: Do You Take Dextero
+[KXDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 33%  |  16:06[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dextero
+ 34%  |  16:32[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: Do You Takere Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now xtDeer: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 35%  |  16:58[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now xtDeer: Doou Y Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Te akDextero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now DexterDo:  You Te akDextero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 36%  |  17:27[KXDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+ 37%  |  17:55[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 38%  |  18:22[KXDS Notice: Program is now Dexter: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: Do You Takere Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 39%  |  18:55[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 40%  |  19:24[KXDS Notice: Program is now DexterDo:  You Te akDextero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 41%  |  19:49[KXDS Notice: Program is now Dext: Do You Take Dexter Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 42%  |  20:13[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 43%  |  20:37[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 44%  |  21:00[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+ 45%  |  21:32[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 46%  |  22:05[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 47%  |  22:35[KXDS Notice: Program is now DexterDo:  You Te akDextero
+[KXDS Notice: Program is now Dext: Do You Takere Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 48%  |  23:04[KXDS Notice: Program is now Dexter: Do You Take Dext Mero
+[KXDS Notice: Program is now Deer: Do You Txtake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now DexterDo:  You Te akDextero
+ 49%  |  23:32[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Te akDextero
+ 50%  |  24:02[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 51%  |  24:28[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now DexterDo:  You Te akDextero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 52%  |  24:56[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Te akDextero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 53%  |  25:21[KXDS Notice: Program is now Deerxt: Do Y Touake Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do You Take Deerxt Mo
+[KXDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+[KXDS Notice: Program is now Dext: erDo You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 54%  |  25:48[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+[KXDS Notice: Program is now Dexter: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 55%  |  26:14[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youake Dexter M To
+[KXDS Notice: Program is now xtDeer: Doou Y Take xtDeero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+ 56%  |  26:45[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo You Take Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 57%  |  27:12[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Doou Y Take xtDeer Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo You Take Dext Mero
+ 58%  |  27:41[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: Do You Take Dexter Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 59%  |  28:13[KXDS Notice: Program is now Dext: erDo You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now xtDeer: Doou Y Take xtDeer Mo
+[KXDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: Do You Take Dexter Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 60%  |  28:44[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 61%  |  29:14[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now xtDeer: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now DexterDo:  You Te akDextero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do You Take Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+ 62%  |  29:47[KXDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter:  YDoou TakDee xter Mo
+ 63%  |  30:21[KXDS Notice: Program is now Deerxt: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youake Dexter M To
+[KXDS Notice: Program is now xtDeerDo You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 64%  |  30:56[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now xtDeer: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+ 65%  |  31:29[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deer: Do You Txtake Deerxt Mo
+[KXDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 66%  |  32:04[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do You Take Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 67%  |  32:34[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo You Take Dext Mero
+ 68%  |  33:06[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deer: Do You Txtake Deerxt Mo
+[KXDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 69%  |  33:35[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now DexterDo:  You Te akDexter Mo
+[KXDS Notice: Program is now DexterDo:  You Te Dexter Mo
+ 70%  |  34:05[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 71%  |  34:44[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now xtDeer: Doou Y Take xtDeer Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 72%  |  35:23[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo You Take Dexter Mo
+ 73%  |  36:09[KXDS Notice: Program is now xtDeer: Doou Y Take xtDeer Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do You Take Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 74%  |  36:44[KXDS Notice: Program is now xtDeer: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now DexterDo:  You Te akDextero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+ 75%  |  37:18[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dext Mero
+[KXDS Notice: Program is now Dext: Do You Takere Dext Mero
+[KXDS Notice: Program is now Deer: Do You Txtake Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter:  YDoou Take Dexter Mo
+ 76%  |  37:51[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+ 77%  |  38:29[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now DexterDo:  You Te akDextero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 78%  |  39:14[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 79%  |  39:57[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 80%  |  40:28[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deer: Do You Txtake Deerxt Mo
+[KXDS Notice: Program is now xtDeer: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now xtDeer: Doou Y Take Dexter Mo
+[KXDS Notice: Program is now Dext: Do You Take Dexter Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 81%  |  41:04[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now DexterDo:  You Te akDextero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Te akDexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 82%  |  41:37[KXDS Notice: Program is now Deerxt: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now xtDeer: Doou Y Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+ 83%  |  42:12[KXDS Notice: Program is now Deerxt: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do You Take Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now xtDeer: Do You Take xtDeer Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do Y Touake Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 84%  |  42:47[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Dexter Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now xtDeer: Doou Y Take xtDeer Mo
+[KXDS Notice: Program is now Dexter: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 85%  |  43:24[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: Do You Take Dexter Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dext Mero
+[KXDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 86%  |  43:54[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo You Take Dext Mero
+[KXDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 87%  |  44:19[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youake Dexter M To
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 88%  |  44:48[KXDS Notice: Program is now Dext: erDo You Take Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do Youak Te Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo You Take Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+ 89%  |  45:20[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 90%  |  45:55[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+ 91%  |  46:38[KXDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 92%  |  47:15[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Take Dexterou Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 93%  |  47:47[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now DexterDo:  You Te akDextero
+ 94%  |  48:22[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do You Take Deerxt Mo
+[KXDS Notice: Program is now Dext: Do You Takere Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 95%  |  48:52[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dexter: Doou Y Take xtDeer Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS Notice: Program is now Deerxt: Do You Take Deerxt Mo
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+ 96%  |  49:17[KXDS Notice: Program is now Dext: Do You Take Dexter Mero
+[KXDS Notice: Program is now Dexter: Do You Take Dexter Mo
+[KXDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+[KXDS: ContentAdvisory: MPA Rating: Not Rated
+  [KXDS Notice: Program is now   
+[KXDS Notice: Program is now Intetirstial
+[KXDS Notice: Program is now Interstitial
+ 97%  |  49:43[KXDS Notice: Program is now Interstialti
+[KXDS Notice: Program is now Interstitial
+[KXDS Notice: Program is now Intetirstial
+ 98%  |  50:07[KXDS Notice: Program is now Interstitial
+[KXDS Notice: Program is now Intetirstial
+ 99%  |  50:31[KXDS Notice: Program is now Inrstetitial
+[KXDS Notice: Program is now Interstitial
+XDS Notice: Network is now G@
+[KXDS Notice: Program is now teInrstitial
+XDS Notice: Network is now   
+[KXDS Notice: Program is now Interstitial
+[KXDS Notice: Program is now Intetirstial
+[KXDS Notice: Program is now Interstitial
+[KXDS Notice: Program is now Intetirstial
+[KXDS Notice: Program is now Interstitial
+[KXDS Notice: Program is now Intetirstial
+100%  |  51:25
+Number of NAL_type_7: 0
+Number of VCL_HRD: 0
+Number of NAL HRD: 0
+Number of jump-in-frames: 0
+Number of num_unexpected_sei_length: 0
+
+Total frames time:	  00:51:25:215  (92464 frames at 29.97fps)
+[KCC type 0: 20015 (NTSC line 21 field 1 closed captions)
+CC type 1: 92449 (NTSC line 21 field 2 closed captions)
+CC type 2: 86638 (DTVCC Channel Packet Data)
+CC type 3: 21778 (DTVCC Channel Packet Start)
+incl. pulldown frames:  00:06:41:467  (12032 frames at 29.97fps)
+
+Min PTS:				00:00:00:316
+Max PTS:				00:51:25:531
+Length:				 00:51:25:215
+
+Initial GOP time:	   00:00:00:000
+Final GOP time:		 00:51:25:166 +1F
+Diff. GOP length:	   00:51:25:166 +1F	(00:51:25:199)
+
+Number of key frames: 6006
+Total user data fields: 80422
+HDTV type user data fields: 80422
+[KDone, processing time = 29 seconds
+Issues? Open a ticket here
+https://github.com/CCExtractor/ccextractor/issues

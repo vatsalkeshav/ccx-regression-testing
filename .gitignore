@@ -1,5 +1,10 @@
-binaries/
-samples/
-tests/isdb/0/new_op/
-tests/xds/0/new_op/
-tests/xds/1/new_op/
+binaries/newccxr/ccextractor
+binaries/masterccxr/ccextractor
+samples/xds/0.ts
+samples/xds/1.ts
+samples/isdb/0.mpg
+samples/isdb/1.mpg
+tests/isdb/0/new_op/0.mpg
+tests/isdb/1/new_op/1.mpg
+tests/xds/0/new_op/0.ts
+tests/xds/1/new_op/1.ts

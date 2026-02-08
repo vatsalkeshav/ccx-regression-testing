@@ -10,3 +10,7 @@
 < [KOpening file: 0.mpg
 ---
 > [KOpening file: /Users/dev/upsidedown/tests/isdb/0/new_op/0.mpg
+141c141
+< [KDone, processing time = 21 seconds
+---
+> [KDone, processing time = 23 seconds
