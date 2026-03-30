@@ -1,0 +1,9 @@
+{
+  "case_id": "111-bbd5bb52-ttxt-xds",
+  "exit_code": 0,
+  "files": [
+    "out.p1.svc01.txt"
+  ],
+  "term_signal": null,
+  "term_signal_name": ""
+}

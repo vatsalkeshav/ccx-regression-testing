@@ -1,0 +1,1532 @@
+00:00:02,302|00:00:03,570|CC1|POP|            DIXON:
+00:00:02,302|00:00:03,570|CC1|POP|      <i>Previously on </i>90210:
+00:00:03,636|00:00:04,504|CC1|POP|      Everything's just working
+00:00:03,636|00:00:04,504|CC1|POP|              out so perfectly.
+00:00:04,571|00:00:05,605|CC1|POP| <i>We made it through high school,</i>
+00:00:05,672|00:00:07,674|CC1|POP|     <i>I inherited a fortune,</i>
+00:00:07,741|00:00:09,376|CC1|POP|               and we are going
+00:00:07,741|00:00:09,376|CC1|POP|               to live together.
+00:00:09,442|00:00:10,543|CC1|POP|                 I don't want to
+00:00:09,442|00:00:10,543|CC1|POP|                 go to college.
+00:00:10,610|00:00:11,778|CC1|POP|All this time, you've
+00:00:10,610|00:00:11,778|CC1|POP|just been pretending
+00:00:11,845|00:00:13,546|CC1|POP|that you wanted to
+00:00:11,845|00:00:13,546|CC1|POP|have a life with me? 
+00:00:13,613|00:00:15,415|CC1|POP|            I wanted to let you
+00:00:13,613|00:00:15,415|CC1|POP|         know that I got a job.
+00:00:15,482|00:00:16,983|CC1|POP|          It's on this deep-sea
+00:00:15,482|00:00:16,983|CC1|POP|                  fishing boat.
+00:00:17,050|00:00:19,719|CC1|POP| I really do hope that you find
+00:00:17,050|00:00:19,719|CC1|POP|   whatever you're looking for.
+00:00:19,786|00:00:22,389|CC1|POP|    And after you find it, then
+00:00:19,786|00:00:22,389|CC1|POP|      you can come and find me.
+00:00:22,455|00:00:23,757|CC1|POP|         Ivy and I are engaged.
+00:00:23,823|00:00:26,159|CC1|POP|      <i>Because I'm starting</i>
+00:00:23,823|00:00:26,159|CC1|POP|        <i>chemo next week,</i>
+00:00:26,226|00:00:28,194|CC1|POP|     <i>we want to get married</i>
+00:00:26,226|00:00:28,194|CC1|POP|     <i>in the next few days.</i>
+00:00:28,261|00:00:29,829|CC1|POP|      My parents have forbidden
+00:00:28,261|00:00:29,829|CC1|POP|           me to see you again.
+00:00:29,896|00:00:33,333|CC1|POP|You're an adult now,
+00:00:29,896|00:00:33,333|CC1|POP|and it's your decision, and no!
+00:00:33,400|00:00:35,435|CC1|POP|       They've sacrificed a lot
+00:00:33,400|00:00:35,435|CC1|POP|     for me. I can't defy them.
+00:00:35,502|00:00:37,037|CC1|POP|I have to tell you something.
+00:00:35,502|00:00:37,037|CC1|POP|Max, I'm pregnant.
+00:00:40,874|00:00:42,709|CC1|POP|  (woman speaking indistinctly
+00:00:40,874|00:00:42,709|CC1|POP|           over P.A.)
+00:00:40,874|00:00:42,709|CC1|POP|             Um...
+00:00:42,776|00:00:46,212|CC1|POP|You didn't tell anyone
+00:00:42,776|00:00:46,212|CC1|POP|I'm pregnant, did you?
+00:00:46,279|00:00:47,614|CC1|POP|I mean...
+00:00:46,279|00:00:47,614|CC1|POP|                     No.
+00:00:47,680|00:00:49,182|CC1|POP|I don't want to...
+00:00:49,249|00:00:51,117|CC1|POP|have to answer questions until
+00:00:49,249|00:00:51,117|CC1|POP|I actually start getting fat.
+00:00:53,787|00:00:56,523|CC1|POP|         I'm still getting used
+00:00:53,787|00:00:56,523|CC1|POP|            to the idea myself.
+00:00:59,225|00:01:01,061|CC1|POP|        You know, um...
+00:01:02,562|00:01:05,265|CC1|POP|                We can do this.
+00:01:05,331|00:01:06,666|CC1|POP|                      You know?
+00:01:06,733|00:01:08,501|CC1|POP|               We actually want
+00:01:06,733|00:01:08,501|CC1|POP|                to be together.
+00:01:10,270|00:01:12,539|CC1|POP|           It's like getting an
+00:01:10,270|00:01:12,539|CC1|POP| accelerated degree in physics.
+00:01:12,605|00:01:15,108|CC1|POP|             It's exactly where
+00:01:12,605|00:01:15,108|CC1|POP|               we wanted to be,
+00:01:15,175|00:01:16,609|CC1|POP|                   only faster.
+00:01:16,676|00:01:18,511|CC1|POP|           (laughs)
+00:01:23,149|00:01:24,084|CC1|POP|                    I love you.
+00:01:24,150|00:01:25,418|CC1|POP|I love you.
+00:01:28,421|00:01:29,989|CC1|POP|              Hi.
+00:01:30,056|00:01:32,192|CC1|POP|So, your test results
+00:01:30,056|00:01:32,192|CC1|POP|came in.
+00:01:32,258|00:01:33,560|CC1|POP|     You are not pregnant.
+00:01:36,062|00:01:37,430|CC1|POP|  I had a blood test that...
+00:01:37,497|00:01:39,099|CC1|POP|    False positives happen
+00:01:37,497|00:01:39,099|CC1|POP|          sometimes.
+00:01:39,165|00:01:41,034|CC1|POP|Otherwise...
+00:01:39,165|00:01:41,034|CC1|POP|everything looks good.
+00:01:44,170|00:01:44,804|CC1|POP|No baby is good.e you kidding?
+00:01:46,539|00:01:47,807|CC1|POP|             (laughs, sputters)
+00:01:47,874|00:01:48,942|CC1|POP|     That's the best news ever!
+00:01:49,008|00:01:51,344|CC1|POP|   Talk about dodging a bullet.
+00:01:51,411|00:01:54,347|CC1|POP|We almost threw our lives away.
+00:01:54,414|00:01:57,183|CC1|POP|   Oh! I could still go to MIT.
+00:01:54,414|00:01:57,183|CC1|POP|              You can go to CU.
+00:01:57,250|00:01:59,686|CC1|POP|         We could go on with our
+00:01:57,250|00:01:59,686|CC1|POP|         lives like we planned.
+00:01:59,752|00:02:02,522|CC1|POP|  I swear, I am never having
+00:01:59,752|00:02:02,522|CC1|POP|    unprotected sex again.
+00:02:05,458|00:02:07,293|CC1|POP|    Fasten your seat belts.
+00:02:08,361|00:02:10,330|CC1|POP|Miss...
+00:02:10,396|00:02:12,265|CC1|POP|Fasten your seat belt.
+00:02:13,900|00:02:16,035|CC1|POP|                     Bad dream?
+00:02:16,102|00:02:17,036|CC1|POP|              No.
+00:02:17,103|00:02:20,106|CC1|POP|          Bad memory.
+00:02:20,173|00:02:23,109|CC1|POP|         Love sucks.
+00:02:20,173|00:02:23,109|CC1|POP|                        (laughs)
+00:02:23,176|00:02:26,212|CC1|POP|      PILOT (over P.A.):
+00:02:23,176|00:02:26,212|CC1|POP| <i>Welcome to Los Angeles, folks.</i>
+00:02:26,279|00:02:28,047|CC1|POP|              &l &l
+00:02:34,687|00:02:36,022|CC1|POP|          This is it.
+00:02:36,089|00:02:37,824|CC1|POP|      The end of summer.
+00:02:37,891|00:02:40,660|CC1|POP|Oh, don't look at it
+00:02:37,891|00:02:40,660|CC1|POP|like the end of summer.
+00:02:40,960|00:02:42,629|CC1|POP|         Look at it as at it as
+00:02:42,695|00:02:44,697|CC1|POP|   the beginning of the rest
+00:02:42,695|00:02:44,697|CC1|POP|         of our lives.
+00:02:44,764|00:02:46,466|CC1|POP|Say hello to college, bitches.
+00:02:46,533|00:02:47,700|CC1|POP|            I'll cheers to that.
+00:02:46,533|00:02:47,700|CC1|POP|Yeah!
+00:02:47,767|00:02:49,435|CC1|POP|           Cheers.
+00:02:47,767|00:02:49,435|CC1|POP|                           Woo!
+00:02:47,767|00:02:49,435|CC1|POP|Cheers to that.
+00:02:49,502|00:02:51,204|CC1|POP|            ANNIE:
+00:02:49,502|00:02:51,204|CC1|POP|    Okay, pause: question.
+00:02:51,271|00:02:53,640|CC1|POP|  What exactly is suikawari?
+00:02:53,706|00:02:55,742|CC1|POP|It's end-of-summer
+00:02:53,706|00:02:55,742|CC1|POP|watermelon bashing.
+00:02:55,808|00:02:57,944|CC1|POP|      It's big in Japan.
+00:02:58,011|00:02:59,946|CC1|POP|  Perfect. I've been working
+00:02:58,011|00:02:59,946|CC1|POP| on my serve all summer long.
+00:03:00,013|00:03:01,581|CC1|POP|            DIXON:
+00:03:00,013|00:03:01,581|CC1|POP|        Check out Ivy.
+00:03:01,648|00:03:04,184|CC1|POP|I don't think it's
+00:03:01,648|00:03:04,184|CC1|POP|that easy. Look.
+00:03:04,250|00:03:05,185|CC1|POP|         Come on, Ivy!
+00:03:05,251|00:03:06,619|CC1|POP|           Go, Ivy!
+00:03:06,686|00:03:07,620|CC1|POP|   Yeah!
+00:03:06,686|00:03:07,620|CC1|POP|           (cheering)
+00:03:07,687|00:03:09,822|CC1|POP|             Whoa!
+00:03:07,687|00:03:09,822|CC1|POP|My God!
+00:03:09,889|00:03:10,890|CC1|POP|(laughs)
+00:03:10,957|00:03:12,659|CC1|POP|            Raining watermelon.
+00:03:12,725|00:03:14,794|CC1|POP|Refreshing.
+00:03:14,861|00:03:16,429|CC1|POP|          Refreshing?
+00:03:14,861|00:03:16,429|CC1|POP|         No, darling.
+00:03:16,496|00:03:17,931|CC1|POP|Refreshing is
+00:03:16,496|00:03:17,931|CC1|POP|that right there.
+00:03:19,599|00:03:21,134|CC1|POP|         Shawn Berry.
+00:03:21,201|00:03:23,369|CC1|POP|       Captain of the CU
+00:03:21,201|00:03:23,369|CC1|POP|        football team.
+00:03:23,436|00:03:24,571|CC1|POP|Also known as
+00:03:24,637|00:03:26,806|CC1|POP|  the future Mr. Naomi Clark.
+00:03:26,873|00:03:28,641|CC1|POP|          (laughing)
+00:03:28,708|00:03:30,310|CC1|POP|     I'm going to go play.
+00:03:30,376|00:03:31,311|CC1|POP|     I want to play, too!
+00:03:34,547|00:03:36,316|CC1|POP|              &l &l
+00:03:44,090|00:03:45,925|CC1|POP|            SHAWN:
+00:03:44,090|00:03:45,925|CC1|POP|You guys see any football games
+00:03:44,090|00:03:45,925|CC1|POP|          last year?
+00:03:45,992|00:03:47,827|CC1|POP|Starting quarterback
+00:03:45,992|00:03:47,827|CC1|POP|this year.
+00:03:47,894|00:03:49,028|CC1|POP|          It's going to be fun.
+00:03:49,095|00:03:50,663|CC1|POP|(clears throat)
+00:03:50,730|00:03:52,732|CC1|POP|          Got a towel
+00:03:50,730|00:03:52,732|CC1|POP|    for a fellow classmate?
+00:03:52,799|00:03:54,000|CC1|POP|                  You go to CU?
+00:03:54,067|00:03:55,568|CC1|POP|Incoming freshman.
+00:03:54,067|00:03:55,568|CC1|POP|Naomi Clark.
+00:03:55,635|00:03:57,637|CC1|POP|     Good luck at CU, freshman.
+00:04:00,440|00:04:01,741|CC1|POP|            DIXON:
+00:04:00,440|00:04:01,741|CC1|POP|          <i>Yo, DJ 526?</i>
+00:04:01,808|00:04:04,844|CC1|POP|    He could make any sound
+00:04:01,808|00:04:04,844|CC1|POP|         a great mix.
+00:04:04,911|00:04:07,146|CC1|POP|Like Silver drinking
+00:04:04,911|00:04:07,146|CC1|POP|that drink right there?
+00:04:07,213|00:04:08,881|CC1|POP|He can make that
+00:04:07,213|00:04:08,881|CC1|POP|into a hit.
+00:04:08,948|00:04:11,551|CC1|POP|                            Wow.
+00:04:08,948|00:04:11,551|CC1|POP|Seriously.
+00:04:11,618|00:04:13,620|CC1|POP|     You guys have no idea
+00:04:11,618|00:04:13,620|CC1|POP|       how crazy it was
+00:04:13,686|00:04:15,555|CC1|POP|to tour with DJ 526 this summer.
+00:04:15,622|00:04:17,557|CC1|POP|        Well, sounds like being
+00:04:15,622|00:04:17,557|CC1|POP|              on a hip-hop tour
+00:04:17,624|00:04:18,958|CC1|POP|               was way more fun
+00:04:17,624|00:04:18,958|CC1|POP|                than my summer.
+00:04:19,025|00:04:20,360|CC1|POP|Still no word from Liam?
+00:04:20,460|00:04:21,794|CC1|POP|             Nope.
+00:04:21,861|00:04:24,364|CC1|POP|   I could've gone to Paris
+00:04:21,861|00:04:24,364|CC1|POP|     with my mom and Ryan,
+00:04:24,430|00:04:27,066|CC1|POP|     or gone to Ibiza with
+00:04:24,430|00:04:27,066|CC1|POP|    Naomi on her "Max who?"
+00:04:27,133|00:04:28,134|CC1|POP|            post-breakup binge,
+00:04:28,201|00:04:30,903|CC1|POP|but, no, I decided to stay here
+00:04:30,970|00:04:34,607|CC1|POP| and wait for Liam to sail back
+00:04:30,970|00:04:34,607|CC1|POP|    on his stupid fishing boat.
+00:04:34,674|00:04:35,942|CC1|POP|   The S.S. <i>I Found Myself.</i>
+00:04:36,009|00:04:38,011|CC1|POP|             But you know what?
+00:04:36,009|00:04:38,011|CC1|POP|             I'm done. I'm done.
+00:04:38,077|00:04:39,879|CC1|POP|        Tonight I start driving
+00:04:38,077|00:04:39,879|CC1|POP|            to Carnegie Mellon,
+00:04:39,946|00:04:42,015|CC1|POP|               and fresh start,
+00:04:39,946|00:04:42,015|CC1|POP|                   here I come.
+00:04:43,483|00:04:44,384|CC1|POP|            Oh, no.
+00:04:51,324|00:04:53,092|CC1|POP|            SILVER:
+00:04:51,324|00:04:53,092|CC1|POP|       To fresh starts.
+00:04:53,159|00:04:54,460|CC1|POP|Fresh starts.
+00:04:53,159|00:04:54,460|CC1|POP|                   Fresh starts.
+00:04:54,527|00:04:56,329|CC1|POP|                    That guy...
+00:04:56,396|00:04:58,031|CC1|POP|                he just gave me
+00:04:56,396|00:04:58,031|CC1|POP|                       a towel.
+00:04:58,097|00:05:00,066|CC1|POP|I hope there's more
+00:04:58,097|00:05:00,066|CC1|POP|to that story.
+00:05:00,133|00:05:02,535|CC1|POP| Not his name, not his number,
+00:05:00,133|00:05:02,535|CC1|POP|    not anything important.
+00:05:02,602|00:05:04,170|CC1|POP|                  Just a towel.
+00:05:04,237|00:05:06,673|CC1|POP|            I am a nobody at CU.
+00:05:04,237|00:05:06,673|CC1|POP|Uh, you haven't started yet.
+00:05:06,739|00:05:09,208|CC1|POP| Well, I certainly don't plan on
+00:05:06,739|00:05:09,208|CC1|POP| starting at the bottom, Dixon.
+00:05:11,010|00:05:13,112|CC1|POP|       Screw the dorms.
+00:05:11,010|00:05:13,112|CC1|POP|     I have to move fast.
+00:05:13,179|00:05:15,381|CC1|POP|           Step one,
+00:05:13,179|00:05:15,381|CC1|POP| buy the perfect party house.
+00:05:15,448|00:05:17,317|CC1|POP|          Step two...
+00:05:17,383|00:05:19,752|CC1|POP|                  Ah. Throw the
+00:05:17,383|00:05:19,752|CC1|POP|                 perfect party?
+00:05:19,819|00:05:22,121|CC1|POP|          Huh. Yeah.
+00:05:19,819|00:05:22,121|CC1|POP|      See? Annie gets it.
+00:05:22,188|00:05:24,057|CC1|POP|Yo, we're up
+00:05:22,188|00:05:24,057|CC1|POP|for some house shopping.
+00:05:24,123|00:05:25,325|CC1|POP|I mean, Raj and I
+00:05:25,391|00:05:27,460|CC1|POP|       are looking for a place,
+00:05:25,391|00:05:27,460|CC1|POP|               so if anybody...
+00:05:27,527|00:05:29,462|CC1|POP|Yeah, 'cause it kind of defeats
+00:05:27,527|00:05:29,462|CC1|POP|the purpose of getting married
+00:05:29,529|00:05:31,197|CC1|POP| to move in with your parents.
+00:05:31,264|00:05:33,633|CC1|POP| I feel you, man. That's why I'm
+00:05:31,264|00:05:33,633|CC1|POP| shacking up with the old lady.
+00:05:33,700|00:05:34,534|CC1|POP|             Yeah!
+00:05:33,700|00:05:34,534|CC1|POP|                         SILVER:
+00:05:33,700|00:05:34,534|CC1|POP|                       Old lady?
+00:05:34,600|00:05:36,135|CC1|POP|What?
+00:05:36,202|00:05:38,104|CC1|POP|     Well, that and my mom
+00:05:36,202|00:05:38,104|CC1|POP|        sold the house,
+00:05:38,171|00:05:39,339|CC1|POP|Yeah.
+00:05:38,171|00:05:39,339|CC1|POP|  and moved to Switzerland.
+00:05:39,405|00:05:41,140|CC1|POP|               Hey, speaking of
+00:05:39,405|00:05:41,140|CC1|POP|                 moving, Dixon,
+00:05:41,207|00:05:42,942|CC1|POP|               I got to stop by
+00:05:41,207|00:05:42,942|CC1|POP|             my lawyer's office
+00:05:43,009|00:05:45,611|CC1|POP|       to sign some inheritance
+00:05:43,009|00:05:45,611|CC1|POP|   stuff before I hit the road.
+00:05:45,678|00:05:47,113|CC1|POP|    I thought your new roommate
+00:05:45,678|00:05:47,113|CC1|POP|        was meeting us out here
+00:05:47,180|00:05:49,782|CC1|POP|              so he could drive
+00:05:47,180|00:05:49,782|CC1|POP|              you to the dorms.
+00:05:49,849|00:05:52,051|CC1|POP|   Yeah. His name is Taylor.
+00:05:49,849|00:05:52,051|CC1|POP|         He said he's
+00:05:52,118|00:05:53,519|CC1|POP|going to meet me
+00:05:52,118|00:05:53,519|CC1|POP|by the equipment booth.
+00:05:53,586|00:05:56,089|CC1|POP|      One second, y'all.
+00:05:56,155|00:05:58,458|CC1|POP|     (phone line ringing)
+00:05:58,524|00:06:01,194|CC1|POP|       GIRL (on phone):
+00:05:58,524|00:06:01,194|CC1|POP|            Hello?
+00:06:01,260|00:06:03,863|CC1|POP|       Uh... hey, um...
+00:06:03,930|00:06:05,298|CC1|POP|  I'm-I'm looking for Taylor.
+00:06:05,365|00:06:06,599|CC1|POP|         You got her.
+00:06:06,666|00:06:08,167|CC1|POP|       Her?
+00:06:10,770|00:06:13,072|CC1|POP|      Wait. You can't be
+00:06:13,139|00:06:14,207|CC1|POP|               my new roommate.
+00:06:14,273|00:06:15,208|CC1|POP|         You're a guy.
+00:06:15,274|00:06:16,909|CC1|POP|Yeah. Yeah, um...
+00:06:16,976|00:06:18,411|CC1|POP|There must be some
+00:06:16,976|00:06:18,411|CC1|POP|kind of mistake.
+00:06:18,511|00:06:19,712|CC1|POP|       Nice try, weirdo.
+00:06:19,779|00:06:21,614|CC1|POP|No, wait...
+00:06:23,783|00:06:25,418|CC1|POP|                    Okay. Okay,
+00:06:23,783|00:06:25,418|CC1|POP|             there's a problem.
+00:06:25,485|00:06:27,987|CC1|POP|Um, I really don't understand.
+00:06:28,054|00:06:29,922|CC1|POP|   I filled out the housing
+00:06:28,054|00:06:29,922|CC1|POP|      application myself.
+00:06:29,989|00:06:31,824|CC1|POP|            Actually, uh, dude,
+00:06:29,989|00:06:31,824|CC1|POP|               I was mad at you
+00:06:31,891|00:06:34,026|CC1|POP|       for the whole Snoop Dogg
+00:06:31,891|00:06:34,026|CC1|POP|              thing, and-and...
+00:06:34,093|00:06:36,362|CC1|POP|       the form was just laying
+00:06:34,093|00:06:36,362|CC1|POP|            right there, and...
+00:06:36,429|00:06:39,031|CC1|POP|       I may have accidentally,
+00:06:36,429|00:06:39,031|CC1|POP|       uh, sought retribution by
+00:06:39,098|00:06:40,333|CC1|POP|           changing your gender
+00:06:40,400|00:06:41,234|CC1|POP|to female.
+00:06:40,400|00:06:41,234|CC1|POP|                 (laughing)
+00:06:41,300|00:06:43,102|CC1|POP|I can't live in a girls' dorm!
+00:06:44,203|00:06:46,305|CC1|POP|        (phone ringing)
+00:06:46,372|00:06:47,273|CC1|POP|DIXON:
+00:06:46,372|00:06:47,273|CC1|POP|I'm so screwed.
+00:06:49,308|00:06:51,077|CC1|POP|         I'll pack up.
+00:06:51,144|00:06:52,712|CC1|POP|          Oh, hey, Aunt Nadira.
+00:06:52,779|00:06:54,347|CC1|POP|              Yeah, of course I
+00:06:52,779|00:06:54,347|CC1|POP|           know where Leila is.
+00:06:54,414|00:06:56,849|CC1|POP|                Her, uh, flight
+00:06:54,414|00:06:56,849|CC1|POP|             left this morning.
+00:06:56,916|00:06:59,285|CC1|POP|     No, what do you mean,
+00:06:56,916|00:06:59,285|CC1|POP| she didn't get on the plane?
+00:07:01,587|00:07:03,923|CC1|POP|      We called your mother and
+00:07:01,587|00:07:03,923|CC1|POP|  told her your sister is safe.
+00:07:03,990|00:07:05,024|CC1|POP|Thanks, Uncle Amal.
+00:07:06,392|00:07:08,561|CC1|POP|Hey, you're supposed
+00:07:06,392|00:07:08,561|CC1|POP|to be in Switzerland.
+00:07:08,628|00:07:10,096|CC1|POP|What happened?
+00:07:08,628|00:07:10,096|CC1|POP|            I want to stay here.
+00:07:10,196|00:07:11,197|CC1|POP|Leila...
+00:07:15,301|00:07:16,869|CC1|POP|            It's my senior year
+00:07:15,301|00:07:16,869|CC1|POP|                in high school.
+00:07:16,936|00:07:20,139|CC1|POP|     I told Mom a million times
+00:07:16,936|00:07:20,139|CC1|POP|   how important that is to me.
+00:07:20,206|00:07:22,175|CC1|POP|         She said that we can't
+00:07:22,241|00:07:24,710|CC1|POP|          impose on Aunt Nadira
+00:07:22,241|00:07:24,710|CC1|POP|            and Uncle Amal, but
+00:07:24,777|00:07:26,245|CC1|POP|   maybe she'll let me stay
+00:07:24,777|00:07:26,245|CC1|POP|           with you.
+00:07:26,312|00:07:29,649|CC1|POP|Uh... it's-it's not
+00:07:26,312|00:07:29,649|CC1|POP|that simple, okay?
+00:07:29,715|00:07:31,150|CC1|POP|Silver's place is small, and...
+00:07:31,217|00:07:33,319|CC1|POP|we had plans.
+00:07:31,217|00:07:33,319|CC1|POP|                 Plans for what?
+00:07:33,386|00:07:34,854|CC1|POP|            Plans.
+00:07:34,921|00:07:36,622|CC1|POP|That don't include a roommate.
+00:07:36,689|00:07:38,157|CC1|POP|        Please, Navid.
+00:07:38,224|00:07:40,960|CC1|POP|   Dad's the one in trouble,
+00:07:38,224|00:07:40,960|CC1|POP|    but I'm being punished.
+00:07:41,027|00:07:43,029|CC1|POP|    I just want to graduate
+00:07:41,027|00:07:43,029|CC1|POP|  with my friends, like you.
+00:07:46,165|00:07:47,767|CC1|POP|            (sighs)
+00:07:52,271|00:07:53,639|CC1|POP|Oh, my God, Dixon,
+00:07:52,271|00:07:53,639|CC1|POP|I can't believe it.
+00:07:53,706|00:07:54,907|CC1|POP|My lawyers said
+00:07:54,974|00:07:57,176|CC1|POP|that Marla's family
+00:07:54,974|00:07:57,176|CC1|POP|is contesting the will.
+00:07:57,243|00:07:58,544|CC1|POP|                Annie, listen...
+00:07:57,243|00:07:58,544|CC1|POP|Dixon, please,
+00:07:58,611|00:07:59,645|CC1|POP|do not try and tell me
+00:07:59,712|00:08:01,514|CC1|POP|that everything
+00:07:59,712|00:08:01,514|CC1|POP|is going to be okay.
+00:08:01,581|00:08:03,015|CC1|POP|I have to defer a semester.
+00:08:03,082|00:08:04,417|CC1|POP|I am ready
+00:08:04,484|00:08:06,385|CC1|POP|       to start my life
+00:08:04,484|00:08:06,385|CC1|POP|       and now I can't,
+00:08:06,452|00:08:07,520|CC1|POP|and-and it's not okay.
+00:08:07,587|00:08:09,455|CC1|POP| M-M-Maybe, maybe it is, huh?
+00:08:09,522|00:08:11,057|CC1|POP|        You know, s-some things
+00:08:09,522|00:08:11,057|CC1|POP|           happen for a reason.
+00:08:11,123|00:08:13,292|CC1|POP|What possible reason
+00:08:11,123|00:08:13,292|CC1|POP|could I have to stay here?
+00:08:13,359|00:08:14,393|CC1|POP|        Ah, w-wait, wait, wait.
+00:08:17,029|00:08:18,364|CC1|POP|            (sighs)
+00:08:18,431|00:08:19,465|CC1|POP|           Surprise.
+00:08:21,200|00:08:22,068|CC1|POP|            (sighs)
+00:08:23,503|00:08:26,305|CC1|POP|                 (sighing)
+00:08:26,372|00:08:27,273|CC1|POP|                      (exhales)
+00:08:26,372|00:08:27,273|CC1|POP|                     I'm ready.
+00:08:28,674|00:08:30,409|CC1|POP|                 Let's do this.
+00:08:54,200|00:08:55,868|CC1|POP|Okay, wait.
+00:08:55,935|00:08:58,704|CC1|POP|I haven't heard
+00:08:55,935|00:08:58,704|CC1|POP|from you all summer,
+00:08:58,771|00:09:02,975|CC1|POP|and now you just show up
+00:08:58,771|00:09:02,975|CC1|POP|and-and slap a...
+00:09:03,042|00:09:06,445|CC1|POP|a very, very pretty ring
+00:09:06,512|00:09:08,347|CC1|POP|    on the hood of my car?
+00:09:08,414|00:09:10,082|CC1|POP|                          LIAM:
+00:09:08,414|00:09:10,082|CC1|POP|      I thought you'd be happy.
+00:09:10,149|00:09:11,584|CC1|POP|         You know, when I left,
+00:09:10,149|00:09:11,584|CC1|POP|     I-I told you that I needed
+00:09:11,651|00:09:13,819|CC1|POP|          time to, to think, to
+00:09:11,651|00:09:13,819|CC1|POP|        figure out what I want.
+00:09:15,021|00:09:16,889|CC1|POP|                Well, it's you.
+00:09:18,190|00:09:20,059|CC1|POP|                    Forever.
+00:09:20,126|00:09:22,962|CC1|POP|But you had enough time
+00:09:20,126|00:09:22,962|CC1|POP|to think about forever
+00:09:23,029|00:09:26,032|CC1|POP|and you didn't have time
+00:09:23,029|00:09:26,032|CC1|POP|to make a phone call?
+00:09:26,098|00:09:30,303|CC1|POP|             Okay, um, I know I
+00:09:26,098|00:09:30,303|CC1|POP|             should have called.
+00:09:30,369|00:09:33,573|CC1|POP|    But I'm here now and that's
+00:09:30,369|00:09:33,573|CC1|POP|       all that matters, right?
+00:09:34,740|00:09:37,476|CC1|POP|I-I mean, I love you,
+00:09:37,543|00:09:41,180|CC1|POP|but that's not all
+00:09:37,543|00:09:41,180|CC1|POP|that matters to me.
+00:09:50,189|00:09:52,158|CC1|POP|      I am so, so sorry,
+00:09:52,224|00:09:54,760|CC1|POP|but Leila--
+00:09:52,224|00:09:54,760|CC1|POP|she's a good kid, I swear,
+00:09:54,827|00:09:56,929|CC1|POP|and it's only a temporary thing
+00:09:54,827|00:09:56,929|CC1|POP|while we figure this thing out.
+00:09:56,996|00:09:58,397|CC1|POP|               Navid, I get it.
+00:09:58,464|00:10:00,800|CC1|POP|     My sister-- you know,
+00:09:58,464|00:10:00,800|CC1|POP|     she took me in, too.
+00:10:00,866|00:10:02,068|CC1|POP|    It's going to be fine.
+00:10:02,134|00:10:04,570|CC1|POP|               It's going to be
+00:10:02,134|00:10:04,570|CC1|POP|               crowded but fine.
+00:10:04,637|00:10:05,738|CC1|POP|          (chuckles)
+00:10:05,805|00:10:06,906|CC1|POP|                        (sighs)
+00:10:06,973|00:10:08,908|CC1|POP|                   (door opens)
+00:10:08,975|00:10:10,242|CC1|POP|                 Wait, you guys
+00:10:08,975|00:10:10,242|CC1|POP|              are going to bed?
+00:10:11,344|00:10:13,145|CC1|POP|What are you
+00:10:11,344|00:10:13,145|CC1|POP|almost wearing?
+00:10:13,212|00:10:14,947|CC1|POP|    I thought we'd go out.
+00:10:15,014|00:10:17,350|CC1|POP|             It's midnight, and
+00:10:15,014|00:10:17,350|CC1|POP|      you're practically naked,
+00:10:17,416|00:10:18,918|CC1|POP|so probably best
+00:10:17,416|00:10:18,918|CC1|POP|if we all
+00:10:18,985|00:10:20,653|CC1|POP|            just get some sleep.
+00:10:18,985|00:10:20,653|CC1|POP|                           Fine.
+00:10:20,720|00:10:22,922|CC1|POP|Don't even think about doing it.
+00:10:25,124|00:10:26,058|CC1|POP|                  (door closes)
+00:10:26,158|00:10:28,661|CC1|POP|          (both sigh)
+00:10:28,728|00:10:31,163|CC1|POP|I am so, so sorry.
+00:10:32,398|00:10:34,500|CC1|POP|            NAOMI:
+00:10:32,398|00:10:34,500|CC1|POP|         <i>Unbelievable.</i>
+00:10:34,567|00:10:36,302|CC1|POP|  <i>15 houses and they all suck.</i>
+00:10:36,369|00:10:37,837|CC1|POP|           How am I supposed to
+00:10:36,369|00:10:37,837|CC1|POP|         make a name for myself
+00:10:37,903|00:10:39,038|CC1|POP|                 without a jaw-
+00:10:37,903|00:10:39,038|CC1|POP|             dropping entryway?
+00:10:39,105|00:10:40,006|CC1|POP|                   I mean, it's
+00:10:39,105|00:10:40,006|CC1|POP|                      barbaric.
+00:10:40,072|00:10:41,540|CC1|POP|No, you know
+00:10:40,072|00:10:41,540|CC1|POP|what barbaric is?
+00:10:41,607|00:10:44,010|CC1|POP|Liam dropping a ring
+00:10:41,607|00:10:44,010|CC1|POP|on the hood of my car.
+00:10:44,076|00:10:45,878|CC1|POP|       Actually, I think
+00:10:44,076|00:10:45,878|CC1|POP|  that sounds kind of badass.
+00:10:45,945|00:10:47,947|CC1|POP|Besides, isn't Liam coming back
+00:10:45,945|00:10:47,947|CC1|POP|   exactly what you wanted?
+00:10:48,014|00:10:49,382|CC1|POP|          Do not be naive, Ivy.
+00:10:49,448|00:10:51,717|CC1|POP|              No one finds true
+00:10:49,448|00:10:51,717|CC1|POP|           love in high school.
+00:10:51,784|00:10:54,053|CC1|POP|       Thank you for not making
+00:10:51,784|00:10:54,053|CC1|POP|       that toast at my wedding.
+00:10:54,120|00:10:55,521|CC1|POP|(laughs)
+00:10:55,588|00:10:57,123|CC1|POP|Yeah, you can't expect
+00:10:55,588|00:10:57,123|CC1|POP|Annie to get over Liam
+00:10:57,189|00:10:58,724|CC1|POP|like you got over Max.
+00:10:58,791|00:10:59,692|CC1|POP|      Can we stop talking
+00:10:58,791|00:10:59,692|CC1|POP|       about high school
+00:10:59,759|00:11:00,760|CC1|POP|  and high school boyfriends?
+00:11:00,826|00:11:03,729|CC1|POP|We are college girls.
+00:11:03,796|00:11:05,231|CC1|POP|                 When I find my
+00:11:03,796|00:11:05,231|CC1|POP|               perfect mansion,
+00:11:05,297|00:11:07,066|CC1|POP|                 I'm throwing a
+00:11:05,297|00:11:07,066|CC1|POP|         perfect mansion party.
+00:11:07,133|00:11:09,235|CC1|POP|             I am going to have
+00:11:07,133|00:11:09,235|CC1|POP|           a big, huge bonfire,
+00:11:09,301|00:11:11,103|CC1|POP|           and all us are gonna
+00:11:09,301|00:11:11,103|CC1|POP|           throw something in it
+00:11:11,170|00:11:14,140|CC1|POP|   that we want to burn because
+00:11:11,170|00:11:14,140|CC1|POP|      we wish it never existed.
+00:11:14,206|00:11:16,075|CC1|POP|Too bad Adrianna's
+00:11:14,206|00:11:16,075|CC1|POP|still in Africa.
+00:11:16,142|00:11:16,976|CC1|POP|Whoa.
+00:11:16,142|00:11:16,976|CC1|POP|             What?
+00:11:17,043|00:11:18,811|CC1|POP|Silver, Silver.
+00:11:18,878|00:11:19,812|CC1|POP|          (laughter)
+00:11:19,879|00:11:22,214|CC1|POP|          All right, here goes.
+00:11:22,281|00:11:24,083|CC1|POP|               If this house is
+00:11:22,281|00:11:24,083|CC1|POP|           lame, I swear to God
+00:11:24,150|00:11:25,918|CC1|POP|I'm firing my real estate agent.
+00:11:25,985|00:11:26,952|CC1|POP|    Uh...
+00:11:27,019|00:11:28,587|CC1|POP|     definitely not lame.
+00:11:28,654|00:11:29,555|CC1|POP|            (gasps)
+00:11:33,592|00:11:35,528|CC1|POP|            (gasps)
+00:11:35,594|00:11:37,930|CC1|POP|              So many bedrooms.
+00:11:37,997|00:11:39,632|CC1|POP|                    Can Navid's
+00:11:37,997|00:11:39,632|CC1|POP|              sister live here?
+00:11:39,699|00:11:41,467|CC1|POP|   Uh, hi, can I live here?
+00:11:41,534|00:11:42,501|CC1|POP|Of course
+00:11:41,534|00:11:42,501|CC1|POP|you can live here.
+00:11:42,568|00:11:43,769|CC1|POP|Ivy and Raj
+00:11:42,568|00:11:43,769|CC1|POP|are living here.
+00:11:43,836|00:11:46,238|CC1|POP|       I'm living here.
+00:11:46,305|00:11:47,540|CC1|POP|There's a dipping pool.
+00:11:47,606|00:11:49,542|CC1|POP|Do you know how much
+00:11:47,606|00:11:49,542|CC1|POP|I love to dip?
+00:11:49,608|00:11:51,477|CC1|POP|    Oh, my God, this is it,
+00:11:49,608|00:11:51,477|CC1|POP|      this is the place.
+00:11:51,544|00:11:52,511|CC1|POP|        (all screaming)
+00:11:52,578|00:11:54,947|CC1|POP|           (snorts)
+00:11:55,014|00:11:57,083|CC1|POP|          (screaming)
+00:11:57,149|00:11:58,718|CC1|POP|                      Hey, stop
+00:11:57,149|00:11:58,718|CC1|POP|                scaring my pig.
+00:11:58,784|00:12:01,020|CC1|POP|Why did a pig just
+00:11:58,784|00:12:01,020|CC1|POP|run through my house?
+00:12:01,087|00:12:02,354|CC1|POP|     Well, it's his house
+00:12:02,421|00:12:03,622|CC1|POP| until I finish with repairs,
+00:12:03,689|00:12:04,623|CC1|POP|         then it'll be
+00:12:03,689|00:12:04,623|CC1|POP|    the new owner's house.
+00:12:04,690|00:12:06,058|CC1|POP|(stammers)
+00:12:04,690|00:12:06,058|CC1|POP|                 Not yours.
+00:12:06,125|00:12:07,927|CC1|POP|But my real estate agent said
+00:12:06,125|00:12:07,927|CC1|POP|that this house is for sale.
+00:12:07,993|00:12:09,528|CC1|POP|      I'm sorry, it's too late,
+00:12:07,993|00:12:09,528|CC1|POP|          an offer's been made.
+00:12:09,595|00:12:11,263|CC1|POP|SILVER: I think what he's trying
+00:12:09,595|00:12:11,263|CC1|POP|to say is that
+00:12:11,330|00:12:12,465|CC1|POP| the, uh, the house
+00:12:11,330|00:12:12,465|CC1|POP| has been sold.
+00:12:12,531|00:12:13,432|CC1|POP| Sorry we scared
+00:12:12,531|00:12:13,432|CC1|POP| your pig.
+00:12:13,499|00:12:14,233|CC1|POP|Let's go, Naomi.
+00:12:13,499|00:12:14,233|CC1|POP|                      Take care.
+00:12:15,067|00:12:16,035|CC1|POP|       No, number one...
+00:12:16,102|00:12:17,803|CC1|POP|                        Yes.
+00:12:16,102|00:12:17,803|CC1|POP|(clicks tongue)
+00:12:17,870|00:12:20,206|CC1|POP|                     (chuckles)
+00:12:20,272|00:12:23,109|CC1|POP|  ...I am buying this house,
+00:12:20,272|00:12:23,109|CC1|POP|        and number two,
+00:12:23,175|00:12:25,111|CC1|POP|farm animals
+00:12:23,175|00:12:25,111|CC1|POP|do not belong indoors,
+00:12:25,177|00:12:26,979|CC1|POP|contrary to what
+00:12:25,177|00:12:26,979|CC1|POP|you might have seen
+00:12:27,046|00:12:28,681|CC1|POP|on reruns
+00:12:27,046|00:12:28,681|CC1|POP|of <i>The Beverly Hillbillies,</i>
+00:12:28,748|00:12:30,282|CC1|POP|and number three,
+00:12:28,748|00:12:30,282|CC1|POP|I'm most certain
+00:12:30,349|00:12:32,551|CC1|POP|that your employer would be
+00:12:32,618|00:12:34,553|CC1|POP|very angry if he knew
+00:12:32,618|00:12:34,553|CC1|POP|his handyman
+00:12:34,620|00:12:36,989|CC1|POP|was chasing away
+00:12:34,620|00:12:36,989|CC1|POP|significant counteroffers.
+00:12:37,056|00:12:39,325|CC1|POP|        Wow, girls like you are
+00:12:37,056|00:12:39,325|CC1|POP|       exactly why I'm so happy
+00:12:39,391|00:12:40,693|CC1|POP|             to be leaving L.A.
+00:12:40,760|00:12:42,595|CC1|POP|Girls whose parents didn't
+00:12:40,760|00:12:42,595|CC1|POP|meet at the family reunion?
+00:12:42,661|00:12:44,263|CC1|POP|         Spoiled brats who think
+00:12:42,661|00:12:44,263|CC1|POP|         money buys everything.
+00:12:44,330|00:12:45,598|CC1|POP|It does.
+00:12:44,330|00:12:45,598|CC1|POP|                       Oh, yeah?
+00:12:45,664|00:12:47,666|CC1|POP|Which is why I'd hate
+00:12:45,664|00:12:47,666|CC1|POP|to have to get you fired.
+00:12:47,733|00:12:49,568|CC1|POP|I mean, how else
+00:12:47,733|00:12:49,568|CC1|POP|will you be able to afford
+00:12:49,635|00:12:51,604|CC1|POP|your Yosemite Sam costume
+00:12:49,635|00:12:51,604|CC1|POP|to go with that hat?
+00:12:53,906|00:12:57,143|CC1|POP|             You know... that's
+00:12:53,906|00:12:57,143|CC1|POP|                  a good point.
+00:12:57,209|00:12:59,678|CC1|POP|     I, you know, wouldn't want
+00:12:57,209|00:12:59,678|CC1|POP|   to lose my job now, would I?
+00:12:59,745|00:13:01,113|CC1|POP|       So I'll tell you
+00:12:59,745|00:13:01,113|CC1|POP|      what I'm gonna do.
+00:13:01,180|00:13:02,548|CC1|POP|   I'm gonna call the owners
+00:13:02,615|00:13:04,016|CC1|POP|     and see if they can't
+00:13:02,615|00:13:04,016|CC1|POP|       make you a deal.
+00:13:04,083|00:13:05,451|CC1|POP|       How's that sound?
+00:13:05,518|00:13:06,352|CC1|POP|Thank you.
+00:13:05,518|00:13:06,352|CC1|POP|                   Yeah.
+00:13:06,418|00:13:08,454|CC1|POP|                    No problem.
+00:13:08,521|00:13:10,256|CC1|POP|What?
+00:13:08,521|00:13:10,256|CC1|POP|               Hey, it's Austin.
+00:13:10,322|00:13:12,525|CC1|POP|               Yeah, I'm at the
+00:13:10,322|00:13:12,525|CC1|POP|          house and a potential
+00:13:10,322|00:13:12,525|CC1|POP|          buyer just walked in,
+00:13:12,591|00:13:17,029|CC1|POP|     and from the looks of her,
+00:13:12,591|00:13:17,029|CC1|POP| she's, uh, she's loaded. Yeah.
+00:13:17,096|00:13:19,965|CC1|POP| Yeah, so what do you say to an
+00:13:17,096|00:13:19,965|CC1|POP|  extra half a million dollars?
+00:13:20,032|00:13:20,866|CC1|POP|             What?
+00:13:20,933|00:13:22,701|CC1|POP|           Bye, Dad.
+00:13:22,768|00:13:26,172|CC1|POP|  Hey, congratulations, he said
+00:13:22,768|00:13:26,172|CC1|POP|       you got yourself a deal.
+00:13:26,238|00:13:27,973|CC1|POP|So you're not...?
+00:13:28,040|00:13:30,042|CC1|POP|         The help? No.
+00:13:30,109|00:13:34,046|CC1|POP|And my parents weren't related
+00:13:30,109|00:13:34,046|CC1|POP| until after they got married.
+00:13:34,113|00:13:35,414|CC1|POP|              Ooh.
+00:13:34,113|00:13:35,414|CC1|POP|Yeah.
+00:13:35,481|00:13:36,949|CC1|POP|It was a pleasure doing business
+00:13:35,481|00:13:36,949|CC1|POP|       with you, ladies.
+00:13:37,016|00:13:39,218|CC1|POP|          All right.
+00:13:45,324|00:13:47,393|CC1|POP|You fellas look a little young.
+00:13:47,459|00:13:49,028|CC1|POP|How much will this get us?
+00:13:49,094|00:13:52,965|CC1|POP|Whoa, that'll get you the whole
+00:13:49,094|00:13:52,965|CC1|POP|damn bar if you keep it coming.
+00:13:53,032|00:13:54,466|CC1|POP|                     All right.
+00:13:54,533|00:13:56,135|CC1|POP|  King's ready to step down.
+00:13:56,202|00:13:57,303|CC1|POP|                          NAVID:
+00:13:56,202|00:13:57,303|CC1|POP|                       Oh, nice.
+00:13:56,202|00:13:57,303|CC1|POP|                           Yeah.
+00:13:57,369|00:13:59,371|CC1|POP|     Wife wants to retire
+00:13:57,369|00:13:59,371|CC1|POP|         to the beach.
+00:14:00,806|00:14:01,874|CC1|POP|                           Huh?
+00:14:01,941|00:14:03,409|CC1|POP|        Hey, to women.
+00:14:03,475|00:14:05,511|CC1|POP|Apparently you got to be
+00:14:03,475|00:14:05,511|CC1|POP|drunk to understand 'em.
+00:14:05,578|00:14:06,979|CC1|POP|         That's right.
+00:14:11,083|00:14:12,184|CC1|POP|                     Dude, aah!
+00:14:12,251|00:14:13,452|CC1|POP|Dude, hey!
+00:14:13,519|00:14:15,254|CC1|POP|            Yeah, that's right,
+00:14:13,519|00:14:15,254|CC1|POP|                 I flicked you.
+00:14:16,488|00:14:18,624|CC1|POP|                    Because you
+00:14:16,488|00:14:18,624|CC1|POP|            flicked me up, man.
+00:14:18,691|00:14:20,025|CC1|POP|           There's no more room
+00:14:18,691|00:14:20,025|CC1|POP|            in the men's dorms.
+00:14:20,926|00:14:22,061|CC1|POP|                  I'm homeless.
+00:14:22,127|00:14:23,495|CC1|POP|                 I'm a homeless
+00:14:22,127|00:14:23,495|CC1|POP|                     black man.
+00:14:23,562|00:14:26,665|CC1|POP|Here, hey, hey, I found this
+00:14:23,562|00:14:26,665|CC1|POP|for you at off-campus housing.
+00:14:26,732|00:14:28,067|CC1|POP|   Two-bedroom beach house.
+00:14:29,068|00:14:30,102|CC1|POP|             I would kill for a
+00:14:29,068|00:14:30,102|CC1|POP|         two-bedroom right now,
+00:14:30,169|00:14:33,072|CC1|POP|okay, but no,
+00:14:30,169|00:14:33,072|CC1|POP|I am giving it to you.
+00:14:33,172|00:14:34,306|CC1|POP|              It's not going to
+00:14:33,172|00:14:34,306|CC1|POP|              feel like college
+00:14:34,373|00:14:35,574|CC1|POP|  if I don't live in a dorm.
+00:14:35,641|00:14:38,377|CC1|POP|Oh, my God, what is up
+00:14:35,641|00:14:38,377|CC1|POP|with you and your sister?
+00:14:38,444|00:14:40,012|CC1|POP|You get handed
+00:14:38,444|00:14:40,012|CC1|POP|exactly what you want
+00:14:40,079|00:14:41,213|CC1|POP|and you're
+00:14:40,079|00:14:41,213|CC1|POP|still not happy.
+00:14:40,079|00:14:41,213|CC1|POP|                You think that's
+00:14:41,280|00:14:44,049|CC1|POP|             what Annie wanted,
+00:14:41,280|00:14:44,049|CC1|POP|             Mr. Let's Do This?
+00:14:44,116|00:14:45,584|CC1|POP|Right.
+00:14:44,116|00:14:45,584|CC1|POP|      It was kind of lame,
+00:14:45,651|00:14:47,453|CC1|POP|you just showing up
+00:14:45,651|00:14:47,453|CC1|POP|out of nowhere and proposing?
+00:14:47,519|00:14:48,754|CC1|POP|You didn't even call her
+00:14:47,519|00:14:48,754|CC1|POP|all summer.
+00:14:48,821|00:14:49,922|CC1|POP|I didn't want
+00:14:48,821|00:14:49,922|CC1|POP|to call her
+00:14:49,989|00:14:51,790|CC1|POP|until I knew
+00:14:49,989|00:14:51,790|CC1|POP|what I wanted to say.
+00:14:53,559|00:14:55,527|CC1|POP|What?
+00:14:55,628|00:14:56,762|CC1|POP|  Teddy didn't call his dad.
+00:14:56,829|00:14:58,430|CC1|POP|  You guys aren't giving him
+00:14:56,829|00:14:58,430|CC1|POP|           the look.
+00:14:58,497|00:15:00,466|CC1|POP|     I didn't call my dad
+00:14:58,497|00:15:00,466|CC1|POP| because there are some things
+00:15:00,532|00:15:02,201|CC1|POP|           you can't just blurt
+00:15:00,532|00:15:02,201|CC1|POP|           out, like "I'm gay."
+00:15:02,268|00:15:03,802|CC1|POP|             Yeah.
+00:15:02,268|00:15:03,802|CC1|POP|                  Or "Marry me."
+00:15:03,869|00:15:04,937|CC1|POP|What do you mean, yeah?
+00:15:05,004|00:15:06,071|CC1|POP|Come on,
+00:15:05,004|00:15:06,071|CC1|POP|chicks dig romance.
+00:15:06,138|00:15:07,439|CC1|POP|At least write her a love song.
+00:15:07,506|00:15:09,275|CC1|POP|A love song?
+00:15:07,506|00:15:09,275|CC1|POP|                   I don't know.
+00:15:09,341|00:15:10,743|CC1|POP|     I made a bigger production
+00:15:09,341|00:15:10,743|CC1|POP|            when I asked Silver
+00:15:10,809|00:15:12,177|CC1|POP|             if I could keep my
+00:15:10,809|00:15:12,177|CC1|POP|       toothbrush at her place.
+00:15:12,244|00:15:13,479|CC1|POP|If you're set
+00:15:13,545|00:15:14,947|CC1|POP|               on getting Annie
+00:15:13,545|00:15:14,947|CC1|POP|                  to marry you,
+00:15:15,014|00:15:16,148|CC1|POP|               at least do this
+00:15:15,014|00:15:16,148|CC1|POP|                   thing right.
+00:15:21,520|00:15:24,089|CC1|POP|         (door opens)
+00:15:25,357|00:15:27,293|CC1|POP|                           Hey,
+00:15:27,393|00:15:29,895|CC1|POP|         you're back.
+00:15:29,962|00:15:31,063|CC1|POP|What do you think you're doing?
+00:15:31,130|00:15:32,598|CC1|POP|    Just hanging out, God.
+00:15:32,665|00:15:34,934|CC1|POP|       (toilet flushing)
+00:15:35,000|00:15:36,969|CC1|POP|Is there a boy in here?
+00:15:37,036|00:15:38,470|CC1|POP|           (scoffs)
+00:15:38,537|00:15:40,372|CC1|POP| Okay, you know if Navid were
+00:15:38,537|00:15:40,372|CC1|POP|   to catch you like this...
+00:15:40,439|00:15:42,107|CC1|POP|               All right, party
+00:15:40,439|00:15:42,107|CC1|POP|                  time is over.
+00:15:42,174|00:15:43,409|CC1|POP|               Time to come out
+00:15:43,475|00:15:45,744|CC1|POP|with your clothes on.
+00:15:47,313|00:15:49,715|CC1|POP|              Hi.
+00:15:49,782|00:15:51,550|CC1|POP|You're supposed to be in Africa.
+00:15:51,617|00:15:53,852|CC1|POP|               Leila let me in.
+00:15:53,919|00:15:55,854|CC1|POP|                 I wasn't trying
+00:15:53,919|00:15:55,854|CC1|POP|                 to ambush you.
+00:15:55,921|00:15:58,023|CC1|POP|             I just got back and
+00:15:55,921|00:15:58,023|CC1|POP|           I need to tell you...
+00:15:55,921|00:15:58,023|CC1|POP|          Get out.
+00:16:04,463|00:16:06,332|CC1|POP|Silver, please...
+00:16:04,463|00:16:06,332|CC1|POP|                   Just get out!
+00:16:08,067|00:16:08,934|CC1|POP|     Get out of my place!
+00:16:10,002|00:16:11,337|CC1|POP|       Get the hell out!
+00:16:22,448|00:16:23,382|CC1|POP|               Scrub this place
+00:16:22,448|00:16:23,382|CC1|POP|            from top to bottom.
+00:16:23,449|00:16:26,185|CC1|POP| A pig lived here-- two pigs.
+00:16:26,251|00:16:27,653|CC1|POP|(groans)
+00:16:27,720|00:16:29,321|CC1|POP|I just started
+00:16:27,720|00:16:29,321|CC1|POP|unpacking in my room
+00:16:29,388|00:16:32,191|CC1|POP|and realized it was
+00:16:29,388|00:16:32,191|CC1|POP|the walk-in closet.
+00:16:29,388|00:16:32,191|CC1|POP|            (laughs)
+00:16:32,257|00:16:33,993|CC1|POP|          Thank you so much for
+00:16:32,257|00:16:33,993|CC1|POP|          letting me live here.
+00:16:34,059|00:16:35,461|CC1|POP|        I can't believe you got
+00:16:34,059|00:16:35,461|CC1|POP|            to move in so fast.
+00:16:35,527|00:16:37,596|CC1|POP|Ugh, after what that hick cowboy
+00:16:37,663|00:16:38,597|CC1|POP|made me pay,
+00:16:38,664|00:16:39,665|CC1|POP|I should have been airlifted in.
+00:16:42,801|00:16:44,703|CC1|POP|                  Are you okay?
+00:16:44,770|00:16:46,372|CC1|POP|        Yeah, I'm fine.
+00:16:46,438|00:16:49,908|CC1|POP|        Um, I just have
+00:16:46,438|00:16:49,908|CC1|POP|  to get ready for tonight--
+00:16:49,975|00:16:50,976|CC1|POP|   the party and everything.
+00:16:51,043|00:16:52,511|CC1|POP|It's making me crazy.
+00:16:51,043|00:16:52,511|CC1|POP|                   Oh.
+00:16:52,611|00:16:55,381|CC1|POP|   But I did manage to think
+00:16:52,611|00:16:55,381|CC1|POP|       of what I'm going
+00:16:55,447|00:16:57,049|CC1|POP|to throw on the bonfire.
+00:16:55,447|00:16:57,049|CC1|POP|                           Hmm?
+00:16:57,116|00:16:59,852|CC1|POP| My sophomore yearbook because
+00:16:57,116|00:16:59,852|CC1|POP|  there is a picture in there
+00:16:59,918|00:17:01,420|CC1|POP| where I almost have bad hair.
+00:17:01,487|00:17:02,788|CC1|POP|          (laughing):
+00:17:01,487|00:17:02,788|CC1|POP|            Almost.
+00:17:02,855|00:17:04,523|CC1|POP|             Hello.
+00:17:02,855|00:17:04,523|CC1|POP|                             Hi.
+00:17:04,590|00:17:06,992|CC1|POP|             IVY:
+00:17:04,590|00:17:06,992|CC1|POP|   We are absolutely loving
+00:17:04,590|00:17:06,992|CC1|POP|the guesthouse, most especially
+00:17:07,059|00:17:08,861|CC1|POP|  the pot garden in the back.
+00:17:08,927|00:17:10,496|CC1|POP|Ten plants-- seriously,
+00:17:08,927|00:17:10,496|CC1|POP|dude, nice little touch.
+00:17:10,562|00:17:11,764|CC1|POP|RAJ:
+00:17:10,562|00:17:11,764|CC1|POP|Awesome.
+00:17:11,830|00:17:13,332|CC1|POP|                          ANNIE:
+00:17:11,830|00:17:13,332|CC1|POP|                           What?
+00:17:11,830|00:17:13,332|CC1|POP|Probably the cowboy.
+00:17:13,399|00:17:14,433|CC1|POP|   He reeked of agriculture,
+00:17:14,500|00:17:15,801|CC1|POP|but since I'm
+00:17:15,868|00:17:18,170|CC1|POP|        such a "brat,"
+00:17:15,868|00:17:18,170|CC1|POP|maybe I'll call his mom and dad.
+00:17:19,138|00:17:20,806|CC1|POP|        He made me pay.
+00:17:20,873|00:17:23,175|CC1|POP|        It's his turn.
+00:17:27,846|00:17:29,014|CC1|POP|Thank you.
+00:17:29,081|00:17:30,849|CC1|POP|      Oh.
+00:17:29,081|00:17:30,849|CC1|POP|            I'm sorry.
+00:17:35,087|00:17:36,922|CC1|POP|         Oh.
+00:17:35,087|00:17:36,922|CC1|POP|Sorry.
+00:17:36,989|00:17:39,358|CC1|POP|    Ah, the lost freshman look.
+00:17:39,425|00:17:40,526|CC1|POP|               Very convincing.
+00:17:40,592|00:17:42,795|CC1|POP|Huh, well, that would be
+00:17:40,592|00:17:42,795|CC1|POP|because I am lost,
+00:17:42,861|00:17:44,830|CC1|POP|and I'm supposed to be
+00:17:42,861|00:17:44,830|CC1|POP|a freshman, just not here.
+00:17:44,897|00:17:46,432|CC1|POP|Now I'm closed out
+00:17:44,897|00:17:46,432|CC1|POP|of all the classes
+00:17:46,498|00:17:49,168|CC1|POP|that actually offer
+00:17:46,498|00:17:49,168|CC1|POP|transfer credit.
+00:17:50,836|00:17:53,305|CC1|POP|  And you do not need to hear
+00:17:50,836|00:17:53,305|CC1|POP|  about my whole life story.
+00:17:53,372|00:17:54,573|CC1|POP|                    Not without
+00:17:53,372|00:17:54,573|CC1|POP|             knowing your name.
+00:17:54,640|00:17:55,974|CC1|POP|          (chuckles)
+00:17:54,640|00:17:55,974|CC1|POP|          I'm Annie.
+00:17:56,041|00:17:57,109|CC1|POP|                     I'm Jeremy.
+00:17:56,041|00:17:57,109|CC1|POP|Ah.
+00:17:57,176|00:17:58,610|CC1|POP|                   Look, when I
+00:17:57,176|00:17:58,610|CC1|POP|                was a freshman,
+00:17:58,677|00:18:01,747|CC1|POP|I stood in the wrong line, wound
+00:17:58,677|00:18:01,747|CC1|POP|up joining the jock fraternity
+00:18:01,814|00:18:04,650|CC1|POP|  instead of taking calculus,
+00:18:01,814|00:18:04,650|CC1|POP|      but it worked out.
+00:18:04,716|00:18:06,485|CC1|POP|   (laughs)
+00:18:04,716|00:18:06,485|CC1|POP|              Sometimes when you
+00:18:04,716|00:18:06,485|CC1|POP|        don't get what you want,
+00:18:06,552|00:18:07,920|CC1|POP|        you may come to realize
+00:18:07,986|00:18:09,888|CC1|POP|         that there's something
+00:18:07,986|00:18:09,888|CC1|POP|            else that's better.
+00:18:12,391|00:18:14,026|CC1|POP|      Hmm, you know what?
+00:18:14,093|00:18:15,327|CC1|POP|         You're right.
+00:18:15,394|00:18:17,262|CC1|POP|Thank you.
+00:18:17,329|00:18:18,263|CC1|POP|           And hey,
+00:18:18,330|00:18:19,598|CC1|POP|                            um,
+00:18:19,665|00:18:22,401|CC1|POP|    do you maybe want to go
+00:18:19,665|00:18:22,401|CC1|POP|       to a party later?
+00:18:23,735|00:18:25,237|CC1|POP|            LEILA:
+00:18:23,735|00:18:25,237|CC1|POP|  <i>I didn't know you hated her.</i>
+00:18:25,304|00:18:26,738|CC1|POP|     Did you really think
+00:18:26,805|00:18:28,207|CC1|POP| you were never going to have
+00:18:26,805|00:18:28,207|CC1|POP|    to see Adrianna again?
+00:18:28,273|00:18:29,975|CC1|POP|      Call me a dreamer,
+00:18:28,273|00:18:29,975|CC1|POP|   but I was kind of hoping
+00:18:30,042|00:18:31,276|CC1|POP|  she'd get eaten by a lion.
+00:18:31,343|00:18:33,846|CC1|POP|            That's-that's not a
+00:18:31,343|00:18:33,846|CC1|POP|           very realistic plan.
+00:18:33,912|00:18:35,681|CC1|POP|Yeah, well, neither is
+00:18:33,912|00:18:35,681|CC1|POP|the three of us living here
+00:18:35,747|00:18:37,316|CC1|POP|together, but I went
+00:18:35,747|00:18:37,316|CC1|POP|along with it.
+00:18:38,851|00:18:40,419|CC1|POP|Look, I'm sorry,
+00:18:38,851|00:18:40,419|CC1|POP|all right?
+00:18:40,486|00:18:43,889|CC1|POP|I just-- us living here
+00:18:40,486|00:18:43,889|CC1|POP|and raising a teenager--
+00:18:43,956|00:18:46,158|CC1|POP|this is not what I planned.
+00:18:43,956|00:18:46,158|CC1|POP|         Okay, so you know what?
+00:18:46,225|00:18:48,927|CC1|POP|        We'll just... hey, hey,
+00:18:46,225|00:18:48,927|CC1|POP|           we'll work this out.
+00:18:50,662|00:18:52,464|CC1|POP|                  House rules--
+00:18:52,531|00:18:54,533|CC1|POP|no more drinking,
+00:18:52,531|00:18:54,533|CC1|POP|no uninvited guests,
+00:18:54,600|00:18:56,268|CC1|POP|   and tonight you clean up
+00:18:54,600|00:18:56,268|CC1|POP|        the apartment.
+00:18:56,335|00:18:57,436|CC1|POP|   What about Naomi's party?
+00:18:59,071|00:19:01,306|CC1|POP|     That is so not fair.
+00:19:01,373|00:19:02,908|CC1|POP|           No, Leila.
+00:19:01,373|00:19:02,908|CC1|POP|No.
+00:19:02,975|00:19:05,410|CC1|POP|Do not-- don't go,
+00:19:02,975|00:19:05,410|CC1|POP|don't go in the bathroom.
+00:19:05,477|00:19:07,412|CC1|POP|     Please don't get in there,
+00:19:05,477|00:19:07,412|CC1|POP|           don't slam the door.
+00:19:07,479|00:19:08,447|CC1|POP|                       (groans)
+00:19:08,514|00:19:10,015|CC1|POP|Okay, she's back
+00:19:08,514|00:19:10,015|CC1|POP|in the bathroom,
+00:19:10,082|00:19:12,017|CC1|POP|you know, and I, I still got
+00:19:10,082|00:19:12,017|CC1|POP|to get ready for the party.
+00:19:12,084|00:19:12,918|CC1|POP|                    Look, just,
+00:19:12,084|00:19:12,918|CC1|POP|               could you just--
+00:19:12,985|00:19:14,520|CC1|POP|    no, take your time, um,
+00:19:14,586|00:19:15,487|CC1|POP|             I-I have something
+00:19:14,586|00:19:15,487|CC1|POP|           to take care of, um,
+00:19:15,587|00:19:16,488|CC1|POP|   I'll meet you at Naomi's.
+00:19:16,555|00:19:18,090|CC1|POP|Wha...?
+00:19:18,157|00:19:20,058|CC1|POP|            (sighs)
+00:19:43,916|00:19:46,251|CC1|POP|Hey, um, this is Dixon Wilson.
+00:19:46,318|00:19:47,586|CC1|POP|          I'm calling
+00:19:46,318|00:19:47,586|CC1|POP|    about the beach house.
+00:19:47,653|00:19:49,521|CC1|POP|                    It's taken.
+00:19:52,291|00:19:54,693|CC1|POP|  I'm, I'm a nonsmoker, good
+00:19:52,291|00:19:54,693|CC1|POP|credit, no pets, call me back.
+00:19:54,760|00:19:56,128|CC1|POP|                     (chuckles)
+00:19:56,195|00:19:59,565|CC1|POP|        Nice try, nice try, but
+00:19:56,195|00:19:59,565|CC1|POP|      I already left a message.
+00:19:59,631|00:20:01,800|CC1|POP|      Looks like the bull
+00:19:59,631|00:20:01,800|CC1|POP|     bucked you off, son.
+00:20:01,867|00:20:03,168|CC1|POP|          (chuckles)
+00:20:01,867|00:20:03,168|CC1|POP|          Okay, Dad.
+00:20:03,235|00:20:05,170|CC1|POP|Um, see,
+00:20:03,235|00:20:05,170|CC1|POP|the thing is,
+00:20:05,237|00:20:09,508|CC1|POP|a friend really screwed me over
+00:20:05,237|00:20:09,508|CC1|POP|and... I need a place to stay.
+00:20:09,575|00:20:11,977|CC1|POP|      And I was supposed
+00:20:09,575|00:20:11,977|CC1|POP|  to take my senior year off
+00:20:12,044|00:20:14,079|CC1|POP|        and motorcycle
+00:20:12,044|00:20:14,079|CC1|POP|    through South America,
+00:20:14,146|00:20:16,114|CC1|POP|        but some skinny
+00:20:14,146|00:20:16,114|CC1|POP|      Beverly Hills brat
+00:20:16,181|00:20:17,749|CC1|POP|        told my parents
+00:20:16,181|00:20:17,749|CC1|POP|      I was growing pot,
+00:20:17,816|00:20:20,686|CC1|POP|  so, uh... I'm going to need
+00:20:17,816|00:20:20,686|CC1|POP|   the place more than you.
+00:20:20,752|00:20:22,554|CC1|POP|  So I guess we're just going
+00:20:20,752|00:20:22,554|CC1|POP|  to have to see who gets it.
+00:20:22,621|00:20:25,958|CC1|POP|            Hmm, yeah, we will.
+00:20:36,134|00:20:38,170|CC1|POP|                          AMAL:
+00:20:36,134|00:20:38,170|CC1|POP|          You've taken on a lot
+00:20:36,134|00:20:38,170|CC1|POP|              for a young man--
+00:20:38,237|00:20:42,207|CC1|POP|running the studios, now you're
+00:20:38,237|00:20:42,207|CC1|POP|  taking care of your sister.
+00:20:42,274|00:20:43,709|CC1|POP|        You need help.
+00:20:43,775|00:20:45,777|CC1|POP|         Your father and I used
+00:20:43,775|00:20:45,777|CC1|POP|       to do business together.
+00:20:45,844|00:20:48,046|CC1|POP|   The business you were in
+00:20:45,844|00:20:48,046|CC1|POP|   with my father was porn,
+00:20:48,113|00:20:49,748|CC1|POP|and it almost destroyed
+00:20:48,113|00:20:49,748|CC1|POP|my family.
+00:20:52,150|00:20:54,219|CC1|POP|                Really? I mean,
+00:20:52,150|00:20:54,219|CC1|POP|                      the house
+00:20:54,286|00:20:56,688|CC1|POP|       that you lived in, having
+00:20:54,286|00:20:56,688|CC1|POP|       your family around you--
+00:20:56,755|00:20:59,091|CC1|POP|                     those were
+00:20:56,755|00:20:59,091|CC1|POP|                 the bad times?
+00:20:59,157|00:21:00,392|CC1|POP|                    Your family
+00:20:59,157|00:21:00,392|CC1|POP|                  is struggling
+00:21:00,459|00:21:04,563|CC1|POP|             not because of me,
+00:21:00,459|00:21:04,563|CC1|POP|         Navid, because of you.
+00:21:04,630|00:21:05,697|CC1|POP|                   You need me.
+00:21:05,764|00:21:07,199|CC1|POP|    My family will be fine.
+00:21:07,266|00:21:08,600|CC1|POP|Oh, and Shirazi Studios
+00:21:08,667|00:21:11,003|CC1|POP|will never do business
+00:21:08,667|00:21:11,003|CC1|POP|with a guy like you again.
+00:21:15,107|00:21:16,541|CC1|POP|        (camel grunts)
+00:21:16,608|00:21:18,477|CC1|POP|       Remember to flex
+00:21:16,608|00:21:18,477|CC1|POP| when you take people's keys.
+00:21:18,543|00:21:19,811|CC1|POP|Yes, ma'am.
+00:21:19,878|00:21:21,913|CC1|POP|      Hey, lose the gum.
+00:21:21,980|00:21:23,348|CC1|POP|       Melanie, please,
+00:21:23,415|00:21:24,816|CC1|POP|more hip roll,
+00:21:23,415|00:21:24,816|CC1|POP|less tuna roll.
+00:21:24,883|00:21:25,984|CC1|POP|             Oof.
+00:21:26,051|00:21:27,252|CC1|POP|    Boys, you're not trying
+00:21:26,051|00:21:27,252|CC1|POP|         to fly away.
+00:21:27,319|00:21:28,587|CC1|POP|       Lightly, lightly.
+00:21:28,654|00:21:29,588|CC1|POP|                         Naomi.
+00:21:29,655|00:21:30,555|CC1|POP|           Lightly.
+00:21:30,622|00:21:34,393|CC1|POP|Naomi, this is amazing.
+00:21:34,459|00:21:35,761|CC1|POP|        ("Why Even Try"
+00:21:34,459|00:21:35,761|CC1|POP| by Theophilus London playing)
+00:21:35,827|00:21:37,162|CC1|POP|Hey.
+00:21:37,229|00:21:39,931|CC1|POP|     (indistinct chatter)
+00:21:39,998|00:21:41,833|CC1|POP|Let's get
+00:21:39,998|00:21:41,833|CC1|POP|the party started.
+00:21:41,900|00:21:44,436|CC1|POP|   Thanks for coming, y'all,
+00:21:41,900|00:21:44,436|CC1|POP|    let's go, let's party.
+00:21:44,503|00:21:46,204|CC1|POP|          (cheering)
+00:21:49,708|00:21:50,876|CC1|POP|            &l Uh &l
+00:21:52,477|00:21:54,279|CC1|POP|            &l Uh &l
+00:21:54,346|00:21:56,248|CC1|POP|     &l You stole my heart
+00:21:54,346|00:21:56,248|CC1|POP|  like a thief in the night &l
+00:21:56,315|00:21:58,216|CC1|POP|   &l Stopped in your tracks
+00:21:56,315|00:21:58,216|CC1|POP| in the middle of the fight &l
+00:21:58,283|00:22:00,619|CC1|POP|    &l Don't make it right,
+00:21:58,283|00:22:00,619|CC1|POP|   let the brimstones burn &l
+00:22:00,686|00:22:04,222|CC1|POP|  &l I'll let you live yours,
+00:22:00,686|00:22:04,222|CC1|POP|   now let me have my turn &l
+00:22:04,289|00:22:05,624|CC1|POP|      &l But you're wrong,
+00:22:04,289|00:22:05,624|CC1|POP|thinking you could stop time &l
+00:22:05,691|00:22:08,727|CC1|POP|     &l A few hours ahead,
+00:22:05,691|00:22:08,727|CC1|POP|     baby girl, not mine &l
+00:22:08,794|00:22:10,362|CC1|POP|         &l Look ahead,
+00:22:08,794|00:22:10,362|CC1|POP|I know you see the stop signs &l
+00:22:10,429|00:22:13,065|CC1|POP|       &l Blind men know
+00:22:10,429|00:22:13,065|CC1|POP|  it's not green on time... &l
+00:22:13,131|00:22:14,766|CC1|POP| (music continues in distance)
+00:22:14,833|00:22:16,301|CC1|POP|         (door opens)
+00:22:16,368|00:22:20,038|CC1|POP|Uh, maybe I forgot to warn you
+00:22:16,368|00:22:20,038|CC1|POP|about Naomi's parties.
+00:22:20,105|00:22:23,241|CC1|POP|   She kind of has this rule
+00:22:20,105|00:22:23,241|CC1|POP|where you got to come dressed up
+00:22:23,308|00:22:24,843|CC1|POP|    or not dressed at all.
+00:22:24,910|00:22:27,145|CC1|POP|       Uh, I don't think
+00:22:24,910|00:22:27,145|CC1|POP|      I'm gonna make it.
+00:22:29,348|00:22:31,583|CC1|POP| I mean, yeah, I'm not exactly
+00:22:31,650|00:22:33,585|CC1|POP|        into the whole
+00:22:31,650|00:22:33,585|CC1|POP|   mega-party thing, either.
+00:22:33,652|00:22:34,953|CC1|POP|So if you want
+00:22:33,652|00:22:34,953|CC1|POP|to just stay home
+00:22:35,020|00:22:35,987|CC1|POP|and watch a movie,
+00:22:35,020|00:22:35,987|CC1|POP|I'm totally game.
+00:22:36,054|00:22:37,289|CC1|POP|No, you should go to the party.
+00:22:37,356|00:22:39,157|CC1|POP|No, dude, I don't
+00:22:37,356|00:22:39,157|CC1|POP|want to go without you.
+00:22:39,224|00:22:41,193|CC1|POP|Dude, come on,
+00:22:39,224|00:22:41,193|CC1|POP|just come for ten minutes.
+00:22:41,259|00:22:43,528|CC1|POP|I promise, once you're there,
+00:22:41,259|00:22:43,528|CC1|POP|you're gonna feel better.
+00:22:43,595|00:22:45,197|CC1|POP|                       I can't.
+00:22:43,595|00:22:45,197|CC1|POP|                     Look, Ivy,
+00:22:45,263|00:22:48,066|CC1|POP|          we have been together
+00:22:45,263|00:22:48,066|CC1|POP|             the entire summer,
+00:22:48,133|00:22:50,302|CC1|POP|             and you spent your
+00:22:48,133|00:22:50,302|CC1|POP|       honeymoon in a hospital.
+00:22:50,369|00:22:52,504|CC1|POP|         I appreciate
+00:22:50,369|00:22:52,504|CC1|POP|    the positive attitude,
+00:22:52,571|00:22:55,474|CC1|POP|         but it's okay to admit
+00:22:52,571|00:22:55,474|CC1|POP|          that I've got cancer,
+00:22:55,540|00:22:58,910|CC1|POP|and it's okay that I can't live
+00:22:55,540|00:22:58,910|CC1|POP|   every moment to the fullest.
+00:22:58,977|00:22:59,811|CC1|POP|         But you can.
+00:23:01,113|00:23:02,514|CC1|POP|  Go to the party, have fun,
+00:23:02,581|00:23:04,149|CC1|POP|     be with your friends.
+00:23:04,216|00:23:05,851|CC1|POP|       I'm not gonna die
+00:23:04,216|00:23:05,851|CC1|POP|      while you're gone.
+00:23:05,917|00:23:07,285|CC1|POP|Oh, God.
+00:23:05,917|00:23:07,285|CC1|POP|              Probably.
+00:23:07,352|00:23:09,488|CC1|POP|       That's not funny.
+00:23:15,494|00:23:17,896|CC1|POP|                  Go get crazy.
+00:23:17,963|00:23:19,398|CC1|POP|         Bye.
+00:23:19,464|00:23:20,966|CC1|POP|           Have fun.
+00:23:24,736|00:23:26,204|CC1|POP|     (cheering, applause)
+00:23:29,941|00:23:30,976|CC1|POP|                All right.
+00:23:31,042|00:23:33,412|CC1|POP|                What's everyone
+00:23:31,042|00:23:33,412|CC1|POP|                       burning?
+00:23:33,478|00:23:36,515|CC1|POP|                         ANNIE:
+00:23:33,478|00:23:36,515|CC1|POP|       Well, I have narrowed it
+00:23:33,478|00:23:36,515|CC1|POP|   down to my final report card
+00:23:36,581|00:23:38,617|CC1|POP|                   or a copy of
+00:23:36,581|00:23:38,617|CC1|POP|                <i>Atlas Shrugged,</i>
+00:23:38,683|00:23:40,685|CC1|POP|            which totally moved
+00:23:38,683|00:23:40,685|CC1|POP|                me at the time.
+00:23:40,752|00:23:42,654|CC1|POP|                  Wow, that was
+00:23:40,752|00:23:42,654|CC1|POP|             deeply impersonal.
+00:23:42,721|00:23:43,855|CC1|POP|Annie, come on.
+00:23:43,922|00:23:45,323|CC1|POP|                   You have got
+00:23:43,922|00:23:45,323|CC1|POP|                   bigger issues
+00:23:45,390|00:23:46,625|CC1|POP|                  than a report
+00:23:45,390|00:23:46,625|CC1|POP|               card and a book.
+00:23:47,926|00:23:49,661|CC1|POP|Where are things
+00:23:47,926|00:23:49,661|CC1|POP|with you and Liam?
+00:23:49,728|00:23:51,196|CC1|POP|I don't know what he's thinking,
+00:23:51,263|00:23:52,631|CC1|POP|        so I don't know
+00:23:51,263|00:23:52,631|CC1|POP|      what I'm thinking.
+00:23:53,565|00:23:55,834|CC1|POP|      Report card it is.
+00:23:57,002|00:23:58,003|CC1|POP|NAOMI:
+00:23:57,002|00:23:58,003|CC1|POP|Oh, Annie,
+00:23:58,069|00:23:59,704|CC1|POP|      very, very moving.
+00:23:59,771|00:24:00,639|CC1|POP|           (laughs):
+00:23:59,771|00:24:00,639|CC1|POP|            Silver.
+00:24:00,705|00:24:02,007|CC1|POP|Yes.
+00:24:02,073|00:24:03,809|CC1|POP|             Oh, good riddance.
+00:24:03,875|00:24:04,743|CC1|POP|I hated that
+00:24:03,875|00:24:04,743|CC1|POP|piece of wardrobe.
+00:24:04,810|00:24:05,844|CC1|POP|            Yeah, that's 'cause
+00:24:05,911|00:24:07,279|CC1|POP|         Adrianna gave it to me.
+00:24:05,911|00:24:07,279|CC1|POP|            Figures.
+00:24:07,345|00:24:09,548|CC1|POP|           What about you, Ivy?
+00:24:09,614|00:24:11,316|CC1|POP|Yeah, um, I think
+00:24:09,614|00:24:11,316|CC1|POP|I'm gonna pass, actually.
+00:24:11,383|00:24:14,319|CC1|POP|I don't think I'm ready to
+00:24:11,383|00:24:14,319|CC1|POP|let go of anything quite yet.
+00:24:14,386|00:24:17,022|CC1|POP|Hey, Naomi, there's a cop
+00:24:14,386|00:24:17,022|CC1|POP|here to see you.
+00:24:17,088|00:24:19,491|CC1|POP|    Oh, well, now the party
+00:24:17,088|00:24:19,491|CC1|POP|       can get started.
+00:24:19,558|00:24:21,326|CC1|POP|          Thank you.
+00:24:22,327|00:24:23,728|CC1|POP|   Can I help you, Officer?
+00:24:24,796|00:24:26,832|CC1|POP|Would you be needing
+00:24:24,796|00:24:26,832|CC1|POP|to frisk me?
+00:24:28,867|00:24:31,203|CC1|POP|  We received a noise complaint
+00:24:28,867|00:24:31,203|CC1|POP|           from your neighbors,
+00:24:31,269|00:24:32,637|CC1|POP|         and your valet service
+00:24:32,704|00:24:34,406|CC1|POP|       doesn't have the correct
+00:24:32,704|00:24:34,406|CC1|POP|               parking permits,
+00:24:34,473|00:24:36,675|CC1|POP|       so they've been asked to
+00:24:34,473|00:24:36,675|CC1|POP|       find their shirts and go.
+00:24:36,741|00:24:38,076|CC1|POP|You're not a stripper?
+00:24:38,143|00:24:42,514|CC1|POP|          Officer Atwood, LAPD.
+00:24:42,581|00:24:44,015|CC1|POP|             You know you can't
+00:24:42,581|00:24:44,015|CC1|POP|              have an open fire
+00:24:44,082|00:24:45,484|CC1|POP|              within 20 feet of
+00:24:44,082|00:24:45,484|CC1|POP|            a residence, right?
+00:24:45,550|00:24:46,551|CC1|POP|Um...
+00:24:45,550|00:24:46,551|CC1|POP|              Put out that fire.
+00:24:49,654|00:24:51,122|CC1|POP|                    Well...
+00:24:51,189|00:24:54,092|CC1|POP|   (laughs) He would've been
+00:24:51,189|00:24:54,092|CC1|POP|a lot more fun if he was naked.
+00:24:54,159|00:24:56,328|CC1|POP|                 You want me to
+00:24:54,159|00:24:56,328|CC1|POP|              put the fire out?
+00:24:56,394|00:24:58,463|CC1|POP|              No.
+00:24:58,530|00:25:00,365|CC1|POP|     I have one more thing
+00:24:58,530|00:25:00,365|CC1|POP|        I have to burn.
+00:25:02,100|00:25:03,068|CC1|POP|        (both laughing)
+00:25:03,134|00:25:04,669|CC1|POP|        Um, excuse me.
+00:25:04,736|00:25:05,737|CC1|POP|                            Hi.
+00:25:05,804|00:25:06,805|CC1|POP|   This is a private party.
+00:25:06,872|00:25:07,939|CC1|POP|    No hillbillies allowed.
+00:25:08,006|00:25:09,608|CC1|POP|                      Oh, yeah?
+00:25:08,006|00:25:09,608|CC1|POP|                Well, you know,
+00:25:09,674|00:25:11,176|CC1|POP|                my new roommate
+00:25:09,674|00:25:11,176|CC1|POP|                    invited me.
+00:25:11,243|00:25:14,112|CC1|POP|        Yeah, and since you and
+00:25:11,243|00:25:14,112|CC1|POP|     Dix here are good buddies,
+00:25:14,179|00:25:16,214|CC1|POP|     looks like we'll be seeing
+00:25:14,179|00:25:16,214|CC1|POP|      a lot more of each other.
+00:25:16,281|00:25:17,249|CC1|POP|Wait, "Dix"?
+00:25:17,315|00:25:18,016|CC1|POP|             Yeah.
+00:25:18,083|00:25:19,484|CC1|POP|        Thanks. Cheers.
+00:25:19,551|00:25:22,854|CC1|POP|     That is a $200 bottle
+00:25:19,551|00:25:22,854|CC1|POP|         of champagne!
+00:25:22,954|00:25:27,592|CC1|POP| It's not moonshine, you hick!
+00:25:27,659|00:25:32,130|CC1|POP|       &l I stand alone &l
+00:25:34,232|00:25:37,802|CC1|POP|       &l I stand alone &l
+00:25:40,405|00:25:44,643|CC1|POP|       &l I stand alone &l
+00:25:46,511|00:25:49,748|CC1|POP|   &l The rain is phenomenal,
+00:25:46,511|00:25:49,748|CC1|POP|    the way that it falls &l
+00:25:49,814|00:25:51,016|CC1|POP|        &l Slam it down
+00:25:49,814|00:25:51,016|CC1|POP|      like a domino... &l
+00:25:51,082|00:25:53,285|CC1|POP|           Well, hey, stranger.
+00:25:53,351|00:25:54,686|CC1|POP|No stranger than you.
+00:25:54,753|00:25:56,121|CC1|POP|                 Ha! Hilarious.
+00:25:56,187|00:25:57,088|CC1|POP|      Yeah.
+00:25:57,155|00:25:59,190|CC1|POP|                        (sighs)
+00:25:59,257|00:26:02,127|CC1|POP|           All right, so, how'd
+00:25:59,257|00:26:02,127|CC1|POP|           it go with your dad?
+00:26:02,193|00:26:04,863|CC1|POP|It went great. He was, he was
+00:26:02,193|00:26:04,863|CC1|POP|totally fine with me being gay.
+00:26:04,930|00:26:06,998|CC1|POP|                 So, you didn't
+00:26:04,930|00:26:06,998|CC1|POP|                      tell him.
+00:26:09,167|00:26:11,703|CC1|POP|         We had lunch.
+00:26:11,770|00:26:15,240|CC1|POP|     After he left, I sat
+00:26:15,307|00:26:17,776|CC1|POP|and wrote down everything
+00:26:15,307|00:26:17,776|CC1|POP|I wished I could say
+00:26:17,842|00:26:19,177|CC1|POP|without being
+00:26:17,842|00:26:19,177|CC1|POP|afraid of hearing
+00:26:19,244|00:26:20,879|CC1|POP|  the judgment in his voice.
+00:26:22,047|00:26:23,748|CC1|POP|            (sighs)
+00:26:23,815|00:26:25,383|CC1|POP|      Maybe I should just
+00:26:23,815|00:26:25,383|CC1|POP|  stick this in the mailbox,
+00:26:25,450|00:26:26,885|CC1|POP| make it easier for everyone.
+00:26:26,952|00:26:29,821|CC1|POP|     You are not gonna come out
+00:26:26,952|00:26:29,821|CC1|POP|     to your family on a napkin.
+00:26:29,888|00:26:31,089|CC1|POP|                        (sighs)
+00:26:31,156|00:26:33,325|CC1|POP|                 Telling people
+00:26:31,156|00:26:33,325|CC1|POP|                 that you're gay
+00:26:33,391|00:26:35,760|CC1|POP|                   is not about
+00:26:33,391|00:26:35,760|CC1|POP|             doing what's easy.
+00:26:35,827|00:26:40,031|CC1|POP|              It's about... not
+00:26:35,827|00:26:40,031|CC1|POP|   apologizing for who you are.
+00:26:40,098|00:26:42,567|CC1|POP|           So, you're not doing
+00:26:40,098|00:26:42,567|CC1|POP|             this for your dad.
+00:26:42,634|00:26:43,768|CC1|POP|                   You're doing
+00:26:42,634|00:26:43,768|CC1|POP|                   this for you.
+00:26:49,608|00:26:51,309|CC1|POP|Can I at least get
+00:26:49,608|00:26:51,309|CC1|POP|really drunk first?
+00:26:51,376|00:26:52,644|CC1|POP|                       (laughs)
+00:26:52,711|00:26:55,113|CC1|POP|         &l The clothes
+00:26:52,711|00:26:55,113|CC1|POP|    don't make the man... &l
+00:26:55,180|00:26:57,248|CC1|POP|              Theophilus London
+00:26:55,180|00:26:57,248|CC1|POP|                    is amazing.
+00:26:57,315|00:26:58,216|CC1|POP|                       (laughs)
+00:26:58,283|00:26:59,451|CC1|POP|              Mm-hmm.
+00:26:59,517|00:27:00,685|CC1|POP|              Reminds me of the
+00:26:59,517|00:27:00,685|CC1|POP|              tour this summer.
+00:27:00,752|00:27:02,554|CC1|POP|             It's just like, no
+00:27:00,752|00:27:02,554|CC1|POP|             worries about life,
+00:27:02,621|00:27:03,755|CC1|POP|             just making music.
+00:27:03,822|00:27:06,358|CC1|POP|          Ugh, I wish
+00:27:03,822|00:27:06,358|CC1|POP|     I could be like that.
+00:27:06,424|00:27:07,726|CC1|POP|     Catch you guys later.
+00:27:10,528|00:27:11,696|CC1|POP|             Hey.
+00:27:12,664|00:27:14,899|CC1|POP|                    Who's that?
+00:27:14,966|00:27:17,802|CC1|POP|      A complete stranger
+00:27:14,966|00:27:17,802|CC1|POP|that I invited to Naomi's party.
+00:27:17,869|00:27:19,838|CC1|POP|                       What?
+00:27:17,869|00:27:19,838|CC1|POP|It was weird.
+00:27:19,904|00:27:22,340|CC1|POP|I was just signing up
+00:27:19,904|00:27:22,340|CC1|POP|for classes at CU,
+00:27:22,407|00:27:24,643|CC1|POP|and then suddenly
+00:27:22,407|00:27:24,643|CC1|POP|I was flirting with him.
+00:27:24,709|00:27:26,277|CC1|POP| What is wrong with me, Dixon?
+00:27:26,344|00:27:28,079|CC1|POP|                 Maybe it means
+00:27:26,344|00:27:28,079|CC1|POP|              that you changed.
+00:27:30,949|00:27:33,218|CC1|POP|           Kind of like how I'm
+00:27:30,949|00:27:33,218|CC1|POP|           not going to college.
+00:27:33,284|00:27:36,454|CC1|POP|What?! No, Dixon, I don't care
+00:27:33,284|00:27:36,454|CC1|POP|what happens with Marla's money,
+00:27:36,521|00:27:37,989|CC1|POP|you are going to college.
+00:27:38,056|00:27:39,924|CC1|POP|                 It's not about
+00:27:38,056|00:27:39,924|CC1|POP|              the money, Annie.
+00:27:39,991|00:27:42,027|CC1|POP|                Look, something
+00:27:39,991|00:27:42,027|CC1|POP|           changed this summer.
+00:27:42,093|00:27:45,597|CC1|POP|     I was backstage one night,
+00:27:42,093|00:27:45,597|CC1|POP|  and the opening act was a guy
+00:27:45,664|00:27:47,165|CC1|POP|                  just like me.
+00:27:47,232|00:27:50,502|CC1|POP|      The sound from the crowd,
+00:27:47,232|00:27:50,502|CC1|POP|            it was just like...
+00:27:50,568|00:27:51,503|CC1|POP|                     (sighs)
+00:27:51,569|00:27:53,672|CC1|POP|                   I want that.
+00:27:53,738|00:27:55,774|CC1|POP|Well, okay,
+00:27:53,738|00:27:55,774|CC1|POP|but that doesn't mean
+00:27:55,840|00:27:57,275|CC1|POP|that you don't go to college.
+00:27:57,342|00:27:58,843|CC1|POP|         College isn't what I'm
+00:27:57,342|00:27:58,843|CC1|POP|       excited about right now.
+00:27:58,910|00:27:59,978|CC1|POP|                  Music is.
+00:28:00,045|00:28:03,114|CC1|POP|Oh, there's gonna be excitement.
+00:28:03,181|00:28:06,217|CC1|POP|       Can't wait to see
+00:28:03,181|00:28:06,217|CC1|POP|   what Mom says about this.
+00:28:06,284|00:28:07,252|CC1|POP|            God...
+00:28:07,318|00:28:08,486|CC1|POP|                  Annie!
+00:28:12,991|00:28:15,627|CC1|POP|Annie, please act like an adult!
+00:28:15,694|00:28:16,961|CC1|POP|                     Annie, come
+00:28:15,694|00:28:16,961|CC1|POP|                     on. Annie.
+00:28:17,028|00:28:18,196|CC1|POP|                        (gasps)
+00:28:18,263|00:28:22,267|CC1|POP|Why is Liam dressed
+00:28:18,263|00:28:22,267|CC1|POP|like a waiter at my party?
+00:28:25,603|00:28:27,739|CC1|POP|         Annie Wilson,
+00:28:27,806|00:28:29,708|CC1|POP|   I have something to say.
+00:28:29,774|00:28:31,076|CC1|POP|(violins playing romantic music)
+00:28:40,018|00:28:42,587|CC1|POP|                     (sighs)
+00:28:42,654|00:28:46,324|CC1|POP|                    You are the
+00:28:42,654|00:28:46,324|CC1|POP|                first, the last
+00:28:46,391|00:28:48,093|CC1|POP|             and the only woman
+00:28:46,391|00:28:48,093|CC1|POP|             I have ever loved.
+00:28:50,095|00:28:54,132|CC1|POP|   Walking away from you was
+00:28:50,095|00:28:54,132|CC1|POP|the biggest mistake of my life.
+00:28:54,199|00:28:55,967|CC1|POP|                      I want...
+00:28:58,369|00:29:00,371|CC1|POP|                      I want...
+00:29:00,438|00:29:03,374|CC1|POP|       I want our paths to join
+00:29:00,438|00:29:03,374|CC1|POP|            as one from now on.
+00:29:05,710|00:29:07,145|CC1|POP|       (crowd murmuring)
+00:29:09,380|00:29:11,449|CC1|POP|      Will you marry me?
+00:29:18,890|00:29:19,724|CC1|POP|         (music stops)
+00:29:25,530|00:29:26,965|CC1|POP|              No.
+00:29:27,031|00:29:29,901|CC1|POP|(fireworks whistling, popping)
+00:29:29,968|00:29:33,004|CC1|POP|        (music resumes)
+00:29:40,345|00:29:42,180|CC1|POP|(fireworks whistling, popping)
+00:29:42,247|00:29:43,314|CC1|POP|          Fireworks?
+00:29:43,381|00:29:44,582|CC1|POP|    The neighbors are gonna
+00:29:43,381|00:29:44,582|CC1|POP|        just love this.
+00:29:49,287|00:29:51,356|CC1|POP|No, no, Liam, wait.
+00:29:51,422|00:29:53,391|CC1|POP|         You said "no." I heard
+00:29:51,422|00:29:53,391|CC1|POP|            you the first time.
+00:29:53,458|00:29:54,793|CC1|POP|                Or should I say
+00:29:53,458|00:29:54,793|CC1|POP|                   second time?
+00:29:54,859|00:29:57,695|CC1|POP|      No, I... I said no
+00:29:54,859|00:29:57,695|CC1|POP|        the first time
+00:29:57,762|00:29:58,930|CC1|POP|       because I was mad
+00:29:58,997|00:30:00,365|CC1|POP|       and your proposal
+00:29:58,997|00:30:00,365|CC1|POP|     came out of nowhere,
+00:30:00,431|00:30:02,033|CC1|POP|okay?
+00:30:02,100|00:30:05,003|CC1|POP|       But this time...
+00:30:05,069|00:30:09,674|CC1|POP|  I know that people change,
+00:30:05,069|00:30:09,674|CC1|POP| but, I mean, this is so huge.
+00:30:09,741|00:30:12,410|CC1|POP|You don't just
+00:30:09,741|00:30:12,410|CC1|POP|decide to marry somebody
+00:30:12,477|00:30:13,878|CC1|POP|because you've had
+00:30:12,477|00:30:13,878|CC1|POP|time to think.
+00:30:13,945|00:30:14,979|CC1|POP| Something must have happened.
+00:30:16,548|00:30:19,217|CC1|POP| I just, I need to understand
+00:30:16,548|00:30:19,217|CC1|POP|    what's really going on.
+00:30:19,284|00:30:22,687|CC1|POP|   What's really going on is
+00:30:19,284|00:30:22,687|CC1|POP|         I'm leaving.
+00:30:30,428|00:30:32,197|CC1|POP|              &l &l
+00:30:34,599|00:30:36,734|CC1|POP|             Babe, what are you
+00:30:34,599|00:30:36,734|CC1|POP|           doing back so early?
+00:30:36,801|00:30:38,503|CC1|POP|              Thought the party
+00:30:36,801|00:30:38,503|CC1|POP|                  just started.
+00:30:38,570|00:30:40,672|CC1|POP|     Well, you were right.
+00:30:40,738|00:30:41,906|CC1|POP|Okay?
+00:30:41,973|00:30:44,209|CC1|POP|I shouldn't pretend
+00:30:41,973|00:30:44,209|CC1|POP|like you're not sick.
+00:30:44,275|00:30:46,311|CC1|POP|But I also don't want
+00:30:44,275|00:30:46,311|CC1|POP|to run off to a party
+00:30:46,377|00:30:47,979|CC1|POP|just because I can.
+00:30:48,046|00:30:51,749|CC1|POP|Or because it was maybe
+00:30:48,046|00:30:51,749|CC1|POP|the best party ever.
+00:30:51,816|00:30:54,452|CC1|POP|Dude, this was like a night in
+00:30:51,816|00:30:54,452|CC1|POP|Morocco, except there was sushi.
+00:30:54,519|00:30:56,955|CC1|POP|         Sushi? Nice.
+00:30:57,021|00:30:58,156|CC1|POP|     But you know what was
+00:30:57,021|00:30:58,156|CC1|POP|         the best part
+00:30:58,223|00:30:59,190|CC1|POP|about the entire night for me?
+00:30:59,257|00:31:00,825|CC1|POP|                      What?
+00:31:00,892|00:31:02,126|CC1|POP|      This.
+00:31:03,695|00:31:05,563|CC1|POP|Bringing it home to you.
+00:31:25,416|00:31:26,384|CC1|POP|             Hey.
+00:31:26,451|00:31:27,385|CC1|POP|     Hey.
+00:31:29,153|00:31:30,622|CC1|POP|           Is that your fun tie
+00:31:29,153|00:31:30,622|CC1|POP|              from high school?
+00:31:30,688|00:31:33,524|CC1|POP|You've been telling me for years
+00:31:30,688|00:31:33,524|CC1|POP|I should burn this thing, so...
+00:31:35,627|00:31:36,828|CC1|POP|                      (chuckles)
+00:31:35,627|00:31:36,828|CC1|POP|       See?
+00:31:36,895|00:31:39,097|CC1|POP|There are things you hate
+00:31:36,895|00:31:39,097|CC1|POP|that I can get rid of.
+00:31:39,163|00:31:40,798|CC1|POP|But not my family.
+00:31:40,865|00:31:42,367|CC1|POP|                I know. I know.
+00:31:45,670|00:31:49,340|CC1|POP|Silver, I'm responsible
+00:31:45,670|00:31:49,340|CC1|POP|for what happened to my family,
+00:31:49,407|00:31:50,675|CC1|POP|you aren't.
+00:31:50,742|00:31:52,110|CC1|POP|If you want us to leave...
+00:31:52,176|00:31:54,112|CC1|POP|                    I don't.
+00:31:54,178|00:31:55,546|CC1|POP|                You were right.
+00:31:55,613|00:31:57,515|CC1|POP|     My issue is with Adrianna,
+00:31:55,613|00:31:57,515|CC1|POP|               not your sister.
+00:31:57,582|00:31:59,717|CC1|POP|               I shouldn't have
+00:31:57,582|00:31:59,717|CC1|POP|         taken it out on Leila.
+00:32:09,560|00:32:11,596|CC1|POP|                         LEILA:
+00:32:09,560|00:32:11,596|CC1|POP|                           Hey.
+00:32:11,663|00:32:12,864|CC1|POP|                  Oh, my God.
+00:32:14,499|00:32:16,100|CC1|POP|My sister did not
+00:32:14,499|00:32:16,100|CC1|POP|bring Adrianna.
+00:32:16,167|00:32:18,036|CC1|POP|            Apparently she did.
+00:32:19,637|00:32:20,772|CC1|POP|                      Silver...
+00:32:20,838|00:32:22,674|CC1|POP|             When are you gonna
+00:32:20,838|00:32:22,674|CC1|POP|             get the hint, huh?
+00:32:22,774|00:32:25,076|CC1|POP|     I don't want to see you, I
+00:32:22,774|00:32:25,076|CC1|POP|  don't even want you to exist.
+00:32:25,143|00:32:26,644|CC1|POP|Okay, then just
+00:32:25,143|00:32:26,644|CC1|POP|listen, please.
+00:32:26,711|00:32:29,447|CC1|POP|I'm not trying to hurt you.
+00:32:29,514|00:32:31,716|CC1|POP|        Hurting you was
+00:32:29,514|00:32:31,716|CC1|POP|the biggest mistake of my life.
+00:32:33,051|00:32:35,520|CC1|POP|   I'm sorry for everything.
+00:32:35,586|00:32:37,355|CC1|POP|For ruining your chances at NYU,
+00:32:37,422|00:32:40,358|CC1|POP|for almost wrecking things
+00:32:37,422|00:32:40,358|CC1|POP|with Navid.
+00:32:40,425|00:32:43,928|CC1|POP|I will spend the rest of my life
+00:32:40,425|00:32:43,928|CC1|POP|    doing everything I can
+00:32:43,995|00:32:45,964|CC1|POP|   and try to be the friend
+00:32:43,995|00:32:45,964|CC1|POP|      that you deserved.
+00:32:47,966|00:32:50,702|CC1|POP|      Maybe I will never
+00:32:47,966|00:32:50,702|CC1|POP|    earn your forgiveness,
+00:32:50,768|00:32:53,404|CC1|POP|    but I need you to know
+00:32:50,768|00:32:53,404|CC1|POP|        how sorry I am.
+00:32:56,641|00:32:58,309|CC1|POP|       Are you finished?
+00:32:59,811|00:33:02,814|CC1|POP|  You think switching my meds
+00:33:02,880|00:33:07,685|CC1|POP|  and sending me on a bipolar
+00:33:02,880|00:33:07,685|CC1|POP|    tailspin was a mistake
+00:33:07,752|00:33:10,421|CC1|POP|     because I didn't get
+00:33:07,752|00:33:10,421|CC1|POP|into the college that I wanted?
+00:33:11,756|00:33:14,459|CC1|POP|  I was going to kill myself.
+00:33:14,525|00:33:16,894|CC1|POP|               I was gonna kill
+00:33:14,525|00:33:16,894|CC1|POP|                   myself, Ade.
+00:33:16,961|00:33:19,297|CC1|POP|            And if Dixon hadn't
+00:33:16,961|00:33:19,297|CC1|POP|        shown up and tricked me
+00:33:19,364|00:33:22,467|CC1|POP|  into going to the hospital,
+00:33:19,364|00:33:22,467|CC1|POP|    I'd be dead right now.
+00:33:22,533|00:33:25,503|CC1|POP|  All right, so I don't give
+00:33:22,533|00:33:25,503|CC1|POP|   a crap how sorry you are.
+00:33:25,570|00:33:27,505|CC1|POP|   You... You're dead to me.
+00:33:35,013|00:33:37,482|CC1|POP|          (sniffles)
+00:33:37,548|00:33:39,283|CC1|POP|            (sighs)
+00:33:43,488|00:33:45,323|CC1|POP|Keep it coming, dude.
+00:33:46,491|00:33:49,894|CC1|POP|                       $25,000!
+00:33:49,961|00:33:51,662|CC1|POP| Well, you Beverly Hills kids
+00:33:49,961|00:33:51,662|CC1|POP|      and your allowance.
+00:33:51,729|00:33:54,432|CC1|POP|Hey, I earned this.
+00:33:54,499|00:33:56,401|CC1|POP|Spent all summer
+00:33:54,499|00:33:56,401|CC1|POP|on a fishing boat.
+00:33:56,467|00:33:58,636|CC1|POP|This is the first
+00:33:56,467|00:33:58,636|CC1|POP|real money I ever made.
+00:33:58,703|00:34:02,040|CC1|POP|Yeah, I hear those boats pay big
+00:33:58,703|00:34:02,040|CC1|POP|'cause the work is so dangerous.
+00:34:17,755|00:34:22,460|CC1|POP| So I guess Annie really didn't
+00:34:17,755|00:34:22,460|CC1|POP|    want a big, fancy proposal.
+00:34:22,527|00:34:24,395|CC1|POP|I almost rented a horse.
+00:34:27,198|00:34:29,567|CC1|POP|    Look, Annie loves you,
+00:34:27,198|00:34:29,567|CC1|POP|          all right?
+00:34:29,634|00:34:31,669|CC1|POP|                You just got to
+00:34:29,634|00:34:31,669|CC1|POP|           tell the truth, man.
+00:34:31,736|00:34:33,604|CC1|POP|(sighs)
+00:34:35,406|00:34:37,942|CC1|POP|Truth is, talking about it
+00:34:35,406|00:34:37,942|CC1|POP|is not going to help.
+00:34:38,009|00:34:39,877|CC1|POP|Drinking will.
+00:34:41,813|00:34:43,648|CC1|POP|            NAOMI:
+00:34:41,813|00:34:43,648|CC1|POP|   <i>Yes, Officer, but I swear,</i>
+00:34:43,714|00:34:45,149|CC1|POP| those were not my fireworks.
+00:34:45,216|00:34:47,318|CC1|POP|          I am taking the noise
+00:34:45,216|00:34:47,318|CC1|POP|      complaint very seriously.
+00:34:47,385|00:34:48,886|CC1|POP|            No, no.
+00:34:47,385|00:34:48,886|CC1|POP|  Please don't shut me down.
+00:34:48,953|00:34:50,154|CC1|POP|         Hello? Hello?
+00:34:50,221|00:34:51,422|CC1|POP|          (dial tone)
+00:34:50,221|00:34:51,422|CC1|POP|             What?
+00:34:51,489|00:34:52,790|CC1|POP|      (beep, Naomi gasps)
+00:34:52,857|00:34:54,859|CC1|POP|(clearing her throat)
+00:34:54,926|00:34:56,761|CC1|POP|            Howdy.
+00:34:56,828|00:34:58,262|CC1|POP|                   What are you
+00:34:56,828|00:34:58,262|CC1|POP|              still doing here?
+00:34:58,329|00:35:01,232|CC1|POP|       Well... you see,
+00:35:01,299|00:35:04,368|CC1|POP|     I was supposed to be
+00:35:04,435|00:35:05,970|CC1|POP|motorcycling
+00:35:04,435|00:35:05,970|CC1|POP|through Chile.
+00:35:06,037|00:35:07,638|CC1|POP|                         Mm-hmm.
+00:35:06,037|00:35:07,638|CC1|POP|Climbing Machu Picchu.
+00:35:07,705|00:35:10,608|CC1|POP|But I'm stuck here,
+00:35:07,705|00:35:10,608|CC1|POP|thanks to you.
+00:35:10,675|00:35:11,909|CC1|POP|Well, I got news
+00:35:10,675|00:35:11,909|CC1|POP|for you, darlin'.
+00:35:11,976|00:35:16,047|CC1|POP|You mess with the bull,
+00:35:11,976|00:35:16,047|CC1|POP|you get the horns.
+00:35:16,114|00:35:18,282|CC1|POP|Really intimidating coming from
+00:35:16,114|00:35:18,282|CC1|POP|Mm-hmm.
+00:35:18,349|00:35:22,453|CC1|POP|       the guy who just got out
+00:35:18,349|00:35:22,453|CC1|POP|           of a very cold pool.
+00:35:22,520|00:35:24,489|CC1|POP| (helicopter blades whirring)
+00:35:24,555|00:35:26,757|CC1|POP|    POLICE (over bullhorn):
+00:35:24,555|00:35:26,757|CC1|POP|     Police! Nobody move!
+00:35:26,824|00:35:28,626|CC1|POP|                    Oh, my God.
+00:35:26,824|00:35:28,626|CC1|POP|                   The bonfire.
+00:35:28,693|00:35:30,895|CC1|POP|                Austin, help me
+00:35:28,693|00:35:30,895|CC1|POP|             put this fire out!
+00:35:32,630|00:35:33,998|CC1|POP|     Police! Nobody move!
+00:35:34,065|00:35:36,167|CC1|POP|        (siren wailing)
+00:35:36,234|00:35:38,703|CC1|POP|     (dance music playing,
+00:35:36,234|00:35:38,703|CC1|POP|     indistinct shouting)
+00:35:38,769|00:35:42,740|CC1|POP|                        Austin!
+00:35:42,807|00:35:45,476|CC1|POP|     Police! Nobody move!
+00:35:45,543|00:35:48,012|CC1|POP|     Hey, you kept my pot.
+00:35:48,079|00:35:50,915|CC1|POP|No, oh, my God,
+00:35:48,079|00:35:50,915|CC1|POP|the gardeners are so fired.
+00:35:50,982|00:35:52,350|CC1|POP|     Police! Nobody move!
+00:35:52,416|00:35:54,051|CC1|POP|(indistinct radio transmission)
+00:35:54,118|00:35:55,119|CC1|POP|What are you doing?
+00:35:54,118|00:35:55,119|CC1|POP|No! No! No!
+00:35:54,118|00:35:55,119|CC1|POP|                    (whimpering)
+00:35:55,186|00:35:56,487|CC1|POP|You want to hide pot
+00:35:55,186|00:35:56,487|CC1|POP|from the cops.
+00:35:56,554|00:35:59,090|CC1|POP|You don't want
+00:35:56,554|00:35:59,090|CC1|POP|to throw it in the fire!
+00:35:59,157|00:36:02,293|CC1|POP|(siren wailing, flames whooshes,
+00:35:59,157|00:36:02,293|CC1|POP|        Naomi whimpers)
+00:36:03,961|00:36:05,463|CC1|POP|          (coughing)
+00:36:05,530|00:36:08,132|CC1|POP|         Whoa, that is
+00:36:05,530|00:36:08,132|CC1|POP|     some serious weedage.
+00:36:08,199|00:36:09,500|CC1|POP|                Whose narcotics
+00:36:08,199|00:36:09,500|CC1|POP|                     are these?
+00:36:09,567|00:36:12,470|CC1|POP|                   (whimpering)
+00:36:12,537|00:36:16,240|CC1|POP|    What? No, they're not.
+00:36:12,537|00:36:16,240|CC1|POP|        They're yours!
+00:36:16,307|00:36:17,909|CC1|POP|        (siren wailing)
+00:36:17,975|00:36:19,177|CC1|POP|        (man coughing)
+00:36:19,243|00:36:20,244|CC1|POP|MAN:
+00:36:19,243|00:36:20,244|CC1|POP|This party sucks!
+00:36:20,311|00:36:22,713|CC1|POP|(indistinct radio transmission)
+00:36:26,984|00:36:28,886|CC1|POP|                I tried to talk
+00:36:26,984|00:36:28,886|CC1|POP|        Adrianna out of coming.
+00:36:28,953|00:36:30,688|CC1|POP|        I can't control
+00:36:28,953|00:36:30,688|CC1|POP|     what other people do.
+00:36:30,755|00:36:32,657|CC1|POP|          Stop it, Leila, okay?
+00:36:30,755|00:36:32,657|CC1|POP|            I've been listening
+00:36:32,723|00:36:34,258|CC1|POP|                to your excuses
+00:36:32,723|00:36:34,258|CC1|POP|                     all night.
+00:36:34,325|00:36:35,860|CC1|POP| Now, you pull this crap again,
+00:36:34,325|00:36:35,860|CC1|POP|  and I will put you on a plane
+00:36:35,927|00:36:37,895|CC1|POP|    to Switzerland so fast, you
+00:36:35,927|00:36:37,895|CC1|POP|  won't even know what hit you.
+00:36:37,962|00:36:40,031|CC1|POP|I hate you.
+00:36:40,097|00:36:41,165|CC1|POP|      I have both of you!
+00:36:46,204|00:36:48,539|CC1|POP|                         Leila!
+00:36:48,606|00:36:52,510|CC1|POP| Leila, okay, I know you don't
+00:36:48,606|00:36:52,510|CC1|POP|want to hear this, but I get it.
+00:36:52,577|00:36:54,045|CC1|POP|  This isn't what you wanted.
+00:36:54,111|00:36:56,881|CC1|POP|               Your senior year
+00:36:54,111|00:36:56,881|CC1|POP|               is supposed to be
+00:36:56,948|00:37:01,219|CC1|POP|  the best year of your life,
+00:36:56,948|00:37:01,219|CC1|POP|    and it's falling apart.
+00:37:01,285|00:37:03,387|CC1|POP|            (sighs)
+00:37:03,454|00:37:05,756|CC1|POP|      It happened to me.
+00:37:05,823|00:37:08,726|CC1|POP|But... we can get through this.
+00:37:08,793|00:37:10,695|CC1|POP|   You know, the three of us
+00:37:08,793|00:37:10,695|CC1|POP|           together.
+00:37:10,761|00:37:13,731|CC1|POP|                  Leila, please
+00:37:10,761|00:37:13,731|CC1|POP|                      come out.
+00:37:13,798|00:37:16,300|CC1|POP|              Leila, come on...
+00:37:17,902|00:37:19,837|CC1|POP|                         Leila!
+00:37:19,904|00:37:21,772|CC1|POP|                    (shouting):
+00:37:19,904|00:37:21,772|CC1|POP|                         Leila!
+00:37:21,839|00:37:23,641|CC1|POP|                       (scoffs)
+00:37:28,746|00:37:31,916|CC1|POP|If this party was supposed to be
+00:37:28,746|00:37:31,916|CC1|POP|hello to the rest of our lives,
+00:37:31,983|00:37:33,951|CC1|POP|I want to go back
+00:37:31,983|00:37:33,951|CC1|POP|to high school.
+00:37:34,018|00:37:35,353|CC1|POP|(scoffs)
+00:37:35,419|00:37:38,022|CC1|POP|                         Uh-oh.
+00:37:38,089|00:37:39,991|CC1|POP|     Naomi didn't even get
+00:37:38,089|00:37:39,991|CC1|POP|        to burn her bad
+00:37:40,057|00:37:41,459|CC1|POP|                        yearbook
+00:37:40,057|00:37:41,459|CC1|POP|                          photo.
+00:37:40,057|00:37:41,459|CC1|POP|              Oh!
+00:37:41,525|00:37:43,227|CC1|POP|(laughs)
+00:37:41,525|00:37:43,227|CC1|POP|I got to check this out.
+00:37:43,294|00:37:45,162|CC1|POP|So, what do you think it is?
+00:37:45,229|00:37:47,999|CC1|POP|Bad bangs?
+00:37:45,229|00:37:47,999|CC1|POP|A windy hair day?
+00:37:48,065|00:37:51,202|CC1|POP|What?
+00:37:48,065|00:37:51,202|CC1|POP|         It's a letter from Max.
+00:37:53,371|00:37:54,472|CC1|POP|   She didn't even open it.
+00:37:54,538|00:37:56,440|CC1|POP|                    Oh, my God.
+00:37:56,507|00:37:58,643|CC1|POP|            I think I found out
+00:37:56,507|00:37:58,643|CC1|POP|           who called the cops.
+00:37:58,709|00:38:00,144|CC1|POP|                 The old people
+00:37:58,709|00:38:00,144|CC1|POP|               down the street.
+00:38:00,211|00:38:02,380|CC1|POP|   You think they could just
+00:38:00,211|00:38:02,380|CC1|POP| turn down their hearing aid,
+00:38:02,446|00:38:04,215|CC1|POP|     pull out their teeth,
+00:38:02,446|00:38:04,215|CC1|POP|  and leave me alone, but...
+00:38:06,117|00:38:08,586|CC1|POP|             Um...
+00:38:08,653|00:38:10,454|CC1|POP|   Where did you find that?
+00:38:10,521|00:38:11,689|CC1|POP|   It was in your yearbook.
+00:38:11,756|00:38:13,257|CC1|POP|            The one
+00:38:11,756|00:38:13,257|CC1|POP| that you were going to burn.
+00:38:16,327|00:38:18,462|CC1|POP|If you want to put
+00:38:16,327|00:38:18,462|CC1|POP|the past behind you,
+00:38:18,529|00:38:20,264|CC1|POP|you should at least
+00:38:18,529|00:38:20,264|CC1|POP|know what it is.
+00:38:23,668|00:38:28,339|CC1|POP|If it'll wipe those sad little
+00:38:23,668|00:38:28,339|CC1|POP|  clown looks off your faces,
+00:38:28,406|00:38:30,775|CC1|POP|           then I will read the
+00:38:28,406|00:38:30,775|CC1|POP|             letter. Here goes.
+00:38:30,841|00:38:33,411|CC1|POP|      "Dear Naomi, I know
+00:38:30,841|00:38:33,411|CC1|POP| you don't want to talk to me,
+00:38:33,477|00:38:35,146|CC1|POP| "but I hate that I hurt you.
+00:38:35,212|00:38:37,782|CC1|POP|     "Am so sorry for what
+00:38:35,212|00:38:37,782|CC1|POP|I said at the doctor's office.
+00:38:37,848|00:38:39,383|CC1|POP|        "Neither of us
+00:38:37,848|00:38:39,383|CC1|POP|      wanted a baby. I...
+00:38:39,450|00:38:40,418|CC1|POP|What?
+00:38:40,484|00:38:41,719|CC1|POP|     ...never meant to..."
+00:38:41,786|00:38:42,987|CC1|POP|Oh, my God, Naomi, you were...
+00:38:43,054|00:38:44,755|CC1|POP|        No, it was just
+00:38:43,054|00:38:44,755|CC1|POP|  a stupid false alarm. I...
+00:38:47,692|00:38:48,993|CC1|POP|                   I don't have
+00:38:47,692|00:38:48,993|CC1|POP|                   to read this.
+00:38:49,060|00:38:50,828|CC1|POP|         Um, actually,
+00:38:49,060|00:38:50,828|CC1|POP|     why do I want to know
+00:38:50,895|00:38:52,296|CC1|POP|    why he's sorry, anyway?
+00:38:52,363|00:38:53,898|CC1|POP|You know what I'm sorry about?
+00:38:53,964|00:38:55,366|CC1|POP|                I'm sorry about
+00:38:53,964|00:38:55,366|CC1|POP|                  the fact that
+00:38:55,433|00:38:57,768|CC1|POP|         I even let myself feel
+00:38:55,433|00:38:57,768|CC1|POP|         to begin with. I mean,
+00:38:57,835|00:38:58,903|CC1|POP|         the old Naomi
+00:38:57,835|00:38:58,903|CC1|POP|     would never do that.
+00:38:58,969|00:39:00,271|CC1|POP| She would never fall in love.
+00:39:00,338|00:39:02,707|CC1|POP|            Especially not with
+00:39:00,338|00:39:02,707|CC1|POP|      some geek who didn't even
+00:39:02,773|00:39:04,542|CC1|POP|                         love me
+00:39:02,773|00:39:04,542|CC1|POP|                           back.
+00:39:02,773|00:39:04,542|CC1|POP|        Hey.
+00:39:04,608|00:39:07,311|CC1|POP|You're gonna be okay.
+00:39:11,182|00:39:14,218|CC1|POP|     Yeah. Of course I am.
+00:39:15,319|00:39:17,455|CC1|POP|       I'm Naomi Clark.
+00:39:17,521|00:39:18,522|CC1|POP|                     And I have
+00:39:18,589|00:39:20,191|CC1|POP|      better things to do
+00:39:20,257|00:39:23,494|CC1|POP|         than just...
+00:39:20,257|00:39:23,494|CC1|POP|    cry about little boys.
+00:39:23,561|00:39:26,764|CC1|POP|         Can one of you help me
+00:39:23,561|00:39:26,764|CC1|POP|    with the rest of this sushi
+00:39:26,831|00:39:28,933|CC1|POP|          so that I can dump it
+00:39:26,831|00:39:28,933|CC1|POP|        in the neighbor's pool?
+00:39:35,139|00:39:37,641|CC1|POP|Hey, don't.
+00:39:35,139|00:39:37,641|CC1|POP|Don't, don't.
+00:39:37,708|00:39:41,011|CC1|POP|I know she doesn't want to know
+00:39:37,708|00:39:41,011|CC1|POP|what Max was thinking right now,
+00:39:41,078|00:39:44,415|CC1|POP|but some day she will.
+00:39:44,482|00:39:46,917|CC1|POP|           I would.
+00:39:51,389|00:39:53,457|CC1|POP|           (yawning)
+00:39:53,524|00:39:55,292|CC1|POP|              &l &l
+00:39:58,763|00:40:00,831|CC1|POP|           (laughs)
+00:40:00,898|00:40:03,267|CC1|POP|      WOMAN (over P.A.):
+00:40:00,898|00:40:03,267|CC1|POP|    As we begin our flight
+00:40:00,898|00:40:03,267|CC1|POP|         this morning,
+00:40:03,334|00:40:04,702|CC1|POP|     the captain has asked
+00:40:04,769|00:40:07,004|CC1|POP|     that you turn off all
+00:40:04,769|00:40:07,004|CC1|POP|electronic devices at this time.
+00:40:09,006|00:40:10,941|CC1|POP|          (groaning)
+00:40:11,008|00:40:12,843|CC1|POP|           (grunts)
+00:40:15,713|00:40:17,982|CC1|POP|         (gull cawing)
+00:40:18,048|00:40:19,817|CC1|POP|              &l &l
+00:40:26,457|00:40:27,825|CC1|POP|            (sighs)
+00:40:27,892|00:40:30,027|CC1|POP| I needed someone to talk to,
+00:40:30,094|00:40:32,730|CC1|POP|and I sort of met your roommate.
+00:40:36,267|00:40:38,169|CC1|POP|     Hey, Dad, it's Teddy.
+00:40:38,235|00:40:40,237|CC1|POP|It was really good seeing you.
+00:40:40,304|00:40:42,173|CC1|POP|I just want to let you know...
+00:40:44,575|00:40:46,610|CC1|POP|          ...I'm gay.
+00:40:49,346|00:40:53,050|CC1|POP|       Where's my check?
+00:40:49,346|00:40:53,050|CC1|POP|       Where's my check?
+00:40:53,117|00:40:54,385|CC1|POP|                  Good morning,
+00:40:53,117|00:40:54,385|CC1|POP|                          boss.
+00:40:54,452|00:40:55,986|CC1|POP|            (sighs)
+00:40:56,053|00:40:58,789|CC1|POP|    Captioning sponsored by
+00:40:56,053|00:40:58,789|CC1|POP|              CBS
+00:40:58,856|00:41:01,859|CC1|POP|      and FORD. Drive One.

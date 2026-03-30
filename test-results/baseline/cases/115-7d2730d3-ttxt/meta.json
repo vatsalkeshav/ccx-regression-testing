@@ -1,0 +1,9 @@
+{
+  "case_id": "115-7d2730d3-ttxt",
+  "exit_code": 0,
+  "files": [
+    "out.p1.svc01.txt"
+  ],
+  "term_signal": null,
+  "term_signal_name": ""
+}

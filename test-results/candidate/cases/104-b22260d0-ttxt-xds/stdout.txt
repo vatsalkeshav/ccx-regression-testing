@@ -1,0 +1,74 @@
+CCExtractor 0.96.5, Carlos Fernandez Sanz, Volker Quetschke.
+Teletext portions taken from Petr Kutalek's telxcc
+--------------------------------------------------------------------------
+Input: /Users/dev/ccextractor-rel/testing-harness/samples/b22260d065ab537899baaf34e78a5184671f4bcb2df0414d05e6345adfd7812f.ts
+[Extract: 1] [Stream mode: Autodetect]
+[Program : Auto ] [Hauppage mode: No] [Use MythTV code: Auto]
+[CEA-708: 63 decoders active]
+[CEA-708: using charset "none" for all services]
+[Timing mode: Auto] [Debug: No] [Buffer input: No]
+[Use pic_order_cnt_lsb for H.264: No] [Print CC decoder traces: No]
+[Target format: .txt] [Encoding: Latin-1] [Delay: 0] [Trim lines: No]
+[Add font color data: Yes] [Add font typesetting: Yes]
+[Convert case: No][Filter profanity: No] [Video-edit join: No]
+[Extraction start time: not set (from start)]
+[Extraction end time: not set (to end)]
+[Live stream: No] [Clock frequency: 90000]
+[Teletext page: Autodetect]
+[Start credits text: None]
+[Quantisation-mode: None]
+[Tesseract PSM: 3]
+
+-----------------------------------------------------------------
+[KOpening file: /Users/dev/ccextractor-rel/testing-harness/samples/b22260d065ab537899baaf34e78a5184671f4bcb2df0414d05e6345adfd7812f.ts
+File seems to be a transport stream[KAnalyzing data in general mode
+
+
+New video information found
+[1920 * 1080] [AR: 03 - 16:9] [FR: 04 - 29.97] [progressive: no]
+
+XDS: ContentAdvisory: US TV Parental Guidelines. Age Rating: TV-PG (Parental Guidance Suggested)
+  XDS: [Adult Language] [Sexually Suggestive Dialog] 
+  XDS Program Type: [21-Entertainment] [41-Farm] [40-Fantasy] [40-Fantasy] 
+XDS Notice: Program is now Gaga My Gaultier
+XDS Notice: Network is now CBS
+XDS: Program changed.
+XDS program start time (DD/MM HH:MM) 12-09 20:00
+XDS: Program length (HH:MM): 01:16  Elapsed (HH:MM): 01:14
+XDS Notice: Program is now   
+XDS: ContentAdvisory: US TV Parental Guidelines. Age Rating: TV-PG (Parental Guidance Suggested)
+  XDS: [Violence] [Adult Language] [Sexually Suggestive Dialog] 
+  XDS Notice: Program is now CW Fall Preview
+XDS Program Type: [21-Entertainment] [40-Fantasy] [40-Fantasy] [40-Fantasy] 
+XDS Program Type: [21-Entertainment] [40-Fantasy] 
+XDS Program Type: [21-Entertainment] [40-Fantasy] [40-Fantasy] [40-Fantasy] 
+XDS: CGMS: Copy permitted (no restrictions)
+XDS: APS: No APS
+XDS: Redistribution Control Descriptor: 0
+
+Number of NAL_type_7: 0
+Number of VCL_HRD: 0
+Number of NAL HRD: 0
+Number of jump-in-frames: 0
+Number of num_unexpected_sei_length: 0
+
+Total frames time:	  00:28:54:265  (51976 frames at 29.97fps)
+[KCC type 0: 17040 (NTSC line 21 field 1 closed captions)
+CC type 1: 51929 (NTSC line 21 field 2 closed captions)
+CC type 2: 89450 (DTVCC Channel Packet Data)
+CC type 3: 34840 (DTVCC Channel Packet Start)
+
+Min PTS:				00:00:00:231
+Max PTS:				00:28:54:529
+Length:				 00:28:54:298
+
+Initial GOP time:	   00:00:00:000
+Final GOP time:		 00:28:54:200 +2F
+Diff. GOP length:	   00:28:54:200 +2F	(00:28:54:266)
+
+Number of key frames: 3471
+Total user data fields: 51930
+HDTV type user data fields: 51930
+[KDone, processing time = 18 seconds
+Issues? Open a ticket here
+https://github.com/CCExtractor/ccextractor/issues

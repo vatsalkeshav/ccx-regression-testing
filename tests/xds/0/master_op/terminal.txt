@@ -1,74 +1,0 @@
-CCExtractor 0.96.5, Carlos Fernandez Sanz, Volker Quetschke.
-Teletext portions taken from Petr Kutalek's telxcc
---------------------------------------------------------------------------
-Input: 0.ts
-[Extract: 1] [Stream mode: Autodetect]
-[Program : Auto ] [Hauppage mode: No] [Use MythTV code: Auto]
-[CEA-708: 63 decoders active]
-[CEA-708: using charset "none" for all services]
-[Timing mode: Auto] [Debug: No] [Buffer input: No]
-[Use pic_order_cnt_lsb for H.264: No] [Print CC decoder traces: No]
-[Target format: .txt] [Encoding: Latin-1] [Delay: 0] [Trim lines: No]
-[Add font color data: Yes] [Add font typesetting: Yes]
-[Convert case: No][Filter profanity: No] [Video-edit join: No]
-[Extraction start time: not set (from start)]
-[Extraction end time: not set (to end)]
-[Live stream: No] [Clock frequency: 90000]
-[Teletext page: Autodetect]
-[Start credits text: None]
-[Quantisation-mode: None]
-[Tesseract PSM: 3]
-
------------------------------------------------------------------
-[KOpening file: 0.ts
-File seems to be a transport stream[KAnalyzing data in general mode
-
-
-New video information found
-[1920 * 1080] [AR: 03 - 16:9] [FR: 04 - 29.97] [progressive: no]
-
-  0%  |  00:00[KXDS: ContentAdvisory: US TV Parental Guidelines. Age Rating: TV-PG (Parental Guidance Suggested)
-  [KXDS: [Adult Language] [Sexually Suggestive Dialog] 
-  [KXDS Program Type: [21-Entertainment] [41-Farm] [40-Fantasy] [40-Fantasy] 
-[KXDS Notice: Program is now Gaga My Gaultier
-XDS Notice: Network is now CBS
-[KXDS: Program changed.
-XDS program start time (DD/MM HH:MM) 12-09 20:00
-[KXDS: Program length (HH:MM): 01:16  Elapsed (HH:MM): 01:14
-[KXDS Notice: Program is now   
-[KXDS: ContentAdvisory: US TV Parental Guidelines. Age Rating: TV-PG (Parental Guidance Suggested)
-  [KXDS: [Violence] [Adult Language] [Sexually Suggestive Dialog] 
-  [KXDS Notice: Program is now CW Fall Preview
-[KXDS Program Type: [21-Entertainment] [40-Fantasy] [40-Fantasy] [40-Fantasy] 
-  1%  |  00:16  2%  |  00:34[KXDS Program Type: [21-Entertainment] [40-Fantasy] 
-[KXDS Program Type: [21-Entertainment] [40-Fantasy] [40-Fantasy] [40-Fantasy] 
-  3%  |  00:51  4%  |  01:09  5%  |  01:26  6%  |  01:43  7%  |  02:01  8%  |  02:18  9%  |  02:35 10%  |  02:53 11%  |  03:10 12%  |  03:28 13%  |  03:45 14%  |  04:02 15%  |  04:20 16%  |  04:37 17%  |  04:54 18%  |  05:12 19%  |  05:29 20%  |  05:46 21%  |  06:03 22%  |  06:21 23%  |  06:38 24%  |  06:56 25%  |  07:13 26%  |  07:30 27%  |  07:48 28%  |  08:05 29%  |  08:22 30%  |  08:40 31%  |  08:57 32%  |  09:14 33%  |  09:32 34%  |  09:49 35%  |  10:06 36%  |  10:24 37%  |  10:41 38%  |  10:58 39%  |  11:16 40%  |  11:33 41%  |  11:50 42%  |  12:08 43%  |  12:25 44%  |  12:42 45%  |  13:00[KXDS: CGMS: Copy permitted (no restrictions)
-[KXDS: APS: No APS
-[KXDS: Redistribution Control Descriptor: 0
- 46%  |  13:17 47%  |  13:35 48%  |  13:52 49%  |  14:09 50%  |  14:27 51%  |  14:44 52%  |  15:01 53%  |  15:19 54%  |  15:36 55%  |  15:53 56%  |  16:11 57%  |  16:28 58%  |  16:45 59%  |  17:03 60%  |  17:20 61%  |  17:37 62%  |  17:55 63%  |  18:12 64%  |  18:29 65%  |  18:47 66%  |  19:04 67%  |  19:21 68%  |  19:39 69%  |  19:56 70%  |  20:14 71%  |  20:31 72%  |  20:48 73%  |  21:05 74%  |  21:23 75%  |  21:40 76%  |  21:57 77%  |  22:15 78%  |  22:32 79%  |  22:49 80%  |  23:07 81%  |  23:24 82%  |  23:42 83%  |  23:59 84%  |  24:16 85%  |  24:33 86%  |  24:51 87%  |  25:08 88%  |  25:26 89%  |  25:43 90%  |  26:00 91%  |  26:18 92%  |  26:35 93%  |  26:52 94%  |  27:10 95%  |  27:27 96%  |  27:44 97%  |  28:02 98%  |  28:19 99%  |  28:36100%  |  28:54
-Number of NAL_type_7: 0
-Number of VCL_HRD: 0
-Number of NAL HRD: 0
-Number of jump-in-frames: 0
-Number of num_unexpected_sei_length: 0
-
-Total frames time:	  00:28:54:265  (51976 frames at 29.97fps)
-[KCC type 0: 17040 (NTSC line 21 field 1 closed captions)
-CC type 1: 51929 (NTSC line 21 field 2 closed captions)
-CC type 2: 89450 (DTVCC Channel Packet Data)
-CC type 3: 34840 (DTVCC Channel Packet Start)
-
-Min PTS:				00:00:00:231
-Max PTS:				00:28:54:529
-Length:				 00:28:54:298
-
-Initial GOP time:	   00:00:00:000
-Final GOP time:		 00:28:54:200 +2F
-Diff. GOP length:	   00:28:54:200 +2F	(00:28:54:266)
-
-Number of key frames: 3471
-Total user data fields: 51930
-HDTV type user data fields: 51930
-[KDone, processing time = 18 seconds
-Issues? Open a ticket here
-https://github.com/CCExtractor/ccextractor/issues

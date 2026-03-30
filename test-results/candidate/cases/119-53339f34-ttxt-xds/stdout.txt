@@ -1,0 +1,59 @@
+CCExtractor 0.96.5, Carlos Fernandez Sanz, Volker Quetschke.
+Teletext portions taken from Petr Kutalek's telxcc
+--------------------------------------------------------------------------
+Input: /Users/dev/ccextractor-rel/testing-harness/samples/53339f345506e34cd0fea7a5c7c88098ee18f75de578e3e1ee3b7f727241a66a.ts
+[Extract: 1] [Stream mode: Autodetect]
+[Program : Auto ] [Hauppage mode: No] [Use MythTV code: Auto]
+[CEA-708: 63 decoders active]
+[CEA-708: using charset "none" for all services]
+[Timing mode: Auto] [Debug: No] [Buffer input: No]
+[Use pic_order_cnt_lsb for H.264: No] [Print CC decoder traces: No]
+[Target format: .txt] [Encoding: Latin-1] [Delay: 0] [Trim lines: No]
+[Add font color data: Yes] [Add font typesetting: Yes]
+[Convert case: No][Filter profanity: No] [Video-edit join: No]
+[Extraction start time: not set (from start)]
+[Extraction end time: not set (to end)]
+[Live stream: No] [Clock frequency: 90000]
+[Teletext page: Autodetect]
+[Start credits text: None]
+[Quantisation-mode: None]
+[Tesseract PSM: 3]
+
+-----------------------------------------------------------------
+[KOpening file: /Users/dev/ccextractor-rel/testing-harness/samples/53339f345506e34cd0fea7a5c7c88098ee18f75de578e3e1ee3b7f727241a66a.ts
+File seems to be a transport stream[KAnalyzing data in general mode
+
+
+New video information found
+[1920 * 1080] [AR: 03 - 16:9] [FR: 04 - 29.97] [progressive: no]
+
+XDS: ContentAdvisory: US TV Parental Guidelines. Age Rating: TV-G (General Audience)
+  XDS description line 0: America Now
+XDS Notice: Program is now Ellen DeGeneres Show, The
+
+Number of NAL_type_7: 0
+Number of VCL_HRD: 0
+Number of NAL HRD: 0
+Number of jump-in-frames: 0
+Number of num_unexpected_sei_length: 0
+
+Total frames time:	  00:06:08:301  (11038 frames at 29.97fps)
+[KCC type 0: 667 (NTSC line 21 field 1 closed captions)
+CC type 1: 3193 (NTSC line 21 field 2 closed captions)
+CC type 2: 3464 (DTVCC Channel Packet Data)
+CC type 3: 1058 (DTVCC Channel Packet Start)
+
+Min PTS:				00:00:00:379
+Max PTS:				00:06:08:713
+Length:				 00:06:08:334
+
+Initial GOP time:	   00:00:00:000
+Final GOP time:		 00:06:07:367+29F
+Diff. GOP length:	   00:06:07:367+29F	(00:06:08:334)
+
+Number of key frames: 276
+Total user data fields: 22068
+HDTV type user data fields: 11034
+[KDone, processing time = 3 seconds
+Issues? Open a ticket here
+https://github.com/CCExtractor/ccextractor/issues

@@ -1,0 +1,56 @@
+CCExtractor 0.96.5, Carlos Fernandez Sanz, Volker Quetschke.
+Teletext portions taken from Petr Kutalek's telxcc
+--------------------------------------------------------------------------
+Input: /Users/dev/ccextractor-rel/testing-harness/samples/0069dffd21806a08d21a0f2ef8209c00c84a5a7e5cd5468ad326898f7431eb8e.mpg
+[Extract: 1] [Stream mode: Autodetect]
+[Program : Auto ] [Hauppage mode: No] [Use MythTV code: Auto]
+[CEA-708: 63 decoders active]
+[CEA-708: using charset "none" for all services]
+[Timing mode: Auto] [Debug: No] [Buffer input: No]
+[Use pic_order_cnt_lsb for H.264: No] [Print CC decoder traces: No]
+[Target format: .txt] [Encoding: Latin-1] [Delay: 0] [Trim lines: No]
+[Add font color data: Yes] [Add font typesetting: Yes]
+[Convert case: No][Filter profanity: No] [Video-edit join: No]
+[Extraction start time: not set (from start)]
+[Extraction end time: not set (to end)]
+[Live stream: No] [Clock frequency: 90000]
+[Teletext page: Autodetect]
+[Start credits text: None]
+[Quantisation-mode: None]
+[Tesseract PSM: 3]
+
+-----------------------------------------------------------------
+[KOpening file: /Users/dev/ccextractor-rel/testing-harness/samples/0069dffd21806a08d21a0f2ef8209c00c84a5a7e5cd5468ad326898f7431eb8e.mpg
+File seems to be a program stream[KAnalyzing data in general mode
+
+
+New video information found
+[720 * 480] [AR: 02 - 4:3] [FR: 04 - 29.97] [progressive: no]
+
+XDS Notice: Network call letters now WLS
+XDS: ContentAdvisory: US TV Parental Guidelines. Age Rating: None
+  XDS Notice: Network is now ABC
+Unknown header B9
+
+Number of NAL_type_7: 0
+Number of VCL_HRD: 0
+Number of NAL HRD: 0
+Number of jump-in-frames: 0
+Number of num_unexpected_sei_length: 0
+
+Total frames time:	  00:04:59:999  (8991 frames at 29.97fps)
+
+Min PTS:				00:00:00:200
+Max PTS:				00:05:00:232
+Length:				 00:05:00:032
+
+Initial GOP time:	   00:00:00:000
+Final GOP time:		 00:04:59:767 +6F
+Diff. GOP length:	   00:04:59:767 +6F	(00:04:59:967)
+
+Number of key frames: 600
+Total user data fields: 599
+DVD-type user data fields: 599
+[KDone, processing time = 1 seconds
+Issues? Open a ticket here
+https://github.com/CCExtractor/ccextractor/issues

@@ -1,0 +1,63 @@
+CCExtractor 0.96.5, Carlos Fernandez Sanz, Volker Quetschke.
+Teletext portions taken from Petr Kutalek's telxcc
+--------------------------------------------------------------------------
+Input: /Users/dev/ccextractor-rel/testing-harness/samples/d0291cdcf69f765bdb990a726a9014a08808a40e32b27002325859c1d24029e4.ts
+[Extract: 1] [Stream mode: Autodetect]
+[Program : Auto ] [Hauppage mode: No] [Use MythTV code: Auto]
+[CEA-708: 63 decoders active]
+[CEA-708: using charset "none" for all services]
+[Timing mode: Auto] [Debug: No] [Buffer input: No]
+[Use pic_order_cnt_lsb for H.264: No] [Print CC decoder traces: No]
+[Target format: .txt] [Encoding: Latin-1] [Delay: 0] [Trim lines: No]
+[Add font color data: Yes] [Add font typesetting: Yes]
+[Convert case: No][Filter profanity: No] [Video-edit join: No]
+[Extraction start time: not set (from start)]
+[Extraction end time: not set (to end)]
+[Live stream: No] [Clock frequency: 90000]
+[Teletext page: Autodetect]
+[Start credits text: None]
+[Quantisation-mode: None]
+[Tesseract PSM: 3]
+
+-----------------------------------------------------------------
+[KOpening file: /Users/dev/ccextractor-rel/testing-harness/samples/d0291cdcf69f765bdb990a726a9014a08808a40e32b27002325859c1d24029e4.ts
+File seems to be a transport stream[KAnalyzing data in general mode
+
+This TS file has more than one program. These are the program numbers found: 
+3
+4
+5
+
+
+New video information found
+[1920 * 1080] [AR: 03 - 16:9] [FR: 04 - 29.97] [progressive: no]
+
+[KXDS Notice: Program is now Poker After Dark
+[KXDS: ContentAdvisory: US TV Parental Guidelines. Age Rating: TV-14 (Parents Strongly Cautioned)
+  
+Number of NAL_type_7: 0
+Number of VCL_HRD: 0
+Number of NAL HRD: 0
+Number of jump-in-frames: 0
+Number of num_unexpected_sei_length: 0
+
+Total frames time:	  00:00:06:039  (181 frames at 29.97fps)
+[KCC type 0: 73 (NTSC line 21 field 1 closed captions)
+CC type 1: 181 (NTSC line 21 field 2 closed captions)
+CC type 2: 294 (DTVCC Channel Packet Data)
+CC type 3: 134 (DTVCC Channel Packet Start)
+
+Min PTS:				16:08:22:203
+Max PTS:				16:08:26:707
+Length:				 00:00:04:504
+
+Initial GOP time:	   00:00:00:000
+Final GOP time:		 00:00:00:000 +1F
+Diff. GOP length:	   00:00:00:000 +1F	(00:00:00:033)
+
+Number of key frames: 5
+Total user data fields: 362
+HDTV type user data fields: 181
+[KDone, processing time = 0 seconds
+Issues? Open a ticket here
+https://github.com/CCExtractor/ccextractor/issues

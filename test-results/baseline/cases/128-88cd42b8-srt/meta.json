@@ -1,0 +1,10 @@
+{
+  "case_id": "128-88cd42b8-srt",
+  "exit_code": 0,
+  "files": [
+    "out.p1.svc01.srt",
+    "out.p1.svc02.srt"
+  ],
+  "term_signal": null,
+  "term_signal_name": ""
+}

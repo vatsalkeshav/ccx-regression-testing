@@ -1,0 +1,73 @@
+CCExtractor 0.96.5, Carlos Fernandez Sanz, Volker Quetschke.
+Teletext portions taken from Petr Kutalek's telxcc
+--------------------------------------------------------------------------
+Input: /Users/dev/ccextractor-rel/testing-harness/samples/88cd42b89aa0795c40388e562bc05c128027c856ecbb61b039bdf72645ac018f.ts
+[Extract: 1] [Stream mode: Autodetect]
+[Program : Auto ] [Hauppage mode: No] [Use MythTV code: Auto]
+[CEA-708: 63 decoders active]
+[CEA-708: using charset "none" for all services]
+[Timing mode: Auto] [Debug: No] [Buffer input: No]
+[Use pic_order_cnt_lsb for H.264: No] [Print CC decoder traces: No]
+[Target format: .txt] [Encoding: Latin-1] [Delay: 0] [Trim lines: No]
+[Add font color data: Yes] [Add font typesetting: Yes]
+[Convert case: No][Filter profanity: No] [Video-edit join: No]
+[Extraction start time: not set (from start)]
+[Extraction end time: not set (to end)]
+[Live stream: No] [Clock frequency: 90000]
+[Teletext page: Autodetect]
+[Start credits text: None]
+[Quantisation-mode: None]
+[Tesseract PSM: 3]
+
+-----------------------------------------------------------------
+[KOpening file: /Users/dev/ccextractor-rel/testing-harness/samples/88cd42b89aa0795c40388e562bc05c128027c856ecbb61b039bdf72645ac018f.ts
+File seems to be a transport stream[KAnalyzing data in general mode
+
+
+New video information found
+[1920 * 1080] [AR: 03 - 16:9] [FR: 04 - 29.97] [progressive: no]
+
+[KXDS: Program changed.
+XDS program start time (DD/MM HH:MM) 11-09 20:00
+XDS Notice: Network is now HBO HD
+[KXDS: ContentAdvisory: US TV Parental Guidelines. Age Rating: TV-MA (Mature Audience Only)
+  [KXDS: [Violence] [Adult Language] 
+  [KXDS: Program length (HH:MM): 01:03  Elapsed (HH:MM): 01:00
+[KXDS Notice: Program is now BOARDWALK EMPIRE 11: PARIS GREEN
+[KXDS: CGMS: One generation of copies can be made
+[KXDS: APS: No APS
+[KXDS: Redistribution Control Descriptor: 0
+[KXDS Notice: Program is now   
+[KXDS: Program changed.
+XDS program start time (DD/MM HH:MM) 11-09 21:04
+[KXDS: ContentAdvisory: US TV Parental Guidelines. Age Rating: TV-MA (Mature Audience Only)
+  [KXDS: [Violence] [Sexual Situations] [Adult Language] 
+  [KXDS Notice: Program is now TRUE BLOOD 48: AND WHEN I DIE
+
+Number of NAL_type_7: 0
+Number of VCL_HRD: 0
+Number of NAL HRD: 0
+Number of jump-in-frames: 0
+Number of num_unexpected_sei_length: 0
+
+Total frames time:	  00:59:29:065  (106965 frames at 29.97fps)
+[KCC type 0: 20785 (NTSC line 21 field 1 closed captions)
+CC type 1: 106961 (NTSC line 21 field 2 closed captions)
+CC type 2: 153978 (DTVCC Channel Packet Data)
+CC type 3: 48664 (DTVCC Channel Packet Start)
+incl. pulldown frames:  00:11:12:371  (20151 frames at 29.97fps)
+
+Min PTS:				00:00:00:379
+Max PTS:				00:59:29:444
+Length:				 00:59:29:065
+
+Initial GOP time:	   00:00:00:000
+Final GOP time:		 00:59:29:066 +1F
+Diff. GOP length:	   00:59:29:066 +1F	(00:59:29:099)
+
+Number of key frames: 2688
+Total user data fields: 86811
+HDTV type user data fields: 86811
+[KDone, processing time = 36 seconds
+Issues? Open a ticket here
+https://github.com/CCExtractor/ccextractor/issues

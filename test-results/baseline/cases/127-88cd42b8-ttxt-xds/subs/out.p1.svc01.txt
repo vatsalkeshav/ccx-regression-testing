@@ -1,0 +1,1543 @@
+00:00:02,485|00:00:04,521|CC1|POP|        SOOKIE:
+00:00:02,485|00:00:04,521|CC1|POP|         <i>Bill and Eric are here</i>
+00:00:02,485|00:00:04,521|CC1|POP|         <i>to blow up the place.</i>
+00:00:04,554|00:00:06,423|CC1|POP|          If we don't get out,
+00:00:04,554|00:00:06,423|CC1|POP|          we're all gonna die.
+00:00:06,456|00:00:08,541|CC1|POP|          You may leave
+00:00:06,456|00:00:08,541|CC1|POP|          at any time.
+00:00:10,093|00:00:11,077|CC1|POP|              Ah!
+00:00:11,111|00:00:12,545|CC1|POP|          (COUGHS)
+00:00:12,579|00:00:14,280|CC1|POP|                 Eric!
+00:00:12,579|00:00:14,280|CC1|POP|               Let the girl go.
+00:00:14,314|00:00:16,082|CC1|POP|            The other Eric
+00:00:14,314|00:00:16,082|CC1|POP|            is still here.
+00:00:16,132|00:00:17,217|CC1|POP|                   So what's
+00:00:16,132|00:00:17,217|CC1|POP|                   the problem?
+00:00:17,250|00:00:18,251|CC1|POP| I love you.
+00:00:18,284|00:00:19,652|CC1|POP|      I love him, too.
+00:00:19,686|00:00:22,255|CC1|POP|    MARNIE: Kill yourselves,
+00:00:19,686|00:00:22,255|CC1|POP|    and she walks free.
+00:00:22,256|00:00:23,740|CC1|POP|    I don't think so!
+00:00:23,790|00:00:25,575|CC1|POP|                No!
+00:00:25,608|00:00:27,660|CC1|POP| (SHRIEKS)
+00:00:27,661|00:00:29,729|CC1|POP|               I'm sorry, okay?
+00:00:27,661|00:00:29,729|CC1|POP|               Sookie's fine.
+00:00:29,763|00:00:31,815|CC1|POP| Get out of my sight
+00:00:29,763|00:00:31,815|CC1|POP| before I kill you.
+00:00:33,466|00:00:34,651|CC1|POP|                 (DEBBIE GASPS)
+00:00:34,684|00:00:36,436|CC1|POP|                  Alcide...
+00:00:34,684|00:00:36,436|CC1|POP|     What the fuck
+00:00:34,684|00:00:36,436|CC1|POP|     is goin' on here?
+00:00:36,469|00:00:39,189|CC1|POP| You murdered my brother.
+00:00:36,469|00:00:39,189|CC1|POP| I'm gonna snap your neck
+00:00:36,469|00:00:39,189|CC1|POP| with my own hands.
+00:00:40,740|00:00:42,375|CC1|POP|             (GROWLS)
+00:00:42,376|00:00:43,843|CC1|POP|         ALCIDE: Sam!
+00:00:43,844|00:00:45,145|CC1|POP|                  (CRUNCHES)
+00:00:45,178|00:00:46,496|CC1|POP|         (CHOKING AND GURGLING)
+00:00:46,546|00:00:47,747|CC1|POP|   What did you do?
+00:00:47,797|00:00:48,681|CC1|POP|                   Debbie Pelt.
+00:00:48,732|00:00:50,033|CC1|POP|          ALCIDE: I abjure you.
+00:00:50,066|00:00:51,551|CC1|POP|  JESUS:  <i>We need to force</i>
+00:00:50,066|00:00:51,551|CC1|POP|   <i>Antonia out of Marnie's body,</i>
+00:00:51,601|00:00:54,220|CC1|POP|       <i>and we need Casey's</i>
+00:00:51,601|00:00:54,220|CC1|POP|       <i>body to do that.</i>
+00:00:54,254|00:00:55,488|CC1|POP|    (CHANTING IN SPANISH)
+00:01:03,596|00:01:06,249|CC1|POP|         Oh, G...
+00:01:06,282|00:01:09,602|CC1|POP|           Even without your
+00:01:06,282|00:01:09,602|CC1|POP|           blood in me, you are
+00:01:06,282|00:01:09,602|CC1|POP|           all I think about.
+00:01:09,652|00:01:11,287|CC1|POP|                I'm gonna lose
+00:01:09,652|00:01:11,287|CC1|POP|                my best friend.
+00:01:11,321|00:01:14,007|CC1|POP|          I was tryin' to find
+00:01:11,321|00:01:14,007|CC1|POP|          my way out the woods,
+00:01:11,321|00:01:14,007|CC1|POP|          and I heard a zap.
+00:01:15,442|00:01:17,010|CC1|POP|               Make love to me.
+00:01:17,011|00:01:18,711|CC1|POP|               It felt so real.
+00:01:18,745|00:01:20,430|CC1|POP|      You want to
+00:01:18,745|00:01:20,430|CC1|POP|      know what's real?
+00:01:20,480|00:01:22,682|CC1|POP|  There's a waitress
+00:01:20,480|00:01:22,682|CC1|POP|  named Holly
+00:01:22,715|00:01:25,435|CC1|POP| who thinks that you're
+00:01:22,715|00:01:25,435|CC1|POP| just the cutest lawman.
+00:01:25,468|00:01:26,619|CC1|POP|          (GASPS)
+00:01:37,013|00:01:41,267|CC1|POP|     JESUS: Lafayette, did you
+00:01:37,013|00:01:41,267|CC1|POP|     hear anything I just said?
+00:01:43,903|00:01:48,158|CC1|POP| Sorry for pushing you into the
+00:01:43,903|00:01:48,158|CC1|POP| magic before you were ready.
+00:01:48,191|00:01:53,663|CC1|POP|     Thought I was helping you,
+00:01:48,191|00:01:53,663|CC1|POP|     but... I was acting just
+00:01:48,191|00:01:53,663|CC1|POP|     like my fuckin'  <i>abuelo </i>.
+00:01:57,667|00:01:59,786|CC1|POP|          You were right, baby.
+00:02:03,006|00:02:05,708|CC1|POP| JESUS: This kind of power,
+00:02:03,006|00:02:05,708|CC1|POP| it's not meant for us.
+00:02:06,960|00:02:10,463|CC1|POP| JESUS: It's too strong.
+00:02:06,960|00:02:10,463|CC1|POP| Or we're too weak.
+00:02:13,600|00:02:15,602|CC1|POP| But I swear...
+00:02:15,635|00:02:18,521|CC1|POP| To whatever the fuck is out
+00:02:15,635|00:02:18,521|CC1|POP| there, if you want to lead...
+00:02:18,555|00:02:22,058|CC1|POP| A magic-free life from here
+00:02:18,555|00:02:22,058|CC1|POP| on out, I'm all for it.
+00:02:24,444|00:02:25,562|CC1|POP|    Hey.
+00:02:29,949|00:02:31,651|CC1|POP|         Are you okay in there?
+00:02:34,287|00:02:35,488|CC1|POP|                 Yes.
+00:02:37,490|00:02:39,159|CC1|POP| JESUS: Eat your breakfast.
+00:02:39,209|00:02:43,830|CC1|POP|     I know it's not fried in
+00:02:39,209|00:02:43,830|CC1|POP|     pig fat or whatever secret
+00:02:39,209|00:02:43,830|CC1|POP|     deliciousness you use...
+00:02:43,880|00:02:45,582|CC1|POP|                   But I worked
+00:02:43,880|00:02:45,582|CC1|POP|                   hard on it.
+00:02:55,892|00:02:58,461|CC1|POP|        JESUS: I'll see
+00:02:55,892|00:02:58,461|CC1|POP|        you after work.
+00:03:06,986|00:03:08,354|CC1|POP|                     Lafayette.
+00:03:08,355|00:03:09,772|CC1|POP| Sss... Tut-tut, tut-tut.
+00:03:09,822|00:03:12,108|CC1|POP|        (JESUS SCREAMS)
+00:03:21,000|00:03:25,038|CC1|POP|        <i>&l When you came in</i>
+00:03:21,000|00:03:25,038|CC1|POP|        <i>the air went out</i>
+00:03:28,291|00:03:33,379|CC1|POP|       <i>&l And every shadow</i>
+00:03:28,291|00:03:33,379|CC1|POP|       <i>filled up with doubt</i>
+00:03:35,848|00:03:41,554|CC1|POP|     <i>&l I don't know who you</i>
+00:03:35,848|00:03:41,554|CC1|POP|     <i>think you are but before</i>
+00:03:35,848|00:03:41,554|CC1|POP|     <i>the night is through</i>
+00:03:43,606|00:03:47,560|CC1|POP|        <i>&l I want to do bad</i>
+00:03:43,606|00:03:47,560|CC1|POP|        <i>things with you</i>
+00:03:50,013|00:03:54,234|CC1|POP|        <i>&l I'm the kind to</i>
+00:03:50,013|00:03:54,234|CC1|POP|        <i>sit up in his room</i>
+00:03:57,537|00:04:01,824|CC1|POP|       <i>&l Heartsick and eyes</i>
+00:03:57,537|00:04:01,824|CC1|POP|       <i>filled up with blue</i>
+00:04:05,161|00:04:11,551|CC1|POP|    <i>&l I don't know what you've</i>
+00:04:05,161|00:04:11,551|CC1|POP|    <i>done to me but I know</i>
+00:04:05,161|00:04:11,551|CC1|POP|    <i>this much is true</i>
+00:04:12,919|00:04:16,639|CC1|POP|        <i>&l I want to do bad</i>
+00:04:12,919|00:04:16,639|CC1|POP|        <i>things with you</i>
+00:04:32,488|00:04:34,407|CC1|POP|              Ow!
+00:04:34,440|00:04:38,995|CC1|POP|      <i>&l I want to do real</i>
+00:04:34,440|00:04:38,995|CC1|POP|      <i>bad things with you &l</i>
+00:04:45,501|00:04:46,919|CC1|POP|       (SIGHS)
+00:04:57,130|00:04:58,715|CC1|POP|               TARA: Hey there.
+00:04:58,765|00:05:03,453|CC1|POP|             Mornin', Sook.
+00:04:58,765|00:05:03,453|CC1|POP|             You get any sleep?
+00:05:10,526|00:05:12,145|CC1|POP| SOOKIE: My nerves are shot.
+00:05:12,146|00:05:14,897|CC1|POP|       (SIGHS) After everything
+00:05:12,146|00:05:14,897|CC1|POP|       we've been through...
+00:05:14,932|00:05:18,067|CC1|POP|         It's a miracle we're
+00:05:14,932|00:05:18,067|CC1|POP|         not screamin' in a
+00:05:14,932|00:05:18,067|CC1|POP|         padded room somewhere.
+00:05:23,373|00:05:27,960|CC1|POP|      Tara, do you think
+00:05:23,373|00:05:27,960|CC1|POP|       Gran's in heaven?
+00:05:30,046|00:05:33,333|CC1|POP|    (CHUCKLING) Well, I've
+00:05:30,046|00:05:33,333|CC1|POP|    always considered myself
+00:05:30,046|00:05:33,333|CC1|POP|    to be an atheist.
+00:05:33,334|00:05:35,335|CC1|POP|   But if heaven does
+00:05:33,334|00:05:35,335|CC1|POP|   exist, I'm pretty sure...
+00:05:35,336|00:05:39,555|CC1|POP|       Adele Stackhouse
+00:05:35,336|00:05:39,555|CC1|POP|       would be like the
+00:05:35,336|00:05:39,555|CC1|POP|       president of it.
+00:05:39,589|00:05:41,224|CC1|POP|      Why you thinkin'
+00:05:39,589|00:05:41,224|CC1|POP|      about that, anyway?
+00:05:43,142|00:05:45,178|CC1|POP|    Marnie channeled Gran.
+00:05:45,179|00:05:49,432|CC1|POP|  'Least I think it was her.
+00:05:45,179|00:05:49,432|CC1|POP|  She warned me about Antonia.
+00:05:49,482|00:05:51,484|CC1|POP|      Told me not to give
+00:05:49,482|00:05:51,484|CC1|POP|      my heart to Eric.
+00:05:51,517|00:05:53,653|CC1|POP|    Well, she did have all
+00:05:51,517|00:05:53,653|CC1|POP|    the sense in the family.
+00:05:58,608|00:06:02,412|CC1|POP|    This mornin', I keep
+00:05:58,608|00:06:02,412|CC1|POP|    feeling like she's here.
+00:06:02,445|00:06:03,696|CC1|POP|    You mean watching over you?
+00:06:03,746|00:06:09,001|CC1|POP| No. I mean, like here, here.
+00:06:10,586|00:06:14,257|CC1|POP| I, I know it's probably
+00:06:10,586|00:06:14,257|CC1|POP| just some residual
+00:06:10,586|00:06:14,257|CC1|POP| weirdness from...
+00:06:14,290|00:06:16,426|CC1|POP| Everything that's
+00:06:14,290|00:06:16,426|CC1|POP| been goin' on...
+00:06:16,459|00:06:19,095|CC1|POP|     But, I just can't
+00:06:16,459|00:06:19,095|CC1|POP|     shake this feelin'.
+00:06:19,128|00:06:21,381|CC1|POP|  Well, if she was here, what
+00:06:19,128|00:06:21,381|CC1|POP|  do you think she'd say to us?
+00:06:21,382|00:06:23,216|CC1|POP|   To be good to each other.
+00:06:23,266|00:06:24,801|CC1|POP|       And wear more sunscreen.
+00:06:24,851|00:06:27,320|CC1|POP|     And stop gettin' into
+00:06:24,851|00:06:27,320|CC1|POP|     so much dang trouble.
+00:06:27,353|00:06:29,138|CC1|POP|                 (LAUGHS)
+00:06:29,188|00:06:31,891|CC1|POP|        What are we, like,
+00:06:29,188|00:06:31,891|CC1|POP|        magnets for fucking
+00:06:29,188|00:06:31,891|CC1|POP|        craziness or somethin'?
+00:06:31,892|00:06:33,893|CC1|POP|     Lord, I hope not.
+00:06:33,943|00:06:39,115|CC1|POP|    Someday, I see myself
+00:06:33,943|00:06:39,115|CC1|POP|    growin' old and...
+00:06:39,148|00:06:45,738|CC1|POP|   Sittin' on the porch with
+00:06:39,148|00:06:45,738|CC1|POP|   my grandbabies on my lap,
+00:06:39,148|00:06:45,738|CC1|POP|   just watchin' the sunset.
+00:06:45,788|00:06:49,575|CC1|POP|   Hope I get to sit on that
+00:06:45,788|00:06:49,575|CC1|POP|   porch wit'cha someday.
+00:06:49,625|00:06:51,043|CC1|POP|           Me, too.
+00:06:59,385|00:07:02,922|CC1|POP|                (MAXINE CRYING)
+00:07:02,972|00:07:08,344|CC1|POP|       Oh... He was a devious
+00:07:02,972|00:07:08,344|CC1|POP|       little son of a bitch...
+00:07:08,394|00:07:10,930|CC1|POP|         But somewhere in there
+00:07:08,394|00:07:10,930|CC1|POP|         he had a good heart.
+00:07:10,980|00:07:15,067|CC1|POP|      Not a lot of people got
+00:07:10,980|00:07:15,067|CC1|POP|      to see that. I was lucky
+00:07:10,980|00:07:15,067|CC1|POP|      enough to be one of 'em.
+00:07:15,101|00:07:19,155|CC1|POP| Well, thank you for comin'.
+00:07:15,101|00:07:19,155|CC1|POP| It would have meant
+00:07:15,101|00:07:19,155|CC1|POP| a lot to my brother.
+00:07:19,822|00:07:21,607|CC1|POP|                  He said...
+00:07:21,608|00:07:25,244|CC1|POP|  "Sam shootin' me was the
+00:07:21,608|00:07:25,244|CC1|POP|  best thing that ever happened
+00:07:21,608|00:07:25,244|CC1|POP|  to me, Ms. Fortenberry.
+00:07:25,278|00:07:28,831|CC1|POP|          "Cause it brought me
+00:07:25,278|00:07:28,831|CC1|POP|          to you and the Lord."
+00:07:28,865|00:07:31,951|CC1|POP|               Oh... Sweet boy.
+00:07:34,203|00:07:37,623|CC1|POP|           'Course, then he
+00:07:34,203|00:07:37,623|CC1|POP|           stole a bunch of my
+00:07:34,203|00:07:37,623|CC1|POP|           clothes and jewelry.
+00:07:38,791|00:07:40,760|CC1|POP|                Even a pair of
+00:07:38,791|00:07:40,760|CC1|POP|                my underpants.
+00:07:42,178|00:07:44,130|CC1|POP|                And my favorite
+00:07:42,178|00:07:44,130|CC1|POP|                church shoes.
+00:07:45,631|00:07:47,183|CC1|POP| Well, I'm sorry.
+00:07:48,885|00:07:52,605|CC1|POP| Um... Nobody taught Tommy
+00:07:48,885|00:07:52,605|CC1|POP| how to love somebody
+00:07:48,885|00:07:52,605|CC1|POP| without hurtin' 'em.
+00:07:53,890|00:07:55,975|CC1|POP|     I let him down
+00:07:53,890|00:07:55,975|CC1|POP|     that way, too.
+00:07:57,109|00:08:00,396|CC1|POP|            My guess is nobody
+00:07:57,109|00:08:00,396|CC1|POP|            taught you neither.
+00:08:01,731|00:08:04,901|CC1|POP|          We all do the best we
+00:08:01,731|00:08:04,901|CC1|POP|          can with what we got.
+00:08:07,320|00:08:11,991|CC1|POP|      I'm gonna bring by one of
+00:08:07,320|00:08:11,991|CC1|POP|      my...my famous pork rind
+00:08:07,320|00:08:11,991|CC1|POP|      casseroles later.
+00:08:12,041|00:08:16,212|CC1|POP| No. No, don't trouble
+00:08:12,041|00:08:16,212|CC1|POP| yourself, Ms. Fortenberry.
+00:08:12,041|00:08:16,212|CC1|POP|                  Oh, nonsense.
+00:08:16,245|00:08:19,382|CC1|POP|     Tommy may not have been
+00:08:16,245|00:08:19,382|CC1|POP|     my flesh and blood, but...
+00:08:20,383|00:08:22,218|CC1|POP|            He was a son to me.
+00:08:24,337|00:08:27,757|CC1|POP|               You call me Mama
+00:08:24,337|00:08:27,757|CC1|POP|               from now on.
+00:08:27,807|00:08:30,393|CC1|POP|        Uh...
+00:08:27,807|00:08:30,393|CC1|POP|            We're all the
+00:08:27,807|00:08:30,393|CC1|POP|            family we got left.
+00:08:43,573|00:08:45,274|CC1|POP|            (SIGHS)
+00:08:46,526|00:08:48,761|CC1|POP|           (SNIFFS)
+00:09:00,456|00:09:01,707|CC1|POP|            Hey...
+00:09:09,465|00:09:14,136|CC1|POP|      (CHAINSAW CUTTING)
+00:09:14,186|00:09:18,274|CC1|POP| JASON: (TO HIMSELF)
+00:09:14,186|00:09:18,274|CC1|POP| Jason Stackhouse, you
+00:09:14,186|00:09:18,274|CC1|POP| are a good person.
+00:09:18,307|00:09:23,029|CC1|POP| Yes, you are.
+00:09:18,307|00:09:23,029|CC1|POP| Shut up.
+00:09:25,781|00:09:29,485|CC1|POP| (CHAINSAW CONTINUES CUTTING)
+00:09:36,325|00:09:37,410|CC1|POP|          HOYT: Hey, Jason!
+00:09:37,411|00:09:39,245|CC1|POP|          Hey, buddy. Uh...
+00:09:40,263|00:09:41,397|CC1|POP| JASON: What'cha doin'?
+00:09:41,431|00:09:45,918|CC1|POP|       Ah... Oh, just
+00:09:41,431|00:09:45,918|CC1|POP|       workin'. You know?
+00:09:45,919|00:09:48,304|CC1|POP| HOYT: (SIGHS) What you doin'?
+00:09:48,337|00:09:52,975|CC1|POP|    Just chillin'. You know,
+00:09:48,337|00:09:52,975|CC1|POP|    it's a nice day...
+00:09:54,510|00:09:55,678|CC1|POP|              Um...
+00:09:58,681|00:09:59,899|CC1|POP|          Moist.
+00:10:01,267|00:10:02,435|CC1|POP|          Somebody die?
+00:10:02,485|00:10:03,769|CC1|POP|             No.
+00:10:07,106|00:10:08,991|CC1|POP|     Listen, we gotta
+00:10:07,106|00:10:08,991|CC1|POP|     talk, man...
+00:10:10,159|00:10:11,694|CC1|POP|                JASON: Uh...
+00:10:10,159|00:10:11,694|CC1|POP|        HOYT: Huh?
+00:10:13,613|00:10:17,166|CC1|POP|   You mind, you mind puttin'
+00:10:13,613|00:10:17,166|CC1|POP|   that thing down first?
+00:10:20,286|00:10:21,621|CC1|POP|       Listen...
+00:10:23,122|00:10:25,958|CC1|POP|   (STUTTERING) We've, we've
+00:10:23,122|00:10:25,958|CC1|POP|   been friends a long time.
+00:10:27,259|00:10:28,461|CC1|POP|      You remember...
+00:10:29,679|00:10:32,965|CC1|POP|        BOTH: Whoa...
+00:10:29,679|00:10:32,965|CC1|POP|        Chicka, chicka,
+00:10:29,679|00:10:32,965|CC1|POP|        boom, boom!
+00:10:32,999|00:10:35,184|CC1|POP|          (CHUCKLING)
+00:10:38,854|00:10:40,690|CC1|POP|   I had sex with Jessica.
+00:10:43,059|00:10:46,195|CC1|POP|             (LAUGHING) Yeah...
+00:10:46,228|00:10:51,283|CC1|POP| I ain't jokin'. I wish
+00:10:46,228|00:10:51,283|CC1|POP| I was, but I ain't.
+00:10:56,622|00:10:58,541|CC1|POP|                           How?
+00:10:58,574|00:11:00,943|CC1|POP| Kind of a weird
+00:10:58,574|00:11:00,943|CC1|POP| question to ask, man.
+00:11:00,977|00:11:02,995|CC1|POP| But if you really
+00:11:00,977|00:11:02,995|CC1|POP| want to know, uh...
+00:11:03,045|00:11:07,133|CC1|POP| Missionary, then doggie,
+00:11:03,045|00:11:07,133|CC1|POP| then her on top.
+00:11:07,166|00:11:08,834|CC1|POP|   I mean, it was
+00:11:07,166|00:11:08,834|CC1|POP|   nothin' too kinky...
+00:11:08,884|00:11:11,253|CC1|POP|        (JASON GRUNTS)
+00:11:11,303|00:11:14,774|CC1|POP|        HOYT: No, how could you
+00:11:11,303|00:11:14,774|CC1|POP|        do that to me! Not, how
+00:11:11,303|00:11:14,774|CC1|POP|        did you fuck my girl.
+00:11:14,807|00:11:17,009|CC1|POP|    Listen, I'm sorry, man.
+00:11:17,010|00:11:20,179|CC1|POP| JASON: But, technically...
+00:11:17,010|00:11:20,179|CC1|POP| Hey, technically, she
+00:11:17,010|00:11:20,179|CC1|POP| wasn't your girl no more.
+00:11:20,230|00:11:22,598|CC1|POP| Uh, you, you, you said you
+00:11:20,230|00:11:22,598|CC1|POP| never wanted to see her again.
+00:11:22,648|00:11:25,017|CC1|POP|                Yeah, fuck you!
+00:11:25,018|00:11:26,852|CC1|POP|              We had a code,
+00:11:25,018|00:11:26,852|CC1|POP|              and you broke it!
+00:11:26,902|00:11:30,072|CC1|POP|         You coulda had anyone,
+00:11:26,902|00:11:30,072|CC1|POP|         anyone you wanted.
+00:11:31,273|00:11:34,694|CC1|POP|          I'm not you, man.
+00:11:31,273|00:11:34,694|CC1|POP|          She was the only one.
+00:11:38,164|00:11:39,949|CC1|POP| It's... I drank
+00:11:38,164|00:11:39,949|CC1|POP| her blood.
+00:11:41,917|00:11:44,670|CC1|POP|     I couldn't think
+00:11:41,917|00:11:44,670|CC1|POP|     about anything else.
+00:11:44,704|00:11:48,007|CC1|POP| I tried to fight it, but
+00:11:44,704|00:11:48,007|CC1|POP| it, it just happened.
+00:11:48,040|00:11:50,459|CC1|POP|       (JASON GRUNTING)
+00:11:50,509|00:11:53,045|CC1|POP|     HOYT: Doesn't just happen.
+00:11:50,509|00:11:53,045|CC1|POP|     You make choices.
+00:11:53,095|00:11:56,432|CC1|POP|   You make fucked-up, selfish,
+00:11:53,095|00:11:56,432|CC1|POP|   piece o' shit choices!
+00:11:56,465|00:11:58,601|CC1|POP|     (MOANING)
+00:11:58,634|00:12:02,221|CC1|POP|           All right. You made
+00:11:58,634|00:12:02,221|CC1|POP|           your point, Hoyt.
+00:12:02,271|00:12:06,809|CC1|POP|             JASON: (GRUNTING)
+00:12:02,271|00:12:06,809|CC1|POP|             You made your
+00:12:02,271|00:12:06,809|CC1|POP|             point... Ahhh! Oh!
+00:12:06,842|00:12:10,563|CC1|POP|   Ain't nothin' more important
+00:12:06,842|00:12:10,563|CC1|POP|   to you than your dick! Not
+00:12:06,842|00:12:10,563|CC1|POP|   even your best friend.
+00:12:10,564|00:12:11,864|CC1|POP|                  (MOANING)
+00:12:11,897|00:12:13,866|CC1|POP|          HOYT: What Jess and I
+00:12:11,897|00:12:13,866|CC1|POP|          had, it was real...
+00:12:13,899|00:12:16,152|CC1|POP|     And you ain't never gonna
+00:12:13,899|00:12:16,152|CC1|POP|     have that, not with her...
+00:12:16,202|00:12:20,072|CC1|POP|   Not with anybody, 'cause
+00:12:16,202|00:12:20,072|CC1|POP|   there's somethin' inside you
+00:12:16,202|00:12:20,072|CC1|POP|   that's... It's just missin'.
+00:12:26,879|00:12:28,130|CC1|POP|                 Sorry.
+00:12:29,665|00:12:31,584|CC1|POP|                (GROANS)
+00:12:38,724|00:12:40,226|CC1|POP| JESUS: Lafayette.
+00:12:43,479|00:12:46,515|CC1|POP|   Lafayette, listen to me.
+00:12:43,479|00:12:46,515|CC1|POP|    I know you're in there.
+00:12:46,565|00:12:50,402|CC1|POP|   Whatever Marnie's making you
+00:12:46,565|00:12:50,402|CC1|POP|   do, you have to fight her!
+00:12:50,436|00:12:52,738|CC1|POP|             (CHUCKLING EVILLY)
+00:12:55,574|00:13:00,613|CC1|POP|      MARNIE: (AS LAYFAYETTE)
+00:12:55,574|00:13:00,613|CC1|POP|      You think your little fry
+00:12:55,574|00:13:00,613|CC1|POP|      cook can overpower me?
+00:13:00,614|00:13:05,451|CC1|POP| True, his body is younger and
+00:13:00,614|00:13:05,451|CC1|POP| stronger than mine was...
+00:13:05,501|00:13:10,339|CC1|POP|     And the magic in him is
+00:13:05,501|00:13:10,339|CC1|POP|     potent. Clumsy but potent.
+00:13:12,291|00:13:14,093|CC1|POP|    MARNIE: (AS LAYFAYETTE)
+00:13:12,291|00:13:14,093|CC1|POP|    He is no Antonia.
+00:13:14,126|00:13:17,630|CC1|POP|      Marnie, before Antonia
+00:13:14,126|00:13:17,630|CC1|POP|      came along, you were
+00:13:14,126|00:13:17,630|CC1|POP|      afraid of your own voice.
+00:13:19,465|00:13:23,686|CC1|POP| You talked to the dead because
+00:13:19,465|00:13:23,686|CC1|POP| they were your only friends.
+00:13:23,719|00:13:30,276|CC1|POP|   That's why you wanted
+00:13:23,719|00:13:30,276|CC1|POP|   possession so badly, because
+00:13:23,719|00:13:30,276|CC1|POP|   you felt lonely...helpless.
+00:13:33,229|00:13:37,316|CC1|POP|    I thought you were my
+00:13:33,229|00:13:37,316|CC1|POP|    friend. I trusted you.
+00:13:37,366|00:13:39,285|CC1|POP|        And you took her
+00:13:37,366|00:13:39,285|CC1|POP|        away from me!
+00:13:39,318|00:13:41,570|CC1|POP|               She wanted to
+00:13:39,318|00:13:41,570|CC1|POP|               leave, Marnie.
+00:13:41,620|00:13:44,406|CC1|POP|      Antonia knew you weren't
+00:13:41,620|00:13:44,406|CC1|POP|      fighting a righteous war.
+00:13:44,456|00:13:46,792|CC1|POP|   She knew that all you really
+00:13:44,456|00:13:46,792|CC1|POP|   cared about was power!
+00:13:46,826|00:13:49,161|CC1|POP|                 (JESUS GRUNTS)
+00:13:46,826|00:13:49,161|CC1|POP| You don't deserve
+00:13:46,826|00:13:49,161|CC1|POP| to speak her name!
+00:13:49,211|00:13:54,550|CC1|POP| Traitor! Antonia was
+00:13:49,211|00:13:54,550|CC1|POP| a hero, a martyr.
+00:13:54,583|00:13:58,921|CC1|POP| Unlike this Lafayette
+00:13:54,583|00:13:58,921|CC1|POP| coward, whom I've had
+00:13:54,583|00:13:58,921|CC1|POP| to take by force!
+00:13:58,971|00:14:01,674|CC1|POP|     LAFAYETTE:  <i>Jesus, this</i>
+00:13:58,971|00:14:01,674|CC1|POP|      <i>bitch is strong and</i>
+00:13:58,971|00:14:01,674|CC1|POP|      <i>seriously homicidal.</i>
+00:14:03,642|00:14:05,477|CC1|POP| MARNIE: (AS LAYFAYETTE)
+00:14:03,642|00:14:05,477|CC1|POP| Call me bitch again, boy...
+00:14:05,511|00:14:08,230|CC1|POP| And I'll cut out your
+00:14:05,511|00:14:08,230|CC1|POP| eyeball and feed it to you.
+00:14:08,264|00:14:10,015|CC1|POP|     I can't feel pain,
+00:14:08,264|00:14:10,015|CC1|POP|     but you will.
+00:14:10,016|00:14:14,403|CC1|POP| Marnie, please don't hurt him.
+00:14:10,016|00:14:14,403|CC1|POP| I'll do whatever you want.
+00:14:14,436|00:14:17,907|CC1|POP|        Just tell me. Tell me
+00:14:14,436|00:14:17,907|CC1|POP|        what you want us to do.
+00:14:17,940|00:14:20,359|CC1|POP|           I want...
+00:14:20,360|00:14:24,079|CC1|POP| What your grandfather passed
+00:14:20,360|00:14:24,079|CC1|POP|  down to you in the blood...
+00:14:25,915|00:14:28,834|CC1|POP| What you've been running
+00:14:25,915|00:14:28,834|CC1|POP| from your whole life...
+00:14:28,868|00:14:32,555|CC1|POP| I want your
+00:14:28,868|00:14:32,555|CC1|POP| magic,  <i>brujo </i>.
+00:14:35,841|00:14:37,343|CC1|POP|          All of it.
+00:14:41,263|00:14:46,435|CC1|POP|          (LAUGHING)
+00:14:41,263|00:14:46,435|CC1|POP|    (FESTIVE MUSIC PLAYING)
+00:14:46,468|00:14:47,553|CC1|POP|           SOOKIE: Hey, Arlene.
+00:14:47,586|00:14:48,687|CC1|POP|                 (GASPS)
+00:14:48,721|00:14:50,222|CC1|POP|    Happy Halloween.
+00:14:50,272|00:14:52,391|CC1|POP|      Oh, it's Halloween today?
+00:14:50,272|00:14:52,391|CC1|POP| ARLENE: Yup.
+00:14:52,441|00:14:54,827|CC1|POP|    Can I interest you
+00:14:52,441|00:14:54,827|CC1|POP|    in a hand sandwich?
+00:14:52,441|00:14:54,827|CC1|POP|                         Oh!
+00:14:54,860|00:14:59,899|CC1|POP|       (LAUGHING)
+00:14:59,900|00:15:01,867|CC1|POP| We're zombies.
+00:15:01,901|00:15:04,236|CC1|POP| Zombies are the new vampires.
+00:15:01,901|00:15:04,236|CC1|POP| Didn't you know that?
+00:15:04,237|00:15:08,324|CC1|POP|    Wow, no, I did not know
+00:15:04,237|00:15:08,324|CC1|POP|    that, but you're severed
+00:15:04,237|00:15:08,324|CC1|POP|    toe necklace is super cute.
+00:15:08,374|00:15:09,458|CC1|POP|       Thank you.
+00:15:09,491|00:15:10,876|CC1|POP|                 Is Sam around?
+00:15:10,910|00:15:14,914|CC1|POP| ARLENE: (IN HER MIND)
+00:15:10,910|00:15:14,914|CC1|POP|  <i>Oh, Lord, nobody's</i>
+00:15:10,910|00:15:14,914|CC1|POP|  <i>told her yet.</i>
+00:15:17,383|00:15:18,584|CC1|POP|        (KNOCK ON DOOR)
+00:15:20,636|00:15:21,887|CC1|POP| SAM: Come in.
+00:15:24,056|00:15:25,140|CC1|POP|                         Hey.
+00:15:25,174|00:15:26,425|CC1|POP| SAM: Hi.
+00:15:26,426|00:15:30,312|CC1|POP|           I'm sorry about
+00:15:26,426|00:15:30,312|CC1|POP|           Tommy. I just heard.
+00:15:30,346|00:15:31,597|CC1|POP|               The funeral?
+00:15:31,598|00:15:33,766|CC1|POP|       Yeah, well, nobody
+00:15:31,598|00:15:33,766|CC1|POP|       knew about it.
+00:15:33,767|00:15:36,852|CC1|POP| My brother didn't have a whole
+00:15:33,767|00:15:36,852|CC1|POP| lot of friends around here.
+00:15:36,902|00:15:38,988|CC1|POP|                  You do.
+00:15:39,021|00:15:41,106|CC1|POP|  Well, I hadn't seen you in
+00:15:39,021|00:15:41,106|CC1|POP|   awhile. Figured you had a
+00:15:39,021|00:15:41,106|CC1|POP|   lot goin' on of your own.
+00:15:41,107|00:15:43,158|CC1|POP|                Oh, Sam...
+00:15:43,192|00:15:46,111|CC1|POP|   I was pretty sore after
+00:15:43,192|00:15:46,111|CC1|POP|   you fired me and all, but...
+00:15:47,446|00:15:49,498|CC1|POP|              I would have been
+00:15:47,446|00:15:49,498|CC1|POP|              there for you.
+00:15:49,531|00:15:52,868|CC1|POP|  I never fired you. You...
+00:15:49,531|00:15:52,868|CC1|POP|  You're the one who didn't
+00:15:49,531|00:15:52,868|CC1|POP|  show up for shifts all week.
+00:15:52,918|00:15:56,789|CC1|POP|           Not to be a stickler
+00:15:52,918|00:15:56,789|CC1|POP|           for details, but...
+00:15:56,790|00:16:00,793|CC1|POP|      You told me I was nothing
+00:15:56,790|00:16:00,793|CC1|POP|      but trouble and to get my
+00:15:56,790|00:16:00,793|CC1|POP|      stuff and get outta here.
+00:16:05,431|00:16:09,351|CC1|POP|   You know what?
+00:16:05,431|00:16:09,351|CC1|POP|   I wasn't myself that day.
+00:16:09,385|00:16:12,187|CC1|POP| I tell you what. How about we
+00:16:09,385|00:16:12,187|CC1|POP| let bygones be bygones, huh?
+00:16:12,221|00:16:14,640|CC1|POP|           Does that mean I can
+00:16:12,221|00:16:14,640|CC1|POP|           have my job back?
+00:16:14,641|00:16:16,225|CC1|POP|    As long as you can
+00:16:14,641|00:16:16,225|CC1|POP|    start right now.
+00:16:16,275|00:16:18,694|CC1|POP| Lafayette's MIA, and with it
+00:16:16,275|00:16:18,694|CC1|POP| bein' Halloween and all...
+00:16:18,727|00:16:21,030|CC1|POP|  We sure could use an
+00:16:18,727|00:16:21,030|CC1|POP|  extra pair of hands.
+00:16:21,063|00:16:23,949|CC1|POP|         Can I have another
+00:16:21,063|00:16:23,949|CC1|POP|         uniform? I kinda threw
+00:16:21,063|00:16:23,949|CC1|POP|         mine in the trash.
+00:16:25,034|00:16:28,387|CC1|POP|        SAM: No uniforms today.
+00:16:29,738|00:16:32,207|CC1|POP|   Oh, no.
+00:16:29,738|00:16:32,207|CC1|POP|                      Oh, yeah.
+00:16:34,159|00:16:35,828|CC1|POP|               You want your
+00:16:34,159|00:16:35,828|CC1|POP|               job back or not?
+00:16:37,162|00:16:39,999|CC1|POP|         SOOKIE: I'm gonna
+00:16:37,162|00:16:39,999|CC1|POP|         get you for this, Sam.
+00:16:40,049|00:16:43,168|CC1|POP|       SAM: Nobody likes
+00:16:40,049|00:16:43,168|CC1|POP|       an angry bunny.
+00:16:43,169|00:16:48,007|CC1|POP|     <i>Samhain </i>was Wicca's
+00:16:43,169|00:16:48,007|CC1|POP|    greatest holy celebration...
+00:16:48,057|00:16:52,011|CC1|POP| A night we honored and
+00:16:48,057|00:16:52,011|CC1|POP| communed with our dead.
+00:16:52,061|00:16:54,396|CC1|POP| Now, people only
+00:16:52,061|00:16:54,396|CC1|POP| know it as Halloween.
+00:16:54,430|00:16:58,350|CC1|POP| Children feed their fat
+00:16:54,430|00:16:58,350|CC1|POP| faces with candy and...
+00:16:58,351|00:17:03,522|CC1|POP| Run in fear from evil green
+00:16:58,351|00:17:03,522|CC1|POP| hags they call witches.
+00:17:03,572|00:17:09,995|CC1|POP| The vampires have done a
+00:17:03,572|00:17:09,995|CC1|POP| thorough job of demonizing
+00:17:03,572|00:17:09,995|CC1|POP| our most sacred Sabbat...
+00:17:10,029|00:17:11,697|CC1|POP| MARNIE: (AS LAYFAYETTE)
+00:17:10,029|00:17:11,697|CC1|POP| Turning our religion
+00:17:10,029|00:17:11,697|CC1|POP| into a joke.
+00:17:11,698|00:17:13,615|CC1|POP|              I agree with you.
+00:17:13,665|00:17:16,752|CC1|POP|               Vampires suck.
+00:17:16,785|00:17:20,172|CC1|POP|     JESUS: That's why you need
+00:17:16,785|00:17:20,172|CC1|POP|     to let go of Lafayette
+00:17:16,785|00:17:20,172|CC1|POP|     before they find out.
+00:17:22,374|00:17:26,378|CC1|POP|     They'll kill him, Marnie.
+00:17:22,374|00:17:26,378|CC1|POP|     Just like they killed you.
+00:17:26,379|00:17:31,183|CC1|POP| If you hadn't betrayed me,
+00:17:26,379|00:17:31,183|CC1|POP| I would still be alive.
+00:17:31,216|00:17:32,851|CC1|POP|       Besides, it's the
+00:17:31,216|00:17:32,851|CC1|POP|       only host I have.
+00:17:32,885|00:17:35,220|CC1|POP|           JESUS: He's not a
+00:17:32,885|00:17:35,220|CC1|POP|           host, he's a person.
+00:17:35,221|00:17:38,223|CC1|POP| (STAMMERING) W...with a whole
+00:17:35,221|00:17:38,223|CC1|POP| life and people who love him.
+00:17:38,224|00:17:41,477|CC1|POP|          We must all make
+00:17:38,224|00:17:41,477|CC1|POP|          sacrifices in time
+00:17:38,224|00:17:41,477|CC1|POP|          of war.
+00:17:41,527|00:17:44,947|CC1|POP|     I made mine, and now
+00:17:41,527|00:17:44,947|CC1|POP|     you will make yours.
+00:17:44,980|00:17:49,234|CC1|POP|     You can't trade magic like
+00:17:44,980|00:17:49,234|CC1|POP|     fuckin' Pokemon cards!
+00:17:49,235|00:17:53,489|CC1|POP|    I would gladly give you
+00:17:49,235|00:17:53,489|CC1|POP|    this shit inside of me if I
+00:17:49,235|00:17:53,489|CC1|POP|    knew how, but I just don't!
+00:17:57,960|00:17:59,244|CC1|POP|        You're afraid.
+00:17:59,294|00:18:02,915|CC1|POP|                Yes. And you
+00:17:59,294|00:18:02,915|CC1|POP|                should be, too.
+00:18:02,965|00:18:06,752|CC1|POP|       Because what's inside
+00:18:02,965|00:18:06,752|CC1|POP|       of me is seriously dark.
+00:18:09,421|00:18:12,241|CC1|POP|      I'll fight darkness
+00:18:09,421|00:18:12,241|CC1|POP|      with darkness.
+00:18:12,274|00:18:16,345|CC1|POP|             Who are you
+00:18:12,274|00:18:16,345|CC1|POP|             fighting for? Huh?
+00:18:16,395|00:18:18,814|CC1|POP|            Antonia's gone, the
+00:18:16,395|00:18:18,814|CC1|POP|            circle's broken.
+00:18:18,847|00:18:20,732|CC1|POP|        They fear you more than
+00:18:18,847|00:18:20,732|CC1|POP|        they fear the vampires!
+00:18:20,766|00:18:24,269|CC1|POP|      JESUS: You've turned into
+00:18:20,766|00:18:24,269|CC1|POP|      everything that you hate!
+00:18:20,766|00:18:24,269|CC1|POP|          Shut up!
+00:18:24,319|00:18:27,523|CC1|POP|   You will give me what I
+00:18:24,319|00:18:27,523|CC1|POP|   want, or I will wring the
+00:18:24,319|00:18:27,523|CC1|POP|   life out of this body...
+00:18:27,573|00:18:30,025|CC1|POP|    'Til there is nothing
+00:18:27,573|00:18:30,025|CC1|POP|    left but an empty sack.
+00:18:31,276|00:18:34,530|CC1|POP|         Okay, enough! Stop it!
+00:18:36,748|00:18:38,200|CC1|POP|                 I'll do it.
+00:18:40,702|00:18:44,173|CC1|POP|            (CRYING)
+00:18:40,702|00:18:44,173|CC1|POP|       (BREATHING HEAVILY)
+00:18:46,375|00:18:50,262|CC1|POP|  (IN SPANISH)  <i>Most Holy</i>
+00:18:46,375|00:18:50,262|CC1|POP|   <i>Death, Lady of the Shadows...</i>
+00:18:50,295|00:18:56,852|CC1|POP|          <i>Ogoun Ferei, Ogoun</i>
+00:18:50,295|00:18:56,852|CC1|POP|          <i>Shango, Nago Piman...</i>
+00:18:56,885|00:18:59,972|CC1|POP|          <i>Shows my true face.</i>
+00:18:56,885|00:18:59,972|CC1|POP|          <i>(WIND HOWLS)</i>
+00:19:01,106|00:19:02,858|CC1|POP|        Give it to me.
+00:19:02,891|00:19:05,611|CC1|POP|         (WIND BLOWING)
+00:19:02,891|00:19:05,611|CC1|POP|           (GROANING)
+00:19:05,644|00:19:07,779|CC1|POP|      Give it all to me.
+00:19:07,813|00:19:12,534|CC1|POP|              (YELLING)
+00:19:07,813|00:19:12,534|CC1|POP|             (GRUNTING)
+00:19:12,568|00:19:16,655|CC1|POP|               (MOANING)
+00:19:12,568|00:19:16,655|CC1|POP|               (GROANING)
+00:19:17,990|00:19:22,995|CC1|POP|        <i>(DEMONIC GROWLING)</i>
+00:19:23,045|00:19:29,551|CC1|POP|         <i>(DEMONIC YELLING)</i>
+00:19:23,045|00:19:29,551|CC1|POP|            <i>(GRUNTING)</i>
+00:19:29,585|00:19:33,672|CC1|POP|        <i>(DISTORTED SOUNDS)</i>
+00:19:33,723|00:19:36,675|CC1|POP|      <i>(DISTORTED WHISPERING)</i>
+00:19:39,895|00:19:40,896|CC1|POP|               Lafayette...
+00:19:40,929|00:19:42,181|CC1|POP|     (LAYFAYETTE GROANING)
+00:19:42,264|00:19:43,849|CC1|POP|               I'm sorry.
+00:19:45,601|00:19:49,438|CC1|POP|        <i>(DEMONIC GROWLING)</i>
+00:19:49,488|00:19:51,907|CC1|POP| ARLENE: Take off your
+00:19:49,488|00:19:51,907|CC1|POP| mask before you eat now.
+00:19:53,992|00:19:55,694|CC1|POP|  Hey, you already had yours.
+00:19:55,744|00:19:57,079|CC1|POP|            I'm eatin' for two.
+00:19:57,162|00:19:59,081|CC1|POP| Hey, you better start behaving
+00:19:57,162|00:19:59,081|CC1|POP| yourselves right now...
+00:19:59,114|00:20:01,667|CC1|POP|      Or you're gonna be
+00:19:59,114|00:20:01,667|CC1|POP|      trick-or-treatin' down at
+00:19:59,114|00:20:01,667|CC1|POP|      the trailer park again.
+00:20:01,700|00:20:04,870|CC1|POP|          Now, do you want a
+00:20:01,700|00:20:04,870|CC1|POP|          bag of empty Coors
+00:20:01,700|00:20:04,870|CC1|POP|          cans and food stamps?
+00:20:04,920|00:20:08,123|CC1|POP|          Or do you want candy?
+00:20:04,920|00:20:08,123|CC1|POP|          It is your choice.
+00:20:08,173|00:20:11,710|CC1|POP| SAM: Coby, Lisa, I want you
+00:20:08,173|00:20:11,710|CC1|POP| to meet my friend, Emma.
+00:20:11,760|00:20:12,961|CC1|POP|               Hi, Emma.
+00:20:11,760|00:20:12,961|CC1|POP|                       Hey.
+00:20:13,011|00:20:14,880|CC1|POP| EMMA: Hey.
+00:20:14,930|00:20:17,349|CC1|POP| That's, uh, quite a costume
+00:20:14,930|00:20:17,349|CC1|POP| you got there, Lisa. What
+00:20:14,930|00:20:17,349|CC1|POP| are you supposed to be?
+00:20:17,382|00:20:19,635|CC1|POP|     Jenelle from  <i>Teen Mom 2 </i>.
+00:20:19,685|00:20:21,553|CC1|POP|             (SIGHS) Don't even
+00:20:19,685|00:20:21,553|CC1|POP|             get me started.
+00:20:21,603|00:20:23,689|CC1|POP|              And what are you,
+00:20:21,603|00:20:23,689|CC1|POP|              cutie-patootie?
+00:20:23,722|00:20:26,475|CC1|POP| I'm either gonna be a
+00:20:23,722|00:20:26,475|CC1|POP| shapeshifter like my mommy...
+00:20:26,525|00:20:29,778|CC1|POP| Or a werewolf like
+00:20:26,525|00:20:29,778|CC1|POP| my daddy. He's dead.
+00:20:29,811|00:20:32,898|CC1|POP|        All righty then.
+00:20:29,811|00:20:32,898|CC1|POP|        Gonna get back to work.
+00:20:38,954|00:20:40,906|CC1|POP|   PATRICK: Private Bellefleur.
+00:20:38,954|00:20:40,906|CC1|POP|            (DROPS DISH BUCKET)
+00:20:55,504|00:20:57,339|CC1|POP|         I heard you were dead.
+00:20:57,389|00:20:59,341|CC1|POP|    I heard you were crazy.
+00:20:59,391|00:21:02,311|CC1|POP|      Well, yeah. That, that's
+00:20:59,391|00:21:02,311|CC1|POP|      still true. What the hell
+00:20:59,391|00:21:02,311|CC1|POP|      you doin' in Bon Temps?
+00:21:02,345|00:21:04,329|CC1|POP| PATRICK: Just passin' through.
+00:21:02,345|00:21:04,329|CC1|POP| Thought I'd look you up.
+00:21:04,363|00:21:06,098|CC1|POP|      (LAUGHING) You
+00:21:04,363|00:21:06,098|CC1|POP|      look like shit.
+00:21:06,099|00:21:07,683|CC1|POP|            Yeah, I'm a zombie.
+00:21:07,733|00:21:09,101|CC1|POP|         Uh-huh.
+00:21:07,733|00:21:09,101|CC1|POP|              Yeah, but look...
+00:21:09,102|00:21:11,436|CC1|POP|               Wait'll you meet
+00:21:09,102|00:21:11,436|CC1|POP|               my wife. Arlene!
+00:21:13,772|00:21:15,774|CC1|POP|    Arlene Fowler-Bellefleur...
+00:21:15,824|00:21:18,610|CC1|POP|     This is Sergeant
+00:21:15,824|00:21:18,610|CC1|POP|     Patrick Devins, United
+00:21:15,824|00:21:18,610|CC1|POP|     States Marine Corps.
+00:21:18,611|00:21:20,112|CC1|POP|     TERRY: First of the first.
+00:21:20,113|00:21:21,747|CC1|POP|     Mrs. Bellefleur,
+00:21:20,113|00:21:21,747|CC1|POP|     it's an honor.
+00:21:21,780|00:21:23,448|CC1|POP|              Well, it's nice
+00:21:21,780|00:21:23,448|CC1|POP|              to meet you, too.
+00:21:23,498|00:21:26,034|CC1|POP|     Terry's told me absolutely
+00:21:23,498|00:21:26,034|CC1|POP|     nothin' about you.
+00:21:26,084|00:21:28,704|CC1|POP|   Perfect. Then I
+00:21:26,084|00:21:28,704|CC1|POP|   won't have to lie.
+00:21:28,754|00:21:30,622|CC1|POP|        (BOTH LAUGHING)
+00:21:30,623|00:21:33,292|CC1|POP|   You got time for
+00:21:30,623|00:21:33,292|CC1|POP|   a drink with a man
+00:21:30,623|00:21:33,292|CC1|POP|   whose life you saved?
+00:21:34,259|00:21:36,378|CC1|POP| Twice. Huh?
+00:21:39,131|00:21:40,716|CC1|POP|    (INDISTINCT CHATTERING)
+00:21:45,971|00:21:48,106|CC1|POP|      So, does this mean you
+00:21:45,971|00:21:48,106|CC1|POP|      aren't mad at me anymore?
+00:21:48,140|00:21:51,693|CC1|POP| It's hard stayin' mad at'cha.
+00:21:48,140|00:21:51,693|CC1|POP| Especially in those ears.
+00:21:51,727|00:21:54,646|CC1|POP|         Sam's idea of payback.
+00:21:54,647|00:21:58,066|CC1|POP| Listen, about the other night,
+00:21:54,647|00:21:58,066|CC1|POP| I should have thanked you.
+00:21:58,116|00:21:59,818|CC1|POP|             I shouldn't have
+00:21:58,116|00:21:59,818|CC1|POP|             lost it like that.
+00:21:59,819|00:22:01,153|CC1|POP| I understand why you did.
+00:22:03,955|00:22:05,540|CC1|POP| Where's Debbie?
+00:22:07,292|00:22:10,996|CC1|POP|      Oh, Alcide.
+00:22:07,292|00:22:10,996|CC1|POP|      What happened?
+00:22:10,997|00:22:12,381|CC1|POP|      You were right about her.
+00:22:12,414|00:22:13,715|CC1|POP| But she changed.
+00:22:13,749|00:22:17,085|CC1|POP|     People don't change. They
+00:22:13,749|00:22:17,085|CC1|POP|     just find new ways to lie.
+00:22:17,135|00:22:20,055|CC1|POP| I know you don't want to
+00:22:17,135|00:22:20,055|CC1|POP| believe that right now, and...
+00:22:20,088|00:22:21,890|CC1|POP|             I didn't come here
+00:22:20,088|00:22:21,890|CC1|POP|             to lecture you.
+00:22:21,923|00:22:24,259|CC1|POP| Something tells me
+00:22:21,923|00:22:24,259|CC1|POP| you're about to anyway.
+00:22:27,846|00:22:31,316|CC1|POP|  You remember when you said
+00:22:27,846|00:22:31,316|CC1|POP|   that if you were smart...
+00:22:31,350|00:22:33,602|CC1|POP|    You would have
+00:22:31,350|00:22:33,602|CC1|POP|    fallen in love with
+00:22:31,350|00:22:33,602|CC1|POP|    someone like me?
+00:22:34,486|00:22:36,605|CC1|POP|                 Alcide, don't.
+00:22:36,655|00:22:39,358|CC1|POP|     People always say
+00:22:36,655|00:22:39,358|CC1|POP|     follow your heart.
+00:22:39,408|00:22:41,943|CC1|POP|        What if your heart
+00:22:39,408|00:22:41,943|CC1|POP|        keeps telling you to do
+00:22:39,408|00:22:41,943|CC1|POP|        the same stupid shit...
+00:22:41,993|00:22:43,195|CC1|POP|         Over and over again?
+00:22:45,947|00:22:48,633|CC1|POP|           What if our hearts
+00:22:45,947|00:22:48,633|CC1|POP|           can't be trusted?
+00:22:48,667|00:22:52,037|CC1|POP|        If it's our brains we
+00:22:48,667|00:22:52,037|CC1|POP|        should be listening to?
+00:22:52,038|00:22:55,540|CC1|POP| You're hurt and angry
+00:22:52,038|00:22:55,540|CC1|POP| right now. I get it.
+00:22:52,038|00:22:55,540|CC1|POP| I've been there.
+00:22:55,541|00:22:58,794|CC1|POP|     No. I'm seeing clearly.
+00:22:58,844|00:23:01,596|CC1|POP|    Debbie's out of my life,
+00:22:58,844|00:23:01,596|CC1|POP|    for good this time.
+00:23:02,547|00:23:04,049|CC1|POP|   I'm done with the drama.
+00:23:06,685|00:23:09,054|CC1|POP|       I want you to be
+00:23:06,685|00:23:09,054|CC1|POP|       done with it, too.
+00:23:09,055|00:23:11,056|CC1|POP| I can't change who I love.
+00:23:12,557|00:23:14,059|CC1|POP| Lord knows I've tried.
+00:23:16,311|00:23:17,562|CC1|POP|            Then try harder.
+00:23:18,980|00:23:21,400|CC1|POP|( <i>MONSTER MASH </i>PLAYING SOFTLY)
+00:23:22,567|00:23:24,736|CC1|POP|      (CELL PHONE RINGS)
+00:23:26,321|00:23:28,407|CC1|POP|   (CELL PHONE RINGS AGAIN)
+00:23:30,742|00:23:34,246|CC1|POP|            Herveaux. Where?
+00:23:37,082|00:23:38,250|CC1|POP|                   You sure?
+00:23:40,302|00:23:43,004|CC1|POP|               I'll be there as
+00:23:40,302|00:23:43,004|CC1|POP|               soon as I can.
+00:23:46,174|00:23:47,292|CC1|POP|              I gotta go.
+00:23:47,325|00:23:49,261|CC1|POP|      Anything I can do?
+00:23:49,262|00:23:53,932|CC1|POP|         Just think about what
+00:23:49,262|00:23:53,932|CC1|POP|         I said. And try not to
+00:23:49,262|00:23:53,932|CC1|POP|         get yourself killed.
+00:23:53,933|00:23:55,317|CC1|POP|   I'll work on that.
+00:24:01,106|00:24:03,074|CC1|POP|       TARA: Lafayette?
+00:24:03,108|00:24:06,945|CC1|POP|        (YELLING) Jesus?
+00:24:03,108|00:24:06,945|CC1|POP|        Anybody here?
+00:24:13,084|00:24:14,286|CC1|POP|                    Hello?
+00:24:18,957|00:24:20,125|CC1|POP|        Lafayette?
+00:24:21,960|00:24:23,011|CC1|POP|      (GASPS)
+00:24:23,044|00:24:26,798|CC1|POP|         (SCREAMS)
+00:24:30,268|00:24:32,187|CC1|POP|      (GASPS)
+00:24:32,220|00:24:34,523|CC1|POP|           Hey, Sookie. Can I
+00:24:32,220|00:24:34,523|CC1|POP|           borrow that lighter?
+00:24:34,556|00:24:37,392|CC1|POP| Holly, you scared the
+00:24:34,556|00:24:37,392|CC1|POP| bejesus out of me.
+00:24:37,442|00:24:41,146|CC1|POP|           I'm just a fairy,
+00:24:37,442|00:24:41,146|CC1|POP|           honey. Ain't nothin'
+00:24:37,442|00:24:41,146|CC1|POP|           scary about fairies.
+00:24:41,196|00:24:42,697|CC1|POP|    Yeah, right.
+00:24:44,449|00:24:45,700|CC1|POP|            You don't
+00:24:44,449|00:24:45,700|CC1|POP|            mind, do you?
+00:24:47,652|00:24:50,822|CC1|POP|       Halloween makes me kinda
+00:24:47,652|00:24:50,822|CC1|POP|       jumpy, too. Always has.
+00:24:53,792|00:24:58,964|CC1|POP|   Wiccans, we call it  <i>Samhain</i>
+00:24:53,792|00:24:58,964|CC1|POP|    <i>or the Witches' New Year.</i>
+00:25:01,333|00:25:06,171|CC1|POP| It's the day that the veil
+00:25:01,333|00:25:06,171|CC1|POP| between the living and the
+00:25:01,333|00:25:06,171|CC1|POP| dead is at its thinnest.
+00:25:06,172|00:25:09,257|CC1|POP|     You can just feel it
+00:25:06,172|00:25:09,257|CC1|POP|     in the air, you know?
+00:25:12,227|00:25:14,179|CC1|POP|       Want a puff?
+00:25:14,180|00:25:17,482|CC1|POP|       Uh, no, thanks. When
+00:25:14,180|00:25:17,482|CC1|POP|       I'm high, I can't shut
+00:25:14,180|00:25:17,482|CC1|POP|       out the thoughts at all.
+00:25:17,516|00:25:19,851|CC1|POP|       It's like the whole
+00:25:17,516|00:25:19,851|CC1|POP|       world's screamin' at me.
+00:25:19,852|00:25:22,521|CC1|POP| Oh, see, it calms my nerves.
+00:25:22,522|00:25:25,106|CC1|POP|    Mother Earth's Valium.
+00:25:25,156|00:25:31,446|CC1|POP|  So all day, I just had this,
+00:25:25,156|00:25:31,446|CC1|POP|  this terrible feeling in my
+00:25:25,156|00:25:31,446|CC1|POP|  gut, you know, this dread?
+00:25:31,496|00:25:35,116|CC1|POP| Mmm. I'm sure it's just a
+00:25:31,496|00:25:35,116|CC1|POP| hangover from everything that
+00:25:31,496|00:25:35,116|CC1|POP| happened with Marnie and all.
+00:25:35,166|00:25:37,586|CC1|POP|                I, I've had the
+00:25:35,166|00:25:37,586|CC1|POP|                same feeling.
+00:25:37,619|00:25:39,254|CC1|POP|       (CAR APPROACHING)
+00:25:41,623|00:25:45,260|CC1|POP|        Tara? Tara, what, what
+00:25:41,623|00:25:45,260|CC1|POP|        is it? What happened?
+00:25:45,293|00:25:46,428|CC1|POP|                    She's back.
+00:25:46,461|00:25:47,546|CC1|POP|   Who's back, honey?
+00:25:47,547|00:25:48,713|CC1|POP|                      Marnie.
+00:25:48,763|00:25:50,799|CC1|POP| How's that possible? She
+00:25:48,763|00:25:50,799|CC1|POP| died right in front of us.
+00:25:50,849|00:25:53,101|CC1|POP|     (CRYING) She killed Jesus.
+00:25:53,134|00:25:55,220|CC1|POP|              I think she's
+00:25:53,134|00:25:55,220|CC1|POP|              inside Lafayette.
+00:25:59,391|00:26:01,776|CC1|POP|      (TIRES SCREECHING)
+00:26:01,810|00:26:04,362|CC1|POP| SOOKIE: (TALKING ON PHONE)
+00:26:01,810|00:26:04,362|CC1|POP| Okay, thanks, Ginger.
+00:26:04,396|00:26:06,398|CC1|POP| Ginger says Eric's been
+00:26:04,396|00:26:06,398|CC1|POP| missin' since nightfall.
+00:26:06,448|00:26:07,616|CC1|POP|                       Bill?
+00:26:07,650|00:26:08,867|CC1|POP| Not answering his phone.
+00:26:08,900|00:26:12,070|CC1|POP|       Oh. I knew it was
+00:26:08,900|00:26:12,070|CC1|POP|      in here somewhere.
+00:26:12,071|00:26:13,655|CC1|POP| SOOKIE: You carry
+00:26:12,071|00:26:13,655|CC1|POP| salt in your purse?
+00:26:13,705|00:26:16,575|CC1|POP|   Yeah, and sage and a lock
+00:26:13,705|00:26:16,575|CC1|POP|   of my Aunt Josie's hair.
+00:26:16,625|00:26:18,493|CC1|POP|       It's like a Wiccan
+00:26:16,625|00:26:18,493|CC1|POP|       first aid kit.
+00:26:18,543|00:26:20,579|CC1|POP|        Hey, any o' you
+00:26:18,543|00:26:20,579|CC1|POP|        two got a mirror?
+00:26:22,080|00:26:23,248|CC1|POP|                 HOLLY: Thanks.
+00:26:23,249|00:26:25,083|CC1|POP| You ever done anything
+00:26:23,249|00:26:25,083|CC1|POP| like this before?
+00:26:25,084|00:26:27,886|CC1|POP|       Goddess, no.
+00:26:25,084|00:26:27,886|CC1|POP|       Usually, I just...
+00:26:27,919|00:26:31,306|CC1|POP| Light a candle and ask the
+00:26:27,919|00:26:31,306|CC1|POP| spirits to make sure my boys
+00:26:27,919|00:26:31,306|CC1|POP| don't end up in jail or...
+00:26:31,339|00:26:35,343|CC1|POP| Knock somebody up,
+00:26:31,339|00:26:35,343|CC1|POP| but, but so far, that's
+00:26:31,339|00:26:35,343|CC1|POP| worked out okay. So...
+00:26:35,393|00:26:38,179|CC1|POP|             Sook, you can't
+00:26:35,393|00:26:38,179|CC1|POP|             let them hurt him.
+00:26:38,229|00:26:40,765|CC1|POP|   If Bill and Eric find out
+00:26:38,229|00:26:40,765|CC1|POP|   Marnie's inside Lafayette...
+00:26:42,183|00:26:44,653|CC1|POP| Yeah, I have a feeling
+00:26:42,183|00:26:44,653|CC1|POP| they already know.
+00:26:56,615|00:26:59,417|CC1|POP| Any idea how to get us out
+00:26:56,615|00:26:59,417|CC1|POP| of this one, Your Majesty?
+00:26:59,451|00:27:00,869|CC1|POP|          You could summon Pam.
+00:27:00,919|00:27:02,120|CC1|POP| You could summon Jessica.
+00:27:02,170|00:27:03,922|CC1|POP|                      Hmmph.
+00:27:03,955|00:27:08,209|CC1|POP| Oh, so you'd sacrifice my
+00:27:03,955|00:27:08,209|CC1|POP| progeny, but not your own?
+00:27:09,177|00:27:11,096|CC1|POP| How very unkingly of you.
+00:27:12,464|00:27:14,766|CC1|POP|        I liked you better when
+00:27:12,464|00:27:14,766|CC1|POP|        you were brain damaged.
+00:27:15,717|00:27:17,185|CC1|POP|         BOTH: Sookie.
+00:27:21,806|00:27:27,946|CC1|POP| As your friend Lafayette
+00:27:21,806|00:27:27,946|CC1|POP| would say, what goes around
+00:27:21,806|00:27:27,946|CC1|POP| comes around, bitches.
+00:27:27,979|00:27:32,817|CC1|POP|        Lafayette...and Marnie.
+00:27:27,979|00:27:32,817|CC1|POP|        Please don't do this.
+00:27:32,867|00:27:36,321|CC1|POP| After all they've done
+00:27:32,867|00:27:36,321|CC1|POP| to you, you protect them.
+00:27:36,371|00:27:39,240|CC1|POP|          Killing Bill and Eric
+00:27:36,371|00:27:39,240|CC1|POP|          isn't gonna make any
+00:27:36,371|00:27:39,240|CC1|POP|          of that go away.
+00:27:40,325|00:27:42,494|CC1|POP|        Revenge will never
+00:27:40,325|00:27:42,494|CC1|POP|        bring you peace.
+00:27:42,544|00:27:47,716|CC1|POP|     There can't be peace
+00:27:42,544|00:27:47,716|CC1|POP|     until there is justice
+00:27:42,544|00:27:47,716|CC1|POP|     for me, for Antonia...
+00:27:47,749|00:27:50,885|CC1|POP| MARNIE: (AS LAYFAYETTE) For
+00:27:47,749|00:27:50,885|CC1|POP| all the women you tortured...
+00:27:47,749|00:27:50,885|CC1|POP|   (WHISPERING INDISTINCTLY)
+00:27:50,919|00:27:53,088|CC1|POP|   MARNIE: (AS LAYFAYETTE)
+00:27:50,919|00:27:53,088|CC1|POP|   And burned for centuries!
+00:27:53,138|00:27:57,842|CC1|POP|  All to repress a magic that's
+00:27:53,138|00:27:57,842|CC1|POP|  older and more powerful than
+00:27:53,138|00:27:57,842|CC1|POP|  your very existence.
+00:27:57,892|00:27:59,928|CC1|POP| HOLLY: (WHISPERING)
+00:27:57,892|00:27:59,928|CC1|POP| Sink all evil. Sink it
+00:27:57,892|00:27:59,928|CC1|POP| to the ground thrice.
+00:27:59,978|00:28:02,313|CC1|POP| Marnie, what
+00:27:59,978|00:28:02,313|CC1|POP| will this serve?
+00:28:02,347|00:28:06,184|CC1|POP| There are millions of us,
+00:28:02,347|00:28:06,184|CC1|POP| more being made every night.
+00:28:06,185|00:28:07,769|CC1|POP|       You cannot win.
+00:28:07,819|00:28:12,273|CC1|POP|     I'm already dead, vampire.
+00:28:07,819|00:28:12,273|CC1|POP|     Thanks to you, I have
+00:28:07,819|00:28:12,273|CC1|POP|     nothing left to lose.
+00:28:13,575|00:28:16,494|CC1|POP|       (IN LATIN)
+00:28:13,575|00:28:16,494|CC1|POP|        <i>Incendia of sanctimonia!</i>
+00:28:16,528|00:28:17,529|CC1|POP|        Bill!
+00:28:17,530|00:28:19,080|CC1|POP|      (BILL YELLING)
+00:28:19,114|00:28:20,949|CC1|POP|      (SOOKIE SCREAMING)
+00:28:20,999|00:28:22,367|CC1|POP|             TARA: Sookie! It's
+00:28:20,999|00:28:22,367|CC1|POP|             still Lafayette!
+00:28:22,418|00:28:24,452|CC1|POP|     I can't just stand
+00:28:22,418|00:28:24,452|CC1|POP|     here and let them die.
+00:28:24,502|00:28:28,039|CC1|POP|        (ZAPPING LIGHT)
+00:28:24,502|00:28:28,039|CC1|POP|     (LAYFAYETTE GRUNTING)
+00:28:28,040|00:28:29,874|CC1|POP|         <i>(DEMON GROWLING)</i>
+00:28:29,924|00:28:34,512|CC1|POP|           TARA: Lafayette! No!
+00:28:34,546|00:28:36,848|CC1|POP|    (BILL AND ERIC YELLING)
+00:28:36,881|00:28:38,883|CC1|POP| Gimme your hands. Now!
+00:28:38,933|00:28:40,185|CC1|POP|                 <i>(GROWLS)</i>
+00:28:40,218|00:28:42,353|CC1|POP|          I'm sorry, Lafayette.
+00:28:42,387|00:28:43,888|CC1|POP| HOLLY: (CHANTING) Spirits
+00:28:42,387|00:28:43,888|CC1|POP| who watch over us...
+00:28:43,938|00:28:46,891|CC1|POP| Friends, family, ancestors,
+00:28:43,938|00:28:46,891|CC1|POP| guardians of the gates...
+00:28:46,892|00:28:48,309|CC1|POP|    ALL: (CHANTING) Spirits
+00:28:46,892|00:28:48,309|CC1|POP|    who watch over us...
+00:28:48,359|00:28:50,278|CC1|POP|  Friends, family, ancestors,
+00:28:48,359|00:28:50,278|CC1|POP|  guardians of the gates...
+00:28:50,311|00:28:53,398|CC1|POP|      (ELECTROSTATIC ZAP)
+00:28:50,311|00:28:53,398|CC1|POP|                    (GROWLING)
+00:28:53,448|00:28:54,899|CC1|POP| HOLLY: With this
+00:28:53,448|00:28:54,899|CC1|POP| rite we evoke thee...
+00:28:54,900|00:28:57,235|CC1|POP| Through the veil of  <i>Samhain </i>,
+00:28:54,900|00:28:57,235|CC1|POP| we call thee forth.
+00:28:57,236|00:28:59,788|CC1|POP|  ALL: (CHANTING) We evoke
+00:28:57,236|00:28:59,788|CC1|POP|  thee... Through the veil of
+00:28:57,236|00:28:59,788|CC1|POP|   <i>Samhain </i>, we call thee forth.
+00:28:59,821|00:29:03,291|CC1|POP|  Spirits who watch over us,
+00:28:59,821|00:29:03,291|CC1|POP|  friends, family, ancestors,
+00:28:59,821|00:29:03,291|CC1|POP|  guardians of the gates.
+00:29:03,324|00:29:08,329|CC1|POP|     (CHANTING CONTINUES)
+00:29:03,324|00:29:08,329|CC1|POP|    <i>(DISTORTED SPIRIT VOICES)</i>
+00:29:08,379|00:29:11,382|CC1|POP|         (WIND BLOWING)
+00:29:08,379|00:29:11,382|CC1|POP|      <i>(DISTORTED WHISPERING)</i>
+00:29:11,416|00:29:17,088|CC1|POP|    (BILL AND ERIC SCREAMING)
+00:29:11,416|00:29:17,088|CC1|POP|        (FIRE CRACKLING)
+00:29:19,174|00:29:22,894|CC1|POP|       Eric, Bill, don't
+00:29:19,174|00:29:22,894|CC1|POP|       you die on me.
+00:29:22,927|00:29:26,598|CC1|POP| SPIRITS: (WHISPERING
+00:29:22,927|00:29:26,598|CC1|POP| CONTINUOUSLY)  <i>Marnie...</i>
+00:29:26,599|00:29:29,984|CC1|POP|                    (CHANTING)
+00:29:26,599|00:29:29,984|CC1|POP|       (GROWLS)
+00:29:30,018|00:29:32,020|CC1|POP|        Marnie.
+00:29:32,070|00:29:33,772|CC1|POP|           (WHOOSH)
+00:29:33,855|00:29:36,024|CC1|POP|          My sister.
+00:29:36,074|00:29:39,861|CC1|POP|        You came back to me.
+00:29:36,074|00:29:39,861|CC1|POP|        I knew you would.
+00:29:39,911|00:29:42,614|CC1|POP|      (BILL AND ERIC
+00:29:39,911|00:29:42,614|CC1|POP|      CONTINUE SCREAMING)
+00:29:43,865|00:29:45,200|CC1|POP|               Antonia, no!
+00:29:45,250|00:29:48,253|CC1|POP|        (SKIN SIZZLING)
+00:29:45,250|00:29:48,253|CC1|POP|           (MOANING)
+00:29:48,286|00:29:51,623|CC1|POP|   All creatures have their
+00:29:48,286|00:29:51,623|CC1|POP|    purpose, even vampires.
+00:29:51,674|00:29:53,341|CC1|POP|     How can you say that?
+00:29:51,674|00:29:53,341|CC1|POP|     They murdered us!
+00:29:53,424|00:29:57,629|CC1|POP| Their cruelty served its
+00:29:53,424|00:29:57,629|CC1|POP| purpose...to bring you
+00:29:53,424|00:29:57,629|CC1|POP| and I together.
+00:29:57,630|00:29:59,848|CC1|POP|  And now I am here
+00:29:57,630|00:29:59,848|CC1|POP|  to take you home.
+00:30:01,266|00:30:02,467|CC1|POP|        I'm not finished yet.
+00:30:02,468|00:30:04,269|CC1|POP|        Oh, yes, you are.
+00:30:04,302|00:30:05,553|CC1|POP|               Gran?
+00:30:05,603|00:30:07,522|CC1|POP| Holy Goddess.
+00:30:07,555|00:30:08,807|CC1|POP|                     Holy shit.
+00:30:08,808|00:30:13,027|CC1|POP|       (DISTORTED SOUNDS)
+00:30:08,808|00:30:13,027|CC1|POP|                        (MOANS)
+00:30:13,062|00:30:14,312|CC1|POP|       TARA: Lafayette!
+00:30:14,362|00:30:17,031|CC1|POP|       (MARNIE GRUNTING)
+00:30:18,283|00:30:24,906|CC1|POP|    I don't want to go.
+00:30:18,283|00:30:24,906|CC1|POP|    I am not ready. Please.
+00:30:24,956|00:30:29,077|CC1|POP|          I was trapped between
+00:30:24,956|00:30:29,077|CC1|POP|          worlds for 400 years.
+00:30:29,127|00:30:32,881|CC1|POP|              Lost and driven
+00:30:29,127|00:30:32,881|CC1|POP|              mad by my rage.
+00:30:32,914|00:30:34,716|CC1|POP|               I do not want
+00:30:32,914|00:30:34,716|CC1|POP|               that for you.
+00:30:34,749|00:30:37,635|CC1|POP|       And what about
+00:30:34,749|00:30:37,635|CC1|POP|       what I want?
+00:30:38,720|00:30:42,674|CC1|POP|   Nobody cares what I want!
+00:30:42,675|00:30:48,847|CC1|POP|      All my life, I've
+00:30:42,675|00:30:48,847|CC1|POP|      been afraid. And
+00:30:42,675|00:30:48,847|CC1|POP|      who wouldn't be?
+00:30:48,848|00:30:52,350|CC1|POP|     With dead people
+00:30:48,848|00:30:52,350|CC1|POP|     murmuring in my ears...
+00:30:52,351|00:30:56,070|CC1|POP| Who are making me
+00:30:52,351|00:30:56,070|CC1|POP| deliver your messages!
+00:30:56,104|00:30:58,740|CC1|POP| Making me into a freak!
+00:30:58,773|00:31:04,195|CC1|POP|   A creepy, pathetic,
+00:30:58,773|00:31:04,195|CC1|POP|   terrified mess, muttering
+00:30:58,773|00:31:04,195|CC1|POP|   to herself in the corner.
+00:31:04,196|00:31:05,580|CC1|POP|            But that is not who
+00:31:04,196|00:31:05,580|CC1|POP|            you are anymore.
+00:31:05,614|00:31:10,001|CC1|POP|   No. That's right. I'm
+00:31:05,614|00:31:10,001|CC1|POP|   not afraid anymore.
+00:31:11,669|00:31:13,755|CC1|POP|   I've got real power now.
+00:31:15,790|00:31:18,593|CC1|POP|   And you want to take
+00:31:15,790|00:31:18,593|CC1|POP|   that away from me?
+00:31:20,378|00:31:22,547|CC1|POP| You want them to win?
+00:31:20,378|00:31:22,547|CC1|POP|              (GROANING)
+00:31:22,597|00:31:24,265|CC1|POP|                    Oh, Marnie.
+00:31:26,551|00:31:31,606|CC1|POP|             Marnie, can't you
+00:31:26,551|00:31:31,606|CC1|POP|             see? Life is pain.
+00:31:31,639|00:31:37,312|CC1|POP|          But soon all you have
+00:31:31,639|00:31:37,312|CC1|POP|          suffered and feared
+00:31:31,639|00:31:37,312|CC1|POP|          will be meaningless.
+00:31:37,313|00:31:41,616|CC1|POP|             You will be at
+00:31:37,313|00:31:41,616|CC1|POP|             peace. But them...
+00:31:46,237|00:31:49,574|CC1|POP|        They'll be stuck
+00:31:46,237|00:31:49,574|CC1|POP|        here. Forever.
+00:31:51,242|00:31:53,578|CC1|POP|            And there is no
+00:31:51,242|00:31:53,578|CC1|POP|            victory in that.
+00:31:58,049|00:32:00,385|CC1|POP|        (WIND BLOWING)
+00:32:13,264|00:32:16,517|CC1|POP|        (SCREAMING)
+00:32:16,567|00:32:19,988|CC1|POP|           That's right, honey!
+00:32:16,567|00:32:19,988|CC1|POP|           Let it all out...
+00:32:20,022|00:32:24,242|CC1|POP|    'Cause there's no room
+00:32:20,022|00:32:24,242|CC1|POP|    for that where we're goin'.
+00:32:24,275|00:32:27,245|CC1|POP|   Oh, this fuckin' sucks.
+00:32:27,278|00:32:28,613|CC1|POP|           Change is hard.
+00:32:31,950|00:32:34,953|CC1|POP| (SIGHS) Well...
+00:32:38,256|00:32:39,424|CC1|POP| (MARNIE MOANS)
+00:32:40,625|00:32:41,960|CC1|POP|                  SOOKIE: Gran?
+00:32:47,382|00:32:48,800|CC1|POP|    (WHISPERS) Please don't go.
+00:32:48,850|00:32:51,636|CC1|POP|    GRAN: I have to, dear.
+00:32:51,686|00:32:57,141|CC1|POP|  (CRYING) I'm so lost without
+00:32:51,686|00:32:57,141|CC1|POP|  you. I don't know what to do.
+00:32:57,142|00:33:03,064|CC1|POP| Yes, you do. Answer's where
+00:32:57,142|00:33:03,064|CC1|POP| it always is...in your heart.
+00:33:04,649|00:33:07,785|CC1|POP|  Bein' alone, it ain't nothin'
+00:33:04,649|00:33:07,785|CC1|POP|  to be afraid of, my Sookie.
+00:33:08,903|00:33:10,788|CC1|POP|  We're all alone at the end.
+00:33:17,412|00:33:20,131|CC1|POP|                    (CRYING)
+00:33:22,633|00:33:25,503|CC1|POP|      (DISTORTED SOUNDS)
+00:33:26,671|00:33:31,059|CC1|POP|        Lafayette. Lafayette,
+00:33:26,671|00:33:31,059|CC1|POP|        can you hear me?
+00:33:33,177|00:33:34,679|CC1|POP|          Bitch, talk to me.
+00:33:35,813|00:33:37,065|CC1|POP|        LAFAYETTE: Mmm.
+00:33:37,098|00:33:39,517|CC1|POP|         TARA: You're okay.
+00:33:37,098|00:33:39,517|CC1|POP|         You're gonna be okay.
+00:33:39,518|00:33:41,069|CC1|POP|       ERIC: Excuse me.
+00:33:42,353|00:33:44,655|CC1|POP|     We're feeling a
+00:33:42,353|00:33:44,655|CC1|POP|     little crispy up here.
+00:33:46,357|00:33:49,277|CC1|POP|         ARLENE: Okay, ya know,
+00:33:46,357|00:33:49,277|CC1|POP|         I'll bus the tables,
+00:33:46,357|00:33:49,277|CC1|POP|         pour the drinks...
+00:33:49,327|00:33:54,332|CC1|POP|        Serve the food and take
+00:33:49,327|00:33:54,332|CC1|POP|        out the damn garbage.
+00:33:49,327|00:33:54,332|CC1|POP|        You know, no problem!
+00:33:54,365|00:33:59,837|CC1|POP|    'Cause, you know, clearly,
+00:33:54,365|00:33:59,837|CC1|POP|    I'm the only one who works
+00:33:54,365|00:33:59,837|CC1|POP|    here anymore. Flaky skanks.
+00:33:59,871|00:34:02,373|CC1|POP|   RENE: (WITH CAJUN ACCENT)
+00:33:59,871|00:34:02,373|CC1|POP|   Oh Lord, ain't you a
+00:33:59,871|00:34:02,373|CC1|POP|   sight for sore eyes.
+00:34:02,423|00:34:08,429|CC1|POP|        (GASPS) Oh God.
+00:34:02,423|00:34:08,429|CC1|POP|       This is a dream.
+00:34:08,463|00:34:09,881|CC1|POP|       This ain't real.
+00:34:09,931|00:34:13,051|CC1|POP|        Okay, wake up,
+00:34:09,931|00:34:13,051|CC1|POP|        Arlene. Okay...
+00:34:13,052|00:34:16,554|CC1|POP|         Wake up. Ow.
+00:34:16,604|00:34:19,273|CC1|POP|  Ain't gonna hurt you,  <i>cher </i>.
+00:34:19,307|00:34:21,059|CC1|POP|               I loved you, me.
+00:34:22,310|00:34:23,728|CC1|POP|        RENE: You and our baby.
+00:34:23,778|00:34:25,029|CC1|POP|    (WHISPERING) Oh God...
+00:34:25,063|00:34:26,864|CC1|POP|        <i>&l God said out and</i>
+00:34:25,063|00:34:26,864|CC1|POP|        <i>the devil he ran</i>
+00:34:26,898|00:34:30,234|CC1|POP|       <i>&l Ain't comin' back</i>
+00:34:26,898|00:34:30,234|CC1|POP|       <i>no more no more &l</i>
+00:34:30,235|00:34:31,869|CC1|POP|        "Praise Jesus."
+00:34:33,287|00:34:36,541|CC1|POP|           (SCREAMS)
+00:34:33,287|00:34:36,541|CC1|POP|    I'm here to warn you, girl.
+00:34:36,574|00:34:39,243|CC1|POP|     That man, he's bringin'
+00:34:36,574|00:34:39,243|CC1|POP|     trouble of the worst kind.
+00:34:40,461|00:34:41,462|CC1|POP|           Terry?
+00:34:41,497|00:34:44,165|CC1|POP|                  Mmm-hmm.
+00:34:41,497|00:34:44,165|CC1|POP|            No.
+00:34:44,215|00:34:47,502|CC1|POP|He's good to me and my babies.
+00:34:47,552|00:34:49,670|CC1|POP|            I've met the ghosts
+00:34:47,552|00:34:49,670|CC1|POP|            of his past.
+00:34:50,805|00:34:52,757|CC1|POP|            But, they ain't
+00:34:50,805|00:34:52,757|CC1|POP|            gonna rest forever.
+00:34:52,758|00:34:54,308|CC1|POP|         TERRY: Arlene!
+00:34:52,758|00:34:54,308|CC1|POP|         (GASPS)
+00:34:54,342|00:34:56,310|CC1|POP|                      Run.
+00:34:54,342|00:34:56,310|CC1|POP|    TERRY: What's goin' on?
+00:34:56,344|00:34:58,980|CC1|POP|                 <i>Hear me? Run!</i>
+00:34:56,344|00:34:58,980|CC1|POP|         <i>(SHRIEKS)</i>
+00:34:59,013|00:35:00,731|CC1|POP|         (WIND HOWLS)
+00:35:06,020|00:35:08,439|CC1|POP|          You all right? Jesus.
+00:35:06,020|00:35:08,439|CC1|POP| (CRYING) Oh God.
+00:35:08,489|00:35:11,242|CC1|POP|         Oh!
+00:35:08,489|00:35:11,242|CC1|POP|            Somethin' scare ya?
+00:35:11,275|00:35:14,745|CC1|POP|            (CRYING)
+00:35:11,275|00:35:14,745|CC1|POP|                          Shhh.
+00:35:14,779|00:35:18,449|CC1|POP|        Terry's here now. Ain't
+00:35:14,779|00:35:18,449|CC1|POP|        nothin' gonna get ya.
+00:35:24,922|00:35:29,460|CC1|POP|      (ROCK MUSIC PLAYS)
+00:35:31,345|00:35:36,634|CC1|POP|     <i>&l Little girl little</i>
+00:35:31,345|00:35:36,634|CC1|POP|     <i>girl don't you lie to me</i>
+00:35:36,684|00:35:42,607|CC1|POP|       <i>&l Tell me where did</i>
+00:35:36,684|00:35:42,607|CC1|POP|       <i>you sleep last night</i>
+00:35:42,640|00:35:45,443|CC1|POP|          <i>&l In the pines</i>
+00:35:42,640|00:35:45,443|CC1|POP|          <i>in the pines</i>
+00:35:45,476|00:35:47,478|CC1|POP|         <i>&l Where the sun</i>
+00:35:45,476|00:35:47,478|CC1|POP|         <i>don't ever shine</i>
+00:35:45,476|00:35:47,478|CC1|POP|        <i>(KNOCK ON DOOR)</i>
+00:35:47,479|00:35:49,614|CC1|POP|          I ain't got no candy!
+00:35:49,647|00:35:52,066|CC1|POP|          The little shits
+00:35:49,647|00:35:52,066|CC1|POP|          egged my house again.
+00:35:52,116|00:35:53,734|CC1|POP|   JASON: I will arrest you!
+00:35:53,784|00:36:00,541|CC1|POP|    <i>&l Little girl little girl</i>
+00:35:53,784|00:36:00,541|CC1|POP|    <i>don't you lie to me &l</i>
+00:36:00,575|00:36:03,161|CC1|POP| Jason? What happened
+00:36:00,575|00:36:03,161|CC1|POP| to your face?
+00:36:04,245|00:36:06,547|CC1|POP|         Is this another dream?
+00:36:06,581|00:36:10,001|CC1|POP|   'Cause if Hoyt pops out from
+00:36:06,581|00:36:10,001|CC1|POP|   under that hood, I'm gonna
+00:36:06,581|00:36:10,001|CC1|POP|   knock him the fuck out.
+00:36:11,085|00:36:12,670|CC1|POP|      You told him?
+00:36:12,720|00:36:15,223|CC1|POP|      (SIGHS) Yeah, I told him.
+00:36:15,306|00:36:17,975|CC1|POP|(ROCK MUSIC CONTINUES PLAYING)
+00:36:18,009|00:36:19,477|CC1|POP|        He took it pretty well.
+00:36:22,647|00:36:23,848|CC1|POP|     Did you hurt him?
+00:36:25,733|00:36:27,235|CC1|POP|            I didn't touch him.
+00:36:33,691|00:36:35,026|CC1|POP|      Invite me in.
+00:36:40,932|00:36:43,618|CC1|POP|           (MOANING)
+00:36:46,087|00:36:48,706|CC1|POP|       (HEAVY BREATHING)
+00:36:46,087|00:36:48,706|CC1|POP|      (ROCK MUSIC PLAYING)
+00:36:56,931|00:36:59,800|CC1|POP| JESSICA: (MOANING) I don't
+00:36:56,931|00:36:59,800|CC1|POP| want to be your girlfriend.
+00:37:03,104|00:37:04,388|CC1|POP|                JASON: What?
+00:37:05,690|00:37:07,642|CC1|POP| I just got out of a
+00:37:05,690|00:37:07,642|CC1|POP| serious relationship.
+00:37:07,692|00:37:08,776|CC1|POP|                  JASON: Mmm...
+00:37:08,809|00:37:11,562|CC1|POP| My first and only
+00:37:08,809|00:37:11,562|CC1|POP| relationship. I just...
+00:37:12,780|00:37:14,482|CC1|POP| I'm not ready
+00:37:12,780|00:37:14,482|CC1|POP| to commit to you.
+00:37:15,566|00:37:19,537|CC1|POP|                   JASON: Okay.
+00:37:15,566|00:37:19,537|CC1|POP|                   Okay, uh...
+00:37:22,123|00:37:26,911|CC1|POP|      Kinda wish you would
+00:37:22,123|00:37:26,911|CC1|POP|      have told me that, before
+00:37:22,123|00:37:26,911|CC1|POP|      I took an ass-kickin'.
+00:37:28,246|00:37:30,631|CC1|POP|           I didn't ask
+00:37:28,246|00:37:30,631|CC1|POP|           you to do that.
+00:37:30,666|00:37:34,585|CC1|POP|            No? But it was the
+00:37:30,666|00:37:34,585|CC1|POP|            right thing to do.
+00:37:34,635|00:37:39,340|CC1|POP| And since when is, is Jason
+00:37:34,635|00:37:39,340|CC1|POP| Stackhouse concerned with
+00:37:34,635|00:37:39,340|CC1|POP| doin' the right thing?
+00:37:43,844|00:37:45,396|CC1|POP|                 You don't know
+00:37:43,844|00:37:45,396|CC1|POP|                 me very well.
+00:37:50,935|00:37:53,354|CC1|POP|          (WHOOSHING)
+00:37:53,404|00:37:57,108|CC1|POP| Fair enough. I'm just
+00:37:53,404|00:37:57,108|CC1|POP| barely gettin' to know myself.
+00:37:57,158|00:38:00,995|CC1|POP| But I don't want to hurt
+00:37:57,158|00:38:00,995|CC1|POP| you, the way I hurt Hoyt.
+00:38:03,748|00:38:08,085|CC1|POP| So I'm asking you, can
+00:38:03,748|00:38:08,085|CC1|POP| this be enough for now?
+00:38:11,289|00:38:15,793|CC1|POP| 'Cause...'cause I
+00:38:11,289|00:38:15,793|CC1|POP| don't want it to stop.
+00:38:17,678|00:38:21,632|CC1|POP|         (WHISPERING) Uh-huh.
+00:38:17,678|00:38:21,632|CC1|POP|         You know what you are?
+00:38:25,136|00:38:26,520|CC1|POP|              You're dangerous.
+00:38:27,805|00:38:31,225|CC1|POP|           Yes... I am.
+00:38:43,821|00:38:46,657|CC1|POP|      (MOANING CONTINUES)
+00:38:50,244|00:38:51,662|CC1|POP|  PAM: Where the fuck is he!
+00:38:51,696|00:38:55,966|CC1|POP|       I don't know. But Sookie
+00:38:51,696|00:38:55,966|CC1|POP|       called looking for him.
+00:38:56,000|00:38:57,835|CC1|POP| PAM: Sookie...
+00:38:57,836|00:39:05,092|CC1|POP| I'm so over Sookie and her
+00:38:57,836|00:39:05,092|CC1|POP| precious fairy vagina and her
+00:38:57,836|00:39:05,092|CC1|POP| unbelievably stupid name!
+00:39:05,142|00:39:06,344|CC1|POP|         Fuck Sookie!
+00:39:06,394|00:39:09,680|CC1|POP|          (SCREAMING)
+00:39:06,394|00:39:09,680|CC1|POP|           (GRUNTING)
+00:39:09,681|00:39:11,349|CC1|POP|       (CHAIR BREAKING)
+00:39:11,399|00:39:14,518|CC1|POP| I've been with Eric
+00:39:11,399|00:39:14,518|CC1|POP| over 100 years.
+00:39:14,519|00:39:17,855|CC1|POP|          I've watched him
+00:39:14,519|00:39:17,855|CC1|POP|          seduce supermodels
+00:39:14,519|00:39:17,855|CC1|POP|          and princesses and...
+00:39:17,905|00:39:20,825|CC1|POP|           Spit out their bones
+00:39:17,905|00:39:20,825|CC1|POP|           when he is finished.
+00:39:20,858|00:39:24,695|CC1|POP|   How can someone named Sookie
+00:39:20,858|00:39:24,695|CC1|POP|   take him away from me?
+00:39:33,504|00:39:35,423|CC1|POP|        Don't fuckin' touch me.
+00:39:45,182|00:39:46,934|CC1|POP|                      (CRYING)
+00:39:52,556|00:39:54,141|CC1|POP| Try and get some rest.
+00:39:54,191|00:39:55,726|CC1|POP|                 I killed him.
+00:39:55,727|00:40:00,030|CC1|POP|   No, you didn't.
+00:39:55,727|00:40:00,030|CC1|POP|   It wasn't you.
+00:40:00,064|00:40:02,900|CC1|POP| You hear me, Lafayette?
+00:40:00,064|00:40:02,900|CC1|POP| None of this was your fault.
+00:40:03,984|00:40:06,404|CC1|POP|   If I can love you...
+00:40:06,454|00:40:10,658|CC1|POP| We're gonna get through this
+00:40:06,454|00:40:10,658|CC1|POP| shit together, just like we
+00:40:06,454|00:40:10,658|CC1|POP| got through everything else.
+00:40:12,410|00:40:14,628|CC1|POP|          Okay?
+00:40:14,662|00:40:17,498|CC1|POP|                (SNIFFLING)
+00:40:17,548|00:40:19,717|CC1|POP|   I'll be right out
+00:40:17,548|00:40:19,717|CC1|POP|   there if you need me.
+00:40:38,602|00:40:40,104|CC1|POP|             (LAFAYETTE CRYING)
+00:40:41,989|00:40:44,158|CC1|POP|           (GURGLING)
+00:40:41,989|00:40:44,158|CC1|POP|           (SUCKING)
+00:40:45,242|00:40:48,162|CC1|POP| (SLURPING)
+00:40:51,198|00:40:52,616|CC1|POP|    Does it hurt?
+00:40:54,702|00:40:56,704|CC1|POP|      If you want us to stop...
+00:40:57,788|00:41:00,007|CC1|POP|                No.
+00:41:00,040|00:41:01,759|CC1|POP|                     (GROWLS)
+00:41:05,463|00:41:08,799|CC1|POP|             (MOANING) Okay...
+00:41:08,849|00:41:10,634|CC1|POP|       I think that's enough.
+00:41:22,446|00:41:23,898|CC1|POP|          You saved my life.
+00:41:25,699|00:41:27,234|CC1|POP|              Both our lives.
+00:41:28,536|00:41:30,821|CC1|POP|        It was my turn.
+00:41:30,822|00:41:33,157|CC1|POP| ERIC: Thank you.
+00:41:33,158|00:41:37,828|CC1|POP|    You don't have to thank
+00:41:33,158|00:41:37,828|CC1|POP|    me. I can't imagine a
+00:41:33,158|00:41:37,828|CC1|POP|    world without you in it.
+00:41:38,796|00:41:40,297|CC1|POP|                   Both of you.
+00:41:47,588|00:41:49,590|CC1|POP|         I can't stand
+00:41:47,588|00:41:49,590|CC1|POP|         this anymore.
+00:41:51,509|00:41:56,514|CC1|POP|     It's like being ripped in
+00:41:51,509|00:41:56,514|CC1|POP|     half. No matter what I do,
+00:41:51,509|00:41:56,514|CC1|POP|     somebody I love gets hurt.
+00:41:59,767|00:42:01,852|CC1|POP|        (FANGS RETRACT)
+00:42:01,853|00:42:04,688|CC1|POP|    Sookie, I just want
+00:42:01,853|00:42:04,688|CC1|POP|    for you to be happy.
+00:42:04,689|00:42:07,608|CC1|POP| And if being with Eric
+00:42:04,689|00:42:07,608|CC1|POP| is what makes you happy...
+00:42:09,109|00:42:10,661|CC1|POP|     Then you have
+00:42:09,109|00:42:10,661|CC1|POP|     my blessing.
+00:42:13,280|00:42:14,498|CC1|POP| ERIC: See?
+00:42:16,250|00:42:18,536|CC1|POP|           It's okay, Sookie.
+00:42:16,250|00:42:18,536|CC1|POP|           Bill's fine with it.
+00:42:20,838|00:42:24,542|CC1|POP| Bill had his chance.
+00:42:20,838|00:42:24,542|CC1|POP| He blew it.
+00:42:24,592|00:42:26,710|CC1|POP| He, he lied to you.
+00:42:24,592|00:42:26,710|CC1|POP|                 To protect me.
+00:42:26,760|00:42:28,295|CC1|POP|              And I lied to him
+00:42:26,760|00:42:28,295|CC1|POP|              to protect you...
+00:42:28,345|00:42:32,550|CC1|POP|         And you've lied to
+00:42:28,345|00:42:32,550|CC1|POP|         both of us so many
+00:42:28,345|00:42:32,550|CC1|POP|         times, we can't count.
+00:42:32,600|00:42:33,968|CC1|POP|                What a mess.
+00:42:40,024|00:42:42,109|CC1|POP|           I forgive you.
+00:42:42,142|00:42:45,896|CC1|POP| I know you've loved me every
+00:42:42,142|00:42:45,896|CC1|POP| bit as much as I've loved you.
+00:42:45,946|00:42:49,783|CC1|POP|       And we've both hurt each
+00:42:45,946|00:42:49,783|CC1|POP|       other just as deeply.
+00:42:49,818|00:42:52,069|CC1|POP|                 I hope you can
+00:42:49,818|00:42:52,069|CC1|POP|                 forgive me.
+00:42:54,038|00:42:55,239|CC1|POP|       Sookie.
+00:42:57,074|00:42:58,709|CC1|POP|  Like I have a choice.
+00:43:00,961|00:43:02,463|CC1|POP| You're the love of my life.
+00:43:03,747|00:43:07,418|CC1|POP|          I know. And that just
+00:43:03,747|00:43:07,418|CC1|POP|          makes this harder.
+00:43:17,595|00:43:23,851|CC1|POP|   If I'm really honest,
+00:43:17,595|00:43:23,851|CC1|POP|   it wasn't just goofy,
+00:43:17,595|00:43:23,851|CC1|POP|   innocent Eric I fell for.
+00:43:23,901|00:43:27,938|CC1|POP|        As vicious and
+00:43:23,901|00:43:27,938|CC1|POP|        untrustworthy as
+00:43:23,901|00:43:27,938|CC1|POP|        you can be...
+00:43:29,273|00:43:31,575|CC1|POP|    There's a goodness in
+00:43:29,273|00:43:31,575|CC1|POP|    you that breaks my heart...
+00:43:31,609|00:43:34,495|CC1|POP|         Because a part of me
+00:43:31,609|00:43:34,495|CC1|POP|         has always wanted you.
+00:43:37,331|00:43:38,699|CC1|POP|            You won't be sorry.
+00:43:40,534|00:43:41,952|CC1|POP|         I already am.
+00:43:43,787|00:43:48,876|CC1|POP|    The time we had together
+00:43:43,787|00:43:48,876|CC1|POP|    was unforgettable, but
+00:43:43,787|00:43:48,876|CC1|POP|    it, it's over.
+00:43:48,926|00:43:50,794|CC1|POP|            No, wait. It
+00:43:48,926|00:43:50,794|CC1|POP|            doesn't have to be.
+00:43:52,846|00:43:55,382|CC1|POP| There is only one way
+00:43:52,846|00:43:55,382|CC1|POP| I see this ending...
+00:43:55,432|00:43:57,968|CC1|POP| And it's me walking
+00:43:55,432|00:43:57,968|CC1|POP| away with neither of you.
+00:43:58,018|00:43:59,303|CC1|POP|                 Don't do this.
+00:43:59,353|00:44:00,804|CC1|POP|         Sookie.
+00:44:00,805|00:44:05,609|CC1|POP|  This is the hardest decision
+00:44:00,805|00:44:05,609|CC1|POP|  I've ever had to make...
+00:44:05,643|00:44:10,481|CC1|POP| (CRYING) But I know it's
+00:44:05,643|00:44:10,481|CC1|POP| the right one for all of
+00:44:05,643|00:44:10,481|CC1|POP| us. And so, please...
+00:44:10,482|00:44:14,818|CC1|POP|     Don't try to stop
+00:44:10,482|00:44:14,818|CC1|POP|     me, either of you.
+00:44:26,997|00:44:28,248|CC1|POP|         (DOOR CLOSES)
+00:44:43,180|00:44:44,348|CC1|POP|        (WIND BLOWING)
+00:44:46,350|00:44:48,352|CC1|POP|      (DISTORTED SOUNDS)
+00:44:49,520|00:44:54,191|CC1|POP|      Jesus? Is that you?
+00:44:58,529|00:45:01,949|CC1|POP|        (LOUD ZAPPING)
+00:45:01,999|00:45:04,418|CC1|POP|            Oh, fuck, baby.
+00:45:04,451|00:45:09,673|CC1|POP|    Look at you. Look what
+00:45:04,451|00:45:09,673|CC1|POP|    I, I did. I'm... I'm sorry.
+00:45:11,208|00:45:13,010|CC1|POP| Don't worry about it.
+00:45:13,043|00:45:16,680|CC1|POP|     What you mean, don't worry
+00:45:13,043|00:45:16,680|CC1|POP|     about it? I killed you.
+00:45:16,714|00:45:18,265|CC1|POP|    Everything's temporary.
+00:45:20,100|00:45:22,720|CC1|POP|    Anyway, I probably would
+00:45:20,100|00:45:22,720|CC1|POP|    have gotten cancer...
+00:45:22,721|00:45:25,939|CC1|POP| Died in a bed somewhere
+00:45:22,721|00:45:25,939|CC1|POP| with a nurse who doesn't
+00:45:22,721|00:45:25,939|CC1|POP| know half the shit I know.
+00:45:25,973|00:45:28,642|CC1|POP| Screwing up my IV's
+00:45:25,973|00:45:28,642|CC1|POP| and giving me bedsores.
+00:45:30,527|00:45:32,146|CC1|POP|     I'm cool with
+00:45:30,527|00:45:32,146|CC1|POP|     how things went.
+00:45:32,196|00:45:36,734|CC1|POP|     But I sure the fuck ain't.
+00:45:32,196|00:45:36,734|CC1|POP|     I murdered the man I love.
+00:45:36,817|00:45:38,986|CC1|POP|             How am I supposed
+00:45:36,817|00:45:38,986|CC1|POP|             to live with that?
+00:45:41,405|00:45:43,240|CC1|POP| Just keep breathing, baby.
+00:45:52,800|00:45:54,752|CC1|POP|   It's that simple.
+00:45:54,802|00:45:55,969|CC1|POP|                    Mmm.
+00:45:58,589|00:46:02,092|CC1|POP|                Jesus, wait.
+00:45:58,589|00:46:02,092|CC1|POP|                Don't leave me.
+00:46:02,093|00:46:05,512|CC1|POP|     Dude, I'm dead.
+00:46:02,093|00:46:05,512|CC1|POP|     You're a medium.
+00:46:07,014|00:46:08,849|CC1|POP| I'll always be with you.
+00:46:11,935|00:46:15,939|CC1|POP|           (ZAPPING)
+00:46:11,935|00:46:15,939|CC1|POP|       (DISTORTED SOUNDS)
+00:46:17,157|00:46:18,909|CC1|POP|               (CRYING)
+00:46:25,365|00:46:26,950|CC1|POP|             ANDY: Miss Cleary.
+00:46:29,286|00:46:32,039|CC1|POP|      Happy Halloween,
+00:46:29,286|00:46:32,039|CC1|POP|      Sheriff Bellefleur.
+00:46:32,089|00:46:33,540|CC1|POP|                 Andy.
+00:46:35,926|00:46:38,762|CC1|POP|      Sorry about the last time
+00:46:35,926|00:46:38,762|CC1|POP|      when I took your flowers.
+00:46:38,796|00:46:42,466|CC1|POP|     Mmm. That's okay.
+00:46:38,796|00:46:42,466|CC1|POP|     You were nervous.
+00:46:43,801|00:46:46,804|CC1|POP|               No, I was a drug
+00:46:43,801|00:46:46,804|CC1|POP|               addict... V.
+00:46:46,805|00:46:52,309|CC1|POP|      I thought I needed it to
+00:46:46,805|00:46:52,309|CC1|POP|      do the job and to talk
+00:46:46,805|00:46:52,309|CC1|POP|      pretty ladies like you...
+00:46:52,310|00:46:56,146|CC1|POP|        So, I didn't feel like
+00:46:52,310|00:46:56,146|CC1|POP|        a loser all the time.
+00:46:52,310|00:46:56,146|CC1|POP|        It worked for awhile...
+00:46:57,114|00:46:58,615|CC1|POP|                Then it didn't.
+00:47:00,651|00:47:03,871|CC1|POP|   Okay, look, honey.
+00:47:03,904|00:47:05,656|CC1|POP| You're really sweet
+00:47:03,904|00:47:05,656|CC1|POP| and everything, but...
+00:47:05,657|00:47:09,960|CC1|POP|     This is all just too
+00:47:05,657|00:47:09,960|CC1|POP|     much for me right now.
+00:47:09,993|00:47:13,831|CC1|POP|          It's no problem. Lot
+00:47:09,993|00:47:13,831|CC1|POP|          of baggage, I get it.
+00:47:13,832|00:47:17,801|CC1|POP|     I just wanted to say that
+00:47:13,832|00:47:17,801|CC1|POP|     I'm sober, and I'm lonely.
+00:47:19,169|00:47:22,556|CC1|POP|       And I can be good to
+00:47:19,169|00:47:22,556|CC1|POP|       someone, if they let me.
+00:47:24,975|00:47:26,343|CC1|POP|                  'Night.
+00:47:28,345|00:47:34,234|CC1|POP|     Sheriff Andy.
+00:47:28,345|00:47:34,234|CC1|POP|     How about a hug?
+00:47:35,519|00:47:39,940|CC1|POP|     I could really, really
+00:47:35,519|00:47:39,940|CC1|POP|     use one tonight.
+00:48:01,929|00:48:04,214|CC1|POP|                (MOANING)
+00:48:06,049|00:48:08,886|CC1|POP|          You sure I can't
+00:48:06,049|00:48:08,886|CC1|POP|          convince you to stay?
+00:48:08,887|00:48:14,524|CC1|POP| Tempting, but I don't really
+00:48:08,887|00:48:14,524|CC1|POP| think Emma's ready for that.
+00:48:14,558|00:48:19,229|CC1|POP|                       Oh.
+00:48:14,558|00:48:19,229|CC1|POP| So I'm going to take her
+00:48:14,558|00:48:19,229|CC1|POP| home and put her to bed.
+00:48:19,279|00:48:20,564|CC1|POP|                      Okay.
+00:48:21,900|00:48:26,286|CC1|POP|              You and Emma are
+00:48:21,900|00:48:26,286|CC1|POP|              the best thing...
+00:48:26,320|00:48:27,571|CC1|POP|           Don't jinx it.
+00:48:28,655|00:48:30,657|CC1|POP|                 So now you're
+00:48:28,655|00:48:30,657|CC1|POP|                 superstitious?
+00:48:30,707|00:48:32,743|CC1|POP|     I just, feel like...
+00:48:32,793|00:48:36,046|CC1|POP|       If we are too
+00:48:32,793|00:48:36,046|CC1|POP|       cute and cheesy...
+00:48:36,079|00:48:39,583|CC1|POP|    That God is gonna drop
+00:48:36,079|00:48:39,583|CC1|POP|     a brick on our heads.
+00:48:39,633|00:48:42,803|CC1|POP|               Listen, I think
+00:48:39,633|00:48:42,803|CC1|POP|               life is violent.
+00:48:42,836|00:48:44,972|CC1|POP|         And cruel by nature...
+00:48:45,005|00:48:50,010|CC1|POP|        So, when something good
+00:48:45,005|00:48:50,010|CC1|POP|        comes along, you gotta
+00:48:45,005|00:48:50,010|CC1|POP|        stop and celebrate it.
+00:48:50,060|00:48:51,762|CC1|POP|                   Be grateful.
+00:48:53,347|00:48:57,150|CC1|POP|     Okay. Well, in that
+00:48:53,347|00:48:57,150|CC1|POP|     case, you're welcome.
+00:48:57,185|00:48:58,769|CC1|POP|                 So are you.
+00:49:04,441|00:49:06,910|CC1|POP|                     Great.
+00:49:04,441|00:49:06,910|CC1|POP|        Good night.
+00:49:16,286|00:49:18,839|CC1|POP|     (DOOR OPENS AND CLOSES)
+00:49:16,286|00:49:18,839|CC1|POP|        (ENGINE STARTS)
+00:49:25,846|00:49:29,766|CC1|POP|          (GROWLING)
+00:49:34,554|00:49:36,023|CC1|POP| You're really leavin'?
+00:49:38,141|00:49:39,443|CC1|POP|                     Yup.
+00:49:42,312|00:49:45,198|CC1|POP|  You know, if you didn't like
+00:49:42,312|00:49:45,198|CC1|POP|  it, I can take direction.
+00:49:46,817|00:49:50,153|CC1|POP|            No. I liked it.
+00:49:50,203|00:49:52,372|CC1|POP|              I liked it a lot.
+00:49:52,406|00:49:54,658|CC1|POP|               And maybe, uh...
+00:49:54,659|00:49:57,327|CC1|POP|                Next time we
+00:49:54,659|00:49:57,327|CC1|POP|                could try oral.
+00:49:57,377|00:50:00,630|CC1|POP|    Uh, you know, Hoyt was kind
+00:49:57,377|00:50:00,630|CC1|POP|    of shy about that, but...
+00:50:00,664|00:50:02,716|CC1|POP|            I think maybe
+00:50:00,664|00:50:02,716|CC1|POP|            'cause of my fangs.
+00:50:02,749|00:50:06,003|CC1|POP|    Yeah, I'm, I'm down
+00:50:02,749|00:50:06,003|CC1|POP|    for that. Just uh...
+00:50:07,471|00:50:11,675|CC1|POP| Jess, could we stop talkin'
+00:50:07,471|00:50:11,675|CC1|POP| about Hoyt so much?
+00:50:11,676|00:50:16,847|CC1|POP|        Yeah, sorry. Sorry,
+00:50:11,676|00:50:16,847|CC1|POP|        it's just all that I
+00:50:11,676|00:50:16,847|CC1|POP|        got to compare this to.
+00:50:16,848|00:50:18,398|CC1|POP|           Uh...
+00:50:23,854|00:50:25,155|CC1|POP|          Fuck.
+00:50:27,024|00:50:31,328|CC1|POP| Do you think there's a part
+00:50:27,024|00:50:31,328|CC1|POP| of me that's, that's missin'?
+00:50:31,361|00:50:34,364|CC1|POP| Is that why you
+00:50:31,361|00:50:34,364|CC1|POP| don't want to stay?
+00:50:34,365|00:50:39,586|CC1|POP|         What... No. Why
+00:50:34,365|00:50:39,586|CC1|POP|         would you ask me that?
+00:50:39,620|00:50:43,924|CC1|POP|     Uh...it's just
+00:50:39,620|00:50:43,924|CC1|POP|     somethin' Hoyt said.
+00:50:45,425|00:50:48,045|CC1|POP|     Thought we weren't
+00:50:45,425|00:50:48,045|CC1|POP|     talkin' about him anymore.
+00:50:51,298|00:50:53,383|CC1|POP|                     Hey.
+00:50:51,298|00:50:53,383|CC1|POP|          Yeah?
+00:50:54,634|00:50:55,886|CC1|POP|                You're funny...
+00:50:57,220|00:51:01,391|CC1|POP|           And you're excitin',
+00:50:57,220|00:51:01,391|CC1|POP|           and you have...
+00:51:01,392|00:51:06,029|CC1|POP|     The sexiest hip
+00:51:01,392|00:51:06,029|CC1|POP|     bones I've ever seen.
+00:51:11,068|00:51:15,739|CC1|POP|     I'm leavin' 'cause fucking
+00:51:11,068|00:51:15,739|CC1|POP|     you made me hungry.
+00:51:18,208|00:51:23,296|CC1|POP| And I don't want to drink your
+00:51:18,208|00:51:23,296|CC1|POP| blood, 'cause I'm not ready to
+00:51:18,208|00:51:23,296|CC1|POP| be that intimate with you...
+00:51:24,798|00:51:26,299|CC1|POP|              At least not yet.
+00:51:28,418|00:51:33,423|CC1|POP| So you're gonna glamour
+00:51:28,418|00:51:33,423|CC1|POP| some total stranger
+00:51:28,418|00:51:33,423|CC1|POP| and drink their blood?
+00:51:35,592|00:51:37,761|CC1|POP|                  Yeah.
+00:51:35,592|00:51:37,761|CC1|POP|         Yeah.
+00:51:40,814|00:51:46,436|CC1|POP| (LAUGHING) Okay. I get it.
+00:51:46,486|00:51:51,074|CC1|POP| You know, it's, it's,
+00:51:46,486|00:51:51,074|CC1|POP| it's kinda like a
+00:51:46,486|00:51:51,074|CC1|POP| hooker with kissin'.
+00:51:51,108|00:51:53,577|CC1|POP| Not that you're
+00:51:51,108|00:51:53,577|CC1|POP| like a hooker.
+00:51:53,610|00:51:58,031|CC1|POP|           Oh, well, maybe I
+00:51:53,610|00:51:58,031|CC1|POP|           could pretend to be.
+00:51:58,081|00:52:00,250|CC1|POP|          If you like that.
+00:52:04,121|00:52:05,455|CC1|POP|                    Hmm?
+00:52:05,456|00:52:06,756|CC1|POP|        (LAUGHS)
+00:52:10,794|00:52:13,463|CC1|POP| You're like no other woman
+00:52:10,794|00:52:13,463|CC1|POP| I've ever been with.
+00:52:14,598|00:52:16,550|CC1|POP| And I have been
+00:52:14,598|00:52:16,550|CC1|POP| with a lot of women.
+00:52:17,517|00:52:19,769|CC1|POP|       Oh God, that's so sweet.
+00:52:21,555|00:52:23,807|CC1|POP|               (FANGS PROTRACT)
+00:52:25,976|00:52:32,566|CC1|POP|            I'm sorry. I uh...
+00:52:25,976|00:52:32,566|CC1|POP|            Low blood sugar.
+00:52:32,616|00:52:33,783|CC1|POP|                (FANGS RETRACT)
+00:52:39,122|00:52:40,290|CC1|POP|           I'll see you around.
+00:52:40,323|00:52:42,159|CC1|POP|            (WHOOSH)
+00:52:40,323|00:52:42,159|CC1|POP|         (DOOR CLOSES)
+00:52:49,382|00:52:50,500|CC1|POP|        (KNOCK ON DOOR)
+00:52:56,840|00:52:59,259|CC1|POP| JASON: Well, I knew
+00:52:56,840|00:52:59,259|CC1|POP| you'd be back.
+00:52:56,840|00:52:59,259|CC1|POP|       (KNOCKING CONTINUES)
+00:53:07,517|00:53:09,102|CC1|POP|             Reverend Newlin.
+00:53:09,152|00:53:11,104|CC1|POP|     Trick or treat.
+00:53:11,154|00:53:12,606|CC1|POP|    (FANGS PROTRACT)
+00:53:11,154|00:53:12,606|CC1|POP|    (VAMPIRE GROWL)
+00:53:12,656|00:53:14,491|CC1|POP|   When'd this happen?
+00:53:14,524|00:53:17,611|CC1|POP|      Last night, the night
+00:53:14,524|00:53:17,611|CC1|POP|      before. I don't remember.
+00:53:14,524|00:53:17,611|CC1|POP|      I'm sorry, boss.
+00:53:17,661|00:53:20,363|CC1|POP|         It's like somebody hit
+00:53:17,661|00:53:20,363|CC1|POP|         delete in my brain.
+00:53:17,661|00:53:20,363|CC1|POP|     Wait...
+00:53:21,665|00:53:23,333|CC1|POP| Fuck, you've
+00:53:21,665|00:53:23,333|CC1|POP| been glamoured.
+00:53:23,366|00:53:26,036|CC1|POP| Why would a vamper
+00:53:23,366|00:53:26,036|CC1|POP| want to glamour me?
+00:53:26,086|00:53:28,872|CC1|POP| Or dig a hole in the
+00:53:26,086|00:53:28,872|CC1|POP| damn parking garage?
+00:54:02,072|00:54:04,991|CC1|POP| Miss Flanagan, we've
+00:54:02,072|00:54:04,991|CC1|POP| been expecting you.
+00:54:07,577|00:54:11,715|CC1|POP|            Hi, Nan. And gay
+00:54:07,577|00:54:11,715|CC1|POP|            stormtroopers.
+00:54:11,748|00:54:14,884|CC1|POP|              Perfect. Two
+00:54:11,748|00:54:14,884|CC1|POP|              birds, one stone.
+00:54:16,886|00:54:20,557|CC1|POP|     BILL: The Marnie situation
+00:54:16,886|00:54:20,557|CC1|POP|     has been resolved, if that
+00:54:16,886|00:54:20,557|CC1|POP|     makes any difference.
+00:54:20,590|00:54:23,593|CC1|POP|           Ding dong, the witch
+00:54:20,590|00:54:23,593|CC1|POP|           is dead. Yippee.
+00:54:23,643|00:54:27,897|CC1|POP|       His Majesty showed great
+00:54:23,643|00:54:27,897|CC1|POP|       leadership in extremely
+00:54:23,643|00:54:27,897|CC1|POP|       perilous circumstances.
+00:54:27,931|00:54:29,599|CC1|POP|    You should be
+00:54:27,931|00:54:29,599|CC1|POP|    kissing his ring.
+00:54:29,600|00:54:32,852|CC1|POP|  Why bother when your tongue's
+00:54:29,600|00:54:32,852|CC1|POP|  already so far up his ass?
+00:54:37,107|00:54:39,409|CC1|POP|         (DOOR CLOSES)
+00:54:37,107|00:54:39,409|CC1|POP|   NAN: I wish for
+00:54:37,107|00:54:39,409|CC1|POP|   one fucking night...
+00:54:39,442|00:54:42,445|CC1|POP|   You could experience
+00:54:39,442|00:54:42,445|CC1|POP|   the litany of bullshit
+00:54:39,442|00:54:42,445|CC1|POP|   I've had to deal with.
+00:54:42,446|00:54:44,114|CC1|POP|      NAN: Then you'd
+00:54:42,446|00:54:44,114|CC1|POP|      have some idea of...
+00:54:44,115|00:54:47,033|CC1|POP|        How little I give a
+00:54:44,115|00:54:47,033|CC1|POP|        fuck about your small
+00:54:44,115|00:54:47,033|CC1|POP|        town witch infestation.
+00:54:47,083|00:54:49,786|CC1|POP|      Or your whole backwoods
+00:54:47,083|00:54:49,786|CC1|POP|      kingdom, for that matter.
+00:54:49,836|00:54:52,872|CC1|POP|    As someone who cares
+00:54:49,836|00:54:52,872|CC1|POP|    so little, you seem
+00:54:49,836|00:54:52,872|CC1|POP|    awfully pissed off.
+00:54:52,922|00:54:56,626|CC1|POP| Do I, Bill? Maybe that's
+00:54:52,922|00:54:56,626|CC1|POP| because I quit my fucking job!
+00:54:57,627|00:54:59,212|CC1|POP|      You quit the AVL?
+00:54:59,262|00:55:00,714|CC1|POP|             And the Authority.
+00:55:00,764|00:55:02,182|CC1|POP|   No one quits
+00:55:00,764|00:55:02,182|CC1|POP|   the Authority.
+00:55:02,215|00:55:04,434|CC1|POP|               Quit, fired,
+00:55:02,215|00:55:04,434|CC1|POP|               same difference.
+00:55:05,719|00:55:08,471|CC1|POP|    We assumed we were the
+00:55:05,719|00:55:08,471|CC1|POP|    ones to be terminated.
+00:55:08,472|00:55:11,057|CC1|POP|      Oh, there's been an order
+00:55:08,472|00:55:11,057|CC1|POP|      issued on your heads.
+00:55:11,107|00:55:15,312|CC1|POP|      My last duty was supposed
+00:55:11,107|00:55:15,312|CC1|POP|      to be delivering the true
+00:55:11,107|00:55:15,312|CC1|POP|      death to both of you.
+00:55:15,362|00:55:17,831|CC1|POP|          NAN: Of course, I
+00:55:15,362|00:55:17,831|CC1|POP|          realized I'd be next.
+00:55:17,864|00:55:21,318|CC1|POP|       I have been alive
+00:55:17,864|00:55:21,318|CC1|POP|       for 816 years.
+00:55:21,319|00:55:24,654|CC1|POP|         I refuse to be retired
+00:55:21,319|00:55:24,654|CC1|POP|         like a fat first wife.
+00:55:24,655|00:55:27,824|CC1|POP| Let me make sure
+00:55:24,655|00:55:27,824|CC1|POP| I've got this straight.
+00:55:27,874|00:55:31,828|CC1|POP| You're mutinying against
+00:55:27,874|00:55:31,828|CC1|POP| the American Vampire
+00:55:27,874|00:55:31,828|CC1|POP| League and the Authority?
+00:55:31,829|00:55:33,830|CC1|POP|       And you expect
+00:55:31,829|00:55:33,830|CC1|POP|       us to join you?
+00:55:33,880|00:55:35,498|CC1|POP|             We won't be alone.
+00:55:35,548|00:55:38,668|CC1|POP|    There are factions inside
+00:55:35,548|00:55:38,668|CC1|POP|    the regime who have never
+00:55:35,548|00:55:38,668|CC1|POP|    been completely on board...
+00:55:38,669|00:55:40,670|CC1|POP|       With the current agenda.
+00:55:40,720|00:55:43,390|CC1|POP|        Sheriff Northman knows
+00:55:40,720|00:55:43,390|CC1|POP|        what I'm talking about.
+00:55:43,423|00:55:45,392|CC1|POP| What's in it for us?
+00:55:43,423|00:55:45,392|CC1|POP|                       (LAUGHS)
+00:55:45,425|00:55:48,178|CC1|POP|           NAN: Aside from
+00:55:45,425|00:55:48,178|CC1|POP|           surviving the night?
+00:55:48,228|00:55:50,513|CC1|POP|          How about your little
+00:55:48,228|00:55:50,513|CC1|POP|          fairy waitress?
+00:55:52,065|00:55:56,519|CC1|POP|             Oh, come on. The
+00:55:52,065|00:55:56,519|CC1|POP|             mind reading, the
+00:55:52,065|00:55:56,519|CC1|POP|             microwave fingers?
+00:55:56,569|00:55:58,521|CC1|POP|          NAN: You didn't think
+00:55:56,569|00:55:58,521|CC1|POP|          I knew what she was?
+00:55:58,571|00:56:00,657|CC1|POP|    There are at least a couple
+00:55:58,571|00:56:00,657|CC1|POP|    of thousand vampires...
+00:56:00,690|00:56:03,660|CC1|POP|   Who would do almost anything
+00:56:00,690|00:56:03,660|CC1|POP|   to get a taste of her blood.
+00:56:03,693|00:56:08,915|CC1|POP|     Go ahead. She belongs
+00:56:03,693|00:56:08,915|CC1|POP|     to neither of us.
+00:56:08,948|00:56:14,037|CC1|POP| She smells fantastic, but
+00:56:08,948|00:56:14,037|CC1|POP| that's hardly worth dying for.
+00:56:14,087|00:56:15,505|CC1|POP|               You're bluffing.
+00:56:16,673|00:56:19,092|CC1|POP|            I saw the way you
+00:56:16,673|00:56:19,092|CC1|POP|            both looked at her.
+00:56:19,125|00:56:23,880|CC1|POP|            Hungry puppy dogs,
+00:56:19,125|00:56:23,880|CC1|POP|            slobbering over the
+00:56:19,125|00:56:23,880|CC1|POP|            same juicy bone.
+00:56:23,881|00:56:25,298|CC1|POP|            (WHOOSH)
+00:56:23,881|00:56:25,298|CC1|POP|         (ERIC SCREAMS)
+00:56:25,348|00:56:26,966|CC1|POP|           (THUDDING)
+00:56:25,348|00:56:26,966|CC1|POP|           (SPLATTER)
+00:56:27,016|00:56:28,968|CC1|POP|            You fucking...
+00:56:27,016|00:56:28,968|CC1|POP|            (VAMPIRE SCREAM)
+00:56:29,018|00:56:32,021|CC1|POP|      (BLOOD SPLATTERS)
+00:56:29,018|00:56:32,021|CC1|POP|          (SCOWLS)
+00:56:32,055|00:56:35,225|CC1|POP|       We are not fucking
+00:56:32,055|00:56:35,225|CC1|POP|       puppy dogs!
+00:56:35,275|00:56:36,893|CC1|POP|                (SCOWLS)
+00:56:35,275|00:56:36,893|CC1|POP|             (FANGS RETRACT)
+00:56:40,613|00:56:43,283|CC1|POP|     (SIGHS) What a bitch.
+00:56:51,241|00:56:52,742|CC1|POP|         (TV PLAYING)
+00:57:02,585|00:57:06,089|CC1|POP|            Tara? You
+00:57:02,585|00:57:06,089|CC1|POP|            still awake?
+00:57:08,224|00:57:09,309|CC1|POP|      Tara?
+00:57:09,342|00:57:11,344|CC1|POP| (GUN COCKS)
+00:57:12,312|00:57:13,680|CC1|POP|                SOOKIE: Debbie?
+00:57:15,732|00:57:17,233|CC1|POP|                 SOOKIE: What
+00:57:15,732|00:57:17,233|CC1|POP|                 are you doin'?
+00:57:17,267|00:57:20,820|CC1|POP|   DEBBIE: I should have done
+00:57:17,267|00:57:20,820|CC1|POP|   this a long time ago.
+00:57:25,825|00:57:27,660|CC1|POP|        TARA: Sookie!
+00:57:25,825|00:57:27,660|CC1|POP|          (GUN FIRES)
+00:57:27,694|00:57:30,413|CC1|POP|          (GLASS BREAKING)
+00:57:30,447|00:57:32,582|CC1|POP|              (SCREAMING) Tara!
+00:57:32,615|00:57:35,952|CC1|POP|           (GRUNTING)
+00:57:32,615|00:57:35,952|CC1|POP|           (THUDDING)
+00:57:37,921|00:57:39,422|CC1|POP|       (DEBBIE SCREAMS)
+00:57:39,456|00:57:40,623|CC1|POP|          DEBBIE: No!
+00:57:42,792|00:57:47,297|CC1|POP|       (GASPING) Oh, no.
+00:57:42,792|00:57:47,297|CC1|POP|       Please don't.
+00:57:47,347|00:57:48,965|CC1|POP|     Please don't kill me.
+00:57:47,347|00:57:48,965|CC1|POP|     Please. Wait, no!
+00:57:49,015|00:57:51,217|CC1|POP|          (GUN FIRES)
+00:57:49,015|00:57:51,217|CC1|POP|        (SOOKIE SHREIKS)
+00:57:58,641|00:58:01,478|CC1|POP|      SOOKIE: Tara, Tara.
+00:58:01,528|00:58:04,614|CC1|POP|       (CRYING) Tara.
+00:58:01,528|00:58:04,614|CC1|POP|       Oh God, Tara, no!
+00:58:05,565|00:58:08,485|CC1|POP|             (CRYING) Tara, no!
+00:58:08,486|00:58:11,704|CC1|POP|         Please, somebody help!
+00:58:11,738|00:58:17,076|CC1|POP|               Please. Somebody
+00:58:11,738|00:58:17,076|CC1|POP|               please help us!
+00:58:17,126|00:58:21,648|CC1|POP|     SOOKIE: (SOBBING) Oh
+00:58:17,126|00:58:21,648|CC1|POP|     God. Oh God. Somebody!
+00:58:24,050|00:58:26,486|CC1|POP|      (ROCK SONG PLAYING)

@@ -1,0 +1,473 @@
+{
+  "baseline_bin": "/Users/dev/ccextractor-rel/testing-harness/binary_base/build/ccextractor",
+  "baseline_bin_mtime": 1774864481,
+  "baseline_bin_sha256": "32dbcf466262dfb83a6b1db18829870559474ba27753b9d6abc8cd3f3c5b0fe7",
+  "baseline_bin_size": 8116920,
+  "cases": [
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=srt"
+      ],
+      "id": "100-d037c750-srt",
+      "mtime": 1774810395,
+      "sample": "d037c7509e0ac518b0945247d0f968517f94904eaa391366633da60c1cdcc85f.ts",
+      "size": 4172603224
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=smptett"
+      ],
+      "id": "101-e274a736-smptett",
+      "mtime": 1774812552,
+      "sample": "e274a73653ce721a1876bfe1ed387dd7365515ba15fe28a570541c076561ba7c.ts",
+      "size": 4177644444
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt",
+        "--xds"
+      ],
+      "id": "102-e274a736-ttxt-xds",
+      "mtime": 1774812552,
+      "sample": "e274a73653ce721a1876bfe1ed387dd7365515ba15fe28a570541c076561ba7c.ts",
+      "size": 4177644444
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt",
+        "--xds"
+      ],
+      "id": "103-85058ad3-ttxt-xds",
+      "mtime": 1774806857,
+      "sample": "85058ad37e146acf416402b7a8f2ac3877762618caf53b25f2e78653b86cc96a.mpg",
+      "size": 21021784
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt",
+        "--xds"
+      ],
+      "id": "104-b22260d0-ttxt-xds",
+      "mtime": 1774813158,
+      "sample": "b22260d065ab537899baaf34e78a5184671f4bcb2df0414d05e6345adfd7812f.ts",
+      "size": 2909581624
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=srt"
+      ],
+      "id": "105-b22260d0-srt",
+      "mtime": 1774813158,
+      "sample": "b22260d065ab537899baaf34e78a5184671f4bcb2df0414d05e6345adfd7812f.ts",
+      "size": 2909581624
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt",
+        "--xds"
+      ],
+      "id": "106-c813e713-ttxt-xds",
+      "mtime": 1774834421,
+      "sample": "c813e713a0b665e93149440bc3f877203052e20fa99414474b3e273b7c786c3d.ts",
+      "size": 5006201992
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=srt"
+      ],
+      "id": "107-c813e713-srt",
+      "mtime": 1774834421,
+      "sample": "c813e713a0b665e93149440bc3f877203052e20fa99414474b3e273b7c786c3d.ts",
+      "size": 5006201992
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt",
+        "--xds"
+      ],
+      "id": "108-27fab4db-ttxt-xds",
+      "mtime": 1774834558,
+      "sample": "27fab4dbb603753d76e8b7701bbf0a5b1b9d41d2748759bb22f7fe6afc75597b.ts",
+      "size": 5299998804
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=srt"
+      ],
+      "id": "110-27fab4db-srt",
+      "mtime": 1774834558,
+      "sample": "27fab4dbb603753d76e8b7701bbf0a5b1b9d41d2748759bb22f7fe6afc75597b.ts",
+      "size": 5299998804
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt",
+        "--xds"
+      ],
+      "id": "111-bbd5bb52-ttxt-xds",
+      "mtime": 1774833763,
+      "sample": "bbd5bb52fc3be03c5a84ad169fe5cf479a84baa2449829624ace592ab8a70a8e.ts",
+      "size": 4308565952
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=srt"
+      ],
+      "id": "112-bbd5bb52-srt",
+      "mtime": 1774833763,
+      "sample": "bbd5bb52fc3be03c5a84ad169fe5cf479a84baa2449829624ace592ab8a70a8e.ts",
+      "size": 4308565952
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt",
+        "--xds"
+      ],
+      "id": "113-b992e0cc-ttxt-xds",
+      "mtime": 1774807185,
+      "sample": "b992e0cccbca2ccea6a13d86e741c4397f4833c82db2059fb0b20db2c2440f2f.mpg",
+      "size": 146161540
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt",
+        "--xds"
+      ],
+      "id": "114-d0291cdc-ttxt-xds",
+      "mtime": 1774807031,
+      "sample": "d0291cdcf69f765bdb990a726a9014a08808a40e32b27002325859c1d24029e4.ts",
+      "size": 10443776
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt"
+      ],
+      "id": "115-7d2730d3-ttxt",
+      "mtime": 1774834387,
+      "sample": "7d2730d38e71353446e205c84bb262abc993692a91275493df4dcc161e58f252.ts",
+      "size": 4142195164
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=srt"
+      ],
+      "id": "116-7d2730d3-srt",
+      "mtime": 1774834387,
+      "sample": "7d2730d38e71353446e205c84bb262abc993692a91275493df4dcc161e58f252.ts",
+      "size": 4142195164
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt",
+        "--xds"
+      ],
+      "id": "117-c8dc039a-ttxt-xds",
+      "mtime": 1774837451,
+      "sample": "c8dc039a880df340d795a777fbb9be8a5fbee39bbb4851ac83a05234af78b9e9.ts",
+      "size": 7970661944
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=srt"
+      ],
+      "id": "118-c8dc039a-srt",
+      "mtime": 1774837451,
+      "sample": "c8dc039a880df340d795a777fbb9be8a5fbee39bbb4851ac83a05234af78b9e9.ts",
+      "size": 7970661944
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt",
+        "--xds"
+      ],
+      "id": "119-53339f34-ttxt-xds",
+      "mtime": 1774809842,
+      "sample": "53339f345506e34cd0fea7a5c7c88098ee18f75de578e3e1ee3b7f727241a66a.ts",
+      "size": 543315488
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=srt"
+      ],
+      "id": "120-53339f34-srt",
+      "mtime": 1774809842,
+      "sample": "53339f345506e34cd0fea7a5c7c88098ee18f75de578e3e1ee3b7f727241a66a.ts",
+      "size": 543315488
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt",
+        "--xds"
+      ],
+      "id": "121-83b03036-ttxt-xds",
+      "mtime": 1774814363,
+      "sample": "83b03036a2fa19a8a02e20bcbf2c3597fb00e8b367bcca6c4ed8383657fd209f.ts",
+      "size": 2705811432
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=srt"
+      ],
+      "id": "122-83b03036-srt",
+      "mtime": 1774814363,
+      "sample": "83b03036a2fa19a8a02e20bcbf2c3597fb00e8b367bcca6c4ed8383657fd209f.ts",
+      "size": 2705811432
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt",
+        "--xds"
+      ],
+      "id": "123-7d3f25c3-ttxt-xds",
+      "mtime": 1774836086,
+      "sample": "7d3f25c32c1c91060ecfc97f7bfe5d45e764ca6fcc879855bcab7d2c7f47244b.ts",
+      "size": 2707800848
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=srt"
+      ],
+      "id": "124-7d3f25c3-srt",
+      "mtime": 1774836086,
+      "sample": "7d3f25c32c1c91060ecfc97f7bfe5d45e764ca6fcc879855bcab7d2c7f47244b.ts",
+      "size": 2707800848
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt",
+        "--xds"
+      ],
+      "id": "125-f41d4c29-ttxt-xds",
+      "mtime": 1774808801,
+      "sample": "f41d4c29a153f81a2be067d9d8b005dad616a1fae92f8f4f40c84c992daadd09.ts",
+      "size": 126271488
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=srt"
+      ],
+      "id": "126-f41d4c29-srt",
+      "mtime": 1774808801,
+      "sample": "f41d4c29a153f81a2be067d9d8b005dad616a1fae92f8f4f40c84c992daadd09.ts",
+      "size": 126271488
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt",
+        "--xds"
+      ],
+      "id": "127-88cd42b8-ttxt-xds",
+      "mtime": 1774836184,
+      "sample": "88cd42b89aa0795c40388e562bc05c128027c856ecbb61b039bdf72645ac018f.ts",
+      "size": 6175664452
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=srt"
+      ],
+      "id": "128-88cd42b8-srt",
+      "mtime": 1774836184,
+      "sample": "88cd42b89aa0795c40388e562bc05c128027c856ecbb61b039bdf72645ac018f.ts",
+      "size": 6175664452
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=srt",
+        "--output-field",
+        "2"
+      ],
+      "id": "129-88cd42b8-srt-field2",
+      "mtime": 1774836184,
+      "sample": "88cd42b89aa0795c40388e562bc05c128027c856ecbb61b039bdf72645ac018f.ts",
+      "size": 6175664452
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt",
+        "--xds"
+      ],
+      "id": "130-7f41299c-ttxt-xds",
+      "mtime": 1774811860,
+      "sample": "7f41299cc70a9fe48ea396791b35a94c1a759baf77cbb7a8d49fb399ceb436ad.ts",
+      "size": 654704736
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=srt"
+      ],
+      "id": "131-7f41299c-srt",
+      "mtime": 1774811860,
+      "sample": "7f41299cc70a9fe48ea396791b35a94c1a759baf77cbb7a8d49fb399ceb436ad.ts",
+      "size": 654704736
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt",
+        "--xds"
+      ],
+      "id": "132-0069dffd-ttxt-xds",
+      "mtime": 1774808976,
+      "sample": "0069dffd21806a08d21a0f2ef8209c00c84a5a7e5cd5468ad326898f7431eb8e.mpg",
+      "size": 122114078
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt",
+        "--xds"
+      ],
+      "id": "98-725a49f8-ttxt-xds",
+      "mtime": 1774803120,
+      "sample": "725a49f871dc5a2ebe9094cf9f838095aae86126e9629f96ca6f31eb0f4ba968.mpg",
+      "size": 19892224
+    },
+    {
+      "args": [
+        "--autoprogram",
+        "--latin1",
+        "--ucla",
+        "--no-progress-bar",
+        "--out=ttxt",
+        "--xds"
+      ],
+      "id": "99-d037c750-ttxt-xds",
+      "mtime": 1774810395,
+      "sample": "d037c7509e0ac518b0945247d0f968517f94904eaa391366633da60c1cdcc85f.ts",
+      "size": 4172603224
+    }
+  ],
+  "cases_file": "/Users/dev/ccextractor-rel/testing-harness/ts_cases.json",
+  "cases_file_sha256": "456216b341e7b216fc40690382491e14461f8a0d3968f4f3b1d9de52835d2885",
+  "samples_dir": "/Users/dev/ccextractor-rel/testing-harness/samples"
+}

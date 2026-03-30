@@ -1,0 +1,1399 @@
+00:01:37,147|00:01:41,101|CC1|POP|              JESUS: Lafayette,
+00:01:37,147|00:01:41,101|CC1|POP|              ¿escuchaste algo
+00:01:37,147|00:01:41,101|CC1|POP|              de lo que dije?
+00:01:44,104|00:01:46,990|CC1|POP|    Lamento haberte enseñado la
+00:01:44,104|00:01:46,990|CC1|POP|    magia antes de estar listo.
+00:01:48,441|00:01:50,193|CC1|POP|    Creí que te ayudaba pero...
+00:01:51,444|00:01:53,613|CC1|POP|          sólo actué igual
+00:01:51,444|00:01:53,613|CC1|POP|          que mi puto abuelo.
+00:01:57,834|00:01:59,502|CC1|POP|          Tenías razón, bebé.
+00:02:03,039|00:02:05,625|CC1|POP| JESUS: Esa clase de
+00:02:03,039|00:02:05,625|CC1|POP| poder no es para nosotros.
+00:02:06,759|00:02:09,245|CC1|POP| JESUS: Es muy fuerte.
+00:02:09,279|00:02:10,880|CC1|POP|        Y nosotros muy débiles.
+00:02:13,550|00:02:15,685|CC1|POP| Pero te juro...
+00:02:15,718|00:02:18,521|CC1|POP| Por el puto ser que quieras,
+00:02:15,718|00:02:18,521|CC1|POP| que si prefieres...
+00:02:18,555|00:02:21,975|CC1|POP| Una vida libre de magia,
+00:02:18,555|00:02:21,975|CC1|POP| te juro que voy a apoyarte.
+00:02:24,394|00:02:25,495|CC1|POP|    Oye.
+00:02:29,782|00:02:31,618|CC1|POP|         ¿Estás bien, cielo?
+00:02:34,237|00:02:35,405|CC1|POP|                 Sí.
+00:02:37,490|00:02:38,825|CC1|POP| JESUS: Desayuna bien.
+00:02:38,875|00:02:40,627|CC1|POP| Sé que no está...
+00:02:40,660|00:02:43,830|CC1|POP| frito en manteca, o alguna de
+00:02:40,660|00:02:43,830|CC1|POP| las delicias delicias secretas
+00:02:40,660|00:02:43,830|CC1|POP| que tú usas pero...
+00:02:43,880|00:02:45,498|CC1|POP|         Me esforcé en hacerlo.
+00:02:55,675|00:02:58,228|CC1|POP| JESUS: Te veo después
+00:02:55,675|00:02:58,228|CC1|POP| del trabajo.
+00:03:06,936|00:03:08,321|CC1|POP|                     Lafayette.
+00:03:08,355|00:03:09,739|CC1|POP| Sss... Tut-tut, tut-tut.
+00:03:09,773|00:03:12,025|CC1|POP|        (JESUS GRITA)
+00:04:30,737|00:04:33,156|CC1|POP|         <i>Sangre Verdadera</i>
+00:04:45,418|00:04:46,836|CC1|POP|       (SUSPIRA)
+00:04:57,013|00:04:58,715|CC1|POP|             TARA: Buenos días.
+00:04:58,716|00:05:01,134|CC1|POP|                  Hola, Sookie.
+00:05:02,268|00:05:03,486|CC1|POP|              ¿Lograste dormir?
+00:05:10,360|00:05:12,145|CC1|POP| SOOKIE: Mis nervios
+00:05:10,360|00:05:12,145|CC1|POP| están desechos.
+00:05:12,195|00:05:14,931|CC1|POP|           (SUSPIRA) Después de
+00:05:12,195|00:05:14,931|CC1|POP|           lo que pasamos...
+00:05:14,932|00:05:17,984|CC1|POP|           Es un milagro que no
+00:05:14,932|00:05:17,984|CC1|POP|           estemos gimiendo en
+00:05:14,932|00:05:17,984|CC1|POP|           cuarto acolchado.
+00:05:23,489|00:05:27,794|CC1|POP| Tara, ¿la abuela
+00:05:23,489|00:05:27,794|CC1|POP| estará en el cielo?
+00:05:29,912|00:05:33,216|CC1|POP|         Siempre me consideré
+00:05:29,912|00:05:33,216|CC1|POP|         una mujer atea.
+00:05:33,249|00:05:35,501|CC1|POP|   Pero si el cielo existe
+00:05:33,249|00:05:35,501|CC1|POP|   puedo asegurar que...
+00:05:35,502|00:05:38,171|CC1|POP|       Adele Stackhouse
+00:05:35,502|00:05:38,171|CC1|POP|       sería la presidenta
+00:05:35,502|00:05:38,171|CC1|POP|       de ahí.
+00:05:39,556|00:05:41,224|CC1|POP| ¿Qué te hizo preguntar
+00:05:39,556|00:05:41,224|CC1|POP| eso ahora?
+00:05:43,309|00:05:45,345|CC1|POP| Marnie contactó a la abuela.
+00:05:45,346|00:05:49,482|CC1|POP| O creo que era ella. Me
+00:05:45,346|00:05:49,482|CC1|POP| advirtió sobre Antonia.
+00:05:49,515|00:05:51,317|CC1|POP|      Y sobre darle mi
+00:05:49,515|00:05:51,317|CC1|POP|      corazón a Eric.
+00:05:51,351|00:05:53,569|CC1|POP|     Bueno, ella era la
+00:05:51,351|00:05:53,569|CC1|POP|     sensata de la familia.
+00:05:58,408|00:06:00,193|CC1|POP|       Esta mañana...
+00:06:00,194|00:06:02,278|CC1|POP|     empecé a sentir que
+00:06:00,194|00:06:02,278|CC1|POP|     ella está aquí.
+00:06:02,328|00:06:03,663|CC1|POP|         ¿Como una parte de ti?
+00:06:03,696|00:06:06,949|CC1|POP| No. De verdad la,
+00:06:06,999|00:06:08,701|CC1|POP|     siento, aquí.
+00:06:10,703|00:06:14,207|CC1|POP| Sé que debe ser sólo un
+00:06:10,703|00:06:14,207|CC1|POP| residuo de energía por...
+00:06:14,208|00:06:16,376|CC1|POP| todo lo que pasó aquí...
+00:06:16,427|00:06:19,045|CC1|POP| Pero, la sensación no se va.
+00:06:19,096|00:06:21,180|CC1|POP|      Si estuviera aquí,
+00:06:19,096|00:06:21,180|CC1|POP|      ¿qué crees que nos diría?
+00:06:21,214|00:06:23,383|CC1|POP|     Siempre cuídense
+00:06:21,214|00:06:23,383|CC1|POP|     entre ustedes.
+00:06:23,384|00:06:25,051|CC1|POP|       Usen más bloqueador.
+00:06:25,052|00:06:27,286|CC1|POP|   Y ya paren las dos de
+00:06:25,052|00:06:27,286|CC1|POP|   meterse en tantos aprietos.
+00:06:27,321|00:06:29,021|CC1|POP|            (RIEN)
+00:06:29,055|00:06:32,108|CC1|POP|    Somos unos putos imanes que
+00:06:29,055|00:06:32,108|CC1|POP|    sólo atraen líos, ¿verdad?
+00:06:32,141|00:06:33,976|CC1|POP|     Espero que no.
+00:06:34,026|00:06:39,065|CC1|POP| Algunas veces, puedo
+00:06:34,026|00:06:39,065|CC1|POP| verme envejeciendo...
+00:06:39,066|00:06:42,985|CC1|POP|   Sentada en el porche con
+00:06:39,066|00:06:42,985|CC1|POP|   mis nietos sobre mi regazo,
+00:06:43,035|00:06:45,738|CC1|POP|  sólo... mirando el anochecer.
+00:06:45,788|00:06:48,624|CC1|POP|        Espero poder
+00:06:45,788|00:06:48,624|CC1|POP|        acompañarte
+00:06:45,788|00:06:48,624|CC1|POP|        en el porche.
+00:06:49,492|00:06:50,960|CC1|POP|         También yo.
+00:06:59,385|00:07:02,255|CC1|POP|                (MAXINE LLORA)
+00:07:04,724|00:07:08,344|CC1|POP|          Quizá era un tramposo
+00:07:04,724|00:07:08,344|CC1|POP|          pendejo hijo de puta.
+00:07:08,394|00:07:11,097|CC1|POP|             Pero también tenía
+00:07:08,394|00:07:11,097|CC1|POP|             un buen corazón.
+00:07:11,098|00:07:15,518|CC1|POP| No muchos vieron ese lado de
+00:07:11,098|00:07:15,518|CC1|POP| él. Yo fui una de las pocas
+00:07:11,098|00:07:15,518|CC1|POP| que lo vio.
+00:07:15,568|00:07:18,771|CC1|POP| Gracias por venir. Habría
+00:07:15,568|00:07:18,771|CC1|POP| hecho feliz a mi hermano.
+00:07:19,822|00:07:21,574|CC1|POP|                  Me dijo...
+00:07:21,608|00:07:25,445|CC1|POP| "Que Sam me disparara fue
+00:07:21,608|00:07:25,445|CC1|POP| lo mejor que pudo pasarme,
+00:07:21,608|00:07:25,445|CC1|POP| Sra. Fortenberry."
+00:07:25,446|00:07:27,830|CC1|POP|           "Porque me acercó
+00:07:25,446|00:07:27,830|CC1|POP|           a usted y al Señor."
+00:07:28,948|00:07:31,501|CC1|POP|           Ah... Era tan dulce.
+00:07:34,454|00:07:37,373|CC1|POP|     Claro que también se robó
+00:07:34,454|00:07:37,373|CC1|POP|     un vestido y mi joyería.
+00:07:38,958|00:07:40,793|CC1|POP|                También tomó mi
+00:07:38,958|00:07:40,793|CC1|POP|                ropa interior.
+00:07:42,295|00:07:44,213|CC1|POP|       Y mis zapatos favoritos.
+00:07:45,848|00:07:47,300|CC1|POP| Lo lamento.
+00:07:49,135|00:07:52,438|CC1|POP| Nadie enseñó a Tommy
+00:07:49,135|00:07:52,438|CC1|POP| cómo dar amor sin hacer daño.
+00:07:54,023|00:07:56,726|CC1|POP|     También yo
+00:07:54,023|00:07:56,726|CC1|POP|     lo decepcioné.
+00:07:56,727|00:08:00,613|CC1|POP|            Pienso que, tampoco
+00:07:56,727|00:08:00,613|CC1|POP|            te enseñaron a ti.
+00:08:02,031|00:08:05,117|CC1|POP|      Uno hace lo que puede con
+00:08:02,031|00:08:05,117|CC1|POP|      lo poco que le dieron.
+00:08:07,620|00:08:12,124|CC1|POP|          Televaré uno de mis
+00:08:07,620|00:08:12,124|CC1|POP|          famosos estofados de
+00:08:07,620|00:08:12,124|CC1|POP|          cerdo en la tarde.
+00:08:12,158|00:08:16,295|CC1|POP| No. No quiero molestarla
+00:08:12,158|00:08:16,295|CC1|POP| Sra. Fortenberry.
+00:08:12,158|00:08:16,295|CC1|POP|            Ay, no es molestia.
+00:08:16,329|00:08:19,332|CC1|POP|     Tommy no vino de mi
+00:08:16,329|00:08:19,332|CC1|POP|     vientre, es verdad pero...
+00:08:20,166|00:08:22,001|CC1|POP|           Fue un hijo para mí.
+00:08:24,220|00:08:27,890|CC1|POP|              Y dime Mamá a
+00:08:24,220|00:08:27,890|CC1|POP|              partir de ahora.
+00:08:27,924|00:08:30,476|CC1|POP|        Yo...
+00:08:27,924|00:08:30,476|CC1|POP|         No tenemos más familia
+00:08:27,924|00:08:30,476|CC1|POP|         que nosotros.
+00:08:43,523|00:08:45,241|CC1|POP|           (SUSPIRA)
+00:08:46,492|00:08:48,694|CC1|POP|           (OLFATEA)
+00:09:09,365|00:09:14,437|CC1|POP|     (MOTOSIERRA CORTANDO)
+00:09:14,470|00:09:18,524|CC1|POP| JASON: (A SI MISMO)
+00:09:14,470|00:09:18,524|CC1|POP| Jason Stackhouse, eres una
+00:09:14,470|00:09:18,524|CC1|POP| buena persona.
+00:09:18,558|00:09:20,192|CC1|POP| Lo eres.
+00:09:21,561|00:09:22,812|CC1|POP|          Cállate.
+00:09:25,815|00:09:29,418|CC1|POP|(MOTOSIERRA CONTINUA CORTANDO)
+00:09:36,125|00:09:37,460|CC1|POP|          HOYT:  Hola, Jason!
+00:09:37,493|00:09:39,128|CC1|POP|          Hola, hermano. Eh...
+00:09:40,046|00:09:41,430|CC1|POP| JASON: ¿Qué haces?
+00:09:41,431|00:09:45,668|CC1|POP|       Ah... Trabajar. Es todo.
+00:09:45,718|00:09:48,554|CC1|POP|               HOYT: (SUSPIRA)
+00:09:45,718|00:09:48,554|CC1|POP|               ¿Tú qué haces?
+00:09:48,588|00:09:51,591|CC1|POP| Nada, relajándome.
+00:09:51,641|00:09:52,842|CC1|POP|          Es lindo día.
+00:09:54,477|00:09:55,595|CC1|POP|              Em...
+00:09:57,480|00:09:58,764|CC1|POP|          Muy...
+00:09:58,765|00:09:59,815|CC1|POP|          húmedo.
+00:10:01,183|00:10:02,435|CC1|POP|      ¿Se murió alguien?
+00:10:02,485|00:10:03,603|CC1|POP|             No.
+00:10:07,106|00:10:08,941|CC1|POP|     Hay algo que debo
+00:10:07,106|00:10:08,941|CC1|POP|     decirte..
+00:10:10,109|00:10:11,661|CC1|POP|                 JASON: Eh...
+00:10:13,579|00:10:16,932|CC1|POP|   Oye, ¿puedes dejar
+00:10:13,579|00:10:16,932|CC1|POP|   eso en el piso?
+00:10:20,036|00:10:21,337|CC1|POP|       Mira...
+00:10:23,255|00:10:25,958|CC1|POP| (TARTAMUDEANDO) Hemos sido
+00:10:23,255|00:10:25,958|CC1|POP| amigos por mucho tiempo.
+00:10:27,343|00:10:29,261|CC1|POP|      Recuerdas...
+00:10:29,295|00:10:32,882|CC1|POP|        AMBOS: Oooh...
+00:10:29,295|00:10:32,882|CC1|POP|        Chicka, chicka,
+00:10:29,295|00:10:32,882|CC1|POP|        bum, bum!
+00:10:32,932|00:10:35,134|CC1|POP|            (RIEN)
+00:10:38,804|00:10:40,640|CC1|POP|   Tuve sexo con Jessica.
+00:10:42,975|00:10:46,145|CC1|POP|             (RIE)
+00:10:46,146|00:10:48,030|CC1|POP| No es un chiste.
+00:10:48,064|00:10:51,150|CC1|POP|      Eso quisiera,
+00:10:48,064|00:10:51,150|CC1|POP|      pero no lo es.
+00:10:56,489|00:10:58,574|CC1|POP|                      ¿Cómo?
+00:10:58,624|00:11:00,976|CC1|POP| No creí que
+00:10:58,624|00:11:00,976|CC1|POP| quisieras saberlo.
+00:11:00,977|00:11:02,995|CC1|POP| Pero si quieres
+00:11:00,977|00:11:02,995|CC1|POP| que te diga, ah...
+00:11:03,045|00:11:05,815|CC1|POP| Misionero, luego perrito.
+00:11:05,848|00:11:07,133|CC1|POP| Luego ella encima.
+00:11:07,166|00:11:08,668|CC1|POP| No fue nada extravagante...
+00:11:08,718|00:11:09,919|CC1|POP|     JASON:  Ah!
+00:11:11,587|00:11:14,974|CC1|POP|    HOYT:  Cómo pudiste hacerme
+00:11:11,587|00:11:14,974|CC1|POP|    eso!  No, cómo te cogiste
+00:11:11,587|00:11:14,974|CC1|POP|    a mi chica!
+00:11:15,007|00:11:17,176|CC1|POP|    Lo lamento, hermano.
+00:11:17,226|00:11:20,229|CC1|POP| JASON: Pero téc-técnicamente
+00:11:17,226|00:11:20,229|CC1|POP| ella no era tu chica.
+00:11:20,230|00:11:22,481|CC1|POP| Tú-tú dijiste que ya no
+00:11:20,230|00:11:22,481|CC1|POP| querías verla nunca.
+00:11:22,515|00:11:24,150|CC1|POP|           Oyevete al carajo!
+00:11:25,184|00:11:26,736|CC1|POP|             Teníamos un código
+00:11:25,184|00:11:26,736|CC1|POP|            y lo rompiste!
+00:11:26,769|00:11:30,022|CC1|POP|    Tú puedes tener a cualquier
+00:11:26,769|00:11:30,022|CC1|POP|    mujer. Cualquiera que
+00:11:26,769|00:11:30,022|CC1|POP|    te guste.
+00:11:31,524|00:11:34,744|CC1|POP|       Pero no soy como tú.
+00:11:31,524|00:11:34,744|CC1|POP|       Yo sólo la tenía a ella.
+00:11:38,197|00:11:39,865|CC1|POP| Te-tenía su sangre en mí.
+00:11:41,917|00:11:44,704|CC1|POP|    No tenía en la
+00:11:41,917|00:11:44,704|CC1|POP|    mente otra cosa.
+00:11:44,705|00:11:47,957|CC1|POP| Traté de combatirlo,
+00:11:44,705|00:11:47,957|CC1|POP| pero sólo-sólo pasó.
+00:11:48,008|00:11:50,543|CC1|POP|        (JASON GRUÑE)
+00:11:50,544|00:11:52,878|CC1|POP|        HOYT: Eso no sólo pasa.
+00:11:50,544|00:11:52,878|CC1|POP|        Uno lo decide.
+00:11:52,962|00:11:56,382|CC1|POP|     Por tí mismo.  Tomaste una
+00:11:52,962|00:11:56,382|CC1|POP|     puta decisión egoísta!
+00:11:56,465|00:11:57,550|CC1|POP|        (GIMIENDO)
+00:11:58,718|00:12:02,104|CC1|POP|        Es cierto. Fuiste
+00:11:58,718|00:12:02,104|CC1|POP|        muy claro, Hoyt.
+00:12:02,138|00:12:06,876|CC1|POP|       JASON: (GRUÑENDO)
+00:12:02,138|00:12:06,876|CC1|POP|       Fuiste muy claro...
+00:12:02,138|00:12:06,876|CC1|POP|        Ahh!  Oh!
+00:12:06,909|00:12:10,529|CC1|POP|     Nada es más importante que
+00:12:06,909|00:12:10,529|CC1|POP|     tu verga.  Ni siquiera tu
+00:12:06,909|00:12:10,529|CC1|POP|     mejor amigo!
+00:12:10,564|00:12:11,814|CC1|POP|             (GIMIENDO)
+00:12:11,865|00:12:13,783|CC1|POP|          HOYT: Lo que tuve con
+00:12:11,865|00:12:13,783|CC1|POP|          Jessica fue sincero.
+00:12:13,816|00:12:16,235|CC1|POP|         Eso tú nunca vas
+00:12:13,816|00:12:16,235|CC1|POP|         a tenerlo. Ni con ella
+00:12:16,236|00:12:20,039|CC1|POP|        ni con nadie más porque
+00:12:16,236|00:12:20,039|CC1|POP|        hay algo dentro de ti
+00:12:16,236|00:12:20,039|CC1|POP|        que está vacío.
+00:12:26,746|00:12:28,080|CC1|POP|                 Lo siento.
+00:12:29,665|00:12:31,500|CC1|POP|                (GIME)
+00:12:38,674|00:12:40,142|CC1|POP| JESUS: Lafayette.
+00:12:43,429|00:12:46,315|CC1|POP|         Lafatte, escúchame.
+00:12:43,429|00:12:46,315|CC1|POP|         Sé q estás ahí.
+00:12:46,348|00:12:49,769|CC1|POP| No dejes que Marnie te obligue
+00:12:46,348|00:12:49,769|CC1|POP| a hacer esto.  Tienes que
+00:12:46,348|00:12:49,769|CC1|POP| combatirla!
+00:12:52,188|00:12:55,241|CC1|POP|    (RIENDO DIABOLICAMENTE)
+00:12:55,274|00:13:00,529|CC1|POP| MARNIE: (COMO LAYFAYETTE)
+00:12:55,274|00:13:00,529|CC1|POP| ¿Crees que tu pobre cocinero
+00:12:55,274|00:13:00,529|CC1|POP| tiene poder sobre mí?
+00:13:00,579|00:13:05,618|CC1|POP| Cierto, este cuerpo es más
+00:13:00,579|00:13:05,618|CC1|POP| joven y fuerte que el mío...
+00:13:05,668|00:13:10,172|CC1|POP| Y la magia en él es potente.
+00:13:05,668|00:13:10,172|CC1|POP| Torpe. Pero potente.
+00:13:12,458|00:13:14,460|CC1|POP|    MARNIE: (COMO LAYFAYETTE)
+00:13:12,458|00:13:14,460|CC1|POP|    No es Antonia.
+00:13:14,510|00:13:17,847|CC1|POP|   Marnie, antes de que Antonia
+00:13:14,510|00:13:17,847|CC1|POP|   apareciera tenías miedo
+00:13:14,510|00:13:17,847|CC1|POP|   de tu propia voz.
+00:13:19,548|00:13:22,351|CC1|POP| Hablabas con los muertos
+00:13:19,548|00:13:22,351|CC1|POP| porque eran tus únicos amigos.
+00:13:23,687|00:13:26,222|CC1|POP|             Por eso deseabas
+00:13:23,687|00:13:26,222|CC1|POP|             tanto ser poseída,
+00:13:26,272|00:13:28,107|CC1|POP|        porque te sentías sola.
+00:13:29,441|00:13:30,559|CC1|POP|                Desamparada.
+00:13:32,978|00:13:37,550|CC1|POP|   Creí que eras mi amigo.
+00:13:32,978|00:13:37,550|CC1|POP|   Yo confié en ti.
+00:13:37,583|00:13:39,285|CC1|POP|  Y tú la alejaste de mí!
+00:13:39,318|00:13:41,704|CC1|POP|      Ella quería irse, Marnie.
+00:13:41,737|00:13:44,490|CC1|POP|          Antonia vio que tu
+00:13:41,737|00:13:44,490|CC1|POP|          batalla no era justa.
+00:13:44,491|00:13:47,042|CC1|POP|       Se dio cuenta de que
+00:13:44,491|00:13:47,042|CC1|POP|      sólo querías tener poder!
+00:13:47,076|00:13:50,496|CC1|POP|                 (JESUS GRUÑE)
+00:13:47,076|00:13:50,496|CC1|POP| No mereces mencionar
+00:13:47,076|00:13:50,496|CC1|POP| su nombre.  Traidor!
+00:13:51,664|00:13:54,800|CC1|POP| Antonia fue una
+00:13:51,664|00:13:54,800|CC1|POP| heroína. Una mártir.
+00:13:54,834|00:13:59,054|CC1|POP|  No como el cobarde de
+00:13:54,834|00:13:59,054|CC1|POP| Lafayette al que controló
+00:13:54,834|00:13:59,054|CC1|POP| por la fuerza!
+00:13:59,088|00:14:03,175|CC1|POP| LAFAYETTE:  <i>Jesús, esta perra</i>
+00:13:59,088|00:14:03,175|CC1|POP|  <i>es fuerte y una loca homicida.</i>
+00:14:03,225|00:14:05,511|CC1|POP| MARNIE: (COMO LAYFAYETTE)
+00:14:03,225|00:14:05,511|CC1|POP| Dime perra otra vez, muchacho,
+00:14:05,512|00:14:08,314|CC1|POP| y te arranco el ojo y
+00:14:05,512|00:14:08,314|CC1|POP| te obligo a tragarlo.
+00:14:08,347|00:14:10,065|CC1|POP|     Yo no siento dolor,
+00:14:08,347|00:14:10,065|CC1|POP|     pero tú sí.
+00:14:10,099|00:14:14,687|CC1|POP|        Marnie, no lo lastimes.
+00:14:10,099|00:14:14,687|CC1|POP|        Haremos lo que digas.
+00:14:14,688|00:14:18,023|CC1|POP|          Sólo dime, dime. Dime
+00:14:14,688|00:14:18,023|CC1|POP|          qué quieres que haga.
+00:14:18,073|00:14:20,409|CC1|POP|           Deseo...
+00:14:20,410|00:14:24,029|CC1|POP|  lo que tu abuelo te heredó
+00:14:20,410|00:14:24,029|CC1|POP|  dentro de tu sangre...
+00:14:25,948|00:14:29,251|CC1|POP| Toda tu vida escapaste
+00:14:25,948|00:14:29,251|CC1|POP| de ese poder...
+00:14:29,285|00:14:32,555|CC1|POP| Quiero tu magia, brujo.
+00:14:35,708|00:14:37,259|CC1|POP|     Toda tu magia.
+00:14:41,347|00:14:46,352|CC1|POP|          (RISAS)
+00:14:41,347|00:14:46,352|CC1|POP|    (MUSICA FESTIVA SONANDO)
+00:14:46,385|00:14:47,519|CC1|POP|          SOOKIE: Hola, Arlene.
+00:14:47,554|00:14:48,554|CC1|POP|               (JADEA)
+00:14:48,604|00:14:50,055|CC1|POP|    Feliz noche de brujas.
+00:14:50,105|00:14:52,107|CC1|POP|      ¿Hoy es noche de brujas?
+00:14:50,105|00:14:52,107|CC1|POP| ARLENE: Sí.
+00:14:52,141|00:14:54,793|CC1|POP| ¿Te gustaría un
+00:14:52,141|00:14:54,793|CC1|POP| sandwich de mano?
+00:14:52,141|00:14:54,793|CC1|POP|                         Eh...
+00:14:54,828|00:14:57,563|CC1|POP|       (RIE)
+00:14:59,900|00:15:01,734|CC1|POP| Somos zombis.
+00:15:01,735|00:15:04,236|CC1|POP| Los zombis son los nuevos
+00:15:01,735|00:15:04,236|CC1|POP| vampiros. ¿No lo sabías?
+00:15:04,237|00:15:08,290|CC1|POP|        Wow, no, no tenía idea,
+00:15:04,237|00:15:08,290|CC1|POP|        pero tu collar de dedos
+00:15:04,237|00:15:08,290|CC1|POP|        te queda bien.
+00:15:08,325|00:15:09,375|CC1|POP|       Gracias.
+00:15:09,408|00:15:10,993|CC1|POP|             ¿Está Sam, Arlene?
+00:15:11,043|00:15:14,880|CC1|POP|  ARLENE: (EN SU MENTE)
+00:15:11,043|00:15:14,880|CC1|POP|   <i>Ay, Dios, no te dijeron nada.</i>
+00:15:17,249|00:15:18,500|CC1|POP|      (TOCAN A LA PUERTA)
+00:15:20,586|00:15:21,804|CC1|POP| SAM: Pase.
+00:15:24,173|00:15:25,257|CC1|POP|                       Hola.
+00:15:25,258|00:15:26,759|CC1|POP| SAM: Hola.
+00:15:26,809|00:15:30,145|CC1|POP|      Siento mucho la muerte de
+00:15:26,809|00:15:30,145|CC1|POP|      Tommy. Apenas me enteré.
+00:15:30,179|00:15:31,513|CC1|POP|               ¿El funeral?
+00:15:31,563|00:15:33,766|CC1|POP|       Sí, la verdad no
+00:15:31,563|00:15:33,766|CC1|POP|       avisé a nadie.
+00:15:33,816|00:15:36,769|CC1|POP| Mi hermano no tenía
+00:15:33,816|00:15:36,769|CC1|POP| tantos amigos en el área.
+00:15:36,819|00:15:38,103|CC1|POP|                  Tú sí.
+00:15:38,104|00:15:41,106|CC1|POP| Tenía días de no verte. Pensé
+00:15:38,104|00:15:41,106|CC1|POP| que tendrías cosas que hacer.
+00:15:41,107|00:15:42,741|CC1|POP|                Ah, Sam...
+00:15:42,775|00:15:45,995|CC1|POP| Me sentí algo herida cuando
+00:15:42,775|00:15:45,995|CC1|POP| me despediste, pero...
+00:15:47,663|00:15:49,331|CC1|POP|       No te habría abandonado.
+00:15:49,365|00:15:53,085|CC1|POP| Jamás te despedí. No te
+00:15:49,365|00:15:53,085|CC1|POP| presentaste en toda la semana.
+00:15:53,118|00:15:56,789|CC1|POP|         No es que me guste ser
+00:15:53,118|00:15:56,789|CC1|POP|         fastidiosa, pero...
+00:15:56,790|00:16:00,342|CC1|POP|         dijiste que sólo causo
+00:15:56,790|00:16:00,342|CC1|POP|         problemas y que me
+00:15:56,790|00:16:00,342|CC1|POP|         largara de aquí.
+00:16:05,547|00:16:09,435|CC1|POP|   ¿Sabes, Sookie?
+00:16:05,547|00:16:09,435|CC1|POP|   No era yo mismo ese día.
+00:16:09,468|00:16:12,271|CC1|POP| Hagamos algo. Dejemos el
+00:16:09,468|00:16:12,271|CC1|POP| pasado en el pasado, ¿sí?
+00:16:12,304|00:16:14,606|CC1|POP|            Significa que
+00:16:12,304|00:16:14,606|CC1|POP|            recupero mi empleo?
+00:16:14,641|00:16:16,308|CC1|POP| En tanto inicies ahora.
+00:16:16,358|00:16:18,727|CC1|POP| Lafayette desapareció y
+00:16:16,358|00:16:18,727|CC1|POP| como es noche de brujas
+00:16:18,777|00:16:21,113|CC1|POP| necesito un par
+00:16:18,777|00:16:21,113|CC1|POP| de manos extra.
+00:16:21,146|00:16:23,866|CC1|POP|   ¿Tienes otro uniforme? Es
+00:16:21,146|00:16:23,866|CC1|POP|   que tiré el mío a la basura.
+00:16:24,817|00:16:27,987|CC1|POP|      SAM: Sin uniformes hoy.
+00:16:29,788|00:16:32,157|CC1|POP|   Oh, no.
+00:16:29,788|00:16:32,157|CC1|POP|                      Oh, sí.
+00:16:34,126|00:16:35,828|CC1|POP|               ¿Quieres tu
+00:16:34,126|00:16:35,828|CC1|POP|               empleo o no?
+00:16:37,162|00:16:39,798|CC1|POP|              SOOKIE: Ya me las
+00:16:37,162|00:16:39,798|CC1|POP|              pagarás, Sam.
+00:16:39,832|00:16:42,918|CC1|POP|       SAM: A nadie le gusta
+00:16:39,832|00:16:42,918|CC1|POP|       un conejo gruñón.
+00:16:42,968|00:16:47,890|CC1|POP|        <i>Samhain </i>era nuestra más
+00:16:42,968|00:16:47,890|CC1|POP|       sagrada celebración...
+00:16:47,923|00:16:52,061|CC1|POP| Una noche para honrar y
+00:16:47,923|00:16:52,061|CC1|POP| convivir con los muertos.
+00:16:52,094|00:16:54,179|CC1|POP| Ahora le llaman
+00:16:52,094|00:16:54,179|CC1|POP| "Noche de Brujas".
+00:16:54,180|00:16:58,183|CC1|POP| Los niños comen como puercos
+00:16:54,180|00:16:58,183|CC1|POP| esos dulces y corren
+00:16:58,233|00:17:03,405|CC1|POP| aterrados de las
+00:16:58,233|00:17:03,405|CC1|POP| horribles arpías verdes
+00:16:58,233|00:17:03,405|CC1|POP| que se dicen brujas.
+00:17:03,439|00:17:09,778|CC1|POP| Los vampiros hicieron bien
+00:17:03,439|00:17:09,778|CC1|POP| su trabajo de demonizar
+00:17:03,439|00:17:09,778|CC1|POP| nuestro más sagrado Sabbat...
+00:17:09,779|00:17:11,663|CC1|POP| MARNIE: (COMO LAYFAYETTE)
+00:17:09,779|00:17:11,663|CC1|POP| Tornaron nuestra religión
+00:17:09,779|00:17:11,663|CC1|POP| en una burla.
+00:17:11,698|00:17:13,532|CC1|POP|              Estoy de acuerdo.
+00:17:13,533|00:17:16,702|CC1|POP|      Los vampiros son un asco.
+00:17:16,785|00:17:20,089|CC1|POP|     JESUS: Por eso tienes que
+00:17:16,785|00:17:20,089|CC1|POP|     dejar ir a Lafayette antes
+00:17:16,785|00:17:20,089|CC1|POP|     de que se enteren.
+00:17:22,374|00:17:26,128|CC1|POP|      Lo matarán, Marnie.
+00:17:22,374|00:17:26,128|CC1|POP|      Como lo hicieron contigo.
+00:17:26,178|00:17:30,049|CC1|POP| No olvides que, por
+00:17:26,178|00:17:30,049|CC1|POP| traicionarme, es
+00:17:26,178|00:17:30,049|CC1|POP| que perdí la vida.
+00:17:31,383|00:17:32,968|CC1|POP| Además, es el único
+00:17:31,383|00:17:32,968|CC1|POP| huésped que tengo.
+00:17:33,018|00:17:35,220|CC1|POP|      JESUS: No es un huésped.
+00:17:33,018|00:17:35,220|CC1|POP|      Es una persona.
+00:17:35,221|00:17:38,307|CC1|POP|          Y tiene una vida, y
+00:17:35,221|00:17:38,307|CC1|POP|          personas que lo aman.
+00:17:38,357|00:17:41,393|CC1|POP| Debemos hacer sacrificios
+00:17:38,357|00:17:41,393|CC1|POP| en épocas de guerra.
+00:17:41,394|00:17:44,980|CC1|POP| Yo hice el mío. Ahora
+00:17:41,394|00:17:44,980|CC1|POP| debehacer el tuyo.
+00:17:45,030|00:17:49,368|CC1|POP|     No intercambias magia como
+00:17:45,030|00:17:49,368|CC1|POP|    putas tarjetas de Pokemón!
+00:17:49,401|00:17:53,405|CC1|POP|    Con gusto te cedería esta
+00:17:49,401|00:17:53,405|CC1|POP|    mierda que tengo si supiera
+00:17:49,401|00:17:53,405|CC1|POP|    cómo.  Pero no lo sé!
+00:17:57,910|00:17:59,211|CC1|POP|        Tienes miedo.
+00:17:59,244|00:18:02,831|CC1|POP|     Sí. Y tú deberías tenerlo.
+00:18:02,881|00:18:06,718|CC1|POP|       Porque lo que hay dentro
+00:18:02,881|00:18:06,718|CC1|POP|       de mí es un ser oscuro.
+00:18:09,421|00:18:12,091|CC1|POP|     Combato oscuridad
+00:18:09,421|00:18:12,091|CC1|POP|     con oscuridad.
+00:18:12,141|00:18:16,145|CC1|POP|        ¿Y por quién estás
+00:18:12,141|00:18:16,145|CC1|POP|        peleando esta vez? ¿Eh?
+00:18:16,178|00:18:18,764|CC1|POP|           Annia se fue.
+00:18:16,178|00:18:18,764|CC1|POP|           El círculo, también.
+00:18:18,765|00:18:20,816|CC1|POP|            Te temen más que a
+00:18:18,765|00:18:20,816|CC1|POP|           los mismos vampiros!
+00:18:20,849|00:18:24,319|CC1|POP|         JESUS:  Te convertiste
+00:18:20,849|00:18:24,319|CC1|POP|         en todo lo que odias!
+00:18:20,849|00:18:24,319|CC1|POP|      Silencio!
+00:18:24,353|00:18:27,489|CC1|POP| Vasa darme lo que
+00:18:24,353|00:18:27,489|CC1|POP| quiero, o absorberé la
+00:18:24,353|00:18:27,489|CC1|POP| vida de este cuerpo
+00:18:27,524|00:18:29,942|CC1|POP|      hasta que quede
+00:18:27,524|00:18:29,942|CC1|POP|      un cascarón vacío.
+00:18:31,160|00:18:34,446|CC1|POP|            Ya, por favor,
+00:18:31,160|00:18:34,446|CC1|POP|           ya basta!  Ya basta!
+00:18:36,615|00:18:38,333|CC1|POP|             Tú ganas. Lo haré.
+00:18:40,619|00:18:44,123|CC1|POP|            (LLORA)
+00:18:40,619|00:18:44,123|CC1|POP|     (RESPIRA DIFICILMENTE)
+00:18:46,375|00:18:50,212|CC1|POP|       Santísima muerte,
+00:18:46,375|00:18:50,212|CC1|POP|       Señora de las sombras...
+00:18:50,263|00:18:56,718|CC1|POP|          <i>Ogoun Ferei, Ogoun</i>
+00:18:50,263|00:18:56,718|CC1|POP|          <i>Shangó, Nagó Piman...</i>
+00:18:56,768|00:18:59,938|CC1|POP|                Demuestra tu
+00:18:56,768|00:18:59,938|CC1|POP|                cara verdadera.
+00:18:56,768|00:18:59,938|CC1|POP|     (EL VIENTO AULLA)
+00:19:01,056|00:19:02,691|CC1|POP|        Entrégamela.
+00:19:02,692|00:19:05,477|CC1|POP|         (EL VIENTO SOPLA)
+00:19:02,692|00:19:05,477|CC1|POP|           (GRUÑE)
+00:19:05,478|00:19:07,729|CC1|POP| Entrégame toda la magia.
+00:19:07,780|00:19:12,484|CC1|POP|              (GRITA)
+00:19:07,780|00:19:12,484|CC1|POP|             (GRUÑE)
+00:19:12,535|00:19:16,572|CC1|POP|               (GIME)
+00:19:12,535|00:19:16,572|CC1|POP|               (GRUÑE)
+00:19:17,990|00:19:23,078|CC1|POP|     (AULLIDOS DIABOLICOS)
+00:19:23,128|00:19:29,501|CC1|POP|       (GRITOS DIABOLICOS)
+00:19:23,128|00:19:29,501|CC1|POP|            (GRUÑE)
+00:19:29,585|00:19:33,722|CC1|POP|   (SONIDOS DISTORSIONADOS)
+00:19:33,723|00:19:36,642|CC1|POP|   (SUSURROS DISTORSIONADOS)
+00:19:39,845|00:19:40,846|CC1|POP|               Lafayette...
+00:19:40,929|00:19:42,097|CC1|POP|       (LAYFAYETTE GIME)
+00:19:42,147|00:19:43,765|CC1|POP|               Lo lamento.
+00:19:45,684|00:19:49,488|CC1|POP|    (AULLIODOS DEMONIACOS)
+00:19:49,521|00:19:51,857|CC1|POP| ARLENE: Quítate la
+00:19:49,521|00:19:51,857|CC1|POP| máscara antes de comer.
+00:19:53,942|00:19:55,694|CC1|POP| Oye, tienes las tuyas.
+00:19:55,744|00:19:56,995|CC1|POP|            Yo como por dos.
+00:19:57,029|00:19:59,164|CC1|POP| Ey, o empiezan a comportarse
+00:19:57,029|00:19:59,164|CC1|POP| los dos o irán a pedir
+00:19:59,198|00:20:01,750|CC1|POP|            dulces al parque de
+00:19:59,198|00:20:01,750|CC1|POP|            remolques otra vez.
+00:20:01,783|00:20:04,920|CC1|POP|  ¿Quieren unas latas vacías
+00:20:01,783|00:20:04,920|CC1|POP|  de cerveza y vales de comida,
+00:20:04,953|00:20:08,040|CC1|POP|              o quieren dulces?
+00:20:04,953|00:20:08,040|CC1|POP|              Ustedes deciden.
+00:20:08,041|00:20:11,627|CC1|POP| SAM: Coby, Lisa, quiero que
+00:20:08,041|00:20:11,627|CC1|POP| conozcan a mi amiga, Emma.
+00:20:11,628|00:20:12,794|CC1|POP|               Hola, Emma.
+00:20:11,628|00:20:12,794|CC1|POP|                       Hola.
+00:20:12,844|00:20:14,596|CC1|POP| EMMA: Hola.
+00:20:14,597|00:20:17,182|CC1|POP| Es un buen disfraz el
+00:20:14,597|00:20:17,182|CC1|POP| que traes, Lisa. ¿Quién
+00:20:14,597|00:20:17,182|CC1|POP| se supone que eres?
+00:20:17,216|00:20:19,635|CC1|POP|           Jenelle, de
+00:20:17,216|00:20:19,635|CC1|POP|           "Madre Adolsecente".
+00:20:19,685|00:20:21,520|CC1|POP|           (SUSPIRA) No quiero
+00:20:19,685|00:20:21,520|CC1|POP|           hablar de eso.
+00:20:21,553|00:20:23,722|CC1|POP|                 ¿Y tú qué
+00:20:21,553|00:20:23,722|CC1|POP|                 eres, hermosa?
+00:20:23,755|00:20:26,308|CC1|POP| Voy a ser una cambia-formas
+00:20:23,755|00:20:26,308|CC1|POP| igual que mi mamá...
+00:20:26,358|00:20:29,811|CC1|POP| o un hombre lobo, igual
+00:20:26,358|00:20:29,811|CC1|POP| que pá. El murió.
+00:20:29,861|00:20:32,864|CC1|POP|            Eh, qué lindo.
+00:20:29,861|00:20:32,864|CC1|POP|            Tengo que trabajar.
+00:20:38,787|00:20:40,872|CC1|POP|   PATRICK: Soldado Bellefleur.
+00:20:38,787|00:20:40,872|CC1|POP| (DEJA CAER EL CUBO CON PLATOS)
+00:20:55,387|00:20:57,306|CC1|POP|         Oí que habías muerto.
+00:20:57,340|00:20:58,640|CC1|POP|    Oí que estabas loco.
+00:20:58,674|00:21:02,344|CC1|POP| Bueno, eso sí es cierto.
+00:20:58,674|00:21:02,344|CC1|POP| ¿Qué rayos haces en Bon Temps?
+00:21:02,345|00:21:04,363|CC1|POP| PATRICK: Vine de paso
+00:21:02,345|00:21:04,363|CC1|POP| y decidí buscarte.
+00:21:04,396|00:21:06,014|CC1|POP| Te ves muy mal.
+00:21:04,396|00:21:06,014|CC1|POP| (RIE)
+00:21:06,064|00:21:07,599|CC1|POP|            Sí, soy, un zombi.
+00:21:07,683|00:21:09,151|CC1|POP|         Ajá.
+00:21:07,683|00:21:09,151|CC1|POP|                    Sí, pero...
+00:21:09,184|00:21:11,403|CC1|POP|            debes ver a
+00:21:09,184|00:21:11,403|CC1|POP|            mi esposa.  Arlene!
+00:21:13,772|00:21:15,824|CC1|POP|    Arlene Fowler-Bellefleur...
+00:21:15,857|00:21:18,443|CC1|POP|       El es el Sargento
+00:21:15,857|00:21:18,443|CC1|POP|       Patrick Devins, del
+00:21:15,857|00:21:18,443|CC1|POP|       Cuerpo de Marines.
+00:21:18,527|00:21:20,162|CC1|POP|                TERRY: El mejor
+00:21:18,527|00:21:20,162|CC1|POP|                de los mejores.
+00:21:20,195|00:21:21,747|CC1|POP|     Sra. Bellefleur,
+00:21:20,195|00:21:21,747|CC1|POP|     es un honor.
+00:21:21,780|00:21:23,532|CC1|POP|              Oh, es un
+00:21:21,780|00:21:23,532|CC1|POP|              placer conocerlo.
+00:21:23,582|00:21:26,084|CC1|POP|            Terry no me habló
+00:21:23,582|00:21:26,084|CC1|POP|            de usted para nada.
+00:21:26,118|00:21:28,620|CC1|POP| Perfecto. No
+00:21:26,118|00:21:28,620|CC1|POP| tengo que mentir.
+00:21:28,670|00:21:30,706|CC1|POP|         (AMBOS RIEN)
+00:21:30,756|00:21:32,924|CC1|POP| ¿Tomarías un trago con
+00:21:30,756|00:21:32,924|CC1|POP| el hombre al que salvaste?
+00:21:34,126|00:21:36,295|CC1|POP| Dos veces. ¿Eh?
+00:21:45,937|00:21:48,140|CC1|POP|              ¿Significa que ya
+00:21:45,937|00:21:48,140|CC1|POP|              no estás molesto?
+00:21:48,190|00:21:51,560|CC1|POP| No puedo enfadarme contigo.
+00:21:48,190|00:21:51,560|CC1|POP| Y menos con esas orejas.
+00:21:51,561|00:21:54,563|CC1|POP|             Sam lo hizo
+00:21:51,561|00:21:54,563|CC1|POP|             como venganza.
+00:21:54,613|00:21:58,066|CC1|POP| Oye, respecto a la otra noche,
+00:21:54,613|00:21:58,066|CC1|POP| sé que debí agradecerte.
+00:21:58,116|00:21:59,735|CC1|POP|                 No debí
+00:21:58,116|00:21:59,735|CC1|POP|                 enfadarme así.
+00:21:59,785|00:22:01,119|CC1|POP| Entiendo porqué lo hiciste.
+00:22:03,789|00:22:05,490|CC1|POP| ¿Dónde está Debbie?
+00:22:07,409|00:22:11,046|CC1|POP|      Oh, Alcide.
+00:22:07,409|00:22:11,046|CC1|POP|      ¿Qué pasó?
+00:22:11,079|00:22:12,331|CC1|POP|          No te equivocaste.
+00:22:12,332|00:22:13,715|CC1|POP| Pero ella cambió.
+00:22:13,716|00:22:17,085|CC1|POP|     Las personas no cambian.
+00:22:13,716|00:22:17,085|CC1|POP|     Sólo mienten de otro modo.
+00:22:17,135|00:22:20,005|CC1|POP|         Sé que en este momento
+00:22:17,135|00:22:20,005|CC1|POP|         no lo crees, y...
+00:22:20,088|00:22:21,923|CC1|POP|               No vine a
+00:22:20,088|00:22:21,923|CC1|POP|               darte un sermón.
+00:22:21,973|00:22:24,176|CC1|POP| Y voy a recibir el
+00:22:21,973|00:22:24,176|CC1|POP| sermón de todos modos.
+00:22:27,846|00:22:30,682|CC1|POP| ¿Recuerdas cuando dijiste
+00:22:27,846|00:22:30,682|CC1|POP| que si fueras lista...
+00:22:31,767|00:22:34,436|CC1|POP| te enamorarías
+00:22:31,767|00:22:34,436|CC1|POP| de alguien como yo?
+00:22:34,437|00:22:36,438|CC1|POP|                 Alcide, no.
+00:22:36,488|00:22:39,324|CC1|POP| Siempre dicen que
+00:22:36,488|00:22:39,324|CC1|POP| obedezcas el corazón.
+00:22:39,358|00:22:41,910|CC1|POP| ¿Y si al hacerlo cometes
+00:22:39,358|00:22:41,910|CC1|POP| las mismas estupideces...
+00:22:41,944|00:22:43,161|CC1|POP|         una y otra vez?
+00:22:45,914|00:22:48,600|CC1|POP|         Tal vez no sea de
+00:22:45,914|00:22:48,600|CC1|POP|         fiar el corazón.
+00:22:48,634|00:22:51,920|CC1|POP|           Es mejor oír
+00:22:48,634|00:22:51,920|CC1|POP|           al cerebro quizá.
+00:22:51,953|00:22:55,507|CC1|POP| Estás herido, y enfadado,
+00:22:51,953|00:22:55,507|CC1|POP| Alcide. Te entiendo,
+00:22:51,953|00:22:55,507|CC1|POP| pasé por eso.
+00:22:55,541|00:22:58,543|CC1|POP|        No. Abrí los ojos.
+00:22:58,593|00:23:01,546|CC1|POP|         Debbie ya salió de
+00:22:58,593|00:23:01,546|CC1|POP|         mi vida, para siempre.
+00:23:02,547|00:23:03,965|CC1|POP|      Terminé con el drama.
+00:23:06,635|00:23:08,804|CC1|POP|      Tú también debes dejarlo.
+00:23:08,854|00:23:10,972|CC1|POP| No puedo cambiar
+00:23:08,854|00:23:10,972|CC1|POP| a quien amo.
+00:23:12,391|00:23:14,025|CC1|POP| Dios sabe que lo intenté.
+00:23:16,228|00:23:17,479|CC1|POP|            Sigue intentando.
+00:23:22,401|00:23:24,703|CC1|POP|   (SUENA TELEFONO CELULAR)
+00:23:26,154|00:23:28,323|CC1|POP|       (SUENA TELEFONO
+00:23:26,154|00:23:28,323|CC1|POP|       CELULAR OTRA VEZ)
+00:23:30,559|00:23:34,162|CC1|POP|       Herveaux.¿Dónde?
+00:23:36,998|00:23:38,216|CC1|POP|              ¿Seguro?
+00:23:40,302|00:23:42,921|CC1|POP|     Voy tan pronto como pueda.
+00:23:46,057|00:23:47,142|CC1|POP|              Me tengo que ir.
+00:23:47,175|00:23:49,311|CC1|POP|      ¿Necesitas ayuda?
+00:23:49,344|00:23:53,899|CC1|POP|      Di que lo pensarás. Y
+00:23:49,344|00:23:53,899|CC1|POP|      trata de que no te maten.
+00:23:53,933|00:23:55,267|CC1|POP|   Me esforzaré.
+00:24:01,156|00:24:03,024|CC1|POP|        TARA: ¿Lafayette?
+00:24:03,075|00:24:07,162|CC1|POP|       (LLAMA GRITANDO) ¿Jesús?
+00:24:03,075|00:24:07,162|CC1|POP|       ¿Hay alguien en casa?
+00:24:12,951|00:24:14,252|CC1|POP|                    ¿Hola?
+00:24:18,790|00:24:20,091|CC1|POP|        ¿Lafayette?
+00:24:23,044|00:24:26,715|CC1|POP|            (GRITA)
+00:24:30,218|00:24:31,970|CC1|POP|      (GRITA)
+00:24:32,020|00:24:34,306|CC1|POP|         Hola, Sookie. ¿Me
+00:24:32,020|00:24:34,306|CC1|POP|         prestas el encendedor?
+00:24:34,356|00:24:37,476|CC1|POP| Holly, casi me matas
+00:24:34,356|00:24:37,476|CC1|POP| del susto, ¿sabes?
+00:24:37,477|00:24:41,062|CC1|POP|        Es un disfraz de hada.
+00:24:37,477|00:24:41,062|CC1|POP|        Las hadas no dan miedo.
+00:24:41,112|00:24:42,647|CC1|POP|    Sí, claro.
+00:24:44,316|00:24:45,650|CC1|POP|          No te importa, ¿o sí?
+00:24:47,702|00:24:50,789|CC1|POP|     Esta noche me pone
+00:24:47,702|00:24:50,789|CC1|POP|     nerviosa. Siempre lo hace.
+00:24:53,742|00:24:57,212|CC1|POP|           Los Wiccanos,
+00:24:53,742|00:24:57,212|CC1|POP|           lo llaman "Samhain"
+00:24:57,245|00:24:58,997|CC1|POP| o Año nuevo de las Brujas.
+00:25:01,132|00:25:06,221|CC1|POP| Es el día en el que el velo
+00:25:01,132|00:25:06,221|CC1|POP| que separa a los vivos de los
+00:25:01,132|00:25:06,221|CC1|POP| muertos casi no existe.
+00:25:06,254|00:25:09,174|CC1|POP| Se puede sentir en
+00:25:06,254|00:25:09,174|CC1|POP| el aire, tú sabes.
+00:25:12,177|00:25:13,728|CC1|POP|       ¿Quieres?
+00:25:13,762|00:25:17,482|CC1|POP|     Oh, , gracias. Cuando
+00:25:13,762|00:25:17,482|CC1|POP|     me drogo no puedo bloquear
+00:25:13,762|00:25:17,482|CC1|POP|     los pensamientos.
+00:25:17,516|00:25:19,818|CC1|POP|       Siento que todo el mundo
+00:25:17,516|00:25:19,818|CC1|POP|       está gritándome.
+00:25:19,852|00:25:22,487|CC1|POP| Ah, esto calma mis nervios.
+00:25:22,522|00:25:25,190|CC1|POP|    Es el Valium natural.
+00:25:25,191|00:25:31,446|CC1|POP| Todo el día he tenido un,
+00:25:25,191|00:25:31,446|CC1|POP| un horrible presentimiento.
+00:25:25,191|00:25:31,446|CC1|POP| Algo aterrador.
+00:25:31,496|00:25:35,033|CC1|POP| De seguro es un remanente
+00:25:31,496|00:25:35,033|CC1|POP| de lo que pasó con Marnie
+00:25:31,496|00:25:35,033|CC1|POP| y todo eso.
+00:25:35,083|00:25:37,586|CC1|POP|         Yo, lo siento también.
+00:25:37,619|00:25:39,204|CC1|POP|    (SE APROXIMA UN CARRO)
+00:25:41,339|00:25:45,126|CC1|POP|         ¿Tara? Tara, qué, ¿qué
+00:25:41,339|00:25:45,126|CC1|POP|         tienes? ¿Qué pasó?
+00:25:45,176|00:25:46,211|CC1|POP|                Ella ha vuelto.
+00:25:46,261|00:25:47,512|CC1|POP|   ¿Quién ha vuelto?
+00:25:47,547|00:25:48,680|CC1|POP|                      Marnie.
+00:25:48,713|00:25:50,549|CC1|POP| Es imposible. Murió
+00:25:48,713|00:25:50,549|CC1|POP| frente a nosotros.
+00:25:50,599|00:25:53,051|CC1|POP|                  (LLORANDO)
+00:25:50,599|00:25:53,051|CC1|POP|                  Mató a Jesús.
+00:25:53,102|00:25:55,186|CC1|POP|           Creo que está
+00:25:53,102|00:25:55,186|CC1|POP|           dentro de Lafayette.
+00:25:59,224|00:26:01,810|CC1|POP|     (NEUMATICOS CHIRREAN)
+00:26:01,860|00:26:04,229|CC1|POP| SOOKIE: (AL TELEFONO)
+00:26:01,860|00:26:04,229|CC1|POP| Claro, gracias, Ginger.
+00:26:04,230|00:26:06,281|CC1|POP| Dice que Eric
+00:26:04,230|00:26:06,281|CC1|POP| desapareció
+00:26:04,230|00:26:06,281|CC1|POP| al anochecer.
+00:26:06,282|00:26:07,649|CC1|POP|                       ¿Bill?
+00:26:07,650|00:26:08,867|CC1|POP| No contesta el teléfono.
+00:26:08,900|00:26:12,070|CC1|POP|        Oh. Sabía que
+00:26:08,900|00:26:12,070|CC1|POP|        la tenía por aquí.
+00:26:12,071|00:26:13,572|CC1|POP| SOOKIE: ¿Carg
+00:26:12,071|00:26:13,572|CC1|POP| sal en tu bolso?
+00:26:13,573|00:26:16,575|CC1|POP|      Sí, y salvia, y un
+00:26:13,573|00:26:16,575|CC1|POP|      rizo de mi tía Josie.
+00:26:16,625|00:26:18,460|CC1|POP|       Es un botiquín Wiccano.
+00:26:18,494|00:26:20,495|CC1|POP|        ¿Alguna tiene
+00:26:18,494|00:26:20,495|CC1|POP|        un espejo?
+00:26:22,130|00:26:23,214|CC1|POP|                HOLLY: Gracias.
+00:26:23,249|00:26:25,133|CC1|POP| ¿Habías hecho
+00:26:23,249|00:26:25,133|CC1|POP| algo como esto?
+00:26:25,134|00:26:27,719|CC1|POP|   Claro que no. Normalmente...
+00:26:27,752|00:26:31,423|CC1|POP| enciendo una vela y pido a los
+00:26:27,752|00:26:31,423|CC1|POP| espíritus que mis muchachos no
+00:26:27,752|00:26:31,423|CC1|POP| terminen en la cárcel
+00:26:31,424|00:26:34,843|CC1|POP|     o embaracen a alguien,
+00:26:31,424|00:26:34,843|CC1|POP|     pero ha funcionado
+00:26:31,424|00:26:34,843|CC1|POP|     bien hasta ahora.
+00:26:34,893|00:26:38,146|CC1|POP|                 Sookie, que no
+00:26:34,893|00:26:38,146|CC1|POP|                 lo lastimen.
+00:26:38,180|00:26:40,732|CC1|POP|   Siill y Eric saben que
+00:26:38,180|00:26:40,732|CC1|POP|   Marnie entró en Lafayette...
+00:26:42,217|00:26:44,603|CC1|POP| Algo me dice que ya
+00:26:42,217|00:26:44,603|CC1|POP| se enteraron.
+00:26:56,581|00:26:59,367|CC1|POP| ¿Alguna idea de cómo salir
+00:26:56,581|00:26:59,367|CC1|POP| de esta, su Majestad?
+00:26:59,418|00:27:00,869|CC1|POP|          Puedes llamar a Pam.
+00:27:00,919|00:27:02,120|CC1|POP| Puedes llamar a Jessica.
+00:27:02,121|00:27:03,672|CC1|POP|                      Hmm.
+00:27:03,705|00:27:08,126|CC1|POP| Ah, ¿así que sacrificarías a
+00:27:03,705|00:27:08,126|CC1|POP| mi progenie pero no a la tuya?
+00:27:09,177|00:27:11,012|CC1|POP| No es muy real de tu parte.
+00:27:12,514|00:27:14,683|CC1|POP|        Eras más agradable con
+00:27:12,514|00:27:14,683|CC1|POP|        el cerebro atrofiado.
+00:27:15,717|00:27:17,135|CC1|POP|        AMBOS: Sookie.
+00:27:21,940|00:27:27,979|CC1|POP| Como su amigo Lafayette
+00:27:21,940|00:27:27,979|CC1|POP| diría: "Quien mal anda,
+00:27:21,940|00:27:27,979|CC1|POP| mal acaba", perras.
+00:27:28,029|00:27:32,617|CC1|POP|        Lafayette... Marnie.
+00:27:28,029|00:27:32,617|CC1|POP|        Por favor, no lo hagas.
+00:27:32,651|00:27:36,454|CC1|POP| Después de todo lo que
+00:27:32,651|00:27:36,454|CC1|POP| te hicieron, ¿los proteges?
+00:27:36,488|00:27:39,157|CC1|POP|  Matar a Bill y a Eric
+00:27:36,488|00:27:39,157|CC1|POP|  no cambiará todo lo que pasó.
+00:27:40,208|00:27:42,577|CC1|POP| La venganza no aportará paz.
+00:27:42,627|00:27:47,799|CC1|POP| No habrá paz hasta
+00:27:42,627|00:27:47,799|CC1|POP| hallar justicia para
+00:27:42,627|00:27:47,799|CC1|POP| mí, para Antonia...
+00:27:47,832|00:27:50,752|CC1|POP|      MARNIE: (COMO LAYFAYETTE)
+00:27:47,832|00:27:50,752|CC1|POP|      Para todas las mujeres
+00:27:47,832|00:27:50,752|CC1|POP|      que torturaron...
+00:27:50,753|00:27:52,721|CC1|POP|   (MURMULLOS ININTENLIGIBLES)
+00:27:50,753|00:27:52,721|CC1|POP| MARNIE: (COMO LAYFAYETTE)
+00:27:50,753|00:27:52,721|CC1|POP|  y quemaron por siglos!
+00:27:52,754|00:27:57,676|CC1|POP| Para reprimir una magia más
+00:27:52,754|00:27:57,676|CC1|POP| antigua y más poderosa que su
+00:27:52,754|00:27:57,676|CC1|POP| mera existencia.
+00:27:57,677|00:27:59,728|CC1|POP| HOLLY: (MURMURANDO)
+00:27:57,677|00:27:59,728|CC1|POP| Reesa el mal a la tierra.
+00:27:57,677|00:27:59,728|CC1|POP| Tres veces al círculo atado...
+00:27:59,761|00:28:02,347|CC1|POP| Marnie, ¿esto
+00:27:59,761|00:28:02,347|CC1|POP| de qué servirá?
+00:28:02,348|00:28:06,101|CC1|POP| Hay millones de nosotros,
+00:28:02,348|00:28:06,101|CC1|POP| y más nacen cada noche.
+00:28:06,151|00:28:08,019|CC1|POP|       Nunca ganarás.
+00:28:08,069|00:28:12,190|CC1|POP|      Ya estoy muerta, vampiro,
+00:28:08,069|00:28:12,190|CC1|POP|      gracias a ustedes. No
+00:28:08,069|00:28:12,190|CC1|POP|      tengo nada que perder.
+00:28:13,692|00:28:16,444|CC1|POP|     (EN UN IDIOMA EXTRANJERO)
+00:28:13,692|00:28:16,444|CC1|POP|      <i>Incendia of Sanctimonia!</i>
+00:28:16,528|00:28:17,495|CC1|POP|         Bill!
+00:28:17,530|00:28:19,030|CC1|POP|         (BILL GRITA)
+00:28:19,114|00:28:21,032|CC1|POP|        (SOOKIE GRITA)
+00:28:21,033|00:28:22,417|CC1|POP|             TARA:  Sookie!
+00:28:21,033|00:28:22,417|CC1|POP|              Aún es Lafayette!
+00:28:22,418|00:28:24,452|CC1|POP|           No dejaré que
+00:28:22,418|00:28:24,452|CC1|POP|          los maten así!
+00:28:24,536|00:28:28,006|CC1|POP|        (LUZ ENCEGUECEDORA)
+00:28:24,536|00:28:28,006|CC1|POP|     (LAYFAYETTE GIME)
+00:28:28,040|00:28:29,841|CC1|POP|        (DEMONIO GRUÑE)
+00:28:29,874|00:28:34,462|CC1|POP|         TARA:  Lafayette!  No!
+00:28:34,463|00:28:36,715|CC1|POP|     (BILL Y ERIC GRITAN)
+00:28:36,765|00:28:38,883|CC1|POP| Denme sus manos.  Ahora!
+00:28:38,933|00:28:40,135|CC1|POP|                (GRUÑE)
+00:28:40,186|00:28:42,220|CC1|POP|          Lo siento, Lafayette.
+00:28:42,270|00:28:43,888|CC1|POP| HOLLY: (COREANDO) Espíritus
+00:28:42,270|00:28:43,888|CC1|POP| que nos protegen...
+00:28:43,889|00:28:46,725|CC1|POP| Amigos, familia, ancestros
+00:28:43,889|00:28:46,725|CC1|POP| guardianes de la entrada...
+00:28:46,726|00:28:48,276|CC1|POP|    TODAS: (COREANDO) Espíritus
+00:28:46,726|00:28:48,276|CC1|POP|    queos protegen...
+00:28:48,310|00:28:50,111|CC1|POP|  Amigos, familia, ancestros
+00:28:48,310|00:28:50,111|CC1|POP|  guardianes de la entrada...
+00:28:50,112|00:28:53,481|CC1|POP| (CORRIENTAZO ELECTROSTATICO)
+00:28:50,112|00:28:53,481|CC1|POP|                    (GRUÑE)
+00:28:53,531|00:28:54,949|CC1|POP| HOLLY: Con este rito
+00:28:53,531|00:28:54,949|CC1|POP| los invocamos...
+00:28:54,983|00:28:56,701|CC1|POP| Ante el velo de Samhain,
+00:28:54,983|00:28:56,701|CC1|POP| los hacemos venir.
+00:28:56,735|00:28:59,571|CC1|POP| TODAS: Con este rito los
+00:28:56,735|00:28:59,571|CC1|POP| invocamos. Ante el velo
+00:28:56,735|00:28:59,571|CC1|POP| de Samhain, los hacemos venir.
+00:28:59,654|00:29:03,374|CC1|POP|  Espíritus que nos protegen.
+00:28:59,654|00:29:03,374|CC1|POP|  Amigos, familia, ancestros,
+00:28:59,654|00:29:03,374|CC1|POP|  guardianes de la entrada...
+00:29:03,408|00:29:08,213|CC1|POP|     (INVOCACION CONTINUA)
+00:29:03,408|00:29:08,213|CC1|POP|     (VOCES DISTORSIONADAS)
+00:29:08,246|00:29:11,416|CC1|POP|       (SOPLA EL VIENTO)
+00:29:08,246|00:29:11,416|CC1|POP|   (SUSURROS DISTORSIONADOS)
+00:29:11,417|00:29:17,055|CC1|POP|    (BILL Y ERIC GRITAN)
+00:29:11,417|00:29:17,055|CC1|POP|        (CREPITAR DEL FUEGO)
+00:29:19,007|00:29:22,977|CC1|POP|       Eric, Bill, no se
+00:29:19,007|00:29:22,977|CC1|POP|       les ocurra morir.
+00:29:23,011|00:29:26,464|CC1|POP|    ESPIRITUS: (MURMURANDO
+00:29:23,011|00:29:26,464|CC1|POP|    CONTINUAMENTE)  <i>Marnie...</i>
+00:29:26,498|00:29:29,934|CC1|POP|                    (COREANDO)
+00:29:26,498|00:29:29,934|CC1|POP|       (GRUÑE)
+00:29:29,985|00:29:31,903|CC1|POP|        Marnie.
+00:29:33,738|00:29:35,774|CC1|POP|          Mi hermana.
+00:29:35,775|00:29:39,911|CC1|POP|         Volviste a mí.
+00:29:35,775|00:29:39,911|CC1|POP|         Sabía que lo harías.
+00:29:39,944|00:29:42,580|CC1|POP|      (BILL Y ERIC
+00:29:39,944|00:29:42,580|CC1|POP|      CONTINUAN GRITANDO)
+00:29:43,782|00:29:45,200|CC1|POP|               Antonia,  no!
+00:29:45,250|00:29:48,002|CC1|POP|            (GIMEN)
+00:29:48,036|00:29:51,673|CC1|POP| Toda criatura tiene un
+00:29:48,036|00:29:51,673|CC1|POP| propósito, hasta los vampiros.
+00:29:51,674|00:29:53,291|CC1|POP|     ¿Por qué dices eso?
+00:29:51,674|00:29:53,291|CC1|POP|      Nos mataron!
+00:29:53,292|00:29:57,595|CC1|POP| Su crueldad sirvió su
+00:29:53,292|00:29:57,595|CC1|POP| propósito. Habernos
+00:29:53,292|00:29:57,595|CC1|POP| reunido a las dos.
+00:29:57,630|00:29:59,798|CC1|POP| Y ahora he venido
+00:29:57,630|00:29:59,798|CC1|POP| a llevarte a casa.
+00:30:00,965|00:30:02,217|CC1|POP|        No he terminado aún.
+00:30:02,267|00:30:04,135|CC1|POP|        Oh, claro que sí.
+00:30:04,136|00:30:05,520|CC1|POP|           ¿Abuela?
+00:30:05,554|00:30:07,388|CC1|POP| Santa Diosa.
+00:30:07,438|00:30:08,640|CC1|POP|                  Santa mierda.
+00:30:08,641|00:30:13,061|CC1|POP|       (SONIDOS DISTORSIONADOS)
+00:30:08,641|00:30:13,061|CC1|POP|                      (GEMIDOS)
+00:30:13,062|00:30:14,312|CC1|POP|        TARA:  Lafayette!
+00:30:14,313|00:30:18,032|CC1|POP|         (MARNIE GIME)
+00:30:18,066|00:30:24,656|CC1|POP|   No quiero irme. Yo,
+00:30:18,066|00:30:24,656|CC1|POP|   todavía no estoy
+00:30:18,066|00:30:24,656|CC1|POP|   lista para ir.
+00:30:24,739|00:30:28,910|CC1|POP|      Estuve atrapada entre los
+00:30:24,739|00:30:28,910|CC1|POP|      mundos por 400 años.
+00:30:28,960|00:30:31,996|CC1|POP|      Perdida, furiosa al
+00:30:28,960|00:30:31,996|CC1|POP|      punto de perder la razón.
+00:30:33,081|00:30:34,549|CC1|POP|              No quiero que
+00:30:33,081|00:30:34,549|CC1|POP|              eso te pase.
+00:30:34,582|00:30:38,503|CC1|POP|     ¿Y qué pasa con
+00:30:34,582|00:30:38,503|CC1|POP|     lo que yo quiero?
+00:30:38,553|00:30:42,841|CC1|POP|    No le importa a nadie
+00:30:38,553|00:30:42,841|CC1|POP|   lo que yo quiero!
+00:30:42,842|00:30:48,897|CC1|POP| Toda mi vida tuve miedo.
+00:30:42,842|00:30:48,897|CC1|POP| ¿Quién me culpa?
+00:30:48,930|00:30:52,400|CC1|POP|    Con espíritus susurrando
+00:30:48,930|00:30:52,400|CC1|POP|    en sus oídos...
+00:30:52,433|00:30:55,904|CC1|POP|  Me obligaban a
+00:30:52,433|00:30:55,904|CC1|POP| reper sus mensajes!
+00:30:55,937|00:30:59,073|CC1|POP|  Me convirtieron
+00:30:55,937|00:30:59,073|CC1|POP| en un mounstro!
+00:30:59,107|00:31:04,112|CC1|POP| La extraña, patética, aterrada
+00:30:59,107|00:31:04,112|CC1|POP| mujer murmurando a sí misma
+00:30:59,107|00:31:04,112|CC1|POP| en un rincón.
+00:31:04,162|00:31:05,613|CC1|POP|              Ya dejaste de
+00:31:04,162|00:31:05,613|CC1|POP|              ser esa mujer.
+00:31:05,614|00:31:09,918|CC1|POP| Sí, así es. No tengo
+00:31:05,614|00:31:09,918|CC1|POP| miedo como antes.
+00:31:11,536|00:31:13,705|CC1|POP| Ahora tengo un poder real.
+00:31:15,757|00:31:18,543|CC1|POP|Y ahora quieres arrebatármelo.
+00:31:20,378|00:31:22,881|CC1|POP|  Quieres que ellos ganen.
+00:31:22,931|00:31:24,299|CC1|POP|                    Oh, Marnie.
+00:31:26,384|00:31:31,723|CC1|POP|      ¿Marnie, no lo entiendes?
+00:31:26,384|00:31:31,723|CC1|POP|      La vida trae dolor.
+00:31:31,773|00:31:37,612|CC1|POP|    Pero pronto todo lo que
+00:31:31,773|00:31:37,612|CC1|POP|    sufriste y temiste, perderá
+00:31:31,773|00:31:37,612|CC1|POP|    su importancia.
+00:31:37,645|00:31:41,816|CC1|POP|            Encontrarás la paz.
+00:31:37,645|00:31:41,816|CC1|POP|            Pero ellos, Marnie.
+00:31:46,204|00:31:49,741|CC1|POP|   Ellos siempre estarán
+00:31:46,204|00:31:49,741|CC1|POP|   aquí. Atrapados.
+00:31:51,042|00:31:53,544|CC1|POP|           Y no hay una
+00:31:51,042|00:31:53,544|CC1|POP|           victoria en ello.
+00:32:13,231|00:32:16,517|CC1|POP|        (GRI)
+00:32:16,567|00:32:20,021|CC1|POP|           Eso es, cariño.
+00:32:16,567|00:32:20,021|CC1|POP|           Déjalo salir.
+00:32:20,022|00:32:24,192|CC1|POP|           Ya no hay lugar para
+00:32:20,022|00:32:24,192|CC1|POP|           eso a donde vamos.
+00:32:24,243|00:32:27,195|CC1|POP|   Oh, qué puta injusticia.
+00:32:27,246|00:32:28,579|CC1|POP|           Es duro cambiar.
+00:32:38,256|00:32:39,340|CC1|POP| (MARNIE GIME)
+00:32:40,458|00:32:41,926|CC1|POP|               SOOKIE: ¿Abuela?
+00:32:47,131|00:32:48,633|CC1|POP|              (SUSURRANDO)
+00:32:47,131|00:32:48,633|CC1|POP|              ¿Puedes quedarte?
+00:32:48,683|00:32:51,719|CC1|POP|  GRAN:Tengo
+00:32:48,683|00:32:51,719|CC1|POP|  que irme, querida.
+00:32:51,769|00:32:56,774|CC1|POP| (LLORANDO) Estoy perdida sin
+00:32:51,769|00:32:56,774|CC1|POP| ti aquí. Ya no sé qué hacer.
+00:32:56,808|00:33:02,780|CC1|POP| Oh, claro que sí. Siempre
+00:32:56,808|00:33:02,780|CC1|POP| tuviste la respuesta
+00:32:56,808|00:33:02,780|CC1|POP| en tu corazón.
+00:33:04,315|00:33:07,702|CC1|POP| Estar sola no es algo que
+00:33:04,315|00:33:07,702|CC1|POP| deba darte miedo, mi Sookie.
+00:33:08,903|00:33:10,705|CC1|POP|  Todos lo estamos al final.
+00:33:17,412|00:33:20,048|CC1|POP|                    (LLORA)
+00:33:22,500|00:33:25,470|CC1|POP|   (SONIDOS DISTORSIONADOS)
+00:33:26,671|00:33:31,009|CC1|POP|        Lafayette. Lafayette,
+00:33:26,671|00:33:31,009|CC1|POP|        ¿puedes oírme?
+00:33:33,144|00:33:34,645|CC1|POP|          Puta, háblame.
+00:33:35,813|00:33:36,981|CC1|POP|        LAFAYETTE: Mmm.
+00:33:37,015|00:33:39,484|CC1|POP|         TARA: ¿Estás bien?
+00:33:37,015|00:33:39,484|CC1|POP|         Ya vas a estar bien.
+00:33:39,518|00:33:41,019|CC1|POP|       ERIC: Disculpen.
+00:33:42,353|00:33:44,572|CC1|POP|  Estamos ligeramente tostados.
+00:33:46,240|00:33:49,327|CC1|POP| ARLENE:  Claro, yo limpio las
+00:33:46,240|00:33:49,327|CC1|POP| mesas, sirvo las bebidas...
+00:33:49,360|00:33:54,032|CC1|POP| la comida y saco la maldita
+00:33:49,360|00:33:54,032|CC1|POP| basura! No se preocupen.
+00:33:54,033|00:33:59,837|CC1|POP|      Obviamente, soy la única
+00:33:54,033|00:33:59,837|CC1|POP|      persona que trabaja en
+00:33:54,033|00:33:59,837|CC1|POP|      este lugar. Holgazanes.
+00:33:59,871|00:34:02,123|CC1|POP|         RENE: Dichosos son
+00:33:59,871|00:34:02,123|CC1|POP|         los ojos que te miran.
+00:34:02,173|00:34:08,379|CC1|POP|        (JADEA) Ay, Dios.
+00:34:02,173|00:34:08,379|CC1|POP|        Sólo es un sueño.
+00:34:08,430|00:34:09,797|CC1|POP|        No es real.
+00:34:09,847|00:34:13,017|CC1|POP|       Tranquila. Despierta,
+00:34:09,847|00:34:13,017|CC1|POP|       Arlene. Hazlo.
+00:34:13,052|00:34:16,437|CC1|POP|    Ya despierta. Au.
+00:34:16,438|00:34:19,190|CC1|POP|   No te haré daño,  <i>cher </i>.
+00:34:19,223|00:34:20,975|CC1|POP|              Te amé de verdad.
+00:34:22,143|00:34:23,644|CC1|POP|   RENE: A ti y a nuestro bebé.
+00:34:23,694|00:34:24,729|CC1|POP|     (SUSURRANDO) Dios...
+00:34:24,730|00:34:26,731|CC1|POP|       <i>&l Dios dijo fuera</i>
+00:34:24,730|00:34:26,731|CC1|POP|       <i>y el diablo corrió.</i>
+00:34:26,781|00:34:30,068|CC1|POP|        <i>&l El diablo corrió</i>
+00:34:26,781|00:34:30,068|CC1|POP|        <i>y ya nunca volvió.&l</i>
+00:34:30,118|00:34:31,786|CC1|POP|       Bendito seas, Dios.
+00:34:33,287|00:34:35,573|CC1|POP|     Ay, Dios.
+00:34:33,287|00:34:35,573|CC1|POP|       Vine a advertirte, nena.
+00:34:36,741|00:34:39,210|CC1|POP|         Ese hombre trae
+00:34:36,741|00:34:39,210|CC1|POP|         problemas muy grandes.
+00:34:40,294|00:34:41,496|CC1|POP|           ¿Terry?
+00:34:41,497|00:34:43,915|CC1|POP|                  Ujú.
+00:34:41,497|00:34:43,915|CC1|POP|            No.
+00:34:43,965|00:34:47,418|CC1|POP|   El es bueno conmigo
+00:34:43,965|00:34:47,418|CC1|POP|   y mis bebés.
+00:34:47,468|00:34:49,587|CC1|POP|            Ya vi los fantasmas
+00:34:47,468|00:34:49,587|CC1|POP|            de su pasado.
+00:34:50,755|00:34:52,590|CC1|POP|              No descansarán
+00:34:50,755|00:34:52,590|CC1|POP|              para siempre.
+00:34:52,640|00:34:54,092|CC1|POP|                TERRY:  Arlene!
+00:34:52,640|00:34:54,092|CC1|POP|       (SE SOBRESALTA)
+00:34:54,142|00:34:56,144|CC1|POP|                      Huye.
+00:34:54,142|00:34:56,144|CC1|POP|    TERRY: ¿Qué sucede afuera?
+00:34:56,177|00:34:58,846|CC1|POP|             ¿Está bien?  Huye!
+00:34:56,177|00:34:58,846|CC1|POP|         (GRITA)
+00:34:58,896|00:35:00,648|CC1|POP|          (SOPLA EL VIENTO)
+00:35:06,020|00:35:07,772|CC1|POP|                   ¿Estás bien?
+00:35:06,020|00:35:07,772|CC1|POP| (LLORA) Ay, Dios.
+00:35:07,773|00:35:11,242|CC1|POP|         Oh!
+00:35:07,773|00:35:11,242|CC1|POP|               ¿Qué pasa?
+00:35:07,773|00:35:11,242|CC1|POP|               ¿Te asustó algo?
+00:35:11,275|00:35:14,695|CC1|POP|            (LLORA)
+00:35:11,275|00:35:14,695|CC1|POP|                          Shhh.
+00:35:14,746|00:35:18,449|CC1|POP|            Terry ya está aquí.
+00:35:14,746|00:35:18,449|CC1|POP|            Nada te hará daño.
+00:35:24,806|00:35:29,427|CC1|POP|      (SUENA MUSICA ROCK)
+00:35:36,300|00:35:39,520|CC1|POP|      (SUENA MUSICA ROCK)
+00:35:45,560|00:35:47,645|CC1|POP|      (TOCAN A LA PUERTA)
+00:35:47,695|00:35:50,198|CC1|POP|           No tengo dulces!
+00:35:50,231|00:35:52,550|CC1|POP|          Y si vuelven a echar
+00:35:50,231|00:35:52,550|CC1|POP|         huevos en mis ventanas
+00:35:52,583|00:35:54,535|CC1|POP|      JASON: voy a arrestarlos!
+00:36:00,408|00:36:03,077|CC1|POP| ¿Jason?¿Qué le
+00:36:00,408|00:36:03,077|CC1|POP| pasó a tu cara?
+00:36:04,078|00:36:06,414|CC1|POP|       No es un sueño, ¿verdad?
+00:36:06,415|00:36:09,967|CC1|POP|       Porque si Hoyt de pronto
+00:36:06,415|00:36:09,967|CC1|POP|       aparece bajo la capa le
+00:36:06,415|00:36:09,967|CC1|POP|       daré una puta paliza.
+00:36:10,968|00:36:12,670|CC1|POP| ¿Le dijiste, verdad?
+00:36:12,671|00:36:15,173|CC1|POP|         (SUSPIRA) Sí, le dije.
+00:36:15,256|00:36:17,925|CC1|POP|(MUSICA ROCK CONTINUA SONANDO)
+00:36:17,976|00:36:19,393|CC1|POP|              Lo tomó muy bien.
+00:36:22,430|00:36:23,764|CC1|POP|     ¿Tú lo golpeaste?
+00:36:25,683|00:36:27,185|CC1|POP|                No lo toqué.
+00:36:33,524|00:36:34,992|CC1|POP|  Invítame a entrar.
+00:36:40,898|00:36:43,534|CC1|POP|          (GIMIENDO)
+00:36:45,937|00:36:48,623|CC1|POP|       (RESPIRANDO FUERTEMENTE)
+00:36:45,937|00:36:48,623|CC1|POP|     (SUENA MUSICA ROCK )
+00:36:57,014|00:36:59,717|CC1|POP| JESSICA: (GIMIENDO) Ay, no
+00:36:57,014|00:36:59,717|CC1|POP| quiero ser tu novia.
+00:37:02,937|00:37:04,355|CC1|POP|                JASON: ¿Qué?
+00:37:05,556|00:37:07,608|CC1|POP| Recién salí de una
+00:37:05,556|00:37:07,608|CC1|POP| relación seria.
+00:37:07,643|00:37:08,693|CC1|POP|                  JASON: Umm...
+00:37:08,726|00:37:11,479|CC1|POP| Mi primera y única
+00:37:08,726|00:37:11,479|CC1|POP| relación de amor.
+00:37:12,647|00:37:14,398|CC1|POP| No estoy lista para
+00:37:12,647|00:37:14,398|CC1|POP| entrar en otra.
+00:37:15,566|00:37:19,453|CC1|POP|            JASON: Está bien...
+00:37:15,566|00:37:19,453|CC1|POP|            Está bien.
+00:37:22,156|00:37:26,877|CC1|POP|        Qué pena que no lo supe
+00:37:22,156|00:37:26,877|CC1|POP|        antes de esa golpiza.
+00:37:28,296|00:37:30,665|CC1|POP| No te pedí que le dijeras.
+00:37:30,666|00:37:34,669|CC1|POP|                No. Pero era lo
+00:37:30,666|00:37:34,669|CC1|POP|                correcto.
+00:37:34,719|00:37:39,257|CC1|POP| ¿Y desde cuándo a Jason
+00:37:34,719|00:37:39,257|CC1|POP| Stackhouse le interesa
+00:37:34,719|00:37:39,257|CC1|POP| hacer lo correcto?
+00:37:43,761|00:37:45,062|CC1|POP|        No me conoces muy bien.
+00:37:50,901|00:37:53,404|CC1|POP|          (RAFAGA)
+00:37:53,437|00:37:57,158|CC1|POP| Es verdad. Apenas estoy
+00:37:53,437|00:37:57,158|CC1|POP| conociéndome yo.
+00:37:57,191|00:38:00,945|CC1|POP| Pe no quiero herirte.
+00:37:57,191|00:38:00,945|CC1|POP| Como herí a Hoyt.
+00:38:03,748|00:38:06,751|CC1|POP| Te pregunto...
+00:38:06,784|00:38:08,586|CC1|POP| ¿Esto te basta por ahora?
+00:38:11,255|00:38:13,207|CC1|POP| Porque...
+00:38:14,458|00:38:16,127|CC1|POP|    No quiero parar.
+00:38:17,678|00:38:21,549|CC1|POP|             (SUSURRANDO) Oh.
+00:38:17,678|00:38:21,549|CC1|POP|             ¿Te digo qué eres?
+00:38:25,136|00:38:26,470|CC1|POP|              Eres peligrosa.
+00:38:27,688|00:38:31,142|CC1|POP|   Sí... lo soy.
+00:38:43,788|00:38:46,624|CC1|POP|      (GEMIDOS CONTINUAN)
+00:38:50,044|00:38:51,629|CC1|POP|     PAM: ¿Dónde mierda está?
+00:38:51,663|00:38:55,916|CC1|POP|       No lo sé. Sookie
+00:38:51,663|00:38:55,916|CC1|POP|       llamó buscándolo.
+00:38:55,967|00:38:57,385|CC1|POP| PAM: Sookie...
+00:38:57,418|00:39:01,472|CC1|POP| Ya me tiene harta. Sookie
+00:38:57,418|00:39:01,472|CC1|POP| y su preciada vagina de hada
+00:39:01,505|00:39:04,759|CC1|POP| y su increíblemente
+00:39:01,505|00:39:04,759|CC1|POP| estúpido nombre.
+00:39:04,809|00:39:06,344|CC1|POP|        Puta Sookie!
+00:39:06,345|00:39:09,730|CC1|POP|          (GRITA)
+00:39:06,345|00:39:09,730|CC1|POP|           (GRUÑE)
+00:39:11,315|00:39:14,568|CC1|POP| Viví con Eric
+00:39:11,315|00:39:14,568|CC1|POP| más de 100 años.
+00:39:14,602|00:39:17,905|CC1|POP|      Lo vi seducir a
+00:39:14,602|00:39:17,905|CC1|POP|      supermodelos y princesas.
+00:39:17,938|00:39:20,574|CC1|POP|           Y escupir sus huesos
+00:39:17,938|00:39:20,574|CC1|POP|           cuando terminó.
+00:39:20,575|00:39:24,662|CC1|POP|         ¿Cómo es que una
+00:39:20,575|00:39:24,662|CC1|POP|         imbécil llamada Sookie
+00:39:20,575|00:39:24,662|CC1|POP|         logró arrebatármelo?
+00:39:33,504|00:39:35,373|CC1|POP|        No me toques, pendeja.
+00:39:45,132|00:39:46,884|CC1|POP|                      (LLORA)
+00:39:52,556|00:39:54,141|CC1|POP| Trata de dormir.
+00:39:54,142|00:39:55,559|CC1|POP|                 Yo lo maté.
+00:39:55,560|00:39:59,980|CC1|POP| No, no es cierto.
+00:39:55,560|00:39:59,980|CC1|POP| Tú no lo hiciste.
+00:40:00,031|00:40:02,817|CC1|POP| ¿Oíste, Lafayette?
+00:40:00,031|00:40:02,817|CC1|POP| Nada de esto es culpa tuya.
+00:40:03,901|00:40:06,370|CC1|POP|   Pendejo, te quiero.
+00:40:06,404|00:40:10,574|CC1|POP| Vamos a salir de ésta juntos
+00:40:06,404|00:40:10,574|CC1|POP| como siempre lo hemos hecho.
+00:40:12,293|00:40:14,495|CC1|POP|          ¿Entiendes?
+00:40:14,496|00:40:17,498|CC1|POP|           (MOQUEANDO)
+00:40:17,548|00:40:19,633|CC1|POP|Si me necesitas, estoy afuera.
+00:40:38,569|00:40:40,070|CC1|POP|             (LAFAYETTE LLORA)
+00:40:41,939|00:40:44,108|CC1|POP|           (GORGOTEAN)
+00:40:41,939|00:40:44,108|CC1|POP|           (CHUPAN)
+00:40:45,192|00:40:48,112|CC1|POP|            (LAMEN)
+00:40:51,115|00:40:52,533|CC1|POP|    ¿Te duele?
+00:40:54,668|00:40:56,620|CC1|POP|      Si quieres que paremos...
+00:40:57,788|00:40:59,874|CC1|POP|                No.
+00:40:59,924|00:41:01,675|CC1|POP|                     (GRUÑE)
+00:41:05,346|00:41:08,716|CC1|POP|         (GIMIENDO) Muy bien...
+00:41:08,766|00:41:10,601|CC1|POP|       Creo que fue suficiente.
+00:41:22,396|00:41:23,814|CC1|POP|              Salvaste mi vida.
+00:41:25,616|00:41:27,151|CC1|POP|          Nos salvaste a ambos.
+00:41:28,486|00:41:30,571|CC1|POP|        Era mi turno.
+00:41:30,621|00:41:32,907|CC1|POP| ERIC: Gracias.
+00:41:32,957|00:41:37,795|CC1|POP|     No tienes que agradecerme.
+00:41:32,957|00:41:37,795|CC1|POP|     No imagino a un mundo
+00:41:32,957|00:41:37,795|CC1|POP|     sin ti en él.
+00:41:38,629|00:41:40,214|CC1|POP|               Sin ambos en él.
+00:41:47,505|00:41:49,507|CC1|POP|         Ya no resisto más.
+00:41:51,475|00:41:53,394|CC1|POP| Es como estar partida en dos.
+00:41:53,427|00:41:56,697|CC1|POP|        No importa lo que haga,
+00:41:53,427|00:41:56,697|CC1|POP|        alguien a quien amo,
+00:41:53,427|00:41:56,697|CC1|POP|        sale herido.
+00:42:01,685|00:42:04,738|CC1|POP| Sookie, sólo quiero que
+00:42:01,685|00:42:04,738|CC1|POP| seas feliz siempre.
+00:42:04,772|00:42:07,575|CC1|POP| Y si estar con Eric
+00:42:04,772|00:42:07,575|CC1|POP| te hace feliz, pues...
+00:42:09,109|00:42:10,578|CC1|POP| Tienen mi bendición.
+00:42:13,163|00:42:14,415|CC1|POP| ERIC: ¿Lo ves?
+00:42:16,166|00:42:18,502|CC1|POP|          Tranquila, Sookie.
+00:42:16,166|00:42:18,502|CC1|POP|          Bill está de acuerdo.
+00:42:20,671|00:42:24,341|CC1|POP| Bill tuvo su oportunidad.
+00:42:20,671|00:42:24,341|CC1|POP| La desperdició.
+00:42:24,375|00:42:26,627|CC1|POP| Te, te engañó.
+00:42:24,375|00:42:26,627|CC1|POP|               Para protegerme.
+00:42:26,677|00:42:28,679|CC1|POP|          Y yo le mentí a
+00:42:26,677|00:42:28,679|CC1|POP|          él para protegerte...
+00:42:28,712|00:42:32,550|CC1|POP|       Y tú no has mentido
+00:42:28,712|00:42:32,550|CC1|POP|       muchas más veces de
+00:42:28,712|00:42:32,550|CC1|POP|       las que quiero recordar.
+00:42:32,551|00:42:33,884|CC1|POP|                Es terrible.
+00:42:40,024|00:42:42,192|CC1|POP|           Te perdono.
+00:42:42,226|00:42:45,980|CC1|POP|     Bill, sé que me amaste del
+00:42:42,226|00:42:45,980|CC1|POP|     mismo modo que te amé yo.
+00:42:46,030|00:42:49,817|CC1|POP|          Y nos herimos uno al
+00:42:46,030|00:42:49,817|CC1|POP|          otro en lo más hondo.
+00:42:49,818|00:42:51,986|CC1|POP|       Ojalá me perdones, Bill.
+00:42:53,988|00:42:55,205|CC1|POP|       Sookie.
+00:42:57,041|00:42:58,626|CC1|POP|  No tengo elección.
+00:43:00,911|00:43:02,396|CC1|POP| Eres el amor de mi vida.
+00:43:03,664|00:43:07,334|CC1|POP|          Lo sé. Por eso
+00:43:03,664|00:43:07,334|CC1|POP|          detesto hacerte esto.
+00:43:17,428|00:43:23,601|CC1|POP| Debo ser honesta. No fue sólo
+00:43:17,428|00:43:23,601|CC1|POP| el torpe e inocente Eric quien
+00:43:17,428|00:43:23,601|CC1|POP| me cautivó.
+00:43:23,651|00:43:27,855|CC1|POP| Aunque eres salvaje y en ti
+00:43:23,651|00:43:27,855|CC1|POP| no se puede confiar...
+00:43:29,106|00:43:31,575|CC1|POP|    Hay una bondad que rompe
+00:43:29,106|00:43:31,575|CC1|POP|    mi corazón...
+00:43:31,609|00:43:34,445|CC1|POP|         Creo que parte de mí
+00:43:31,609|00:43:34,445|CC1|POP|         siempre te deseó.
+00:43:37,331|00:43:38,666|CC1|POP|            No lo lamentarás.
+00:43:40,501|00:43:41,869|CC1|POP|         Ya lo hice.
+00:43:43,671|00:43:48,792|CC1|POP| Nuestro tiempo juntos será
+00:43:43,671|00:43:48,792|CC1|POP| inolvidable, pero, se terminó.
+00:43:48,842|00:43:50,761|CC1|POP|            No, Sookie. No
+00:43:48,842|00:43:50,761|CC1|POP|            tiene que terminar.
+00:43:52,846|00:43:55,382|CC1|POP| Sólo existe un final
+00:43:52,846|00:43:55,382|CC1|POP| para todo esto...
+00:43:55,432|00:43:57,968|CC1|POP| Debo alejarme y
+00:43:55,432|00:43:57,968|CC1|POP| dejar a los dos.
+00:43:57,969|00:43:59,303|CC1|POP|                 No lo hagas.
+00:43:59,304|00:44:00,471|CC1|POP|         Sookie.
+00:44:00,521|00:44:05,693|CC1|POP| Es la decisión más dolorosa
+00:44:00,521|00:44:05,693|CC1|POP| que he hecho en mi vida...
+00:44:05,726|00:44:10,314|CC1|POP| (LLORANDO) Pero sé que
+00:44:05,726|00:44:10,314|CC1|POP| es la correcta para
+00:44:05,726|00:44:10,314|CC1|POP| todos. Por favor...
+00:44:10,315|00:44:14,785|CC1|POP| No traten de detenerme.
+00:44:10,315|00:44:14,785|CC1|POP| Ninguno lo haga.
+00:44:26,830|00:44:28,165|CC1|POP|      (CIERRA LA PUERTA)
+00:44:43,063|00:44:44,314|CC1|POP|       (SOPLA EL VIENTO)
+00:44:46,266|00:44:48,268|CC1|POP|   (SONIDOS DISTORSIONADOS)
+00:44:49,403|00:44:51,021|CC1|POP|               ¿Jesús?
+00:44:52,856|00:44:54,408|CC1|POP|           LAFAYETTE: ¿Eres tú?
+00:44:58,395|00:45:01,999|CC1|POP|  (SONIDO DE CARGA ELECTRICA)
+00:45:02,032|00:45:04,618|CC1|POP|            Mierda, mírate.
+00:45:04,668|00:45:09,206|CC1|POP|      Lo siento. Mira lo que te
+00:45:04,668|00:45:09,206|CC1|POP|      hice...Lo siento.
+00:45:11,175|00:45:12,926|CC1|POP| No te preocupes.
+00:45:12,960|00:45:16,630|CC1|POP|               ¿Cómo que no
+00:45:12,960|00:45:16,630|CC1|POP|               me preocupe?
+00:45:12,960|00:45:16,630|CC1|POP|               Te asesiné.
+00:45:16,681|00:45:18,215|CC1|POP|         Todo es temporal.
+00:45:19,883|00:45:22,720|CC1|POP|      Y probablemente, me
+00:45:19,883|00:45:22,720|CC1|POP|      hubiera dado cáncer...
+00:45:22,721|00:45:25,889|CC1|POP| Hubiera muerto en un hospital
+00:45:22,721|00:45:25,889|CC1|POP| con una enfermera pendeja que
+00:45:22,721|00:45:25,889|CC1|POP| no sabe nada.
+00:45:25,890|00:45:28,559|CC1|POP| Confundiendo mis medicinas
+00:45:25,890|00:45:28,559|CC1|POP| y causándome llagas.
+00:45:30,527|00:45:32,146|CC1|POP| Al final todo salió bien.
+00:45:32,196|00:45:36,650|CC1|POP|     Para mí no salió bien.
+00:45:32,196|00:45:36,650|CC1|POP|     Asesiné al hombre que amo.
+00:45:36,700|00:45:38,902|CC1|POP|              ¿Cómo esperas
+00:45:36,700|00:45:38,902|CC1|POP|              que viva con eso?
+00:45:41,405|00:45:43,207|CC1|POP| Sigue respirando, mi amor.
+00:45:52,750|00:45:54,001|CC1|POP|   Así de simple.
+00:45:58,555|00:46:02,059|CC1|POP|                Jesús, aguarda
+00:45:58,555|00:46:02,059|CC1|POP|                No me dejes.
+00:46:02,093|00:46:05,479|CC1|POP|     Estoy muerto.
+00:46:02,093|00:46:05,479|CC1|POP|     Eres un "medium".
+00:46:06,930|00:46:08,766|CC1|POP| Y siempre estaré contigo.
+00:46:11,819|00:46:15,856|CC1|POP|           (CARGA ELECTRICA)
+00:46:11,819|00:46:15,856|CC1|POP|       (SONIDOS DISTORSIONADOS)
+00:46:17,157|00:46:18,826|CC1|POP|               (LLORA)
+00:46:25,365|00:46:26,917|CC1|POP|            ANDY: Srta. Cleary.
+00:46:29,086|00:46:32,005|CC1|POP| Feliz noche de brujas,
+00:46:29,086|00:46:32,005|CC1|POP| Alguacil Bellefleur.
+00:46:32,040|00:46:33,457|CC1|POP|                 Andy.
+00:46:35,959|00:46:38,796|CC1|POP|      Perdón por la vez pasada.
+00:46:35,959|00:46:38,796|CC1|POP|      Me llevé las flores.
+00:46:38,797|00:46:42,432|CC1|POP|     Em, descuida.
+00:46:38,797|00:46:42,432|CC1|POP|     Estabas nervioso.
+00:46:43,801|00:46:46,053|CC1|POP|       No, era un drogadicto...
+00:46:46,103|00:46:50,307|CC1|POP| V, creí que la necesitaba
+00:46:46,103|00:46:50,307|CC1|POP| para trabajar o charlar con...
+00:46:50,308|00:46:52,359|CC1|POP|         bellas chicas como tú.
+00:46:52,392|00:46:56,063|CC1|POP|        Era para no sentirme un
+00:46:52,392|00:46:56,063|CC1|POP|        fracasado, y funcionó
+00:46:52,392|00:46:56,063|CC1|POP|        por un tiempo...
+00:46:57,064|00:46:58,565|CC1|POP|                Luego ya no.
+00:47:00,651|00:47:03,904|CC1|POP|   Bien. Oye, Andy.
+00:47:03,954|00:47:05,989|CC1|POP|Eres tierno de verdad, pero...
+00:47:06,039|00:47:10,043|CC1|POP|     creo que esto es
+00:47:06,039|00:47:10,043|CC1|POP|     demasiado para mí ahora.
+00:47:10,044|00:47:13,831|CC1|POP|           No importa. Es mucha
+00:47:10,044|00:47:13,831|CC1|POP|           carga. Te entiendo.
+00:47:13,881|00:47:17,718|CC1|POP|      Pero quería decirte que
+00:47:13,881|00:47:17,718|CC1|POP|      estoy sobrio, y muy solo.
+00:47:19,086|00:47:22,506|CC1|POP|      Y sé que puedo ser bueno,
+00:47:19,086|00:47:22,506|CC1|POP|      si me permiten.
+00:47:24,925|00:47:26,310|CC1|POP|                  Adiós.
+00:47:28,345|00:47:30,347|CC1|POP|     Alguacil Andy.
+00:47:33,016|00:47:34,518|CC1|POP|     Un abrazo, ¿sí?
+00:47:35,736|00:47:39,857|CC1|POP|     Creo que necesito uno
+00:47:35,736|00:47:39,857|CC1|POP|     grande esta noche.
+00:48:01,929|00:48:04,131|CC1|POP|            (GIMEN)
+00:48:05,966|00:48:07,935|CC1|POP|          ¿Entonces no te
+00:48:05,966|00:48:07,935|CC1|POP|          convenzo de quedarte?
+00:48:08,887|00:48:11,889|CC1|POP| Es muy tentador, pero...
+00:48:11,939|00:48:14,558|CC1|POP| aún no creo que Emma
+00:48:11,939|00:48:14,558|CC1|POP| esté lista para eso.
+00:48:14,608|00:48:19,112|CC1|POP| Así que la llevaré a
+00:48:14,608|00:48:19,112|CC1|POP| casa a dormir en su cama.
+00:48:19,146|00:48:21,899|CC1|POP|                    De acuerdo.
+00:48:19,146|00:48:21,899|CC1|POP|       Gracias.
+00:48:21,900|00:48:25,903|CC1|POP|                Tú y Emma son
+00:48:21,900|00:48:25,903|CC1|POP|                lo mejor que...
+00:48:25,953|00:48:27,321|CC1|POP|        No lo digas.
+00:48:28,372|00:48:30,574|CC1|POP|                 ¿Ahora eres
+00:48:28,372|00:48:30,574|CC1|POP|                 supersticiosa?
+00:48:30,624|00:48:32,910|CC1|POP|      Sólo pienso que...
+00:48:32,911|00:48:36,046|CC1|POP|       si somos muy
+00:48:32,911|00:48:36,046|CC1|POP|       tiernos y cursis...
+00:48:36,079|00:48:39,132|CC1|POP|     Quizá Dios nos golpee
+00:48:36,079|00:48:39,132|CC1|POP|    con algo en la cabeza.
+00:48:39,166|00:48:43,086|CC1|POP|       Bueno, Luna, yo creo
+00:48:39,166|00:48:43,086|CC1|POP|       que la vida es violenta.
+00:48:43,136|00:48:45,088|CC1|POP|        Y cruel por naturaleza.
+00:48:43,136|00:48:45,088|CC1|POP|        Así que...
+00:48:45,089|00:48:50,010|CC1|POP|      si pasa algo bueno tienes
+00:48:45,089|00:48:50,010|CC1|POP|      que parar y celebrarlo.
+00:48:50,011|00:48:51,728|CC1|POP|                   Agradecerlo.
+00:48:53,397|00:48:57,184|CC1|POP|     Entiendo. En ese caso,
+00:48:53,397|00:48:57,184|CC1|POP|     no hay de qué.
+00:48:57,185|00:48:58,685|CC1|POP|                 Eso digo.
+00:49:04,324|00:49:07,160|CC1|POP|                     Descansa.
+00:49:04,324|00:49:07,160|CC1|POP|        Buenas noches.
+00:49:07,194|00:49:08,445|CC1|POP|                   Adiós.
+00:49:16,119|00:49:18,789|CC1|POP|     (SE ABRE CIERRA LA PUERTA)
+00:49:16,119|00:49:18,789|CC1|POP|        (SE ENCIENDE EL MOTOR)
+00:49:25,796|00:49:29,683|CC1|POP|    (GRUÑE)
+00:49:34,554|00:49:35,973|CC1|POP| ¿En serio te vas?
+00:49:38,141|00:49:39,393|CC1|POP|                     Sí.
+00:49:42,312|00:49:45,148|CC1|POP| Si algo no te gustó,
+00:49:42,312|00:49:45,148|CC1|POP| haré lo que digas.
+00:49:46,783|00:49:50,153|CC1|POP|            No. Eres genial.
+00:49:50,154|00:49:52,322|CC1|POP|              En serio lo eres.
+00:49:52,373|00:49:54,624|CC1|POP|               Tal vez, eh...
+00:49:54,659|00:49:57,327|CC1|POP|         luego lo hagamos oral.
+00:49:57,377|00:50:00,580|CC1|POP|             (RIE) A Hoyt le
+00:49:57,377|00:50:00,580|CC1|POP|             daba algo de pena.
+00:50:00,581|00:50:02,466|CC1|POP|              Tal vez por
+00:50:00,581|00:50:02,466|CC1|POP|              mis colmillos.
+00:50:02,499|00:50:06,003|CC1|POP|      Yo lo hago cuando
+00:50:02,499|00:50:06,003|CC1|POP|      quieras. Sólo,eh...
+00:50:07,504|00:50:11,341|CC1|POP| Jessica, ¿podemos dejar de
+00:50:07,504|00:50:11,341|CC1|POP| hablar de Hoyt un poco?
+00:50:11,342|00:50:16,096|CC1|POP|      Sí, lo siento. Lo siento,
+00:50:11,342|00:50:16,096|CC1|POP|      es que es la única
+00:50:11,342|00:50:16,096|CC1|POP|      comparación que tengo.
+00:50:23,770|00:50:25,072|CC1|POP|          Mierda.
+00:50:26,940|00:50:31,278|CC1|POP| ¿Crees que una parte
+00:50:26,940|00:50:31,278|CC1|POP| de mí está vacía?
+00:50:31,329|00:50:34,081|CC1|POP| ¿Por eso... no
+00:50:31,329|00:50:34,081|CC1|POP| quieres quedarte?
+00:50:34,114|00:50:39,619|CC1|POP|           ¿Qué? No. ¿Por qué
+00:50:34,114|00:50:39,619|CC1|POP|           lo preguntas?
+00:50:39,620|00:50:43,874|CC1|POP|    Eh...es algo
+00:50:39,620|00:50:43,874|CC1|POP|    que Hoyt dijo.
+00:50:45,425|00:50:47,961|CC1|POP|           ¿No que ya no
+00:50:45,425|00:50:47,961|CC1|POP|           querías mencionarlo?
+00:50:51,181|00:50:53,300|CC1|POP|                     Oye.
+00:50:51,181|00:50:53,300|CC1|POP|          ¿Sí?
+00:50:54,518|00:50:55,852|CC1|POP|              Eres simpático...
+00:50:57,270|00:51:00,223|CC1|POP|                Y... excitante,
+00:51:00,224|00:51:01,691|CC1|POP|             y tienes la...
+00:51:01,725|00:51:06,229|CC1|POP|           cadera más sexy
+00:51:01,725|00:51:06,229|CC1|POP|           que había visto.
+00:51:11,234|00:51:15,238|CC1|POP|         Debo irme porque me
+00:51:11,234|00:51:15,238|CC1|POP|         dio hambre al cogerte.
+00:51:18,325|00:51:23,246|CC1|POP|    Y no quiero tu sangre
+00:51:18,325|00:51:23,246|CC1|POP|    todavía porque no estoy
+00:51:18,325|00:51:23,246|CC1|POP|    lista para esa intimidad...
+00:51:24,798|00:51:26,249|CC1|POP|                   Aún no.
+00:51:28,001|00:51:33,223|CC1|POP| ¿Así que irás a hipnotizar
+00:51:28,001|00:51:33,223|CC1|POP| a un... desconocido
+00:51:28,001|00:51:33,223|CC1|POP| y beber... su sangre?
+00:51:35,592|00:51:37,727|CC1|POP|                  Sí.
+00:51:35,592|00:51:37,727|CC1|POP|         Sí.
+00:51:41,014|00:51:45,602|CC1|POP| Entiendo. (RIE)
+00:51:41,014|00:51:45,602|CC1|POP| Ya entiendo.
+00:51:46,770|00:51:49,940|CC1|POP| Es como... una zorra
+00:51:46,770|00:51:49,940|CC1|POP| que besa a todos.
+00:51:49,941|00:51:53,944|CC1|POP|                          (RIE)
+00:51:49,941|00:51:53,944|CC1|POP| No. No digo que seas una.
+00:51:53,945|00:51:58,415|CC1|POP|        Bueno, tal vez luego...
+00:51:53,945|00:51:58,415|CC1|POP|        finja ser una.
+00:51:58,448|00:51:59,866|CC1|POP|          Si eso te gusta.
+00:52:04,121|00:52:05,956|CC1|POP|                    Hmm?
+00:52:06,006|00:52:07,457|CC1|POP|        (RIE)
+00:52:10,877|00:52:14,214|CC1|POP| Jamás estuve con
+00:52:10,877|00:52:14,214|CC1|POP| una mujer como tú.
+00:52:14,215|00:52:16,466|CC1|POP| Y he estado con
+00:52:14,215|00:52:16,466|CC1|POP| miles de mujeres.
+00:52:17,467|00:52:19,686|CC1|POP|       Ay, Jason, qué tierno.
+00:52:26,309|00:52:28,645|CC1|POP|            Lo siento.... Eh...
+00:52:30,780|00:52:32,282|CC1|POP|          Una baja de azúcar.
+00:52:39,122|00:52:40,123|CC1|POP|           Hasta otra noche.
+00:52:40,157|00:52:42,159|CC1|POP|            (RAFAGA)
+00:52:40,157|00:52:42,159|CC1|POP|         (SE CIERRA LA PUERTA)
+00:52:49,216|00:52:50,417|CC1|POP|        (TOCAN A LA PUERTA)
+00:52:56,923|00:52:59,476|CC1|POP| JASON: Sabía que volverías.
+00:52:56,923|00:52:59,476|CC1|POP| (CONTINUAN TOCANDO)
+00:53:07,434|00:53:09,069|CC1|POP|             ReverendO Newlin.
+00:53:09,103|00:53:11,021|CC1|POP|     Truco o trato.
+00:53:11,022|00:53:12,572|CC1|POP|     (GRUÑE COMO VAMPIRO)
+00:53:12,607|00:53:14,357|CC1|POP|   ¿Y cuándo pasó?
+00:53:14,407|00:53:17,577|CC1|POP|      Anoche. La noche
+00:53:14,407|00:53:17,577|CC1|POP|      anterior. Ya se me
+00:53:14,407|00:53:17,577|CC1|POP|      olvidó. Lo lamento, jefe.
+00:53:17,612|00:53:20,197|CC1|POP|            Es como si alguien
+00:53:17,612|00:53:20,197|CC1|POP|            borrara mi cerebro.
+00:53:21,698|00:53:23,200|CC1|POP| Mier, fuiste hipnotizado.
+00:53:23,250|00:53:26,286|CC1|POP| ¿Por qué un vampiro
+00:53:23,250|00:53:26,286|CC1|POP| me hipnotizaría?
+00:53:26,336|00:53:28,872|CC1|POP| ¿O haría un hoyo en
+00:53:26,336|00:53:28,872|CC1|POP| un estacionamiento?
+00:54:02,072|00:54:04,908|CC1|POP| Srta. Flanagan,
+00:54:02,072|00:54:04,908|CC1|POP| te esperábamos.
+00:54:07,410|00:54:11,581|CC1|POP|            Hola, Nan. Y tropas
+00:54:07,410|00:54:11,581|CC1|POP|            imperiales gay.
+00:54:11,631|00:54:14,801|CC1|POP|             Perfecto. Dos
+00:54:11,631|00:54:14,801|CC1|POP|             aves, una pedrada.
+00:54:17,387|00:54:20,724|CC1|POP| BILL: El problema con Marnie
+00:54:17,387|00:54:20,724|CC1|POP| ya fue resuelto. Si eso hace
+00:54:17,387|00:54:20,724|CC1|POP| alguna diferencia.
+00:54:20,757|00:54:23,760|CC1|POP|            Ding dong, la bruja
+00:54:20,757|00:54:23,760|CC1|POP|            murió.  Qué bien!
+00:54:23,761|00:54:27,847|CC1|POP|    Su majestad mostró un gran
+00:54:23,761|00:54:27,847|CC1|POP|    liderazgo en circunstancias
+00:54:23,761|00:54:27,847|CC1|POP|    de extremo peligro.
+00:54:27,898|00:54:29,399|CC1|POP|    Deberías besar su sortija.
+00:54:29,432|00:54:32,902|CC1|POP| No hace falta cuando tu lengua
+00:54:29,432|00:54:32,902|CC1|POP| está bien metida en su culo.
+00:54:36,990|00:54:39,442|CC1|POP|         (SE CIERRA LA PUERTA)
+00:54:36,990|00:54:39,442|CC1|POP| NAN: Quisiera que
+00:54:36,990|00:54:39,442|CC1|POP| una puta noche
+00:54:39,492|00:54:42,412|CC1|POP|   sufrieran la letanía de
+00:54:39,492|00:54:42,412|CC1|POP|   mierda que tuve que sortear.
+00:54:42,446|00:54:44,030|CC1|POP|NAN:Así tendrían idea de lo...
+00:54:44,080|00:54:47,117|CC1|POP|         poco que me importa
+00:54:44,080|00:54:47,117|CC1|POP|         su pueblucho con
+00:54:44,080|00:54:47,117|CC1|POP|         infestación de brujas.
+00:54:47,118|00:54:49,919|CC1|POP|          O todo este miserable
+00:54:47,118|00:54:49,919|CC1|POP|          reino de analfabetos.
+00:54:49,953|00:54:52,672|CC1|POP|    Para alguien sin interés
+00:54:49,953|00:54:52,672|CC1|POP|    pareces bastante molesta.
+00:54:52,706|00:54:56,593|CC1|POP|        ¿Tú crees, Bill?  Tal
+00:54:52,706|00:54:56,593|CC1|POP|        vez sea porque renuncié
+00:54:52,706|00:54:56,593|CC1|POP|        a mi puto trabajo!
+00:54:57,844|00:54:59,179|CC1|POP|  ¿Renunciaste a la Liga?
+00:54:59,213|00:55:00,547|CC1|POP|              Y a la Autoridad.
+00:55:00,597|00:55:02,015|CC1|POP| Nadie renuncia
+00:55:00,597|00:55:02,015|CC1|POP| a la Autoridad.
+00:55:02,048|00:55:04,351|CC1|POP|           Renunciar, despedir.
+00:55:02,048|00:55:04,351|CC1|POP|           Es lo mismo.
+00:55:05,802|00:55:08,605|CC1|POP| Pensamos que venías
+00:55:05,802|00:55:08,605|CC1|POP| a terminar con nosotros.
+00:55:08,638|00:55:11,057|CC1|POP|          Hay una orden que
+00:55:08,638|00:55:11,057|CC1|POP|          exige su destrucción.
+00:55:11,107|00:55:15,395|CC1|POP|   Mi último debes es
+00:55:11,107|00:55:15,395|CC1|POP|   supuestamente darle a
+00:55:11,107|00:55:15,395|CC1|POP|   los dos la muerte auténtica.
+00:55:15,396|00:55:17,897|CC1|POP|         NAN: Pero me di
+00:55:15,396|00:55:17,897|CC1|POP|         cuenta de que sigo yo.
+00:55:17,947|00:55:21,151|CC1|POP|     He estado viva 816 años.
+00:55:21,201|00:55:24,704|CC1|POP|   Y no me van a desechar como
+00:55:21,201|00:55:24,704|CC1|POP|   desechan a una esposa obesa.
+00:55:24,738|00:55:27,874|CC1|POP| A-a ver si entendí
+00:55:24,738|00:55:27,874|CC1|POP| lo que dices.
+00:55:27,907|00:55:31,995|CC1|POP| ¿Te amotinas contra la
+00:55:27,907|00:55:31,995|CC1|POP| Liga Americana de Vampiros
+00:55:27,907|00:55:31,995|CC1|POP| y la Autoridad?
+00:55:32,045|00:55:33,830|CC1|POP| ¿Y esperas nuestra ayuda?
+00:55:33,880|00:55:35,215|CC1|POP|             No estamos solos.
+00:55:35,248|00:55:37,050|CC1|POP|             Existen facciones
+00:55:35,248|00:55:37,050|CC1|POP|             dentro del régimen
+00:55:37,083|00:55:40,420|CC1|POP| que jamás aceptaron totalmente
+00:55:37,083|00:55:40,420|CC1|POP| nuestra agenda actual.
+00:55:40,470|00:55:43,390|CC1|POP|            El Sheriff Northman
+00:55:40,470|00:55:43,390|CC1|POP|            sabe de qué hablo.
+00:55:43,391|00:55:45,141|CC1|POP| ¿Y qué ganamos?
+00:55:43,391|00:55:45,141|CC1|POP|                       (RIE)
+00:55:45,175|00:55:48,178|CC1|POP|           NAN: ¿Además de
+00:55:45,175|00:55:48,178|CC1|POP|           sobrevivir la noche?
+00:55:48,228|00:55:50,480|CC1|POP|     ¿Qué tal su hada camarera?
+00:55:51,981|00:55:56,853|CC1|POP|      Por favor. Avienta rayos.
+00:55:51,981|00:55:56,853|CC1|POP|      Puede leer la mente.
+00:55:56,903|00:55:58,521|CC1|POP|            NAN: ¿Creyeron que
+00:55:56,903|00:55:58,521|CC1|POP|            no me daría cuenta?
+00:55:58,571|00:56:00,690|CC1|POP|         Hay unos cuantos miles
+00:55:58,571|00:56:00,690|CC1|POP|         de vampiros...
+00:56:00,740|00:56:03,943|CC1|POP|        que harían lo que fuera
+00:56:00,740|00:56:03,943|CC1|POP|        por probar su sangre.
+00:56:03,993|00:56:08,832|CC1|POP|    Adelante. No pertenece
+00:56:03,993|00:56:08,832|CC1|POP|     a ninguno de los dos.
+00:56:08,865|00:56:13,953|CC1|POP| Su aroma es fantástico, pero
+00:56:08,865|00:56:13,953|CC1|POP| no al grado de morir por ella.
+00:56:14,003|00:56:15,422|CC1|POP|               Están mintiendo.
+00:56:16,506|00:56:18,842|CC1|POP|                  Vi cómo ambos
+00:56:16,506|00:56:18,842|CC1|POP|                  la miraban.
+00:56:18,875|00:56:23,930|CC1|POP|      Unos perritos hambrientos
+00:56:18,875|00:56:23,930|CC1|POP|      babeando por el mismo
+00:56:18,875|00:56:23,930|CC1|POP|      hueso sabroso.
+00:56:23,931|00:56:25,348|CC1|POP|            (RAFAGA)
+00:56:23,931|00:56:25,348|CC1|POP|          (ERIC GRITA)
+00:56:25,382|00:56:26,850|CC1|POP|        (RUIDO SORDO)
+00:56:25,382|00:56:26,850|CC1|POP|        (SALPICADURAS)
+00:56:26,883|00:56:28,968|CC1|POP|             Hijos de puta!...
+00:56:26,883|00:56:28,968|CC1|POP|    (GRITA COMO VAMPIRO)
+00:56:28,969|00:56:32,222|CC1|POP|       (SALPICA SANGRE)
+00:56:32,272|00:56:34,808|CC1|POP|        No somos perritos,
+00:56:32,272|00:56:34,808|CC1|POP|       puta pendeja!
+00:56:40,530|00:56:43,233|CC1|POP|     (SUSPIRA) Maldita perra.
+00:56:51,074|00:56:52,709|CC1|POP|          (TV ENCENDIDO)
+00:57:02,419|00:57:06,005|CC1|POP|            ¿Tara? Sigues
+00:57:02,419|00:57:06,005|CC1|POP|            despierta?
+00:57:08,308|00:57:09,225|CC1|POP|      ¿Tara?
+00:57:09,259|00:57:11,094|CC1|POP| (ARMA CARGANDOSE)
+00:57:12,145|00:57:13,480|CC1|POP|              SOOKIE: ¿Debbie?
+00:57:15,098|00:57:16,349|CC1|POP|              SOOKIE: ¿Qué
+00:57:15,098|00:57:16,349|CC1|POP|              estás haciendo?
+00:57:16,399|00:57:21,104|CC1|POP| DEBBIE: Algo que debí
+00:57:16,399|00:57:21,104|CC1|POP| hacer hace mucho tiempo.
+00:57:25,658|00:57:27,527|CC1|POP|        TARA:  Sookie!
+00:57:25,658|00:57:27,527|CC1|POP|          (SE DISPARA EL ARMA)
+00:57:27,577|00:57:30,363|CC1|POP|          (CRISTAL ROMPIENDOSE)
+00:57:30,414|00:57:32,365|CC1|POP|              (GRITA)  Tara!
+00:57:32,366|00:57:35,869|CC1|POP|           (GRUÑE)
+00:57:32,366|00:57:35,869|CC1|POP|           (GOLPE SORDO)
+00:57:37,871|00:57:39,372|CC1|POP|        (DEBBIE GRITA)
+00:57:39,423|00:57:40,540|CC1|POP|         DEBBIE:  No!
+00:57:43,042|00:57:46,763|CC1|POP|       (GIME) Oh. No, no
+00:57:43,042|00:57:46,763|CC1|POP|       Por favor, por favor
+00:57:46,796|00:57:48,798|CC1|POP|       no me mates.
+00:57:46,796|00:57:48,798|CC1|POP|       No.  Por favor!
+00:57:48,848|00:57:51,134|CC1|POP|          (SE DISPARA EL ARMA)
+00:57:48,848|00:57:51,134|CC1|POP|        (SOOKIE GRITA)
+00:57:58,608|00:58:01,444|CC1|POP|      SOOKIE: Tara, Tara.
+00:58:01,478|00:58:04,531|CC1|POP|       (LLORA) Tara.
+00:58:01,478|00:58:04,531|CC1|POP|       Dios mío,  Tara, no!
+00:58:05,565|00:58:07,984|CC1|POP|             (LLORA)  Tara, no!
+00:58:08,868|00:58:12,288|CC1|POP|    Por favor, ayúdeme alguien!
+00:58:12,322|00:58:16,876|CC1|POP|         Por favor. Alguien,
+00:58:12,322|00:58:16,876|CC1|POP|         por favor.  Ayúdennos!
+00:58:16,910|00:58:21,814|CC1|POP|   SOOKIE: (SOLLOZANDO) Dios,
+00:58:16,910|00:58:21,814|CC1|POP|   Dios.  Alguien, ayúdeme!
+00:58:23,917|00:58:26,419|CC1|POP|      (SUENA CANCION DE ROCK)

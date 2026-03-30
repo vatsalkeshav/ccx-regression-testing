@@ -1,0 +1,175 @@
+{
+  "defaults": ["--autoprogram", "--latin1", "--ucla", "--no-progress-bar"],
+  "cases": [
+    {
+      "id": "98-725a49f8-ttxt-xds",
+      "sample": "725a49f871dc5a2ebe9094cf9f838095aae86126e9629f96ca6f31eb0f4ba968.mpg",
+      "args": ["--out=ttxt", "--xds"]
+    },
+    {
+      "id": "99-d037c750-ttxt-xds",
+      "sample": "d037c7509e0ac518b0945247d0f968517f94904eaa391366633da60c1cdcc85f.ts",
+      "args": ["--out=ttxt", "--xds"]
+    },
+    {
+      "id": "100-d037c750-srt",
+      "sample": "d037c7509e0ac518b0945247d0f968517f94904eaa391366633da60c1cdcc85f.ts",
+      "args": ["--out=srt"]
+    },
+    {
+      "id": "101-e274a736-smptett",
+      "sample": "e274a73653ce721a1876bfe1ed387dd7365515ba15fe28a570541c076561ba7c.ts",
+      "args": ["--out=smptett"]
+    },
+    {
+      "id": "102-e274a736-ttxt-xds",
+      "sample": "e274a73653ce721a1876bfe1ed387dd7365515ba15fe28a570541c076561ba7c.ts",
+      "args": ["--out=ttxt", "--xds"]
+    },
+    {
+      "id": "103-85058ad3-ttxt-xds",
+      "sample": "85058ad37e146acf416402b7a8f2ac3877762618caf53b25f2e78653b86cc96a.mpg",
+      "args": ["--out=ttxt", "--xds"]
+    },
+    {
+      "id": "104-b22260d0-ttxt-xds",
+      "sample": "b22260d065ab537899baaf34e78a5184671f4bcb2df0414d05e6345adfd7812f.ts",
+      "args": ["--out=ttxt", "--xds"]
+    },
+    {
+      "id": "105-b22260d0-srt",
+      "sample": "b22260d065ab537899baaf34e78a5184671f4bcb2df0414d05e6345adfd7812f.ts",
+      "args": ["--out=srt"]
+    },
+    {
+      "id": "106-c813e713-ttxt-xds",
+      "sample": "c813e713a0b665e93149440bc3f877203052e20fa99414474b3e273b7c786c3d.ts",
+      "args": ["--out=ttxt", "--xds"]
+    },
+    {
+      "id": "107-c813e713-srt",
+      "sample": "c813e713a0b665e93149440bc3f877203052e20fa99414474b3e273b7c786c3d.ts",
+      "args": ["--out=srt"]
+    },
+    {
+      "id": "108-27fab4db-ttxt-xds",
+      "sample": "27fab4dbb603753d76e8b7701bbf0a5b1b9d41d2748759bb22f7fe6afc75597b.ts",
+      "args": ["--out=ttxt", "--xds"]
+    },
+    {
+      "id": "110-27fab4db-srt",
+      "sample": "27fab4dbb603753d76e8b7701bbf0a5b1b9d41d2748759bb22f7fe6afc75597b.ts",
+      "args": ["--out=srt"]
+    },
+    {
+      "id": "111-bbd5bb52-ttxt-xds",
+      "sample": "bbd5bb52fc3be03c5a84ad169fe5cf479a84baa2449829624ace592ab8a70a8e.ts",
+      "args": ["--out=ttxt", "--xds"]
+    },
+    {
+      "id": "112-bbd5bb52-srt",
+      "sample": "bbd5bb52fc3be03c5a84ad169fe5cf479a84baa2449829624ace592ab8a70a8e.ts",
+      "args": ["--out=srt"]
+    },
+    {
+      "id": "113-b992e0cc-ttxt-xds",
+      "sample": "b992e0cccbca2ccea6a13d86e741c4397f4833c82db2059fb0b20db2c2440f2f.mpg",
+      "args": ["--out=ttxt", "--xds"]
+    },
+    {
+      "id": "114-d0291cdc-ttxt-xds",
+      "sample": "d0291cdcf69f765bdb990a726a9014a08808a40e32b27002325859c1d24029e4.ts",
+      "args": ["--out=ttxt", "--xds"]
+    },
+    {
+      "id": "115-7d2730d3-ttxt",
+      "sample": "7d2730d38e71353446e205c84bb262abc993692a91275493df4dcc161e58f252.ts",
+      "args": ["--out=ttxt"]
+    },
+    {
+      "id": "116-7d2730d3-srt",
+      "sample": "7d2730d38e71353446e205c84bb262abc993692a91275493df4dcc161e58f252.ts",
+      "args": ["--out=srt"]
+    },
+    {
+      "id": "117-c8dc039a-ttxt-xds",
+      "sample": "c8dc039a880df340d795a777fbb9be8a5fbee39bbb4851ac83a05234af78b9e9.ts",
+      "args": ["--out=ttxt", "--xds"]
+    },
+    {
+      "id": "118-c8dc039a-srt",
+      "sample": "c8dc039a880df340d795a777fbb9be8a5fbee39bbb4851ac83a05234af78b9e9.ts",
+      "args": ["--out=srt"]
+    },
+    {
+      "id": "119-53339f34-ttxt-xds",
+      "sample": "53339f345506e34cd0fea7a5c7c88098ee18f75de578e3e1ee3b7f727241a66a.ts",
+      "args": ["--out=ttxt", "--xds"]
+    },
+    {
+      "id": "120-53339f34-srt",
+      "sample": "53339f345506e34cd0fea7a5c7c88098ee18f75de578e3e1ee3b7f727241a66a.ts",
+      "args": ["--out=srt"]
+    },
+    {
+      "id": "121-83b03036-ttxt-xds",
+      "sample": "83b03036a2fa19a8a02e20bcbf2c3597fb00e8b367bcca6c4ed8383657fd209f.ts",
+      "args": ["--out=ttxt", "--xds"]
+    },
+    {
+      "id": "122-83b03036-srt",
+      "sample": "83b03036a2fa19a8a02e20bcbf2c3597fb00e8b367bcca6c4ed8383657fd209f.ts",
+      "args": ["--out=srt"]
+    },
+    {
+      "id": "123-7d3f25c3-ttxt-xds",
+      "sample": "7d3f25c32c1c91060ecfc97f7bfe5d45e764ca6fcc879855bcab7d2c7f47244b.ts",
+      "args": ["--out=ttxt", "--xds"]
+    },
+    {
+      "id": "124-7d3f25c3-srt",
+      "sample": "7d3f25c32c1c91060ecfc97f7bfe5d45e764ca6fcc879855bcab7d2c7f47244b.ts",
+      "args": ["--out=srt"]
+    },
+    {
+      "id": "125-f41d4c29-ttxt-xds",
+      "sample": "f41d4c29a153f81a2be067d9d8b005dad616a1fae92f8f4f40c84c992daadd09.ts",
+      "args": ["--out=ttxt", "--xds"]
+    },
+    {
+      "id": "126-f41d4c29-srt",
+      "sample": "f41d4c29a153f81a2be067d9d8b005dad616a1fae92f8f4f40c84c992daadd09.ts",
+      "args": ["--out=srt"]
+    },
+    {
+      "id": "127-88cd42b8-ttxt-xds",
+      "sample": "88cd42b89aa0795c40388e562bc05c128027c856ecbb61b039bdf72645ac018f.ts",
+      "args": ["--out=ttxt", "--xds"]
+    },
+    {
+      "id": "128-88cd42b8-srt",
+      "sample": "88cd42b89aa0795c40388e562bc05c128027c856ecbb61b039bdf72645ac018f.ts",
+      "args": ["--out=srt"]
+    },
+    {
+      "id": "129-88cd42b8-srt-field2",
+      "sample": "88cd42b89aa0795c40388e562bc05c128027c856ecbb61b039bdf72645ac018f.ts",
+      "args": ["--out=srt", "--output-field", "2"]
+    },
+    {
+      "id": "130-7f41299c-ttxt-xds",
+      "sample": "7f41299cc70a9fe48ea396791b35a94c1a759baf77cbb7a8d49fb399ceb436ad.ts",
+      "args": ["--out=ttxt", "--xds"]
+    },
+    {
+      "id": "131-7f41299c-srt",
+      "sample": "7f41299cc70a9fe48ea396791b35a94c1a759baf77cbb7a8d49fb399ceb436ad.ts",
+      "args": ["--out=srt"]
+    },
+    {
+      "id": "132-0069dffd-ttxt-xds",
+      "sample": "0069dffd21806a08d21a0f2ef8209c00c84a5a7e5cd5468ad326898f7431eb8e.mpg",
+      "args": ["--out=ttxt", "--xds"]
+    }
+  ]
+}

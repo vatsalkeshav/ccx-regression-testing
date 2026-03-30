@@ -1,0 +1,72 @@
+CCExtractor 0.96.5, Carlos Fernandez Sanz, Volker Quetschke.
+Teletext portions taken from Petr Kutalek's telxcc
+--------------------------------------------------------------------------
+Input: /Users/dev/ccextractor-rel/testing-harness/samples/d037c7509e0ac518b0945247d0f968517f94904eaa391366633da60c1cdcc85f.ts
+[Extract: 1] [Stream mode: Autodetect]
+[Program : Auto ] [Hauppage mode: No] [Use MythTV code: Auto]
+[CEA-708: 63 decoders active]
+[CEA-708: using charset "none" for all services]
+[Timing mode: Auto] [Debug: No] [Buffer input: No]
+[Use pic_order_cnt_lsb for H.264: No] [Print CC decoder traces: No]
+[Target format: .srt] [Encoding: Latin-1] [Delay: 0] [Trim lines: No]
+[Add font color data: Yes] [Add font typesetting: Yes]
+[Convert case: No][Filter profanity: No] [Video-edit join: No]
+[Extraction start time: not set (from start)]
+[Extraction end time: not set (to end)]
+[Live stream: No] [Clock frequency: 90000]
+[Teletext page: Autodetect]
+[Start credits text: None]
+[Quantisation-mode: None]
+[Tesseract PSM: 3]
+
+-----------------------------------------------------------------
+[KOpening file: /Users/dev/ccextractor-rel/testing-harness/samples/d037c7509e0ac518b0945247d0f968517f94904eaa391366633da60c1cdcc85f.ts
+File seems to be a transport stream[KAnalyzing data in general mode
+
+
+New video information found
+[1920 * 1080] [AR: 03 - 16:9] [FR: 04 - 29.97] [progressive: no]
+
+XDS Notice: Program is now SF51YL10TNAR
+XDS Notice: Network is now CBS
+XDS Notice: Program is now   
+XDS Notice: Program is now 60MIN-4347-001
+XDS Notice: Program is now HF1D20R
+XDS Notice: Program is now   
+XDS Notice: Program is now 60MIN-4347-002
+XDS Notice: Program is now SVBRO5230
+XDS Notice: Program is now   
+XDS Notice: Program is now 60MIN-4347-003
+XDS Notice: Program is now CSI1D05
+XDS Notice: Program is now   
+XDS Notice: Program is now 60MIN-4347-004
+XDS Notice: Program is now SUR5205CC
+XDS Notice: Program is now   
+XDS Notice: Program is now 60MIN-4347-005
+
+Number of NAL_type_7: 0
+Number of VCL_HRD: 0
+Number of NAL HRD: 0
+Number of jump-in-frames: 0
+Number of num_unexpected_sei_length: 0
+
+Total frames time:	  00:43:03:547  (77429 frames at 29.97fps)
+[KCC type 0: 23869 (NTSC line 21 field 1 closed captions)
+CC type 1: 77374 (NTSC line 21 field 2 closed captions)
+CC type 2: 112994 (DTVCC Channel Packet Data)
+CC type 3: 51480 (DTVCC Channel Packet Start)
+
+Min PTS:				00:00:00:296
+Max PTS:				00:43:03:876
+Length:				 00:43:03:580
+
+Initial GOP time:	   00:00:00:000
+Final GOP time:		 00:43:03:066+15F
+Diff. GOP length:	   00:43:03:066+15F	(00:43:03:566)
+
+Number of key frames: 5168
+Total user data fields: 78323
+HDTV type user data fields: 77374
+[KDone, processing time = 24 seconds
+Issues? Open a ticket here
+https://github.com/CCExtractor/ccextractor/issues

@@ -1,0 +1,43 @@
+CCExtractor 0.96.5, Carlos Fernandez Sanz, Volker Quetschke.
+Teletext portions taken from Petr Kutalek's telxcc
+--------------------------------------------------------------------------
+Input: /Users/dev/ccextractor-rel/testing-harness/samples/85058ad37e146acf416402b7a8f2ac3877762618caf53b25f2e78653b86cc96a.mpg
+[Extract: 1] [Stream mode: Autodetect]
+[Program : Auto ] [Hauppage mode: No] [Use MythTV code: Auto]
+[CEA-708: 63 decoders active]
+[CEA-708: using charset "none" for all services]
+[Timing mode: Auto] [Debug: No] [Buffer input: No]
+[Use pic_order_cnt_lsb for H.264: No] [Print CC decoder traces: No]
+[Target format: .txt] [Encoding: Latin-1] [Delay: 0] [Trim lines: No]
+[Add font color data: Yes] [Add font typesetting: Yes]
+[Convert case: No][Filter profanity: No] [Video-edit join: No]
+[Extraction start time: not set (from start)]
+[Extraction end time: not set (to end)]
+[Live stream: No] [Clock frequency: 90000]
+[Teletext page: Autodetect]
+[Start credits text: None]
+[Quantisation-mode: None]
+[Tesseract PSM: 3]
+
+-----------------------------------------------------------------
+[KOpening file: /Users/dev/ccextractor-rel/testing-harness/samples/85058ad37e146acf416402b7a8f2ac3877762618caf53b25f2e78653b86cc96a.mpg
+File seems to be a transport stream[KAnalyzing data in general mode
+[KXDS: ContentAdvisory: US TV Parental Guidelines. Age Rating: None
+  XDS Notice: Network call letters now FNC 
+[KXDS Notice: Program is now News, Fair and Balanced
+XDS Notice: Network is now Fox News Channel
+
+Number of NAL_type_7: 40
+Number of VCL_HRD: 0
+Number of NAL HRD: 0
+Number of jump-in-frames: 0
+Number of num_unexpected_sei_length: 0
+
+Total frames time:	  00:00:42:525  (2549 frames at 59.94fps)
+
+Min PTS:				07:18:03:802
+Max PTS:				07:19:30:021
+Length:				 00:01:26:219
+[KDone, processing time = 1 seconds
+Issues? Open a ticket here
+https://github.com/CCExtractor/ccextractor/issues

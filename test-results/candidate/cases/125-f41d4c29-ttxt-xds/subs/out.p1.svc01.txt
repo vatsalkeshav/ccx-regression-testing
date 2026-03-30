@@ -1,0 +1,71 @@
+00:00:01,951|00:00:04,154|CC1|POP|    - Will you ask if Francis
+00:00:01,951|00:00:04,154|CC1|POP| will not agree to t marriage
+00:00:04,237|00:00:06,656|CC1|POP|    of Elizabeth to his son?
+00:00:04,237|00:00:06,656|CC1|POP|   - It might be better for us
+00:00:04,237|00:00:06,656|CC1|POP|      to pursue an alliance
+00:00:06,740|00:00:08,875|CC1|POP|        with the Emperor.
+00:00:06,740|00:00:08,875|CC1|POP|  - That would suit Katherine.
+00:00:08,908|00:00:11,127|CC1|POP|   - Leave the greater things
+00:00:08,908|00:00:11,127|CC1|POP|           to my care.
+00:00:11,211|00:00:13,997|CC1|POP| - Anyone can see that the King
+00:00:11,211|00:00:13,997|CC1|POP| is not so much in love with her
+00:00:11,211|00:00:13,997|CC1|POP| as he used to be. What's wrong?
+00:00:14,080|00:00:16,049|CC1|POP|         - I don't know.
+00:00:14,080|00:00:16,049|CC1|POP|      Perhaps she's afraid.
+00:00:16,082|00:00:18,668|CC1|POP|   - So long as they are both
+00:00:16,082|00:00:18,668|CC1|POP|     alive, I can't be safe.
+00:00:18,752|00:00:23,089|CC1|POP| I can just order their deaths!
+00:00:18,752|00:00:23,089|CC1|POP|        [Maniacal laugh]
+00:00:18,752|00:00:23,089|CC1|POP|    - You're crazy! Stop it!
+00:00:23,139|00:00:25,475|CC1|POP|  You're the Queen of England.
+00:00:23,139|00:00:25,475|CC1|POP|          Act like it!
+00:00:25,558|00:00:28,928|CC1|POP|   - From now on, we must all
+00:00:25,558|00:00:28,928|CC1|POP|     be careful not to lose
+00:00:25,558|00:00:28,928|CC1|POP|        the King's love,
+00:00:29,012|00:00:30,930|CC1|POP|     or everything is lost.
+00:00:30,980|00:00:33,183|CC1|POP|      - Sir John, you have
+00:00:30,980|00:00:33,183|CC1|POP|      an unexpected guest.
+00:00:33,266|00:00:36,269|CC1|POP|  - Your Majesty, may I present
+00:00:33,266|00:00:36,269|CC1|POP| my daughter, Lady Jane Seymour?
+00:00:36,319|00:00:39,522|CC1|POP|     - The hours of my death
+00:00:36,319|00:00:39,522|CC1|POP|         draws fast on,
+00:00:39,606|00:00:41,941|CC1|POP|     and I commend unto you
+00:00:39,606|00:00:41,941|CC1|POP|       our daughter Mary.
+00:00:41,991|00:00:44,444|CC1|POP|      beseeching you to be
+00:00:41,991|00:00:44,444|CC1|POP|         a good father.
+00:00:44,494|00:00:46,780|CC1|POP|     - Now I'm indeed Queen.
+00:00:46,863|00:00:51,367|CC1|POP| - The King of England has been
+00:00:46,863|00:00:51,367|CC1|POP|   carried far from the shore,
+00:00:46,863|00:00:51,367|CC1|POP|    but he does not know it.
+00:00:51,451|00:00:53,336|CC1|POP|  He thinks he can swim alone.
+00:00:53,420|00:00:55,755|CC1|POP|   Very soon, he will realize
+00:00:55,789|00:00:58,792|CC1|POP|       he is not swimming,
+00:00:55,789|00:00:58,792|CC1|POP|          but drowning.
+00:00:58,875|00:01:01,127|CC1|POP|  - Have you told her about me?
+00:00:58,875|00:01:01,127|CC1|POP|              - No.
+00:00:58,875|00:01:01,127|CC1|POP|      - Why the hell not?!
+00:01:01,177|00:01:05,799|CC1|POP| - If you could read Greek, you
+00:01:01,177|00:01:05,799|CC1|POP|  would know that even the gods
+00:01:01,177|00:01:05,799|CC1|POP| had problems with their wives.
+00:01:05,882|00:01:08,101|CC1|POP|  - You are determined to close
+00:01:05,882|00:01:08,101|CC1|POP|      every religious house
+00:01:05,882|00:01:08,101|CC1|POP|           in England.
+00:01:08,134|00:01:10,603|CC1|POP|  You are far too high-handed,
+00:01:08,134|00:01:10,603|CC1|POP|          Mr. Cromwell.
+00:01:10,637|00:01:13,306|CC1|POP|    You ought to be careful,
+00:01:10,637|00:01:13,306|CC1|POP|   or I will have you cropped
+00:01:10,637|00:01:13,306|CC1|POP|          at the neck.
+00:01:13,389|00:01:16,609|CC1|POP|    - I did not bring you up
+00:01:13,389|00:01:16,609|CC1|POP|      to quarrel with those
+00:01:13,389|00:01:16,609|CC1|POP|      closest to the Crown.
+00:01:16,643|00:01:19,846|CC1|POP|     - I am the King's wife.
+00:01:16,643|00:01:19,846|CC1|POP|    - And you should remember
+00:01:16,643|00:01:19,846|CC1|POP|       how you got there!
+00:01:21,064|00:01:24,367|CC1|POP|      - He fell in love with me.
+00:01:21,064|00:01:24,367|CC1|POP|                He respected me.
+00:01:24,451|00:01:28,371|CC1|POP|- Your daughter Jane should come
+00:01:24,451|00:01:28,371|CC1|POP|to court as Lady to Her Majesty.
+00:01:24,451|00:01:28,371|CC1|POP|   - Thank you, Your Majesty.
+00:01:28,455|00:01:32,542|CC1|POP| - I am carrying the King's son.
+00:01:32,625|00:01:36,663|CC1|POP|      - We are on the edge
+00:01:32,625|00:01:36,663|CC1|POP|       of a golden world!

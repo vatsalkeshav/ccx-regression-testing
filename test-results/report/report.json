@@ -1,0 +1,9 @@
+{
+  "baseline_bin": "/Users/dev/ccextractor-rel/testing-harness/binary_base/build/ccextractor",
+  "baseline_bin_sha256": "32dbcf466262dfb83a6b1db18829870559474ba27753b9d6abc8cd3f3c5b0fe7",
+  "candidate_bin": "/Users/dev/ccextractor-rel/testing-harness/binary_candidate/build/ccextractor",
+  "candidate_bin_sha256": "b180b7f08d0f4b8da92369aca9348d97f2a625fd4ccd9a82adcf54ac33a6e461",
+  "diffs": [],
+  "generated_at": "2026-03-30T20:46:23+0530",
+  "num_samples": 34
+}

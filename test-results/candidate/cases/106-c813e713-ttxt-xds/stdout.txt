@@ -1,0 +1,674 @@
+CCExtractor 0.96.5, Carlos Fernandez Sanz, Volker Quetschke.
+Teletext portions taken from Petr Kutalek's telxcc
+--------------------------------------------------------------------------
+Input: /Users/dev/ccextractor-rel/testing-harness/samples/c813e713a0b665e93149440bc3f877203052e20fa99414474b3e273b7c786c3d.ts
+[Extract: 1] [Stream mode: Autodetect]
+[Program : Auto ] [Hauppage mode: No] [Use MythTV code: Auto]
+[CEA-708: 63 decoders active]
+[CEA-708: using charset "none" for all services]
+[Timing mode: Auto] [Debug: No] [Buffer input: No]
+[Use pic_order_cnt_lsb for H.264: No] [Print CC decoder traces: No]
+[Target format: .txt] [Encoding: Latin-1] [Delay: 0] [Trim lines: No]
+[Add font color data: Yes] [Add font typesetting: Yes]
+[Convert case: No][Filter profanity: No] [Video-edit join: No]
+[Extraction start time: not set (from start)]
+[Extraction end time: not set (to end)]
+[Live stream: No] [Clock frequency: 90000]
+[Teletext page: Autodetect]
+[Start credits text: None]
+[Quantisation-mode: None]
+[Tesseract PSM: 3]
+
+-----------------------------------------------------------------
+[KOpening file: /Users/dev/ccextractor-rel/testing-harness/samples/c813e713a0b665e93149440bc3f877203052e20fa99414474b3e273b7c786c3d.ts
+File seems to be a transport stream[KAnalyzing data in general mode
+
+
+New video information found
+[1920 * 1080] [AR: 03 - 16:9] [FR: 04 - 29.97] [progressive: no]
+
+XDS: Program length (HH:MM): 00:02  Elapsed (HH:MM): 00:51
+XDS Notice: Network is now   
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS: ContentAdvisory: US TV Parental Guidelines. Age Rating: TV-MA (Mature Audience Only)
+  XDS: [Violence] [Adult Language] 
+  XDS Notice: Program is now Dext: erDo You Take Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now xtDeer: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+XDS Notice: Program is now xtDeer: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now xtDeer: Doou Y Take xtDeer Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo Youake Dexter M To
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now xtDeerDo:  You Te akDextero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do You Take Deerxt Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deer: Do You Take Dexterxto
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+XDS Notice: Program is now Dext: Do You Take Dexter Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo Youake Dexter M To
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deerxt: Do Y Take Dexterou Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter:  YDoou TakDee xter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now xtDeer: Doou Y Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+XDS Notice: Program is now Deerxt: Do You Take Deerxt Mo
+XDS Notice: Program is now Dext: Do You Take Dexter Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Te akDextero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now xter: Do You Take DeDextero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: Do You Take Dexter Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do Y Take Dexterou Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter:  YDoou TakDee xter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deerxt: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now DexterDo:  You Te akDextero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now xter: Do YouDe Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Dexter Mo
+XDS Notice: Program is now DexterDo:  You Te akDextero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now xtDeer: Doou Y Te akDextero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Doou Y Take xtDeer Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deer: Do You Txtake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: Do You Take Dexter Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deerxt: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now DexterDo:  You Te akDextero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now DexterDo:  You Te akDextero
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deer: Do You Txtake Deerxt Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now xtDeer: Doou Y Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now xtDeerDo:  You Te akDextero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dextero
+XDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dextero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: Do You Takere Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now xtDeer: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now xtDeer: Doou Y Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Te akDextero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now DexterDo:  You Te akDextero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: Do You Takere Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now DexterDo:  You Te akDextero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: Do You Take Dexter Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now DexterDo:  You Te akDextero
+XDS Notice: Program is now Dext: Do You Takere Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dext Mero
+XDS Notice: Program is now Deer: Do You Txtake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now DexterDo:  You Te akDextero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Deerxt Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Te akDextero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now DexterDo:  You Te akDextero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Te akDextero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Dexter Mo
+XDS Notice: Program is now Deerxt: Do You Take Deerxt Mo
+XDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+XDS Notice: Program is now Dext: erDo You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+XDS Notice: Program is now Dexter: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youake Dexter M To
+XDS Notice: Program is now xtDeer: Doou Y Take xtDeero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo You Take Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Doou Y Take xtDeer Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo You Take Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: Do You Take Dexter Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now xtDeer: Doou Y Take xtDeer Mo
+XDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: Do You Take Dexter Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now xtDeer: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now DexterDo:  You Te akDextero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do You Take Deerxt Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter:  YDoou TakDee xter Mo
+XDS Notice: Program is now Deerxt: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+XDS Notice: Program is now Dext: erDo Youake Dexter M To
+XDS Notice: Program is now xtDeerDo You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now xtDeer: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deer: Do You Txtake Deerxt Mo
+XDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deerxt: Do You Take Deerxt Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo You Take Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deer: Do You Txtake Deerxt Mo
+XDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now DexterDo:  You Te akDexter Mo
+XDS Notice: Program is now DexterDo:  You Te Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now xtDeer: Doou Y Take xtDeer Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo You Take Dexter Mo
+XDS Notice: Program is now xtDeer: Doou Y Take xtDeer Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Deerxt Mo
+XDS Notice: Program is now Deerxt: Do You Take Deerxt Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now xtDeer: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now DexterDo:  You Te akDextero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dext Mero
+XDS Notice: Program is now Dext: Do You Takere Dext Mero
+XDS Notice: Program is now Deer: Do You Txtake Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter:  YDoou Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do Y Touake Deerxt Mo
+XDS Notice: Program is now DexterDo:  You Te akDextero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deerxt: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deer: Do You Txtake Deerxt Mo
+XDS Notice: Program is now xtDeer: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now xtDeer: Doou Y Take Dexter Mo
+XDS Notice: Program is now Dext: Do You Take Dexter Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now DexterDo:  You Te akDextero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Te akDexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now xtDeer: Doou Y Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deerxt: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do You Take Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now xtDeer: Do You Take xtDeer Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do Y Touake Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Dexter Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now xtDeer: Doou Y Take xtDeer Mo
+XDS Notice: Program is now Dexter: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: Do You Take Dexter Mero
+XDS Notice: Program is now Dexter: Do You Take Dext Mero
+XDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo You Take Dext Mero
+XDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youake Dexter M To
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo You Take Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do Youak Te Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo You Take Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deer: Do You Take Dexterxt Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Take Dexterou Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now DexterDo:  You Te akDextero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deerxt: Do You Take Deerxt Mo
+XDS Notice: Program is now Dext: Do You Takere Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Do Youak Te Dext Mero
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dexter: Doou Y Take xtDeer Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS Notice: Program is now Deerxt: Do You Take Deerxt Mo
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Dext: erDo Youak Te Dext Mero
+XDS Notice: Program is now Dext: Do You Take Dexter Mero
+XDS Notice: Program is now Dexter: Do You Take Dexter Mo
+XDS Notice: Program is now Deerxt: Do Y Touake Deerxt Mo
+XDS: ContentAdvisory: MPA Rating: Not Rated
+  XDS Notice: Program is now   
+XDS Notice: Program is now Intetirstial
+XDS Notice: Program is now Interstitial
+XDS Notice: Program is now Interstialti
+XDS Notice: Program is now Interstitial
+XDS Notice: Program is now Intetirstial
+XDS Notice: Program is now Interstitial
+XDS Notice: Program is now Intetirstial
+XDS Notice: Program is now Inrstetitial
+XDS Notice: Program is now Interstitial
+XDS Notice: Network is now G@
+XDS Notice: Program is now teInrstitial
+XDS Notice: Network is now   
+XDS Notice: Program is now Interstitial
+XDS Notice: Program is now Intetirstial
+XDS Notice: Program is now Interstitial
+XDS Notice: Program is now Intetirstial
+XDS Notice: Program is now Interstitial
+XDS Notice: Program is now Intetirstial
+
+Number of NAL_type_7: 0
+Number of VCL_HRD: 0
+Number of NAL HRD: 0
+Number of jump-in-frames: 0
+Number of num_unexpected_sei_length: 0
+
+Total frames time:	  00:51:25:215  (92464 frames at 29.97fps)
+[KCC type 0: 20015 (NTSC line 21 field 1 closed captions)
+CC type 1: 92449 (NTSC line 21 field 2 closed captions)
+CC type 2: 86638 (DTVCC Channel Packet Data)
+CC type 3: 21778 (DTVCC Channel Packet Start)
+incl. pulldown frames:  00:06:41:467  (12032 frames at 29.97fps)
+
+Min PTS:				00:00:00:316
+Max PTS:				00:51:25:531
+Length:				 00:51:25:215
+
+Initial GOP time:	   00:00:00:000
+Final GOP time:		 00:51:25:166 +1F
+Diff. GOP length:	   00:51:25:166 +1F	(00:51:25:199)
+
+Number of key frames: 6006
+Total user data fields: 80422
+HDTV type user data fields: 80422
+[KDone, processing time = 29 seconds
+Issues? Open a ticket here
+https://github.com/CCExtractor/ccextractor/issues

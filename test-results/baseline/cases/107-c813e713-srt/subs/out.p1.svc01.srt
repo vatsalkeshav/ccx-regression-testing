@@ -1,0 +1,4310 @@
+1
+00:00:05,171 --> 00:00:08,124
+        <font color="#aaaaaa">[quirky music]</font>
+
+2
+00:00:08,174 --> 00:00:16,182
+              <font color="#aaaaaa">&l &l</font>
+
+3
+00:01:45,722 --> 00:01:47,607
+           <font color="#aaaaaa">(Dexter)</font>
+    <font color="#aaaaaa">PREVIOUSLY ON <i>DEXTER...</font></i>
+
+4
+00:01:47,640 --> 00:01:50,527
+          <font color="#aaaaaa">[thinking]</font>
+   <font color="#aaaaaa">I CAN HONESTLY SAY I KNOW</font>
+  <font color="#aaaaaa">WHO MIGUEL PRADO REALLY IS.</font>
+
+5
+00:01:50,560 --> 00:01:52,112
+     <font color="#aaaaaa">MY FIRST GOOD FRIEND.</font>
+
+6
+00:01:52,145 --> 00:01:53,746
+           <font color="#aaaaaa">(Miguel)</font>
+      <font color="#aaaaaa">WE NEED TO GO AFTER</font>
+        <font color="#aaaaaa">THE ROOT CAUSE.</font>
+
+7
+00:01:53,780 --> 00:01:57,884
+    <font color="#aaaaaa">BLOOD-SUCKING, SOULLESS</font>
+ <font color="#aaaaaa">DEFENSE ATTORNEY ELLEN WOLF!</font>
+
+8
+00:01:57,917 --> 00:01:59,185
+<font color="#aaaaaa">WALK IN THE PARK</font>
+<font color="#aaaaaa">TO DISCREDIT YOU, COUNSELOR.</font>
+
+9
+00:01:59,219 --> 00:02:00,537
+                         <font color="#aaaaaa">TRY IT.</font>
+<font color="#aaaaaa">OH, I'M NOT</font>
+<font color="#aaaaaa">THE ONE ON TRIAL.</font>
+
+10
+00:02:00,570 --> 00:02:02,372
+              <font color="#aaaaaa">OH, YOU SHOULD BE.</font>
+<font color="#aaaaaa">YOU SHOULD BE!</font>
+
+11
+00:02:02,405 --> 00:02:03,540
+           <font color="#aaaaaa">(Dexter)</font>
+       <font color="#aaaaaa">THIS IS PERSONAL.</font>
+
+12
+00:02:03,573 --> 00:02:04,657
+           <font color="#aaaaaa">(Miguel)</font>
+  <font color="#aaaaaa">FUCK YES, THIS IS PERSONAL.</font>
+
+13
+00:02:04,707 --> 00:02:06,209
+<font color="#aaaaaa">AND IT SHOULD BE</font>
+<font color="#aaaaaa">PERSONAL FOR YOU TOO.</font>
+
+14
+00:02:06,242 --> 00:02:07,210
+<font color="#aaaaaa">AS MY FRIEND.</font>
+
+15
+00:02:07,243 --> 00:02:08,378
+<font color="#aaaaaa">I'M ASKING YOU</font>
+<font color="#aaaaaa">TO DO THIS FOR ME.</font>
+
+16
+00:02:08,411 --> 00:02:09,546
+                     <font color="#aaaaaa">SORRY, NO.</font>
+
+17
+00:02:09,579 --> 00:02:11,247
+<font color="#aaaaaa">WELL, THEN FUCK YOU!</font>
+
+18
+00:02:11,297 --> 00:02:14,050
+            <font color="#aaaaaa">(Harry)</font>
+<font color="#aaaaaa">MIGUEL WENT MISSING LAST NIGHT.</font>
+ <font color="#aaaaaa">ELLEN'S MISSING THIS MORNING.</font>
+
+19
+00:02:14,083 --> 00:02:15,335
+     <font color="#aaaaaa">I HOPE SHE DIDN'T GET</font>
+ <font color="#aaaaaa">IN AN ACCIDENT OR SOMETHING.</font>
+
+20
+00:02:15,385 --> 00:02:18,138
+       <font color="#aaaaaa">[Dexter thinking]</font>
+<font color="#aaaaaa">HE DID IT. MIGUEL REALLY DID IT.</font>
+
+21
+00:02:18,171 --> 00:02:19,889
+         <font color="#aaaaaa">WOW, I DIDN'T</font>
+    <font color="#aaaaaa">GET IT BEFORE, MIGUEL,</font>
+
+22
+00:02:19,923 --> 00:02:23,059
+<font color="#aaaaaa">BUT YOU CAN'T BE REASONED WITH,</font>
+     <font color="#aaaaaa">GUILTED, CONTROLLED.</font>
+
+23
+00:02:23,092 --> 00:02:25,695
+<font color="#aaaaaa">THIS WHOLE BACK AND FORTH GAME</font>
+  <font color="#aaaaaa">FOR LEVERAGE IS POINTLESS.</font>
+
+24
+00:02:25,728 --> 00:02:27,013
+         <font color="#aaaaaa">THAT'S RIGHT!</font>
+
+25
+00:02:27,063 --> 00:02:30,683
+<font color="#aaaaaa">I'LL DO WHAT I WANT WHEN I WANT</font>
+      <font color="#aaaaaa">TO WHOMEVER I WANT.</font>
+
+26
+00:02:30,733 --> 00:02:33,069
+         <font color="#aaaaaa">COUNT ON IT!</font>
+
+27
+00:02:33,102 --> 00:02:34,287
+    <font color="#aaaaaa">YES, WE WILL MARRY YOU.</font>
+
+28
+00:02:34,320 --> 00:02:35,889
+           <font color="#aaaaaa">(Dexter)</font>
+  <font color="#aaaaaa">YOU SHOULD BE MY BEST MAN.</font>
+
+29
+00:02:35,922 --> 00:02:37,524
+             <font color="#aaaaaa">WHAT?</font>
+
+30
+00:02:37,574 --> 00:02:38,825
+ <font color="#aaaaaa">I TRUST YOU MORE THAN ANYONE.</font>
+
+31
+00:02:38,858 --> 00:02:40,026
+            <font color="#aaaaaa">(Ramon)</font>
+<font color="#aaaaaa">WHY ARE YOU RUNNING YOUR MOUTH</font>
+
+32
+00:02:40,027 --> 00:02:41,578
+<font color="#aaaaaa">ABOUT FAMILY BUSINESS</font>
+<font color="#aaaaaa">TO A GOD DAMN STRANGER?</font>
+
+33
+00:02:41,611 --> 00:02:43,413
+         <font color="#aaaaaa">DEXTER IS NOT</font>
+       <font color="#aaaaaa">THE PROBLEM HERE.</font>
+
+34
+00:02:43,446 --> 00:02:45,665
+<font color="#aaaaaa">BETTER KEEP YOUR FUCKING</font>
+<font color="#aaaaaa">HANDS OFF OF ME, <i>PENDEJO </i>!</font>
+
+35
+00:02:45,698 --> 00:02:47,367
+       <font color="#aaaaaa">[Dexter thinking]</font>
+      <font color="#aaaaaa">ELLEN WOLF'S RING.</font>
+
+36
+00:02:47,417 --> 00:02:49,219
+          <font color="#aaaaaa">(Laguerta)</font>
+  <font color="#aaaaaa">ELLEN WOLF WAS THREATENING</font>
+     <font color="#aaaaaa">TO WRECK HIS CAREER.</font>
+
+37
+00:02:49,252 --> 00:02:53,223
+<font color="#aaaaaa"> <i>HE HAS A BLACK SUV AND NO ALIBI</font></i>
+       <font color="#aaaaaa"> <i>FOR THE NIGHT SHE DIED.</font></i>
+
+38
+00:02:53,256 --> 00:02:54,674
+<font color="#aaaaaa">YOU THINK MIGUEL HAD SOMETHINGT?</font>
+
+39
+00:02:54,707 --> 00:02:58,178
+          <font color="#aaaaaa">(Laguerta)</font>
+      <font color="#aaaaaa">I FOUND THIS SAMPLE</font>
+    <font color="#aaaaaa">IN THE BACK OF HIS CAR.</font>
+
+40
+00:02:58,211 --> 00:02:59,546
+       <font color="#aaaaaa">[Dexter thinking]</font>
+  <font color="#aaaaaa">WHILE LAGUERTA'S DECIDING,</font>
+
+41
+00:02:59,596 --> 00:03:00,713
+      <font color="#aaaaaa">I'LL BE ELIMINATING</font>
+         <font color="#aaaaaa">HER PROBLEM.</font>
+
+42
+00:03:00,763 --> 00:03:01,931
+       <font color="#aaaaaa">AND GEORGE KING'S</font>
+       <font color="#aaaaaa">GOING TO HELP ME.</font>
+
+43
+00:03:01,965 --> 00:03:03,550
+      <font color="#aaaaaa">I'LL COPY HIS M.O.</font>
+
+44
+00:03:03,600 --> 00:03:05,552
+        <font color="#aaaaaa">THEY WON'T EVEN</font>
+   <font color="#aaaaaa">LOOK FOR ANOTHER SUSPECT.</font>
+
+45
+00:03:05,585 --> 00:03:07,420
+<font color="#aaaaaa">I AM THIS CLOSE</font>
+<font color="#aaaaaa">TO GETTING MY SHIELD,</font>
+
+46
+00:03:07,453 --> 00:03:08,721
+<font color="#aaaaaa">AND I'M PUTTING IT ALL</font>
+<font color="#aaaaaa">AT RISK TO BE WITH YOU!</font>
+
+47
+00:03:08,755 --> 00:03:09,822
+                    <font color="#aaaaaa">THEN DEBRA,</font>
+                  <font color="#aaaaaa">WHY ARE YOU?!</font>
+
+48
+00:03:09,856 --> 00:03:12,859
+                 <font color="#aaaaaa">I NEED FOR YOU</font>
+   <font color="#aaaaaa">TO SERIOUSLY THINK ABOUT US.</font>
+
+49
+00:03:12,892 --> 00:03:15,612
+   <font color="#aaaaaa">YOU'VE HAD A BUG UP YOUR ASS</font>
+      <font color="#aaaaaa">ABOUT DAD FOR MONTHS NOW.</font>
+
+50
+00:03:15,645 --> 00:03:18,448
+    <font color="#aaaaaa">HE DIDN'T CHEAT ON MOM.</font>
+
+51
+00:03:18,481 --> 00:03:19,816
+<font color="#aaaaaa">BULLSHIT. WHO?</font>
+
+52
+00:03:19,866 --> 00:03:22,402
+            <font color="#aaaaaa">A C.I.</font>
+
+53
+00:03:22,452 --> 00:03:25,321
+    <font color="#aaaaaa">LAURA MOSER. MY MOTHER.</font>
+
+54
+00:03:25,371 --> 00:03:26,706
+<font color="#aaaaaa">I KINDA NEED A FAVOR.</font>
+
+55
+00:03:26,739 --> 00:03:28,408
+      <font color="#aaaaaa">THAT'S WHAT I'M HERE FOR.</font>
+              <font color="#aaaaaa">WHAT DO YOU NEED?</font>
+
+56
+00:03:28,458 --> 00:03:30,877
+<font color="#aaaaaa">ALL THE RECORDS YOU HAVE ON MY</font>
+<font color="#aaaaaa">DAD'S CONFIDENTIAL INFORMANTS.</font>
+
+57
+00:03:30,910 --> 00:03:33,162
+     <font color="#aaaaaa">SKINNER. GEORGE KING.</font>
+
+58
+00:03:33,213 --> 00:03:35,381
+<font color="#aaaaaa">THE NICARAGUAN EMBASSY IS STILL</font>
+   <font color="#aaaaaa">GIVING ME THE RUNAROUND.</font>
+
+59
+00:03:35,415 --> 00:03:37,383
+         <font color="#aaaaaa">UNTIL WE KNOW</font>
+     <font color="#aaaaaa">KING'S TRUE IDENTITY,</font>
+
+60
+00:03:37,417 --> 00:03:38,718
+  <font color="#aaaaaa">THERE'S NOT MUCH TO GO ON.</font>
+
+61
+00:03:38,751 --> 00:03:40,220
+       <font color="#aaaaaa">YOU NEED TO HAVE</font>
+      <font color="#aaaaaa">A LONG CONVERSATION</font>
+
+62
+00:03:40,253 --> 00:03:43,089
+      <font color="#aaaaaa">WITH DEXTER MORGAN.</font>
+
+63
+00:03:43,139 --> 00:03:44,224
+ <font color="#aaaaaa"> <i>YOU THINK I'M DONE WITH YOU?</font></i>
+
+64
+00:03:44,257 --> 00:03:46,175
+                 <font color="#aaaaaa">YOU THINK THIS</font>
+                     <font color="#aaaaaa">ENDS HERE?</font>
+
+65
+00:03:46,226 --> 00:03:47,477
+          <font color="#aaaaaa">IT DOESN'T!</font>
+
+66
+00:03:47,510 --> 00:03:48,645
+       <font color="#aaaaaa">IT DOES FOR YOU.</font>
+
+67
+00:03:55,685 --> 00:03:58,655
+    <font color="#aaaaaa">[ethereal guitar music]</font>
+
+68
+00:03:58,688 --> 00:04:06,663
+              <font color="#aaaaaa">&l &l</font>
+
+69
+00:04:11,017 --> 00:04:12,785
+       <font color="#aaaaaa">[Dexter thinking]</font>
+<font color="#aaaaaa">THERE ARE FEW MILESTONES IN LIFE</font>
+
+70
+00:04:12,819 --> 00:04:17,390
+<font color="#aaaaaa">THAT EVOKE A STRONGER RESPONSE</font>
+      <font color="#aaaaaa">THAN OUR FINAL ACT.</font>
+
+71
+00:04:17,423 --> 00:04:20,410
+            <font color="#aaaaaa">DEATH.</font>
+
+72
+00:05:00,383 --> 00:05:04,671
+<font color="#aaaaaa">WHAT WAS ONCE MOVING, SPEAKING,</font>
+   <font color="#aaaaaa">KILLING, AND THREATENING</font>
+
+73
+00:05:04,704 --> 00:05:08,624
+        <font color="#aaaaaa">BECOMES NOTHING</font>
+     <font color="#aaaaaa">BUT AN EMPTY VESSEL.</font>
+
+74
+00:05:08,658 --> 00:05:11,477
+   <font color="#aaaaaa">WHICH IS NOT SO DIFFERENT</font>
+  <font color="#aaaaaa">FROM HOW I'VE ALWAYS FELT.</font>
+
+75
+00:05:11,511 --> 00:05:13,112
+    <font color="#aaaaaa">SEVERAL PATCHES OF SKIN</font>
+    <font color="#aaaaaa">REMOVED FROM THE, UH--</font>
+
+76
+00:05:13,146 --> 00:05:15,682
+      <font color="#aaaaaa">THE SHOULDER AREA.</font>
+
+77
+00:05:15,715 --> 00:05:17,583
+<font color="#aaaaaa">LIGATURE MARKS</font>
+<font color="#aaaaaa">ON THE NECK.</font>
+
+78
+00:05:17,617 --> 00:05:20,853
+ <font color="#aaaaaa">WHY THE FUCK WOULD THE SKINNER</font>
+       <font color="#aaaaaa">WANNA KILL MIGUEL PRADO?</font>
+
+79
+00:05:20,887 --> 00:05:22,588
+<font color="#aaaaaa">MIGUEL WAS AFTER FREEBO.</font>
+
+80
+00:05:22,622 --> 00:05:24,791
+<font color="#aaaaaa">KING HAD TO FIGURE</font>
+<font color="#aaaaaa">HE KNEW SOMETHING.</font>
+
+81
+00:05:28,928 --> 00:05:30,780
+          <font color="#aaaaaa">[thinking]</font>
+         <font color="#aaaaaa">WE ALL REACT</font>
+  <font color="#aaaaaa">IN DIFFERENT WAYS TO DEATH.</font>
+
+82
+00:05:30,830 --> 00:05:33,700
+       <font color="#aaaaaa">SOME, LIKE RAMON,</font>
+         <font color="#aaaaaa">CHOOSE ANGER.</font>
+
+83
+00:05:33,750 --> 00:05:38,087
+    <font color="#aaaaaa">OTHERS CLING TO RITUAL.</font>
+
+84
+00:05:38,121 --> 00:05:40,506
+<font color="#aaaaaa">DEX.</font>
+
+85
+00:05:40,540 --> 00:05:42,075
+<font color="#aaaaaa">I KNOW HE WAS</font>
+<font color="#aaaaaa">YOUR FRIEND.</font>
+
+86
+00:05:42,108 --> 00:05:45,545
+<font color="#aaaaaa">SO IF YOU WANNA</font>
+<font color="#aaaaaa">TAKE A PASS ON THIS...</font>
+
+87
+00:05:45,578 --> 00:05:47,714
+         <font color="#aaaaaa">NAH, THAT'S ALL RIGHT.</font>
+                      <font color="#aaaaaa">I GOT IT.</font>
+
+88
+00:05:47,747 --> 00:05:49,215
+         <font color="#aaaaaa">ME, I'LL PLAY</font>
+      <font color="#aaaaaa">THE GRIEVING FRIEND</font>
+
+89
+00:05:49,265 --> 00:05:51,768
+<font color="#aaaaaa">WHO BURIES HIMSELF IN HIS WORK.</font>
+
+90
+00:05:54,270 --> 00:05:57,240
+   <font color="#aaaaaa">[melancholy guitar music]</font>
+
+91
+00:05:57,273 --> 00:06:02,328
+              <font color="#aaaaaa">&l &l</font>
+
+92
+00:06:05,448 --> 00:06:07,900
+      <font color="#aaaaaa">YOU CAN TELL A LOT</font>
+        <font color="#aaaaaa">ABOUT A PERSON</font>
+
+93
+00:06:07,901 --> 00:06:11,604
+   <font color="#aaaaaa">BY THE FRIENDS HE KEEPS.</font>
+
+94
+00:06:11,637 --> 00:06:16,459
+  <font color="#aaaaaa">AND THIS IS MY BEST FRIEND.</font>
+
+95
+00:06:24,717 --> 00:06:27,170
+       <font color="#aaaaaa">GOOD-BYE, MIGUEL.</font>
+
+96
+00:06:27,220 --> 00:06:31,257
+<font color="#aaaaaa">DON'T FUCKING</font>
+<font color="#aaaaaa">TOUCH MY BROTHER.</font>
+
+97
+00:06:31,290 --> 00:06:34,343
+              <font color="#aaaaaa">LET GO OF MY ARM.</font>
+
+98
+00:06:34,394 --> 00:06:37,647
+                           <font color="#aaaaaa">NOW.</font>
+
+99
+00:06:37,680 --> 00:06:39,315
+          <font color="#aaaaaa">COME HERE.</font>
+
+100
+00:06:39,348 --> 00:06:45,021
+<font color="#aaaaaa">I AM GOING TO FIND OUT</font>
+<font color="#aaaaaa">WHY THIS HAPPENED.</font>
+
+101
+00:06:45,071 --> 00:06:48,658
+                    <font color="#aaaaaa">WE ALL WANT</font>
+         <font color="#aaaaaa">THE SAME THING, RAMON.</font>
+
+102
+00:07:04,056 --> 00:07:06,025
+<font color="#aaaaaa">[sighs]</font>
+
+103
+00:07:06,058 --> 00:07:07,560
+<font color="#aaaaaa">THAT WAS AWKWARD.</font>
+
+104
+00:07:07,593 --> 00:07:11,230
+ <font color="#aaaaaa">I DON'T THINK I'VE EVER BEEN</font>
+<font color="#aaaaaa">ASKED TO LEAVE A FUNERAL BEFORE.</font>
+
+105
+00:07:11,264 --> 00:07:14,550
+<font color="#aaaaaa">RAMON DIDN'T ASK YOU TO LEAVE,</font>
+  <font color="#aaaaaa">HE PUSHED YOU OUT THE DOOR.</font>
+
+106
+00:07:14,600 --> 00:07:16,519
+      <font color="#aaaaaa">YEAH, HE WAS DRUNK.</font>
+
+107
+00:07:16,552 --> 00:07:18,554
+                 <font color="#aaaaaa"> <i>I COULD SMELL</font></i>
+                    <font color="#aaaaaa"> <i>THE FUMES.</font></i>
+
+108
+00:07:18,588 --> 00:07:20,807
+      <font color="#aaaaaa">HE'S JUST SO ANGRY.</font>
+
+109
+00:07:20,857 --> 00:07:22,959
+    <font color="#aaaaaa">HE'S LOST TWO BROTHERS.</font>
+
+110
+00:07:22,992 --> 00:07:25,194
+ <font color="#aaaaaa">HE DOESN'T KNOW WHO TO BLAME.</font>
+
+111
+00:07:25,228 --> 00:07:26,863
+      <font color="#aaaaaa"> <i>WELL, CERTAINLY NOT YOU.</font></i>
+
+112
+00:07:26,896 --> 00:07:29,565
+          <font color="#aaaaaa">[thinking]</font>
+     <font color="#aaaaaa">NO, CERTAINLY NOT ME.</font>
+
+113
+00:07:29,599 --> 00:07:31,818
+             <font color="#aaaaaa">HEY.</font>
+
+114
+00:07:31,819 --> 00:07:35,304
+         <font color="#aaaaaa">HOW YOU HANDLING THIS?</font>
+
+115
+00:07:35,338 --> 00:07:39,075
+<font color="#aaaaaa">OH, YOU KNOW,</font>
+<font color="#aaaaaa">A LOTTA DIFFERENT EMOTIONS.</font>
+
+116
+00:07:39,108 --> 00:07:42,829
+           <font color="#aaaaaa">I KNOW MIGUEL WASN'T</font>
+    <font color="#aaaaaa">THE MAN YOU THOUGHT HE WAS.</font>
+
+117
+00:07:42,879 --> 00:07:44,163
+         <font color="#aaaaaa">BUT YOU LOST A FRIEND.</font>
+
+118
+00:07:44,164 --> 00:07:47,483
+              <font color="#aaaaaa">YOU DON'T HAVE TO</font>
+                  <font color="#aaaaaa">BE SO STRONG.</font>
+
+119
+00:07:47,517 --> 00:07:51,637
+<font color="#aaaaaa">CAN'T HELP IT.</font>
+
+120
+00:07:51,671 --> 00:07:53,589
+                  <font color="#aaaaaa">OH, POOR SYL.</font>
+
+121
+00:07:53,639 --> 00:07:56,492
+                <font color="#aaaaaa">SHE HAS SO MUCH</font>
+                  <font color="#aaaaaa">TO DEAL WITH.</font>
+
+122
+00:07:56,526 --> 00:07:57,844
+<font color="#aaaaaa">I CAN ONLY IMAGINE.</font>
+
+123
+00:07:57,845 --> 00:07:59,195
+             <font color="#aaaaaa"> <i>SHE INSISTS WE GO</font></i>
+     <font color="#aaaaaa"> <i>THROUGH WITH THE WEDDING.</font></i>
+
+124
+00:07:59,228 --> 00:08:00,546
+        <font color="#aaaaaa">SHE STILL WANTS TO COME</font>
+
+125
+00:08:00,580 --> 00:08:02,682
+         <font color="#aaaaaa">TO THE REHEARSAL DINNER</font>
+                 <font color="#aaaaaa">TOMORROW NIGHT.</font>
+<font color="#aaaaaa">WELL...</font>
+
+126
+00:08:02,715 --> 00:08:08,604
+         <font color="#aaaaaa">LIFE GOES ON.</font>
+
+127
+00:08:08,638 --> 00:08:09,856
+       <font color="#aaaaaa">FROM YOUR MOTHER?</font>
+
+128
+00:08:13,242 --> 00:08:15,027
+                   <font color="#aaaaaa"> <i>SHE STARTED</font></i>
+                <font color="#aaaaaa"> <i>TEACHING AGAIN</font></i>
+
+129
+00:08:15,061 --> 00:08:16,445
+          <font color="#aaaaaa">AND CAN'T MISS CLASS.</font>
+
+130
+00:08:16,496 --> 00:08:18,614
+           <font color="#aaaaaa">TOO BAD.</font>
+
+131
+00:08:18,664 --> 00:08:22,118
+       <font color="#aaaaaa">THAT'S MY LOVING MOTHER.</font>
+
+132
+00:08:22,168 --> 00:08:24,453
+<font color="#aaaaaa">[reading]</font>
+<font color="#aaaaaa">"LET'S HOPE THE THIRD</font>
+<font color="#aaaaaa">ONE'S THE CHARM."</font>
+
+133
+00:08:24,504 --> 00:08:27,173
+<font color="#aaaaaa"> <i>WHAT'S THAT MEAN?</font></i>
+
+134
+00:08:27,206 --> 00:08:29,375
+                           <font color="#aaaaaa">MMM.</font>
+
+135
+00:08:29,376 --> 00:08:31,177
+                       <font color="#aaaaaa">THE KID.</font>
+
+136
+00:08:31,210 --> 00:08:33,296
+                  <font color="#aaaaaa">THE THIRD KID</font>
+                  <font color="#aaaaaa">IS THE CHARM.</font>
+
+137
+00:08:33,346 --> 00:08:37,800
+<font color="#aaaaaa">CODY AND ASTOR ARE CHARMS TOO.</font>
+
+138
+00:08:37,850 --> 00:08:39,735
+                   <font color="#aaaaaa">LIKE I SAID,</font>
+       <font color="#aaaaaa">THAT'S MY LOVING MOTHER.</font>
+
+139
+00:08:39,769 --> 00:08:42,638
+          <font color="#aaaaaa">[thinking]</font>
+   <font color="#aaaaaa">DID RITA JUST LIE TO ME?</font>
+
+140
+00:08:42,688 --> 00:08:46,726
+            <font color="#aaaaaa">SO HAVE YOU WRITTEN</font>
+                 <font color="#aaaaaa">YOUR VOWS YET?</font>
+
+141
+00:08:46,776 --> 00:08:49,829
+<font color="#aaaaaa">NOT COMPLETELY.</font>
+
+142
+00:08:49,862 --> 00:08:50,897
+      <font color="#aaaaaa">WHAT SHOULD I SAY?</font>
+
+143
+00:08:50,947 --> 00:08:56,152
+             <font color="#aaaaaa">WELL, YOU CAN TALK</font>
+             <font color="#aaaaaa">ABOUT TOGETHERNESS,</font>
+
+144
+00:08:56,185 --> 00:08:59,238
+           <font color="#aaaaaa">LOYALTY, ATTRACTION,</font>
+                       <font color="#aaaaaa">HONESTY.</font>
+
+145
+00:08:59,288 --> 00:09:04,076
+<font color="#aaaaaa">HONESTY. RIGHT.</font>
+
+146
+00:09:04,077 --> 00:09:08,581
+<font color="#aaaaaa">YOU KNOW, I SHOULD GET HOME</font>
+<font color="#aaaaaa">AND KEEP WORKING ON THEM.</font>
+
+147
+00:09:08,614 --> 00:09:11,517
+                <font color="#aaaaaa">MMM. YOU SHOULD</font>
+                     <font color="#aaaaaa">KEEP THAT.</font>
+
+148
+00:09:16,789 --> 00:09:20,059
+      <font color="#aaaaaa">HE GAVE ME SO MUCH.</font>
+
+149
+00:09:20,092 --> 00:09:22,328
+          <font color="#aaaaaa">[thinking]</font>
+         <font color="#aaaaaa">DARLING RITA,</font>
+
+150
+00:09:22,361 --> 00:09:23,896
+         <font color="#aaaaaa">ONCE YOU WERE</font>
+     <font color="#aaaaaa">A DREAM AND A PRAYER.</font>
+
+151
+00:09:23,930 --> 00:09:26,098
+        <font color="#aaaaaa">NOW OUR FUTURE</font>
+    <font color="#aaaaaa">IS AS BRIGHT AS THE SUN</font>
+
+152
+00:09:26,148 --> 00:09:27,900
+         <font color="#aaaaaa">GLINTING OFF</font>
+       <font color="#aaaaaa">THE MORNING DEW.</font>
+
+153
+00:09:27,934 --> 00:09:29,352
+   <font color="#aaaaaa">AND I VOW THAT I WILL...</font>
+
+154
+00:09:29,402 --> 00:09:31,487
+            <font color="#aaaaaa">[sighs]</font>
+
+155
+00:09:31,520 --> 00:09:33,322
+   <font color="#aaaaaa">SOUNDS LIKE I'M MARRYING</font>
+          <font color="#aaaaaa">A UNICORN.</font>
+
+156
+00:09:33,356 --> 00:09:35,992
+      <font color="#aaaaaa">[cell phone rings]</font>
+
+157
+00:09:36,025 --> 00:09:38,995
+        <font color="#aaaaaa">[ominous music]</font>
+
+158
+00:09:39,028 --> 00:09:47,003
+              <font color="#aaaaaa">&l &l</font>
+
+159
+00:10:02,018 --> 00:10:03,019
+<font color="#aaaaaa"> <i>(Pratt)</font></i>
+<font color="#aaaaaa"> <i>'SCUSE ME, SIR.</font></i>
+
+160
+00:10:03,052 --> 00:10:04,937
+       <font color="#aaaaaa">YOU THE OCCUPANT?</font>
+
+161
+00:10:04,971 --> 00:10:06,672
+                           <font color="#aaaaaa">YEAH.</font>
+<font color="#aaaaaa">I'M DETECTIVE PRATT.</font>
+
+162
+00:10:06,706 --> 00:10:09,609
+<font color="#aaaaaa">PROPERTY MANAGER CALLED US.</font>
+<font color="#aaaaaa">THEY FOUND YOUR DOOR OPEN.</font>
+
+163
+00:10:09,642 --> 00:10:10,943
+        <font color="#aaaaaa">YEAH, HE CALLED ME TOO.</font>
+
+164
+00:10:10,977 --> 00:10:13,195
+     <font color="#aaaaaa">WE'RE GONNA NEED YOU</font>
+  <font color="#aaaaaa">TO TAKE A GOOD LOOK AROUND</font>
+
+165
+00:10:13,229 --> 00:10:14,196
+    <font color="#aaaaaa">AND SEE WHAT'S MISSING.</font>
+
+166
+00:10:14,230 --> 00:10:17,733
+          <font color="#aaaaaa">[chuckles]</font>
+
+167
+00:10:17,783 --> 00:10:19,702
+   <font color="#aaaaaa">IT'S KINDA HARD TO TELL.</font>
+
+168
+00:10:19,735 --> 00:10:21,070
+                       <font color="#aaaaaa"> <i>(Pratt)</font></i>
+                <font color="#aaaaaa"> <i>YOUR NEIGHBOR,</font></i>
+                  <font color="#aaaaaa"> <i>A MS. LEVIN,</font></i>
+
+169
+00:10:21,120 --> 00:10:23,489
+           <font color="#aaaaaa"> <i>SAW SOMEONE HANGING</font></i>
+         <font color="#aaaaaa"> <i>AROUND THE MAILBOXES.</font></i>
+
+170
+00:10:23,539 --> 00:10:24,991
+<font color="#aaaaaa"> <i>LATIN, KINDA BURLY,</font></i>
+<font color="#aaaaaa"> <i>GOATEE.</font></i>
+
+171
+00:10:25,041 --> 00:10:25,992
+<font color="#aaaaaa"> <i>RING ANY BELLS?</font></i>
+
+172
+00:10:26,042 --> 00:10:28,711
+          <font color="#aaaaaa">[thinking]</font>
+         <font color="#aaaaaa">RAMON PRADO.</font>
+
+173
+00:10:28,744 --> 00:10:30,246
+              <font color="#aaaaaa">NO.</font>
+
+174
+00:10:46,062 --> 00:10:48,014
+         <font color="#aaaaaa">THANKS. LET ME KNOW IF</font>
+         <font color="#aaaaaa">YOU FIND OUT ANYTHING.</font>
+
+175
+00:10:48,015 --> 00:10:52,018
+<font color="#aaaaaa">YOU GOT IT.</font>
+                      <font color="#aaaaaa">THANK YOU.</font>
+
+176
+00:11:09,785 --> 00:11:11,287
+           <font color="#aaaaaa"> <i>(Harry)</font></i>
+      <font color="#aaaaaa"> <i>MIGUEL WARNED YOU</font></i>
+        <font color="#aaaaaa"> <i>THAT HIS DEATH</font></i>
+
+177
+00:11:11,337 --> 00:11:12,838
+        <font color="#aaaaaa">WASN'T GONNA BE</font>
+      <font color="#aaaaaa">THE END OF THINGS.</font>
+
+178
+00:11:12,872 --> 00:11:18,844
+  <font color="#aaaaaa">SO HIS PLAN WAS TO MAKE ME</font>
+      <font color="#aaaaaa">HIRE A HOUSEKEEPER?</font>
+
+179
+00:11:18,878 --> 00:11:22,348
+<font color="#aaaaaa">YOUR SUIT</font>
+<font color="#aaaaaa">FOR THE WEDDING.</font>
+
+180
+00:11:22,381 --> 00:11:25,685
+<font color="#aaaaaa"> <i>THAT'S PERSONAL.</font></i>
+
+181
+00:11:25,718 --> 00:11:30,389
+<font color="#aaaaaa">RAMON PRADO'S</font>
+<font color="#aaaaaa">LIKE A GUT-SHOT ANIMAL.</font>
+
+182
+00:11:30,439 --> 00:11:32,558
+      <font color="#aaaaaa">YOU KNOW WHAT TO DO</font>
+    <font color="#aaaaaa">WITH A WOUNDED ANIMAL.</font>
+
+183
+00:11:32,559 --> 00:11:36,228
+<font color="#aaaaaa"> <i>YOU PUT IT</font></i>
+<font color="#aaaaaa"> <i>OUT OF ITS MISERY.</font></i>
+
+184
+00:11:36,229 --> 00:11:39,398
+           <font color="#aaaaaa">[exhales]</font>
+
+185
+00:11:39,399 --> 00:11:41,734
+       <font color="#aaaaaa">I CAN'T KILL HIM.</font>
+   <font color="#aaaaaa">HE DOESN'T MEET THE CODE.</font>
+
+186
+00:11:41,735 --> 00:11:44,653
+        <font color="#aaaaaa">CAN'T KILL HIM.</font>
+
+187
+00:11:44,687 --> 00:11:46,021
+       <font color="#aaaaaa">CAN'T IGNORE HIM.</font>
+
+188
+00:11:55,164 --> 00:11:59,502
+      <font color="#aaaaaa">I HAVE NO INTENTION</font>
+       <font color="#aaaaaa">OF IGNORING HIM.</font>
+
+189
+00:12:02,138 --> 00:12:06,142
+<font color="#aaaaaa">I CAN USE THE RING TO TIE MIGUEL</font>
+    <font color="#aaaaaa">TO ELLEN WOLF'S MURDER,</font>
+
+190
+00:12:06,175 --> 00:12:07,510
+      <font color="#aaaaaa">THREATEN TO DESTROY</font>
+
+191
+00:12:07,560 --> 00:12:10,513
+   <font color="#aaaaaa">RAMON'S SAINTED BROTHER'S</font>
+      <font color="#aaaaaa">REPUTATION FOREVER.</font>
+
+192
+00:12:10,563 --> 00:12:15,985
+         <font color="#aaaaaa">THAT'S ENOUGH</font>
+  <font color="#aaaaaa">TO GET RAMON TO BACK DOWN.</font>
+
+193
+00:12:16,018 --> 00:12:18,037
+            <font color="#aaaaaa"> <i>SARA.</font></i>
+
+194
+00:12:18,070 --> 00:12:19,105
+            <font color="#aaaaaa">DEXTER?</font>
+
+195
+00:12:19,138 --> 00:12:21,607
+         <font color="#aaaaaa">HOW ARE YOU?</font>
+
+196
+00:12:21,657 --> 00:12:24,110
+    <font color="#aaaaaa">HONESTLY, NOT SO GREAT.</font>
+
+197
+00:12:24,160 --> 00:12:26,779
+  <font color="#aaaaaa">I'M SORRY, IS--IS RAMON IN?</font>
+
+198
+00:12:26,829 --> 00:12:28,114
+                           <font color="#aaaaaa"> <i>NO.</font></i>
+
+199
+00:12:28,115 --> 00:12:30,616
+            <font color="#aaaaaa">HE DIDN'T COME HOME</font>
+      <font color="#aaaaaa">WITH US FROM THE FUNERAL.</font>
+
+200
+00:12:30,666 --> 00:12:32,785
+                <font color="#aaaaaa"> <i>DOESN'T ANSWER</font></i>
+                     <font color="#aaaaaa"> <i>HIS CELL.</font></i>
+
+201
+00:12:32,835 --> 00:12:35,721
+<font color="#aaaaaa">HE'S BEEN ON A BENDER, DEXTER;</font>
+  <font color="#aaaaaa">I HAVE NO IDEA WHERE HE IS.</font>
+
+202
+00:12:35,755 --> 00:12:37,790
+              <font color="#aaaaaa">OH.</font>
+
+203
+00:12:37,823 --> 00:12:40,126
+ <font color="#aaaaaa">I'M REALLY WORRIED ABOUT HIM.</font>
+
+204
+00:12:40,176 --> 00:12:42,011
+     <font color="#aaaaaa">IF YOU HEAR FROM HIM,</font>
+
+205
+00:12:42,044 --> 00:12:43,312
+    <font color="#aaaaaa"> <i>WILL YOU LET HIM KNOW</font></i>
+        <font color="#aaaaaa"> <i>I STOPPED BY?</font></i>
+
+206
+00:12:50,886 --> 00:12:54,273
+          <font color="#aaaaaa">[thinking]</font>
+     <font color="#aaaaaa">RAMON'S BLOOD FAMILY</font>
+   <font color="#aaaaaa">DOESN'T KNOW WHERE HE IS.</font>
+
+207
+00:12:56,442 --> 00:12:58,310
+  <font color="#aaaaaa">MAYBE HIS BLUE FAMILY DOES.</font>
+
+208
+00:12:58,344 --> 00:13:02,314
+<font color="#aaaaaa">[dial tone and dialing]</font>
+
+209
+00:13:02,364 --> 00:13:04,450
+<font color="#aaaaaa">[line ringing]</font>
+
+210
+00:13:04,483 --> 00:13:06,152
+     <font color="#aaaaaa"> <i>[operator on phone]</font></i>
+<font color="#aaaaaa"> <i>MORNING. SHERIFF'S DEPARTMENT.</font></i>
+
+211
+00:13:06,153 --> 00:13:07,653
+                 <font color="#aaaaaa">YEAH, COULD YOU</font>
+                 <font color="#aaaaaa">PUT ME THROUGH</font>
+
+212
+00:13:07,703 --> 00:13:09,405
+                    <font color="#aaaaaa">TO SERGEANT</font>
+       <font color="#aaaaaa">JESSIE WHITAKER, PLEASE?</font>
+
+213
+00:13:09,455 --> 00:13:10,406
+     <font color="#aaaaaa"> <i>ONE MOMENT, PLEASE.</font></i>
+
+214
+00:13:10,456 --> 00:13:16,162
+         <font color="#aaaaaa"> <i>[hold music]</font></i>
+
+215
+00:13:16,212 --> 00:13:17,546
+          <font color="#aaaaaa">[thinking]</font>
+         <font color="#aaaaaa">GAIL BRANDON.</font>
+
+216
+00:13:17,580 --> 00:13:20,249
+     <font color="#aaaaaa">FUTURE MOTHER-IN-LAW.</font>
+
+217
+00:13:20,299 --> 00:13:24,053
+<font color="#aaaaaa">WHILE I'M WAITING, I MAY AS WELL</font>
+  <font color="#aaaaaa">CHECK INTO MY NEW PARTNER.</font>
+
+218
+00:13:26,472 --> 00:13:27,840
+          <font color="#aaaaaa"> <i>(operator)</font></i>
+     <font color="#aaaaaa"> <i>SERGEANT WHITAKER'S</font></i>
+        <font color="#aaaaaa"> <i>IN THE FIELD.</font></i>
+
+219
+00:13:27,841 --> 00:13:29,391
+        <font color="#aaaaaa"> <i>WOULD YOU LIKE</font></i>
+     <font color="#aaaaaa"> <i>TO LEAVE A MESSAGE?</font></i>
+
+220
+00:13:29,425 --> 00:13:32,561
+ <font color="#aaaaaa">UH, THIS IS SORT OF IMPORTANT.</font>
+ <font color="#aaaaaa">I'M WITH MIAMI METRO HOMICIDE.</font>
+
+221
+00:13:32,595 --> 00:13:33,846
+              <font color="#aaaaaa">YOU THINK YOU CAN</font>
+                <font color="#aaaaaa">TRACK HIM DOWN?</font>
+
+222
+00:13:33,896 --> 00:13:35,347
+         <font color="#aaaaaa"> <i>PLEASE HOLD.</font></i>
+
+223
+00:13:35,397 --> 00:13:37,066
+         <font color="#aaaaaa"> <i>[hold music]</font></i>
+
+224
+00:13:37,099 --> 00:13:40,686
+          <font color="#aaaaaa">[thinking]</font>
+   <font color="#aaaaaa">BEFORE SHE LEFT MICHIGAN,</font>
+  <font color="#aaaaaa">RITA BENNET WOULD HAVE BEEN</font>
+
+225
+00:13:40,736 --> 00:13:44,723
+        <font color="#aaaaaa">RITA...BRANDON.</font>
+
+226
+00:13:47,393 --> 00:13:49,328
+           <font color="#aaaaaa">ACKERMAN.</font>
+
+227
+00:13:49,361 --> 00:13:51,697
+          <font color="#aaaaaa">[thinking]</font>
+      <font color="#aaaaaa">PAUL BENNET WASN'T</font>
+      <font color="#aaaaaa">HER FIRST HUSBAND.</font>
+
+228
+00:13:51,747 --> 00:13:57,119
+<font color="#aaaaaa">SHE WAS MARRIED BEFORE, AT 16.</font>
+
+229
+00:13:57,169 --> 00:13:59,555
+       <font color="#aaaaaa">ENDING IN DIVORCE</font>
+       <font color="#aaaaaa">SIX MONTHS LATER.</font>
+
+230
+00:13:59,605 --> 00:14:01,707
+  <font color="#aaaaaa">AN IMPETUOUS TEEN MARRIAGE.</font>
+
+231
+00:14:01,740 --> 00:14:05,177
+        <font color="#aaaaaa">WHICH MAKES ME</font>
+      <font color="#aaaaaa">HER THIRD HUSBAND.</font>
+
+232
+00:14:05,211 --> 00:14:07,213
+          <font color="#aaaaaa">THE CHARM.</font>
+
+233
+00:14:07,263 --> 00:14:09,298
+    <font color="#aaaaaa">THE BRASS IS GIVING US</font>
+         <font color="#aaaaaa">A BLANK CHECK</font>
+
+234
+00:14:09,348 --> 00:14:11,550
+      <font color="#aaaaaa">AS FAR AS OVERTIME</font>
+         <font color="#aaaaaa">IS CONCERNED</font>
+
+235
+00:14:11,600 --> 00:14:12,635
+        <font color="#aaaaaa"> <i>UNTIL THIS MAN</font></i>
+        <font color="#aaaaaa"> <i>IS IN CUSTODY.</font></i>
+
+236
+00:14:12,668 --> 00:14:14,386
+         <font color="#aaaaaa">JORGE OROZCO.</font>
+
+237
+00:14:14,436 --> 00:14:16,772
+      <font color="#aaaaaa">A.K.A. GEORGE KING.</font>
+
+238
+00:14:16,805 --> 00:14:20,809
+<font color="#aaaaaa">AFFECTIONATELY KNOWN BACK HOME</font>
+   <font color="#aaaaaa">AS <i>EL FIERRO: </i>THE BLADE.</font>
+
+239
+00:14:20,860 --> 00:14:22,728
+     <font color="#aaaaaa"> <i>OROZCO WAS A CAPTAIN</font></i>
+
+240
+00:14:22,729 --> 00:14:23,896
+      <font color="#aaaaaa"> <i>IN THE </i>RESISTENCIA</font>
+         <font color="#aaaaaa">NICARAGUENSE.</font>
+
+241
+00:14:23,897 --> 00:14:25,314
+         <font color="#aaaaaa">THE CONTRAS.</font>
+
+242
+00:14:25,364 --> 00:14:27,733
+<font color="#aaaaaa">HE HEADED AN INTERROGATION UNIT.</font>
+
+243
+00:14:27,734 --> 00:14:30,369
+      <font color="#aaaaaa">HE TORTURED PEOPLE</font>
+         <font color="#aaaaaa">FOR A LIVING.</font>
+
+244
+00:14:32,538 --> 00:14:33,739
+        <font color="#aaaaaa">AND KILLED 'EM.</font>
+
+245
+00:14:33,772 --> 00:14:37,910
+       <font color="#aaaaaa">NOW THIS ALREADY</font>
+        <font color="#aaaaaa">WAS A BIG CASE.</font>
+
+246
+00:14:37,911 --> 00:14:42,748
+  <font color="#aaaaaa">WITH MIGUEL PRADO'S MURDER,</font>
+     <font color="#aaaaaa">IT'S OFFICIALLY HUGE.</font>
+
+247
+00:14:42,749 --> 00:14:44,917
+     <font color="#aaaaaa"> <i>[hold music playing]</font></i>
+
+248
+00:14:44,967 --> 00:14:45,918
+     <font color="#aaaaaa"> <i>[Whitaker on phone]</font></i>
+      <font color="#aaaaaa"> <i>THIS IS WHITAKER.</font></i>
+
+249
+00:14:45,968 --> 00:14:47,720
+ <font color="#aaaaaa">HI, MY NAME IS DEXTER MORGAN.</font>
+
+250
+00:14:47,753 --> 00:14:51,640
+   <font color="#aaaaaa">I'M TRYING TO TRACK DOWN</font>
+ <font color="#aaaaaa">YOUR OLD PARTNER RAMON PRADO.</font>
+
+251
+00:14:51,674 --> 00:14:53,425
+             <font color="#aaaaaa">WHY?</font>
+
+252
+00:14:53,459 --> 00:14:55,761
+           <font color="#aaaaaa">I'M A FAMILY FRIEND.</font>
+
+253
+00:14:55,762 --> 00:14:58,597
+ <font color="#aaaaaa">SARA TOLD ME HE'S BEEN MISSING</font>
+   <font color="#aaaaaa">SINCE HIS BROTHER'S FUNERAL.</font>
+
+254
+00:14:58,598 --> 00:15:01,150
+             <font color="#aaaaaa">I FIGURED WITH HIS</font>
+             <font color="#aaaaaa">PROBLEM AND ALL...</font>
+
+255
+00:15:01,183 --> 00:15:03,903
+            <font color="#aaaaaa">GOTCHA.</font>
+
+256
+00:15:03,936 --> 00:15:06,105
+      <font color="#aaaaaa">ACTUALLY, I HAVEN'T</font>
+    <font color="#aaaaaa">SEEN HIM SINCE HE LEFT.</font>
+
+257
+00:15:06,106 --> 00:15:08,774
+      <font color="#aaaaaa">I KNOW A FEW PLACES</font>
+    <font color="#aaaaaa">HE USED TO HANG OUT AT.</font>
+
+258
+00:15:08,775 --> 00:15:11,193
+   <font color="#aaaaaa">I MEAN, BASICALLY ANY BAR</font>
+   <font color="#aaaaaa">WITHIN A TEN-MILE RADIUS.</font>
+
+259
+00:15:11,243 --> 00:15:13,662
+          <font color="#aaaaaa"> <i>(Whitaker)</font></i>
+     <font color="#aaaaaa"> <i>I CAN GIVE YOU A FEW</font></i>
+<font color="#aaaaaa"> <i>OF HIS FAVORITES, IF YOU LIKE.</font></i>
+
+260
+00:15:13,696 --> 00:15:15,614
+            <font color="#aaaaaa">I'M SURE SARA WOULD</font>
+               <font color="#aaaaaa">APPRECIATE THAT.</font>
+
+261
+00:15:15,615 --> 00:15:19,201
+       <font color="#aaaaaa"> <i>YEAH, I'M SURE.</font></i>
+
+262
+00:15:19,251 --> 00:15:21,921
+          <font color="#aaaaaa">[thinking]</font>
+     <font color="#aaaaaa">I'D LOVE TO HELP THEM</font>
+       <font color="#aaaaaa">WITH GEORGE KING,</font>
+
+263
+00:15:21,954 --> 00:15:24,290
+ <font color="#aaaaaa">BUT I'VE GOT A MORE PRESSING</font>
+    <font color="#aaaaaa">SITUATION TO DEAL WITH:</font>
+
+264
+00:15:24,340 --> 00:15:29,011
+  <font color="#aaaaaa">MIGUEL'S WOUNDED MESSENGER.</font>
+
+265
+00:15:29,044 --> 00:15:31,163
+             <font color="#aaaaaa">MORGAN...A MINUTE?</font>
+
+266
+00:15:31,196 --> 00:15:34,133
+<font color="#aaaaaa">SURE, SARGE.</font>
+
+267
+00:15:39,104 --> 00:15:41,924
+  <font color="#aaaaaa">SO IT TOOK A COUPLE OF MONTHS</font>
+        <font color="#aaaaaa">AND A LOT OF WRANGLING,</font>
+
+268
+00:15:41,957 --> 00:15:43,926
+          <font color="#aaaaaa">BUT MY BUDGET REQUEST</font>
+          <font color="#aaaaaa">FINALLY CAME THROUGH.</font>
+
+269
+00:15:43,959 --> 00:15:46,895
+          <font color="#aaaaaa">HOMICIDE IS GONNA GET</font>
+          <font color="#aaaaaa">A LITTLE EXTRA MONEY.</font>
+
+270
+00:15:46,929 --> 00:15:48,230
+<font color="#aaaaaa">OH, THAT'S GREAT.</font>
+                         <font color="#aaaaaa">MM-HMM.</font>
+
+271
+00:15:48,280 --> 00:15:49,965
+<font color="#aaaaaa">WE SHOULD GET ONE OF THOSE</font>
+<font color="#aaaaaa">CRIME-SIGHT IMAGERS.</font>
+
+272
+00:15:49,999 --> 00:15:50,983
+<font color="#aaaaaa">HAVE YOU SEEN 'EM?</font>
+
+273
+00:15:51,016 --> 00:15:52,217
+<font color="#aaaaaa">THEIR PICTURES ARE AMAZING.</font>
+
+274
+00:15:52,251 --> 00:15:53,702
+                        <font color="#aaaaaa">REALLY?</font>
+
+275
+00:15:53,736 --> 00:15:56,005
+             <font color="#aaaaaa">I MEAN, THAT'S WHAT</font>
+             <font color="#aaaaaa">YOU'D SPEND IT ON?</font>
+
+276
+00:15:56,038 --> 00:15:57,606
+          <font color="#aaaaaa">'CAUSE I WAS THINKING</font>
+         <font color="#aaaaaa">MAYBE WE'D SPEND IT ON</font>
+
+277
+00:15:57,640 --> 00:15:59,375
+                 <font color="#aaaaaa">ADDING ANOTHER</font>
+        <font color="#aaaaaa">DETECTIVE TO OUR SQUAD.</font>
+
+278
+00:15:59,408 --> 00:16:01,076
+<font color="#aaaaaa">OH.</font>
+
+279
+00:16:01,126 --> 00:16:06,465
+       <font color="#aaaaaa">MAYBE SOMEBODY WHO SAVED</font>
+             <font color="#aaaaaa">THE LIFE OF A C.I.</font>
+
+280
+00:16:06,498 --> 00:16:08,701
+          <font color="#aaaaaa">WHO ID'D OUR SKINNER.</font>
+
+281
+00:16:10,753 --> 00:16:12,254
+<font color="#aaaaaa">OHH.</font>
+
+282
+00:16:12,287 --> 00:16:15,407
+<font color="#aaaaaa">[tearing up]</font>
+<font color="#aaaaaa">UH...</font>
+
+283
+00:16:15,441 --> 00:16:18,243
+<font color="#aaaaaa">I DON'T KNOW WHAT TO SAY,</font>
+<font color="#aaaaaa">I MEAN, WOW.</font>
+
+284
+00:16:18,277 --> 00:16:19,728
+<font color="#aaaaaa">THANK YOU.</font>
+
+285
+00:16:19,762 --> 00:16:22,831
+    <font color="#aaaaaa">I PUT IN THE RECOMMENDATION</font>
+        <font color="#aaaaaa">TO LIEUTENANT LAGUERTA.</font>
+
+286
+00:16:22,865 --> 00:16:24,400
+               <font color="#aaaaaa">SHE'S JUST GOTTA</font>
+            <font color="#aaaaaa">SIGN THE PAPERWORK.</font>
+
+287
+00:16:24,433 --> 00:16:27,653
+<font color="#aaaaaa">OH, FUCK.</font>
+<font color="#aaaaaa">THANK YOU, THANK YOU.</font>
+
+288
+00:16:27,686 --> 00:16:29,054
+          <font color="#aaaaaa">WE COULD USE A LITTLE</font>
+               <font color="#aaaaaa">JOY AROUND HERE.</font>
+
+289
+00:16:29,088 --> 00:16:30,356
+                     <font color="#aaaaaa">GOOD WORK.</font>
+
+290
+00:16:30,406 --> 00:16:33,826
+<font color="#aaaaaa">THANK YOU.</font>
+
+291
+00:16:39,298 --> 00:16:41,667
+<font color="#aaaaaa">I GOT IT.</font>
+
+292
+00:16:41,700 --> 00:16:43,619
+              <font color="#aaaaaa">I'M GUESSING "IT"</font>
+             <font color="#aaaaaa">IS SOMETHING GOOD?</font>
+
+293
+00:16:43,669 --> 00:16:45,254
+<font color="#aaaaaa">MY DETECTIVE SHIELD.</font>
+
+294
+00:16:45,287 --> 00:16:47,756
+                  <font color="#aaaaaa">OH, BIG NEWS.</font>
+
+295
+00:16:47,790 --> 00:16:49,258
+<font color="#aaaaaa">IT'S GIGANTIC NEWS.</font>
+
+296
+00:16:49,291 --> 00:16:50,793
+<font color="#aaaaaa">ALL LAGUERTA HAS TO DO IS SIGN</font>
+<font color="#aaaaaa">THE PAPERS AND I'M GOLDEN.</font>
+
+297
+00:16:50,843 --> 00:16:52,344
+<font color="#aaaaaa">WELL, I'M SILVER.</font>
+
+298
+00:16:52,378 --> 00:16:53,746
+           <font color="#aaaaaa">WE SHOULD CELEBRATE.</font>
+
+299
+00:16:53,779 --> 00:16:54,980
+<font color="#aaaaaa">YEAH, COME ON.</font>
+
+300
+00:16:55,014 --> 00:16:56,298
+                  <font color="#aaaaaa">I MEAN LATER.</font>
+
+301
+00:16:56,348 --> 00:16:57,883
+      <font color="#aaaaaa">I GOTTA PICK UP THE KIDS,</font>
+          <font color="#aaaaaa">GO TO THE TAILOR'S...</font>
+
+302
+00:16:57,933 --> 00:16:59,301
+<font color="#aaaaaa">OH, YEAH, YEAH.</font>
+
+303
+00:16:59,351 --> 00:17:02,388
+                      <font color="#aaaaaa">YOU KNOW,</font>
+            <font color="#aaaaaa">DAD WOULD BE PROUD.</font>
+
+304
+00:17:05,074 --> 00:17:08,110
+    <font color="#aaaaaa">THAT STILL MEANS SOMETHING,</font>
+   <font color="#aaaaaa">NO MATTER HOW FLAWED HE WAS.</font>
+
+305
+00:17:08,143 --> 00:17:11,230
+<font color="#aaaaaa">YEAH, LOOK AT US.</font>
+
+306
+00:17:11,263 --> 00:17:12,865
+<font color="#aaaaaa">YOU'RE GETTING MARRIED.</font>
+
+307
+00:17:12,898 --> 00:17:15,884
+<font color="#aaaaaa">I'M MAKING DETECTIVE.</font>
+
+308
+00:17:15,918 --> 00:17:19,872
+<font color="#aaaaaa">THE MORGANS ARE GONNA</font>
+<font color="#aaaaaa">BE ALL RIGHT.</font>
+
+309
+00:17:19,905 --> 00:17:21,106
+<font color="#aaaaaa">I'LL SEE YOU</font>
+<font color="#aaaaaa">AT THE REHEARSAL DINNER.</font>
+
+310
+00:17:21,140 --> 00:17:23,108
+                          <font color="#aaaaaa">OKAY.</font>
+
+311
+00:17:28,080 --> 00:17:31,383
+                   <font color="#aaaaaa">YO, FRANCIS.</font>
+
+312
+00:17:31,417 --> 00:17:33,852
+<font color="#aaaaaa">ANY PROGRESS</font>
+<font color="#aaaaaa">ON MY DAD'S C.I. FILES?</font>
+
+313
+00:17:33,886 --> 00:17:36,155
+   <font color="#aaaaaa">OOH, HE KNEW A LOT OF FOLKS,</font>
+            <font color="#aaaaaa">I'LL GIVE HIM THAT.</font>
+
+314
+00:17:36,188 --> 00:17:37,322
+<font color="#aaaaaa">ANYONE OF INTEREST?</font>
+
+315
+00:17:37,356 --> 00:17:40,259
+               <font color="#aaaaaa">I HAVEN'T CULLED</font>
+        <font color="#aaaaaa">THROUGH EVERYTHING YET.</font>
+
+316
+00:17:40,260 --> 00:17:41,427
+                   <font color="#aaaaaa">ARE YOU SURE</font>
+                <font color="#aaaaaa">YOU WANT ME TO?</font>
+
+317
+00:17:41,477 --> 00:17:44,680
+        <font color="#aaaaaa"> <i>SOME THINGS ARE BETTER</font></i>
+                <font color="#aaaaaa"> <i>LEFT IN A BOX.</font></i>
+
+318
+00:17:44,730 --> 00:17:47,649
+<font color="#aaaaaa">I JUST--</font>
+
+319
+00:17:47,683 --> 00:17:49,485
+<font color="#aaaaaa">I NEED TO PUT A FACE ON HER.</font>
+
+320
+00:17:49,518 --> 00:17:52,688
+        <font color="#aaaaaa">KNOWING ALL THE DETAILS</font>
+             <font color="#aaaaaa">ISN'T GONNA CHANGE</font>
+
+321
+00:17:52,738 --> 00:17:55,574
+           <font color="#aaaaaa">THE FACT THAT HE WAS</font>
+     <font color="#aaaaaa">MESSING AROUND ON THE SLY.</font>
+
+322
+00:17:55,607 --> 00:17:58,243
+            <font color="#aaaaaa">I KNOW.</font>
+
+323
+00:17:58,277 --> 00:18:00,446
+               <font color="#aaaaaa">I'LL SEND 'EM UP</font>
+               <font color="#aaaaaa">AS SOON AS I CAN.</font>
+
+324
+00:18:00,496 --> 00:18:02,297
+<font color="#aaaaaa">THANK YOU, FRANCIS.</font>
+
+325
+00:18:05,334 --> 00:18:08,087
+<font color="#aaaaaa"> <i>(Laguerta)</font></i>
+<font color="#aaaaaa"> <i>DEXTER.</font></i>
+
+326
+00:18:08,120 --> 00:18:11,707
+<font color="#aaaaaa">I NEED A WORD.</font>
+
+327
+00:18:16,178 --> 00:18:19,181
+    <font color="#aaaaaa">CITY COUNCIL HAS VOTED</font>
+<font color="#aaaaaa">TO NAME THE FREEWAY INTERCHANGE</font>
+
+328
+00:18:19,214 --> 00:18:20,966
+         <font color="#aaaaaa">NEAR MY HOUSE</font>
+      <font color="#aaaaaa">AFTER MIGUEL PRADO.</font>
+
+329
+00:18:21,016 --> 00:18:24,470
+               <font color="#aaaaaa">I DRIVE THAT WAY</font>
+               <font color="#aaaaaa">EVERY SINGLE DAY.</font>
+
+330
+00:18:24,503 --> 00:18:27,306
+<font color="#aaaaaa">HE WAS A HERO.</font>
+
+331
+00:18:27,356 --> 00:18:29,024
+<font color="#aaaaaa">TO SOME.</font>
+
+332
+00:18:29,057 --> 00:18:30,442
+          <font color="#aaaaaa">HE WAS A COLD-BLOODED</font>
+                        <font color="#aaaaaa">KILLER.</font>
+
+333
+00:18:30,476 --> 00:18:32,978
+         <font color="#aaaaaa">HE MURDERED MY FRIEND,</font>
+<font color="#aaaaaa">AND NOW HE'S GOT AN INTERCHANGE?</font>
+
+334
+00:18:32,979 --> 00:18:35,864
+                     <font color="#aaaaaa">I'M SORRY.</font>
+
+335
+00:18:35,898 --> 00:18:37,850
+                    <font color="#aaaaaa">I'M SORRY--</font>
+
+336
+00:18:37,883 --> 00:18:42,371
+   <font color="#aaaaaa">YOU'RE THE ONLY OTHER PERSON</font>
+           <font color="#aaaaaa">WHO KNOWS THE TRUTH.</font>
+
+337
+00:18:42,404 --> 00:18:46,959
+         <font color="#aaaaaa">MAYBE IT'S TIME WE LET</font>
+       <font color="#aaaaaa">OTHERS IN ON THE SECRET.</font>
+
+338
+00:18:46,992 --> 00:18:50,546
+<font color="#aaaaaa">THERE IS NOTHING TO LINK MIGUEL</font>
+<font color="#aaaaaa">TO ELLEN WOLF'S MURDER</font>
+
+339
+00:18:50,579 --> 00:18:52,548
+<font color="#aaaaaa"> <i>EXCEPT EVIDENCE</font></i>
+<font color="#aaaaaa"> <i>THAT WAS OBTAINED ILLEGALLY,</font></i>
+
+340
+00:18:52,581 --> 00:18:53,549
+<font color="#aaaaaa">AND THEREFORE INADMISSIBLE.</font>
+
+341
+00:18:53,582 --> 00:18:54,666
+          <font color="#aaaaaa"> <i>I'LL FIND SOMETHING.</font></i>
+
+342
+00:18:54,667 --> 00:18:56,718
+       <font color="#aaaaaa">I'LL TEAR HIS LIFE APART</font>
+                  <font color="#aaaaaa">IF I HAVE TO.</font>
+
+343
+00:18:56,752 --> 00:18:58,637
+<font color="#aaaaaa">HE DOESN'T HAVE</font>
+<font color="#aaaaaa">A LIFE ANYMORE.</font>
+
+344
+00:18:58,670 --> 00:19:00,506
+<font color="#aaaaaa"> <i>IT'S HIS FAMILY</font></i>
+<font color="#aaaaaa"> <i>YOU'D HAVE TO TEAR APART.</font></i>
+
+345
+00:19:00,556 --> 00:19:02,891
+<font color="#aaaaaa">THE COMMUNITY.</font>
+<font color="#aaaaaa">THE CUBAN COMMUNITY.</font>
+
+346
+00:19:02,925 --> 00:19:06,862
+<font color="#aaaaaa"> <i>AND YOU STILL MIGHT NOT BE</font></i>
+<font color="#aaaaaa"> <i>ABLE TO PROVE ANYTHING.</font></i>
+
+347
+00:19:08,931 --> 00:19:11,767
+    <font color="#aaaaaa">SO I JUST KEEP IT A SECRET.</font>
+
+348
+00:19:13,936 --> 00:19:16,255
+                <font color="#aaaaaa">I HATE SECRETS.</font>
+
+349
+00:19:16,288 --> 00:19:19,024
+<font color="#aaaaaa">WE ALL HAVE THEM.</font>
+
+350
+00:19:21,109 --> 00:19:24,496
+    <font color="#aaaaaa">WELL, THEN TELL ME, DEXTER.</font>
+
+351
+00:19:24,530 --> 00:19:26,865
+              <font color="#aaaaaa">HOW AM I SUPPOSED</font>
+             <font color="#aaaaaa">TO LIVE WITH THIS?</font>
+
+352
+00:19:26,866 --> 00:19:32,588
+<font color="#aaaaaa">YOU JUST DO.</font>
+
+353
+00:19:32,621 --> 00:19:36,775
+<font color="#aaaaaa">CAN I GET AN EVERYTHING BURRITO</font>
+           <font color="#aaaaaa">AND A SIDE OF BEANS,</font>
+
+354
+00:19:36,808 --> 00:19:38,944
+        <font color="#aaaaaa">MAYBE A LITTLE BIT OF--</font>
+
+355
+00:19:38,977 --> 00:19:40,729
+<font color="#aaaaaa"> <i>ANTON.</font></i>
+
+356
+00:19:40,762 --> 00:19:42,514
+<font color="#aaaaaa">HEY.</font>
+                            <font color="#aaaaaa"> <i>HI.</font></i>
+
+357
+00:19:42,548 --> 00:19:44,183
+<font color="#aaaaaa">YOU'RE HERE.</font>
+                           <font color="#aaaaaa">YEAH.</font>
+
+358
+00:19:44,216 --> 00:19:45,951
+<font color="#aaaaaa">YEAH, I WAS JUST, UM, PICKING UP</font>
+     <font color="#aaaaaa">SOME THINGS FROM EVIDENCE.</font>
+
+359
+00:19:45,984 --> 00:19:47,686
+              <font color="#aaaaaa">MY WALLET, WATCH,</font>
+                     <font color="#aaaaaa">CHAPSTICK.</font>
+
+360
+00:19:47,719 --> 00:19:48,854
+<font color="#aaaaaa">I COULD'VE BROUGHT</font>
+<font color="#aaaaaa">THAT TO YOU.</font>
+
+361
+00:19:48,887 --> 00:19:50,422
+                 <font color="#aaaaaa">OH, IT'S COOL.</font>
+           <font color="#aaaaaa">IT'S COOL, I GOT IT.</font>
+
+362
+00:19:50,455 --> 00:19:53,192
+              <font color="#aaaaaa">SO HOW YOU DOING?</font>
+
+363
+00:19:53,225 --> 00:19:55,244
+<font color="#aaaaaa">I'M ALL RIGHT.</font>
+                           <font color="#aaaaaa">GOOD.</font>
+
+364
+00:19:55,277 --> 00:19:56,945
+<font color="#aaaaaa">OH, BUT--</font>
+
+365
+00:19:56,979 --> 00:19:58,747
+<font color="#aaaaaa">LOOKS LIKE I'M GONNA</font>
+<font color="#aaaaaa">GET MY DETECTIVE SHIELD.</font>
+
+366
+00:19:58,780 --> 00:20:00,799
+                    <font color="#aaaaaa">DEBRA, WOW,</font>
+                  <font color="#aaaaaa">THAT'S GREAT.</font>
+
+367
+00:20:00,832 --> 00:20:02,568
+<font color="#aaaaaa">THANK YOU.</font>
+                <font color="#aaaaaa">CONGRATULATIONS.</font>
+
+368
+00:20:02,618 --> 00:20:04,303
+                   <font color="#aaaaaa">THAT'S GOOD.</font>
+                   <font color="#aaaaaa">THAT'S GOOD.</font>
+
+369
+00:20:04,336 --> 00:20:05,837
+<font color="#aaaaaa">YOU WANNA GET SOME CO--</font>
+           <font color="#aaaaaa">I SHOULD PROBABLY GO.</font>
+
+370
+00:20:05,871 --> 00:20:07,122
+<font color="#aaaaaa">OKAY.</font>
+
+371
+00:20:07,155 --> 00:20:08,123
+                   <font color="#aaaaaa">I'LL SEE YA.</font>
+
+372
+00:20:08,156 --> 00:20:10,609
+         <font color="#aaaaaa">I'LL SEE YOU.</font>
+
+373
+00:20:15,080 --> 00:20:18,050
+        <font color="#aaaaaa">[ominous music]</font>
+
+374
+00:20:18,083 --> 00:20:20,636
+              <font color="#aaaaaa">&l &l</font>
+
+375
+00:20:20,669 --> 00:20:23,555
+          <font color="#aaaaaa">[thinking]</font>
+    <font color="#aaaaaa">I STOPPED AT FOUR BARS,</font>
+    <font color="#aaaaaa">GOT A NEW APPRECIATION</font>
+
+376
+00:20:23,589 --> 00:20:26,258
+    <font color="#aaaaaa">FOR HOW MANY ALCOHOLICS</font>
+      <font color="#aaaaaa">THERE ARE IN MIAMI.</font>
+
+377
+00:20:26,308 --> 00:20:28,310
+      <font color="#aaaaaa">BUT STILL NO RAMON.</font>
+
+378
+00:20:39,605 --> 00:20:40,872
+<font color="#aaaaaa">MORGAN.</font>
+
+379
+00:20:40,906 --> 00:20:41,907
+                     <font color="#aaaaaa">WHAT'S UP?</font>
+
+380
+00:20:46,912 --> 00:20:49,748
+<font color="#aaaaaa">I JUST FOUND OUT</font>
+<font color="#aaaaaa">FROM THE A.D.A.'S OFFICE</font>
+
+381
+00:20:49,781 --> 00:20:51,283
+<font color="#aaaaaa">THAT THEY'RE</font>
+<font color="#aaaaaa">REQUESTING LOGS</font>
+
+382
+00:20:51,316 --> 00:20:53,652
+<font color="#aaaaaa">FROM THE ANTON BRIGGS</font>
+<font color="#aaaaaa">SURVEILLANCE DETAIL.</font>
+
+383
+00:20:53,685 --> 00:20:58,023
+<font color="#aaaaaa">NOW, I DIDN'T KNOW WHY</font>
+<font color="#aaaaaa">UNTIL I READ 'EM.</font>
+
+384
+00:20:58,056 --> 00:21:01,660
+<font color="#aaaaaa">YOU SLEPT</font>
+<font color="#aaaaaa">WITH OUR KEY WITNESS?</font>
+
+385
+00:21:01,693 --> 00:21:02,861
+                   <font color="#aaaaaa">THE A.D.A.'S</font>
+               <font color="#aaaaaa">LOOKING INTO IT?</font>
+
+386
+00:21:02,894 --> 00:21:05,297
+<font color="#aaaaaa">MIGUEL PRADO WAS.</font>
+
+387
+00:21:05,347 --> 00:21:08,684
+<font color="#aaaaaa">I DON'T KNOW WHAT</font>
+<font color="#aaaaaa">THE STATUS OF IT IS NOW.</font>
+
+388
+00:21:08,717 --> 00:21:09,968
+<font color="#aaaaaa">BUT IT'S A CONFLICT.</font>
+
+389
+00:21:10,018 --> 00:21:12,304
+<font color="#aaaaaa">AND YOU SHOULD HAVE</font>
+<font color="#aaaaaa">GIVEN ME THE HEADS UP.</font>
+
+390
+00:21:12,305 --> 00:21:15,274
+<font color="#aaaaaa"> <i>ESPECIALLY BEFORE I SENT</font></i>
+
+391
+00:21:15,307 --> 00:21:17,693
+<font color="#aaaaaa">MY RECOMMENDATION</font>
+<font color="#aaaaaa">TO LAGUERTA FOR YOUR SHIELD.</font>
+
+392
+00:21:17,726 --> 00:21:19,144
+     <font color="#aaaaaa">YOU'RE GONNA SPIKE IT NOW?</font>
+
+393
+00:21:22,314 --> 00:21:23,732
+<font color="#aaaaaa">BUT SHE DESERVES</font>
+<font color="#aaaaaa">FULL DISCLOSURE.</font>
+
+394
+00:21:25,784 --> 00:21:27,903
+                    <font color="#aaaaaa">DISCLOSURE?</font>
+                 <font color="#aaaaaa">REALLY, SARGE?</font>
+
+395
+00:21:27,953 --> 00:21:29,488
+               <font color="#aaaaaa">DID YOU DISCLOSE</font>
+            <font color="#aaaaaa">THAT YOU MET GIANNA</font>
+
+396
+00:21:29,538 --> 00:21:30,622
+           <font color="#aaaaaa">BECAUSE YOU WERE OUT</font>
+        <font color="#aaaaaa">STROLLING FOR A HOOKER?</font>
+
+397
+00:21:30,656 --> 00:21:34,710
+<font color="#aaaaaa">WHERE DID YOU HEAR THAT?</font>
+
+398
+00:21:34,743 --> 00:21:36,495
+                     <font color="#aaaaaa">I--</font>
+
+399
+00:21:36,545 --> 00:21:38,797
+<font color="#aaaaaa">WHERE'D YOU HEAR THAT?</font>
+
+400
+00:21:38,830 --> 00:21:41,049
+        <font color="#aaaaaa">I KNOW SOMEONE IN VICE.</font>
+
+401
+00:21:41,083 --> 00:21:42,834
+              <font color="#aaaaaa"> <i>I'M THE ONLY ONE</font></i>
+          <font color="#aaaaaa"> <i>THAT KNOWS, I THINK.</font></i>
+
+402
+00:21:42,884 --> 00:21:44,636
+                  <font color="#aaaaaa">IT'S NOT EVEN</font>
+            <font color="#aaaaaa">THAT BIG OF A DEAL.</font>
+
+403
+00:21:44,670 --> 00:21:48,006
+                    <font color="#aaaaaa">FUCK, FUCK!</font>
+         <font color="#aaaaaa">I AM SORRY. I'M SORRY.</font>
+
+404
+00:21:52,594 --> 00:21:54,730
+<font color="#aaaaaa">IT'S JUST MY CHICKENS</font>
+<font color="#aaaaaa">COMING HOME TO ROOST.</font>
+
+405
+00:21:58,016 --> 00:22:00,686
+                <font color="#aaaaaa">OH, FUCK. FUCK.</font>
+
+406
+00:22:10,362 --> 00:22:11,963
+    <font color="#aaaaaa">I MET DETECTIVE GIANNA</font>
+
+407
+00:22:11,997 --> 00:22:14,049
+   <font color="#aaaaaa">WHILE SEEKING THE COMFORT</font>
+        <font color="#aaaaaa">OF PROSTITUTES.</font>
+
+408
+00:22:14,082 --> 00:22:15,417
+                     <font color="#aaaaaa">'SCUSE ME?</font>
+
+409
+00:22:15,450 --> 00:22:17,753
+<font color="#aaaaaa">I PROPOSITIONED HER.</font>
+
+410
+00:22:17,786 --> 00:22:20,288
+<font color="#aaaaaa">SHE REVEALED TO ME</font>
+<font color="#aaaaaa">TO BE POLICE.</font>
+
+411
+00:22:20,322 --> 00:22:22,457
+<font color="#aaaaaa">SHE HAD MERCY ON ME;</font>
+<font color="#aaaaaa">SHE LET ME OFF WITH A WARNING.</font>
+
+412
+00:22:22,491 --> 00:22:25,043
+<font color="#aaaaaa">IT WAS A DARK TIME FOR ME.</font>
+
+413
+00:22:25,044 --> 00:22:27,763
+<font color="#aaaaaa">I COMPLETELY UNDERSTAND IF YOU</font>
+<font color="#aaaaaa">WANNA PURSUE A CASE AGAINST ME.</font>
+
+414
+00:22:27,796 --> 00:22:30,832
+                   <font color="#aaaaaa">AS CASES GO,</font>
+
+415
+00:22:30,866 --> 00:22:32,434
+                 <font color="#aaaaaa">LAYING YOU OUT</font>
+    <font color="#aaaaaa">FOR THINKING WITH YOUR DICK</font>
+
+416
+00:22:32,467 --> 00:22:34,002
+                  <font color="#aaaaaa">IS PRETTY LOW</font>
+      <font color="#aaaaaa">ON MY LIST OF PRIORITIES.</font>
+
+417
+00:22:34,036 --> 00:22:37,923
+<font color="#aaaaaa">ACTUALLY, I WAS LOOKING</font>
+<font color="#aaaaaa">FOR SIMPLE HUMAN CONNECTION.</font>
+
+418
+00:22:37,956 --> 00:22:39,858
+<font color="#aaaaaa">NO. RIGHT.</font>
+
+419
+00:22:39,891 --> 00:22:43,295
+<font color="#aaaaaa"> <i>YOU'RE RIGHT.</font></i>
+
+420
+00:22:43,328 --> 00:22:45,564
+  <font color="#aaaaaa">WE ALL HAVE SECRETS WE PREFER</font>
+           <font color="#aaaaaa">NOT TO SHARE, ANGEL.</font>
+
+421
+00:22:45,565 --> 00:22:48,367
+                     <font color="#aaaaaa">SKELETONS.</font>
+
+422
+00:22:48,400 --> 00:22:51,653
+              <font color="#aaaaaa">FEEL FREE TO KEEP</font>
+           <font color="#aaaaaa">YOURS IN THE CLOSET.</font>
+
+423
+00:22:51,703 --> 00:22:52,654
+            <font color="#aaaaaa">DEEP IN THE CLOSET.</font>
+
+424
+00:22:52,704 --> 00:22:53,705
+<font color="#aaaaaa">THANKS, MARIA.</font>
+
+425
+00:22:53,739 --> 00:22:54,873
+                        <font color="#aaaaaa">MM-HMM.</font>
+
+426
+00:22:54,906 --> 00:22:58,326
+<font color="#aaaaaa">THERE'S SOMETHING ELSE</font>
+<font color="#aaaaaa">YOU SHOULD HEAR FROM ME</font>
+
+427
+00:22:58,377 --> 00:22:59,578
+<font color="#aaaaaa">INSTEAD OF THE GRAPEVINE.</font>
+
+428
+00:22:59,628 --> 00:23:02,047
+           <font color="#aaaaaa">ANGEL, HOW--HOW DARK</font>
+            <font color="#aaaaaa">OF A TIME WAS THIS?</font>
+
+429
+00:23:02,080 --> 00:23:05,717
+<font color="#aaaaaa">IT'S REGARDING MY RECOMMENDATION</font>
+<font color="#aaaaaa">OF DEBRA MORGAN FOR DETECTIVE.</font>
+
+430
+00:23:16,344 --> 00:23:19,314
+        <font color="#aaaaaa">[ominous music]</font>
+
+431
+00:23:19,347 --> 00:23:25,587
+              <font color="#aaaaaa">&l &l</font>
+
+432
+00:23:25,620 --> 00:23:27,189
+           <font color="#aaaaaa"> <i>(Astor)</font></i>
+     <font color="#aaaaaa"> <i>SO, WHEN YOU AND MOM</font></i>
+         <font color="#aaaaaa"> <i>GET MARRIED,</font></i>
+
+433
+00:23:27,239 --> 00:23:29,024
+   <font color="#aaaaaa"> <i>WHAT SHOULD WE CALL YOU?</font></i>
+
+434
+00:23:29,057 --> 00:23:30,809
+           <font color="#aaaaaa"> <i>(Dexter)</font></i>
+   <font color="#aaaaaa"> <i>UM, I THINK MR. HANDSOME</font></i>
+
+435
+00:23:30,842 --> 00:23:32,277
+          <font color="#aaaaaa">WOULD BE A GOOD NAME.</font>
+
+436
+00:23:32,327 --> 00:23:33,695
+    <font color="#aaaaaa">[both giggle]</font>
+
+437
+00:23:37,949 --> 00:23:39,785
+          <font color="#aaaaaa">[thinking]</font>
+      <font color="#aaaaaa">IS THAT YOU, RAMON?</font>
+
+438
+00:23:39,835 --> 00:23:41,586
+      <font color="#aaaaaa">UH, YOU CAN CALL ME</font>
+      <font color="#aaaaaa">WHATEVER YOU WANT.</font>
+
+439
+00:23:41,620 --> 00:23:44,456
+             <font color="#aaaaaa">I THINK WE'LL JUST</font>
+               <font color="#aaaaaa">CALL YOU DEXTER.</font>
+
+440
+00:23:44,506 --> 00:23:47,709
+       <font color="#aaaaaa">THAT SOUNDS GOOD.</font>
+
+441
+00:23:51,179 --> 00:23:52,664
+          <font color="#aaaaaa">[thinking]</font>
+         <font color="#aaaaaa">FOLLOWING ME</font>
+
+442
+00:23:52,697 --> 00:23:54,466
+     <font color="#aaaaaa">WITH KIDS IN MY CAR?</font>
+
+443
+00:23:54,516 --> 00:23:56,001
+<font color="#aaaaaa">NOW YOU'RE JUST PISSING ME OFF.</font>
+
+444
+00:24:00,639 --> 00:24:01,923
+       <font color="#aaaaaa">MOMENT OF TRUTH.</font>
+
+445
+00:24:01,957 --> 00:24:04,142
+<font color="#aaaaaa">STOP OR GET A TICKET, ASSHOLE.</font>
+
+446
+00:24:06,678 --> 00:24:07,646
+<font color="#aaaaaa">[horn honks]</font>
+
+447
+00:24:07,679 --> 00:24:09,548
+      <font color="#aaaaaa">[tires screeching]</font>
+
+448
+00:24:11,366 --> 00:24:12,868
+   <font color="#aaaaaa">DID YOU SEE THAT, DEXTER?</font>
+
+449
+00:24:12,901 --> 00:24:17,823
+   <font color="#aaaaaa">YEAH, THAT'S WHAT HAPPENS</font>
+<font color="#aaaaaa">WHEN DRIVERS DO STUPID THINGS.</font>
+
+450
+00:24:26,131 --> 00:24:30,051
+  <font color="#aaaaaa">LOOKS LIKE HE'S OKAY ENOUGH</font>
+         <font color="#aaaaaa">TO WALK AWAY.</font>
+
+451
+00:24:32,003 --> 00:24:34,756
+          <font color="#aaaaaa">[thinking]</font>
+  <font color="#aaaaaa">UNTIL I GET A HOLD OF HIM.</font>
+
+452
+00:24:34,806 --> 00:24:37,676
+            <font color="#aaaaaa"> <i>(Rita)</font></i>
+<font color="#aaaaaa"> <i>THIS IS GONNA BE A NICE DINNER.</font></i>
+
+453
+00:24:37,726 --> 00:24:40,312
+           <font color="#aaaaaa">THANK YOU</font>
+    <font color="#aaaaaa">FOR DOING THIS, DEXTER.</font>
+
+454
+00:24:40,345 --> 00:24:43,348
+         <font color="#aaaaaa">JUST DOING WHAT GROOMS</font>
+            <font color="#aaaaaa">ARE SUPPOSED TO DO.</font>
+
+455
+00:24:43,381 --> 00:24:46,151
+  <font color="#aaaaaa">SO HOW ARE YOU COMING ALONG</font>
+        <font color="#aaaaaa">WITH YOUR VOWS?</font>
+
+456
+00:24:46,184 --> 00:24:47,853
+          <font color="#aaaaaa">STILL WORKING ON 'EM.</font>
+
+457
+00:24:47,886 --> 00:24:50,155
+                     <font color="#aaaaaa">[thinking]</font>
+       <font color="#aaaaaa">I'M GOING TO LOB THIS IN</font>
+                 <font color="#aaaaaa">NICE AND EASY.</font>
+
+458
+00:24:50,188 --> 00:24:52,357
+   <font color="#aaaaaa">WHAT KIND OF VOWS DID YOU DO</font>
+         <font color="#aaaaaa">THE FIRST TIME AROUND?</font>
+
+459
+00:24:52,358 --> 00:24:54,693
+<font color="#aaaaaa">THE FIRST TIME?</font>
+
+460
+00:24:54,694 --> 00:24:58,063
+<font color="#aaaaaa">WELL, PAUL AND I JUST RECITED</font>
+<font color="#aaaaaa">WHATEVER THE PASTOR SAID.</font>
+
+461
+00:24:58,096 --> 00:25:00,832
+                     <font color="#aaaaaa">[thinking]</font>
+                    <font color="#aaaaaa">LIAR, LIAR,</font>
+                 <font color="#aaaaaa">PANTS ON FIRE.</font>
+
+462
+00:25:00,866 --> 00:25:03,201
+         <font color="#aaaaaa">MAITRE D' SAID WE'D BE</font>
+          <font color="#aaaaaa">SEATED IN 15 MINUTES.</font>
+
+463
+00:25:09,875 --> 00:25:14,629
+         <font color="#aaaaaa">UN-FUCKING-BELIEVABLE.</font>
+
+464
+00:25:14,679 --> 00:25:16,264
+<font color="#aaaaaa">RAMON, WHY DON'T WE GO OUTSIDE</font>
+<font color="#aaaaaa">AND TALK ABOUT THIS.</font>
+
+465
+00:25:16,298 --> 00:25:17,616
+                      <font color="#aaaaaa">FUCK YOU.</font>
+
+466
+00:25:17,649 --> 00:25:19,551
+ <font color="#aaaaaa">YOU DON'T TELL ME WHAT TO DO.</font>
+
+467
+00:25:19,601 --> 00:25:20,886
+<font color="#aaaaaa"> <i>(Dexter)</font></i>
+<font color="#aaaaaa"> <i>LOOK, THESE PEOPLE HAVE</font></i>
+<font color="#aaaaaa"> <i>NOTHING TO DO WITH THIS.</font></i>
+
+468
+00:25:22,604 --> 00:25:23,722
+          <font color="#aaaaaa">[gun cocks]</font>
+
+469
+00:25:23,723 --> 00:25:26,057
+          <font color="#aaaaaa">I SHOULD PUT A BULLET</font>
+                  <font color="#aaaaaa">IN YOUR HEAD.</font>
+
+470
+00:25:26,058 --> 00:25:27,943
+        <font color="#aaaaaa"> <i>IN FRONT OF EVERYBODY.</font></i>
+
+471
+00:25:27,976 --> 00:25:30,111
+        <font color="#aaaaaa">SO THEY CAN SEE</font>
+<font color="#aaaaaa">WHAT IT'S LIKE TO LOSE SOMEONE.</font>
+
+472
+00:25:32,480 --> 00:25:34,799
+         <font color="#aaaaaa">RAMON.</font>
+
+473
+00:25:34,833 --> 00:25:36,902
+       <font color="#aaaaaa">COME ON, YOU NEED</font>
+      <font color="#aaaaaa">TO PUT THE GUN DOWN</font>
+
+474
+00:25:36,903 --> 00:25:37,903
+   <font color="#aaaaaa"> <i>BEFORE ANYONE GETS HURT.</font></i>
+
+475
+00:25:37,904 --> 00:25:38,904
+                       <font color="#aaaaaa"> <i>(Debra)</font></i>
+              <font color="#aaaaaa"> <i>FREEZE, ASSHOLE.</font></i>
+
+476
+00:25:38,954 --> 00:25:41,072
+           <font color="#aaaaaa">OHH! AAH!</font>
+
+477
+00:25:41,106 --> 00:25:43,458
+           <font color="#aaaaaa">OHH! UHH!</font>
+
+478
+00:25:43,491 --> 00:25:44,910
+        <font color="#aaaaaa"> <i>GET YOUR HANDS</font></i>
+          <font color="#aaaaaa"> <i>OFF OF ME!</font></i>
+
+479
+00:25:44,960 --> 00:25:46,077
+       <font color="#aaaaaa">I WILL, AS SOON AS I GET</font>
+
+480
+00:25:46,078 --> 00:25:48,213
+           <font color="#aaaaaa">SOME OF YOUR SHERIFF</font>
+             <font color="#aaaaaa">BUDDIES DOWN HERE!</font>
+
+481
+00:25:54,603 --> 00:25:55,837
+<font color="#aaaaaa">THANK YOU.</font>
+
+482
+00:25:57,839 --> 00:25:59,107
+<font color="#aaaaaa"> <i>THEY ALL SAY</font></i>
+<font color="#aaaaaa"> <i>THE SAME THING.</font></i>
+
+483
+00:25:59,140 --> 00:26:01,226
+<font color="#aaaaaa">"KING WAS A VERY</font>
+<font color="#aaaaaa">POLITE GARDENER.</font>
+
+484
+00:26:01,259 --> 00:26:02,427
+<font color="#aaaaaa">I CAN'T BELIEVE</font>
+<font color="#aaaaaa">HE'S THE SKINNER."</font>
+
+485
+00:26:02,428 --> 00:26:04,479
+    <font color="#aaaaaa">I HATE POLITE KILLERS.</font>
+
+486
+00:26:04,512 --> 00:26:06,531
+     <font color="#aaaaaa">I HEARD YOU TOOK DOWN</font>
+    <font color="#aaaaaa">RAMON PRADO LAST NIGHT.</font>
+
+487
+00:26:06,565 --> 00:26:07,799
+<font color="#aaaaaa">AGAIN.</font>
+
+488
+00:26:07,832 --> 00:26:09,267
+<font color="#aaaaaa">YEAH, THE PRADOS</font>
+<font color="#aaaaaa">MUST LOVE ME.</font>
+                   <font color="#aaaaaa">[phone rings]</font>
+
+489
+00:26:09,268 --> 00:26:11,586
+<font color="#aaaaaa">MORGAN.</font>
+
+490
+00:26:11,620 --> 00:26:13,154
+      <font color="#aaaaaa">YOU GONNA EAT THAT?</font>
+
+491
+00:26:13,188 --> 00:26:14,773
+     <font color="#aaaaaa">NOT ANYMORE, THANKS.</font>
+
+492
+00:26:14,774 --> 00:26:16,608
+<font color="#aaaaaa">THAT WAS ROBBERY.</font>
+
+493
+00:26:16,658 --> 00:26:18,410
+<font color="#aaaaaa"> <i>THERE WAS A HIT-AND-RUN</font></i>
+<font color="#aaaaaa"> <i>FENDER BENDER</font></i>
+
+494
+00:26:18,443 --> 00:26:19,778
+<font color="#aaaaaa">INVOLVING A STOLEN CAR.</font>
+
+495
+00:26:19,828 --> 00:26:21,279
+<font color="#aaaaaa">TRAFFIC ENFORCEMENT</font>
+<font color="#aaaaaa">CAUGHT THE GUY'S FACE.</font>
+
+496
+00:26:21,280 --> 00:26:24,416
+<font color="#aaaaaa">GUESS WHO.</font>
+
+497
+00:26:24,449 --> 00:26:25,867
+<font color="#aaaaaa">THEY'RE SENDING</font>
+<font color="#aaaaaa">A PHOTO OVER RIGHT NOW.</font>
+
+498
+00:26:30,288 --> 00:26:32,507
+                       <font color="#aaaaaa"> <i>(Quinn)</font></i>
+          <font color="#aaaaaa"> <i>GEORGE FUCKING KING.</font></i>
+
+499
+00:26:32,540 --> 00:26:33,792
+<font color="#aaaaaa"> <i>(Debra)</font></i>
+<font color="#aaaaaa"> <i>GOD, THAT'S DEFINITELY HIM.</font></i>
+
+500
+00:26:33,793 --> 00:26:35,677
+              <font color="#aaaaaa">ROBBERY'S SENDING</font>
+          <font color="#aaaaaa">THE CAR IN RIGHT NOW.</font>
+
+501
+00:26:35,710 --> 00:26:36,678
+<font color="#aaaaaa"> <i>(Masuka)</font></i>
+<font color="#aaaaaa"> <i>I'LL GRAB MY KIT.</font></i>
+
+502
+00:26:36,711 --> 00:26:37,679
+  <font color="#aaaaaa">WE'LL TEAR THAT CAR APART.</font>
+
+503
+00:26:59,150 --> 00:27:01,519
+                   <font color="#aaaaaa">BY THE BOOK,</font>
+                    <font color="#aaaaaa">MR. MORGAN.</font>
+
+504
+00:27:01,553 --> 00:27:04,656
+                <font color="#aaaaaa">IF YOU NEED US,</font>
+<font color="#aaaaaa">WE'RE RIGHT OUTSIDE, LIEUTENANT.</font>
+
+505
+00:27:04,706 --> 00:27:06,574
+<font color="#aaaaaa">THANKS.</font>
+
+506
+00:27:10,078 --> 00:27:11,413
+          <font color="#aaaaaa">HOW'S IT FEEL, RAMON?</font>
+
+507
+00:27:11,463 --> 00:27:12,631
+ <font color="#aaaaaa">HOW THE FUCK DOES WHAT FEEL?</font>
+
+508
+00:27:12,664 --> 00:27:14,966
+                  <font color="#aaaaaa">WAKE UP SOBER</font>
+  <font color="#aaaaaa">FOR THE FIRST TIME IN A WEEK.</font>
+
+509
+00:27:15,000 --> 00:27:16,134
+<font color="#aaaaaa">LIKE SHIT.</font>
+
+510
+00:27:16,167 --> 00:27:17,502
+              <font color="#aaaaaa">YEAH, THAT SHIT'S</font>
+                <font color="#aaaaaa">CALLED REALITY.</font>
+
+511
+00:27:17,552 --> 00:27:19,387
+             <font color="#aaaaaa">IT'S GONNA BE LIFE</font>
+<font color="#aaaaaa">AS YOU KNOW IT FOR A LONG TIME.</font>
+
+512
+00:27:19,421 --> 00:27:22,257
+    <font color="#aaaaaa">I'M GONNA BE OUTTA HERE</font>
+     <font color="#aaaaaa">IN A COUPLE OF DAYS.</font>
+
+513
+00:27:27,812 --> 00:27:30,081
+   <font color="#aaaaaa">ONE LAST COUPON FROM YOUR</font>
+ <font color="#aaaaaa">FAMOUS BROTHER'S REPUTATION.</font>
+
+514
+00:27:30,115 --> 00:27:31,349
+     <font color="#aaaaaa">SOMETHING LIKE THAT.</font>
+
+515
+00:27:31,399 --> 00:27:32,851
+            <font color="#aaaaaa">SO YOU DON'T REALLY</font>
+   <font color="#aaaaaa">HAVE TO BOTHER WITH REALITY.</font>
+
+516
+00:27:32,852 --> 00:27:33,902
+             <font color="#aaaaaa">THAT MUST BE NICE.</font>
+
+517
+00:27:33,935 --> 00:27:36,905
+         <font color="#aaaaaa">YOU KNOW WHAT</font>
+    <font color="#aaaaaa">MY FUCKING REALITY IS?</font>
+
+518
+00:27:36,938 --> 00:27:38,323
+      <font color="#aaaaaa">MIGUEL TAKES ME ON</font>
+        <font color="#aaaaaa">AS A BODYGUARD,</font>
+
+519
+00:27:38,356 --> 00:27:39,324
+      <font color="#aaaaaa">AND I ASK HIM WHY.</font>
+
+520
+00:27:39,357 --> 00:27:41,326
+    <font color="#aaaaaa">YOU KNOW WHAT HE SAYS?</font>
+
+521
+00:27:41,359 --> 00:27:44,796
+   <font color="#aaaaaa">TO PROTECT HIM FROM YOU.</font>
+
+522
+00:27:46,998 --> 00:27:48,667
+        <font color="#aaaaaa">DID HE SAY WHY?</font>
+
+523
+00:27:48,700 --> 00:27:50,285
+              <font color="#aaaaaa">NO.</font>
+
+524
+00:27:50,335 --> 00:27:55,123
+  <font color="#aaaaaa">THE ONLY ONE MIGUEL NEEDED</font>
+ <font color="#aaaaaa">PROTECTION FROM WAS HIMSELF.</font>
+
+525
+00:27:55,173 --> 00:27:57,092
+    <font color="#aaaaaa"> <i>THE MAN WAS PARANOID.</font></i>
+
+526
+00:27:57,125 --> 00:27:59,044
+        <font color="#aaaaaa">THAT'S NOT TRUE.</font>
+                   <font color="#aaaaaa"> <i>THAT'S TRUE.</font></i>
+
+527
+00:27:59,094 --> 00:28:01,713
+ <font color="#aaaaaa">YOU KNOW IT AS WELL AS I DO.</font>
+
+528
+00:28:02,047 --> 00:28:03,682
+  <font color="#aaaaaa">LOOK, I SPENT A LOT OF TIME</font>
+      <font color="#aaaaaa">WITH YOUR BROTHER,</font>
+
+529
+00:28:03,715 --> 00:28:07,886
+      <font color="#aaaaaa">BUT IT WASN'T 24/7;</font>
+<font color="#aaaaaa">I DON'T KNOW WHAT HE WAS UP TO</font>
+
+530
+00:28:07,887 --> 00:28:09,721
+     <font color="#aaaaaa">WHEN I WASN'T AROUND.</font>
+
+531
+00:28:09,722 --> 00:28:11,106
+       <font color="#aaaaaa">NEITHER DOES SYL,</font>
+        <font color="#aaaaaa">NEITHER DO YOU.</font>
+
+532
+00:28:15,026 --> 00:28:18,646
+                 <font color="#aaaaaa">WHAT I DO KNOW</font>
+                       <font color="#aaaaaa">IS THIS:</font>
+
+533
+00:28:21,566 --> 00:28:23,134
+<font color="#aaaaaa">YOU GOT A REALLY UGLY HISTORY.</font>
+
+534
+00:28:23,168 --> 00:28:25,870
+         <font color="#aaaaaa"> <i>KIDNAPPING,</font></i>
+      <font color="#aaaaaa"> <i>BRUTALITY, ABUSE.</font></i>
+
+535
+00:28:25,904 --> 00:28:29,607
+   <font color="#aaaaaa">YOU TRASHED MY APARTMENT,</font>
+       <font color="#aaaaaa">YOU FOLLOWED ME.</font>
+
+536
+00:28:29,641 --> 00:28:31,659
+   <font color="#aaaaaa"> <i>YOU PUT A GUN IN MY FACE</font></i>
+   <font color="#aaaaaa"> <i>IN FRONT OF MY FRIENDS,</font></i>
+
+537
+00:28:31,710 --> 00:28:33,995
+    <font color="#aaaaaa">IN FRONT OF MY PREGNANT</font>
+           <font color="#aaaaaa">FIANCEE.</font>
+
+538
+00:28:34,045 --> 00:28:35,663
+          <font color="#aaaaaa">WHY, RAMON?</font>
+     <font color="#aaaaaa">WHAT'S YOUR ENDGAME?</font>
+
+539
+00:28:35,714 --> 00:28:38,466
+         <font color="#aaaaaa">TO HURT YOU.</font>
+
+540
+00:28:38,500 --> 00:28:42,971
+ <font color="#aaaaaa">UNTIL YOU CAME INTO OUR LIFE,</font>
+     <font color="#aaaaaa">EVERYTHING WAS FINE.</font>
+
+541
+00:28:43,004 --> 00:28:44,372
+        <font color="#aaaaaa">FINE LIKE WHAT?</font>
+
+542
+00:28:44,406 --> 00:28:46,474
+  <font color="#aaaaaa">LIKE OSCAR'S DRUG PROBLEM?</font>
+
+543
+00:28:46,508 --> 00:28:48,710
+   <font color="#aaaaaa">LIKE MIGUEL'S...DARKNESS?</font>
+
+544
+00:28:52,931 --> 00:28:54,733
+ <font color="#aaaaaa">WHAT DO YOU KNOW ABOUT THAT?</font>
+
+545
+00:28:54,766 --> 00:28:56,384
+        <font color="#aaaaaa">WE WERE CLOSE.</font>
+
+546
+00:28:56,418 --> 00:28:57,986
+         <font color="#aaaaaa">MIGUEL AND I.</font>
+      <font color="#aaaaaa">HE TOLD ME THINGS.</font>
+
+547
+00:29:00,105 --> 00:29:02,323
+   <font color="#aaaaaa">HE TOLD ME HOW HE PUSHED</font>
+  <font color="#aaaaaa">YOUR FATHER DOWN THE STAIRS</font>
+
+548
+00:29:02,357 --> 00:29:04,275
+   <font color="#aaaaaa">TO PROTECT OSCAR AND YOU.</font>
+
+549
+00:29:06,611 --> 00:29:08,029
+    <font color="#aaaaaa">AND THAT HE ENJOYED IT.</font>
+
+550
+00:29:10,415 --> 00:29:12,033
+   <font color="#aaaaaa">HE FUCKING TOLD YOU THAT?</font>
+
+551
+00:29:13,451 --> 00:29:15,954
+    <font color="#aaaaaa">IT WAS ME THAT DID THAT</font>
+        <font color="#aaaaaa">TO OUR FATHER.</font>
+
+552
+00:29:16,004 --> 00:29:21,376
+<font color="#aaaaaa"> <i>MIGUEL TOOK IT FROM ME;</font></i>
+<font color="#aaaaaa"> <i>MADE IT HIS STORY.</font></i>
+
+553
+00:29:21,426 --> 00:29:24,379
+ <font color="#aaaaaa">PART OF HIS GOD DAMN LEGEND.</font>
+
+554
+00:29:27,432 --> 00:29:29,551
+         <font color="#aaaaaa">MIGUEL ALWAYS</font>
+      <font color="#aaaaaa">HAD TO BE THE STAR.</font>
+
+555
+00:29:29,601 --> 00:29:32,604
+<font color="#aaaaaa"> <i>HE GOT THE LOOKS,</font></i>
+<font color="#aaaaaa"> <i>THE CHARM,</font></i>
+
+556
+00:29:32,637 --> 00:29:35,190
+<font color="#aaaaaa"> <i>MAYBE EVEN THE BRAINS,</font></i>
+<font color="#aaaaaa"> <i>BUT I GOT THE STRENGTH.</font></i>
+
+557
+00:29:35,223 --> 00:29:38,276
+     <font color="#aaaaaa">I SPENT MY WHOLE LIFE</font>
+  <font color="#aaaaaa">TRYING TO HOLD IT TOGETHER,</font>
+
+558
+00:29:38,309 --> 00:29:40,278
+<font color="#aaaaaa">AND NOW IT'S ALL GONE TO SHIT.</font>
+
+559
+00:29:40,311 --> 00:29:43,348
+      <font color="#aaaaaa">IT DOESN'T HAVE TO.</font>
+
+560
+00:29:43,381 --> 00:29:45,483
+           <font color="#aaaaaa">BULLSHIT.</font>
+
+561
+00:29:45,533 --> 00:29:47,118
+          <font color="#aaaaaa">THOSE CASES</font>
+     <font color="#aaaaaa">YOU'RE TALKING ABOUT,</font>
+
+562
+00:29:47,152 --> 00:29:49,988
+        <font color="#aaaaaa">THE KIDNAPPING,</font>
+       <font color="#aaaaaa">THE BRUTALITY...</font>
+
+563
+00:29:50,038 --> 00:29:52,207
+    <font color="#aaaaaa">THAT WAS ME SWEEPING UP</font>
+   <font color="#aaaaaa">AFTER MIGUEL'S FUCK-UPS.</font>
+
+564
+00:29:54,159 --> 00:29:56,294
+       <font color="#aaaaaa">HE WASN'T MAKING</font>
+     <font color="#aaaaaa">MY PROBLEMS GO AWAY,</font>
+
+565
+00:29:56,327 --> 00:30:00,165
+     <font color="#aaaaaa">I WAS RISKING MY ASS</font>
+         <font color="#aaaaaa">TO COVER HIS.</font>
+
+566
+00:30:00,166 --> 00:30:04,052
+    <font color="#aaaaaa">I KNOW THE FRUSTRATION,</font>
+      <font color="#aaaaaa">THE DISAPPOINTMENT,</font>
+
+567
+00:30:04,085 --> 00:30:06,754
+<font color="#aaaaaa">OF WANTING TO HELP YOUR BROTHER</font>
+    <font color="#aaaaaa">AND NOT BEING ABLE TO.</font>
+
+568
+00:30:13,094 --> 00:30:15,180
+  <font color="#aaaaaa">WHERE'S YOUR SON RIGHT NOW?</font>
+
+569
+00:30:15,230 --> 00:30:18,850
+       <font color="#aaaaaa">SOCCER PRACTICE.</font>
+
+570
+00:30:18,883 --> 00:30:20,518
+        <font color="#aaaaaa">YOUR DAUGHTER?</font>
+
+571
+00:30:20,568 --> 00:30:25,073
+          <font color="#aaaaaa">PRESCHOOL.</font>
+
+572
+00:30:25,106 --> 00:30:27,859
+      <font color="#aaaaaa">WHERE DO THEY THINK</font>
+       <font color="#aaaaaa">THEIR FATHER IS?</font>
+
+573
+00:30:27,909 --> 00:30:33,331
+<font color="#aaaaaa">SARA TOLD THEM SOMETHING.</font>
+<font color="#aaaaaa">I--I DON'T KNOW.</font>
+
+574
+00:30:33,364 --> 00:30:36,534
+       <font color="#aaaaaa">SOMEDAY YOUR KIDS</font>
+      <font color="#aaaaaa">WILL BE OLD ENOUGH</font>
+
+575
+00:30:36,584 --> 00:30:38,920
+       <font color="#aaaaaa">TO SEE THE TRUTH</font>
+        <font color="#aaaaaa">FOR THEMSELVES.</font>
+
+576
+00:30:38,953 --> 00:30:41,539
+       <font color="#aaaaaa">JUST LIKE YOU DID</font>
+       <font color="#aaaaaa">WITH YOUR FATHER.</font>
+
+577
+00:30:41,589 --> 00:30:46,511
+            <font color="#aaaaaa">I KNOW.</font>
+       <font color="#aaaaaa">I'VE BEEN THERE.</font>
+
+578
+00:30:46,544 --> 00:30:48,963
+    <font color="#aaaaaa">THE SINS OF THE FATHER</font>
+         <font color="#aaaaaa">GO ON AND ON,</font>
+
+579
+00:30:49,013 --> 00:30:51,216
+    <font color="#aaaaaa">FROM KID TO KID TO KID.</font>
+
+580
+00:30:51,266 --> 00:30:55,386
+     <font color="#aaaaaa">UNLESS SOMEONE--YOU--</font>
+
+581
+00:30:55,436 --> 00:30:58,439
+     <font color="#aaaaaa">CHOOSES TO END THEM.</font>
+
+582
+00:31:04,646 --> 00:31:06,447
+            <font color="#aaaaaa">[sighs]</font>
+
+583
+00:31:06,481 --> 00:31:09,617
+     <font color="#aaaaaa">I'VE BEEN THERE TOO.</font>
+
+584
+00:31:12,954 --> 00:31:16,708
+          <font color="#aaaaaa">[thinking]</font>
+<font color="#aaaaaa">YOU DON'T ALWAYS HAVE TO DESTROY</font>
+       <font color="#aaaaaa">A WOUNDED ANIMAL.</font>
+
+585
+00:31:16,741 --> 00:31:20,628
+      <font color="#aaaaaa">SOMETIMES YOU JUST</font>
+       <font color="#aaaaaa">REMOVE THE THORN.</font>
+
+586
+00:31:22,797 --> 00:31:25,166
+<font color="#aaaaaa">THOSE DARK LINES...</font>
+
+587
+00:31:25,216 --> 00:31:26,384
+      <font color="#aaaaaa">RETICULATED VEINS.</font>
+
+588
+00:31:26,417 --> 00:31:28,419
+<font color="#aaaaaa">OH, HOLY SHIT,</font>
+<font color="#aaaaaa">IT IS SKIN.</font>
+
+589
+00:31:28,420 --> 00:31:31,089
+               <font color="#aaaaaa">NO, MORE LIKE...</font>
+
+590
+00:31:31,090 --> 00:31:32,090
+                <font color="#aaaaaa">MORE LIKE LEAF.</font>
+
+591
+00:31:32,091 --> 00:31:33,892
+  <font color="#aaaaaa">SO THE ONLY EVIDENCE WE GOT</font>
+
+592
+00:31:33,925 --> 00:31:36,144
+<font color="#aaaaaa">FROM THE CAR THAT SKINNER STOLE</font>
+      <font color="#aaaaaa">IS A FRIGGIN' LEAF?</font>
+
+593
+00:31:36,177 --> 00:31:37,812
+     <font color="#aaaaaa">YOU GOTTA BE FUCKING</font>
+          <font color="#aaaaaa">KIDDING ME.</font>
+
+594
+00:31:37,845 --> 00:31:41,266
+      <font color="#aaaaaa">YUP. TOBACCO LEAF.</font>
+
+595
+00:31:41,267 --> 00:31:43,985
+           <font color="#aaaaaa">TOBACCO?</font>
+
+596
+00:31:46,271 --> 00:31:48,690
+          <font color="#aaaaaa">FUCKIN'-A,</font>
+       <font color="#aaaaaa">WASN'T THERE A--</font>
+
+597
+00:31:48,740 --> 00:31:50,325
+<font color="#aaaaaa">KING'S, UH,</font>
+<font color="#aaaaaa">FORMER EMPLOYER,</font>
+
+598
+00:31:50,358 --> 00:31:51,409
+            <font color="#aaaaaa"> <i>WHAT WAS THE NAME?</font></i>
+
+599
+00:31:51,442 --> 00:31:53,444
+       <font color="#aaaaaa">THANK YOU, VINCE.</font>
+        <font color="#aaaaaa">YOU'RE WELCOME.</font>
+
+600
+00:31:53,494 --> 00:31:55,530
+<font color="#aaaaaa">CIGAR COMPANY.</font>
+<font color="#aaaaaa">WHAT WAS IT CALLED?</font>
+
+601
+00:31:55,580 --> 00:31:56,748
+             <font color="#aaaaaa">UH...</font>
+
+602
+00:31:59,367 --> 00:32:01,119
+   <font color="#aaaaaa">EL ROYALE CIGAR COMPANY.</font>
+
+603
+00:32:01,169 --> 00:32:02,370
+          <font color="#aaaaaa">IT'S LISTED</font>
+     <font color="#aaaaaa">ON THE FIRST TAX FORM</font>
+
+604
+00:32:02,420 --> 00:32:03,705
+          <font color="#aaaaaa">FILLED OUT</font>
+       <font color="#aaaaaa">BY KING IN 1992.</font>
+
+605
+00:32:03,755 --> 00:32:04,789
+          <font color="#aaaaaa">COME ON, LET'S GO.</font>
+
+606
+00:32:12,714 --> 00:32:13,798
+             <font color="#aaaaaa">WHAT DO YOU THINK?</font>
+
+607
+00:32:13,848 --> 00:32:14,849
+          <font color="#aaaaaa">IT'S GREAT.</font>
+
+608
+00:32:14,882 --> 00:32:16,384
+     <font color="#aaaaaa">THANKS FOR DOING THIS</font>
+        <font color="#aaaaaa">SO FAST, BRUNO.</font>
+
+609
+00:32:16,434 --> 00:32:17,552
+                 <font color="#aaaaaa">HAPPY TO HELP.</font>
+
+610
+00:32:17,602 --> 00:32:19,137
+              <font color="#aaaaaa">NOW, YOU DO THAT.</font>
+
+611
+00:32:19,138 --> 00:32:20,722
+            <font color="#aaaaaa">OKAY.</font>
+                    <font color="#aaaaaa">AND I'LL GET</font>
+                     <font color="#aaaaaa">YOUR SHOES.</font>
+
+612
+00:32:20,772 --> 00:32:24,359
+          <font color="#aaaaaa">ALL RIGHT.</font>
+
+613
+00:32:30,698 --> 00:32:32,000
+            <font color="#aaaaaa">(Harry)</font>
+  <font color="#aaaaaa">REMEMBER WHAT I TAUGHT YOU.</font>
+
+614
+00:32:32,033 --> 00:32:34,836
+      <font color="#aaaaaa">HOW COULD I FORGET?</font>
+
+615
+00:32:34,869 --> 00:32:38,406
+<font color="#aaaaaa">MOM'S FUNERAL.</font>
+
+616
+00:32:38,456 --> 00:32:39,874
+                  <font color="#aaaaaa">THE RABBIT...</font>
+
+617
+00:32:39,907 --> 00:32:42,327
+             <font color="#aaaaaa">HOPS OVER THE LOG.</font>
+
+618
+00:32:42,328 --> 00:32:45,213
+<font color="#aaaaaa">YOUR MOTHER WOULD BE SO PROUD.</font>
+
+619
+00:32:45,246 --> 00:32:48,549
+                 <font color="#aaaaaa"> <i>BOTH OF THEM.</font></i>
+
+620
+00:32:48,583 --> 00:32:52,253
+              <font color="#aaaaaa">THE RABBIT CRAWLS</font>
+                 <font color="#aaaaaa">UNDER THE LOG.</font>
+
+621
+00:32:52,303 --> 00:32:55,840
+<font color="#aaaaaa">THE RABBIT RUNS</font>
+<font color="#aaaaaa">AROUND THE LOG...</font>
+
+622
+00:32:55,890 --> 00:32:57,008
+                 <font color="#aaaaaa">ONE MORE TIME,</font>
+
+623
+00:32:57,009 --> 00:33:01,062
+            <font color="#aaaaaa">BECAUSE HE'S TRYING</font>
+           <font color="#aaaaaa">TO OUTSMART THE FOX.</font>
+
+624
+00:33:01,095 --> 00:33:03,014
+<font color="#aaaaaa">THE RABBIT...</font>
+
+625
+00:33:03,047 --> 00:33:06,901
+<font color="#aaaaaa">DIVES THROUGH</font>
+<font color="#aaaaaa">HIS RABBIT HOLE.</font>
+
+626
+00:33:06,934 --> 00:33:10,938
+        <font color="#aaaaaa">SAFE AND SOUND.</font>
+
+627
+00:33:13,324 --> 00:33:15,827
+        <font color="#aaaaaa">SAFE AND SOUND.</font>
+
+628
+00:33:15,860 --> 00:33:20,031
+                <font color="#aaaaaa">SAFE AND SOUND.</font>
+
+629
+00:33:25,586 --> 00:33:26,871
+<font color="#aaaaaa"> <i>(Batista)</font></i>
+<font color="#aaaaaa"> <i>WHAT'S THIS?</font></i>
+
+630
+00:33:26,872 --> 00:33:28,022
+  <font color="#aaaaaa">ALL WE GOT OUT OF SEARCHING</font>
+      <font color="#aaaaaa">THE CIGAR FACTORY.</font>
+
+631
+00:33:28,056 --> 00:33:29,090
+                    <font color="#aaaaaa">TOTAL WASTE</font>
+                       <font color="#aaaaaa">OF TIME.</font>
+
+632
+00:33:29,123 --> 00:33:30,491
+<font color="#aaaaaa">NO SIGN OF KING?</font>
+
+633
+00:33:30,525 --> 00:33:32,093
+  <font color="#aaaaaa">THE SECURITY GUARD'S THERE</font>
+       <font color="#aaaaaa">'ROUND THE CLOCK.</font>
+
+634
+00:33:32,126 --> 00:33:35,246
+  <font color="#aaaaaa">NO WAY KING GETS IN OR OUT.</font>
+
+635
+00:33:35,279 --> 00:33:38,232
+     <font color="#aaaaaa">[Cuban guitar music]</font>
+
+636
+00:33:38,266 --> 00:33:39,467
+              <font color="#aaaaaa">&l &l</font>
+
+637
+00:33:39,500 --> 00:33:43,388
+          <font color="#aaaaaa">[thinking]</font>
+  <font color="#aaaaaa">TOMORROW IS MY WEDDING DAY.</font>
+
+638
+00:33:43,389 --> 00:33:46,474
+  <font color="#aaaaaa">SOME MEN WOULD BE EXCITED.</font>
+
+639
+00:33:46,524 --> 00:33:49,694
+        <font color="#aaaaaa">OTHERS PANICKY.</font>
+
+640
+00:33:49,727 --> 00:33:52,030
+              <font color="#aaaaaa">ME?</font>
+
+641
+00:33:52,063 --> 00:33:54,782
+        <font color="#aaaaaa">I FEEL...CALM.</font>
+
+642
+00:33:56,734 --> 00:33:57,702
+           <font color="#aaaaaa">[grunts]</font>
+
+643
+00:34:05,159 --> 00:34:06,577
+      <font color="#aaaaaa">WHAT ARE YOU DOING</font>
+      <font color="#aaaaaa">HERE ON A SATURDAY?</font>
+
+644
+00:34:06,578 --> 00:34:08,579
+           <font color="#aaaaaa">OH, HEY.</font>
+
+645
+00:34:08,629 --> 00:34:11,215
+   <font color="#aaaaaa">I'M JUST, UH, REANALYZING</font>
+     <font color="#aaaaaa">SOME OF THE EVIDENCE</font>
+
+646
+00:34:11,249 --> 00:34:12,717
+    <font color="#aaaaaa">FROM KING'S STOLEN CAR.</font>
+
+647
+00:34:12,750 --> 00:34:15,720
+        <font color="#aaaaaa">[ominous music]</font>
+
+648
+00:34:15,753 --> 00:34:20,675
+              <font color="#aaaaaa">&l &l</font>
+
+649
+00:34:20,725 --> 00:34:23,928
+  <font color="#aaaaaa">FRANCIS, YOU CAME THROUGH.</font>
+
+650
+00:34:23,978 --> 00:34:25,146
+<font color="#aaaaaa"> <i>[door opens]</font></i>
+
+651
+00:34:25,179 --> 00:34:26,180
+<font color="#aaaaaa"> <i>(Laguerta)</font></i>
+<font color="#aaaaaa"> <i>MORGAN.</font></i>
+
+652
+00:34:26,230 --> 00:34:28,816
+<font color="#aaaaaa">GLAD YOU'RE HERE.</font>
+<font color="#aaaaaa">I WANNA TALK TO YOU.</font>
+
+653
+00:34:28,850 --> 00:34:30,401
+<font color="#aaaaaa">OH, SHIT.</font>
+
+654
+00:34:30,435 --> 00:34:33,104
+<font color="#aaaaaa">I DIDN'T KNOW SHE WAS HERE.</font>
+
+655
+00:34:33,105 --> 00:34:34,405
+<font color="#aaaaaa">DID I SAY ANYTHING</font>
+<font color="#aaaaaa">BAD ABOUT HER?</font>
+
+656
+00:34:34,439 --> 00:34:39,527
+             <font color="#aaaaaa">YOU'RE NOT THE ONE</font>
+              <font color="#aaaaaa">SHE'S GONNA REAM.</font>
+
+657
+00:34:47,118 --> 00:34:48,836
+           <font color="#aaaaaa">[knocks]</font>
+
+658
+00:34:48,870 --> 00:34:51,539
+             <font color="#aaaaaa">SIT.</font>
+
+659
+00:34:51,572 --> 00:34:53,791
+    <font color="#aaaaaa">UM...</font>
+
+660
+00:34:55,293 --> 00:34:56,544
+<font color="#aaaaaa">THAT'S OKAY.</font>
+
+661
+00:35:00,131 --> 00:35:01,632
+            <font color="#aaaaaa">IT SEEMS THE A.D.A.</font>
+                    <font color="#aaaaaa">HAS NOTICED</font>
+
+662
+00:35:01,633 --> 00:35:03,217
+             <font color="#aaaaaa">THAT YOUR PERSONAL</font>
+         <font color="#aaaaaa">AND PROFESSIONAL LIVES</font>
+
+663
+00:35:03,267 --> 00:35:04,218
+                 <font color="#aaaaaa">ARE COLLIDING.</font>
+
+664
+00:35:04,268 --> 00:35:06,971
+<font color="#aaaaaa">ALL RIGHT.</font>
+
+665
+00:35:07,021 --> 00:35:10,858
+<font color="#aaaaaa">LISTEN, ANTON WASN'T OFFICIALLY</font>
+<font color="#aaaaaa">A C.I. WHEN THAT HAPPENED.</font>
+
+666
+00:35:10,892 --> 00:35:15,196
+    <font color="#aaaaaa">SO IT WAS A ONE-TIME THING?</font>
+
+667
+00:35:15,229 --> 00:35:17,031
+   <font color="#aaaaaa">NO.</font>
+
+668
+00:35:17,064 --> 00:35:19,117
+                <font color="#aaaaaa">STILL GOING ON?</font>
+
+669
+00:35:21,285 --> 00:35:23,154
+<font color="#aaaaaa">I'M NOT SURE.</font>
+
+670
+00:35:23,204 --> 00:35:25,123
+             <font color="#aaaaaa">DO YOU WANT IT TO?</font>
+
+671
+00:35:29,210 --> 00:35:32,330
+<font color="#aaaaaa">I DON'T KNOW. HE COULD BE</font>
+<font color="#aaaaaa">A KEY WITNESS IN MY CASE.</font>
+
+672
+00:35:32,380 --> 00:35:36,384
+                   <font color="#aaaaaa">DOESN'T HAVE</font>
+               <font color="#aaaaaa">TO BE YOUR CASE.</font>
+
+673
+00:35:36,417 --> 00:35:42,006
+<font color="#aaaaaa">YOU KNOW WHAT.</font>
+
+674
+00:35:42,007 --> 00:35:44,976
+<font color="#aaaaaa">YOU GO AHEAD.</font>
+
+675
+00:35:45,009 --> 00:35:47,011
+<font color="#aaaaaa">YOU TAKE AWAY MY CASE,</font>
+<font color="#aaaaaa">YOU TAKE AWAY MY SHIELD.</font>
+
+676
+00:35:47,061 --> 00:35:50,064
+<font color="#aaaaaa">I DON'T CARE ANYMORE.</font>
+
+677
+00:35:50,097 --> 00:35:52,767
+<font color="#aaaaaa">BECAUSE IT WASN'T</font>
+<font color="#aaaaaa">THE WRONG DECISION.</font>
+
+678
+00:35:52,817 --> 00:35:55,570
+<font color="#aaaaaa">I WANTED TO BE WITH ANTON.</font>
+
+679
+00:35:55,603 --> 00:35:58,773
+<font color="#aaaaaa">I STILL WANT TO BE WITH ANTON.</font>
+
+680
+00:35:58,823 --> 00:36:00,358
+<font color="#aaaaaa">AND THERE IS NO POSSIBLE WAY</font>
+
+681
+00:36:00,359 --> 00:36:02,493
+<font color="#aaaaaa">THAT US BEING TOGETHER</font>
+<font color="#aaaaaa">IS A MISTAKE.</font>
+
+682
+00:36:02,527 --> 00:36:05,163
+         <font color="#aaaaaa">WHICH MEANS YOU'RE NOT</font>
+
+683
+00:36:05,196 --> 00:36:07,081
+               <font color="#aaaaaa">SACRIFICING YOUR</font>
+         <font color="#aaaaaa">PERSONAL LIFE TO WORK.</font>
+
+684
+00:36:11,285 --> 00:36:12,403
+                  <font color="#aaaaaa">GOOD FOR YOU.</font>
+
+685
+00:36:18,626 --> 00:36:22,513
+       <font color="#aaaaaa">CONGRATULATIONS,</font>
+       <font color="#aaaaaa">DETECTIVE MORGAN.</font>
+
+686
+00:36:22,547 --> 00:36:24,882
+           <font color="#aaaaaa">[scoffs]</font>
+
+687
+00:36:24,883 --> 00:36:26,384
+             <font color="#aaaaaa">WHAT?</font>
+
+688
+00:36:26,434 --> 00:36:29,554
+  <font color="#aaaaaa">YOU'RE ONE OF THE SMARTEST,</font>
+       <font color="#aaaaaa">HARDEST WORKING,</font>
+
+689
+00:36:29,555 --> 00:36:32,190
+         <font color="#aaaaaa">MOST ANNOYING</font>
+     <font color="#aaaaaa">PAIN-IN-THE-ASS COPS</font>
+
+690
+00:36:32,223 --> 00:36:33,524
+             <font color="#aaaaaa"> <i>IN MY DEPARTMENT.</font></i>
+
+691
+00:36:33,558 --> 00:36:36,310
+        <font color="#aaaaaa">AND YOU'VE EARNED THIS.</font>
+
+692
+00:36:45,820 --> 00:36:48,239
+<font color="#aaaaaa">WHAT ABOUT THE A.D.A.'S</font>
+<font color="#aaaaaa">ETHICS PROBE?</font>
+
+693
+00:36:53,694 --> 00:36:56,364
+      <font color="#aaaaaa">THE A.D.A. IS DEAD.</font>
+
+694
+00:37:01,769 --> 00:37:03,254
+              <font color="#aaaaaa">TRY ONE OF THESE.</font>
+
+695
+00:37:03,255 --> 00:37:05,223
+         <font color="#aaaaaa">OH!</font>
+
+696
+00:37:05,256 --> 00:37:07,508
+              <font color="#aaaaaa">GANACHE FROSTING.</font>
+
+697
+00:37:09,594 --> 00:37:12,146
+                  <font color="#aaaaaa">YOU HOLD ONTO</font>
+            <font color="#aaaaaa">THAT PERSONAL LIFE.</font>
+
+698
+00:37:12,179 --> 00:37:13,347
+<font color="#aaaaaa">YEAH.</font>
+
+699
+00:37:13,381 --> 00:37:16,350
+                     <font color="#aaaaaa">REMINDS US</font>
+              <font color="#aaaaaa">WHAT'S IMPORTANT.</font>
+
+700
+00:37:16,384 --> 00:37:19,020
+<font color="#aaaaaa">CUPCAKES.</font>
+                        <font color="#aaaaaa">[laughs]</font>
+
+701
+00:37:19,070 --> 00:37:21,756
+           <font color="#aaaaaa">ABSO-FUCKING-LUTELY.</font>
+
+702
+00:37:35,720 --> 00:37:37,888
+          <font color="#aaaaaa">[thinking]</font>
+  <font color="#aaaaaa">SUCH A FAMILIAR SITUATION.</font>
+
+703
+00:37:41,542 --> 00:37:43,461
+<font color="#aaaaaa">SUCH AN UNFAMILIAR PERSPECTIVE.</font>
+
+704
+00:37:43,511 --> 00:37:47,331
+                   <font color="#aaaaaa"> <i>[whistling]</font></i>
+
+705
+00:37:50,418 --> 00:37:52,403
+          <font color="#aaaaaa">[thinking]</font>
+         <font color="#aaaaaa">GEORGE KING.</font>
+
+706
+00:37:52,436 --> 00:37:54,872
+        <font color="#aaaaaa">SO RAMON WASN'T</font>
+  <font color="#aaaaaa">THE ONLY ONE FOLLOWING ME.</font>
+
+707
+00:37:54,905 --> 00:37:57,341
+    <font color="#aaaaaa">I UNDERESTIMATED MIGUEL</font>
+          <font color="#aaaaaa">AFTER ALL.</font>
+
+708
+00:37:57,375 --> 00:38:02,046
+<font color="#aaaaaa">THIS IS THE PART WHERE MY FEAR</font>
+     <font color="#aaaaaa">IS SUPPOSED TO BUILD.</font>
+
+709
+00:38:02,079 --> 00:38:04,081
+   <font color="#aaaaaa">I KNOW HIS M.O. BY HEART.</font>
+
+710
+00:38:06,951 --> 00:38:08,152
+<font color="#aaaaaa">BUT YOU'RE NOT AFRAID.</font>
+
+711
+00:38:10,621 --> 00:38:12,573
+                        <font color="#aaaaaa">NO.</font>
+
+712
+00:38:12,623 --> 00:38:13,574
+                       <font color="#aaaaaa">I'M NOT.</font>
+
+713
+00:38:13,624 --> 00:38:17,545
+<font color="#aaaaaa">I AM.</font>
+
+714
+00:38:17,578 --> 00:38:21,465
+<font color="#aaaaaa">I'VE BEEN SCARED OF IT COMING</font>
+<font color="#aaaaaa">TO THIS YOUR WHOLE LIFE.</font>
+
+715
+00:38:21,499 --> 00:38:22,633
+<font color="#aaaaaa">A VIOLENT END.</font>
+
+716
+00:38:25,670 --> 00:38:27,638
+<font color="#aaaaaa">I TRIED TO PROTECT YOU.</font>
+
+717
+00:38:27,672 --> 00:38:28,723
+                  <font color="#aaaaaa"> <i>AND YOU DID.</font></i>
+
+718
+00:38:28,756 --> 00:38:31,175
+               <font color="#aaaaaa">THIS IS MY FAULT</font>
+          <font color="#aaaaaa">FOR NOT TRUSTING YOU.</font>
+
+719
+00:38:31,176 --> 00:38:34,261
+              <font color="#aaaaaa">INSTEAD I TRUSTED</font>
+          <font color="#aaaaaa">MIGUEL FUCKING PRADO.</font>
+
+720
+00:38:34,312 --> 00:38:40,017
+<font color="#aaaaaa">YOU DID THE BEST</font>
+<font color="#aaaaaa">YOU COULD.</font>
+
+721
+00:38:40,018 --> 00:38:42,186
+<font color="#aaaaaa">I NEED YOU TO UNDERSTAND</font>
+<font color="#aaaaaa">SOMETHING, DEXTE</font>
+
+722
+00:38:42,236 --> 00:38:46,107
+<font color="#aaaaaa">SO DID I.</font>
+
+723
+00:38:46,157 --> 00:38:48,359
+<font color="#aaaaaa">THE VERY BEST THAT I COULD.</font>
+
+724
+00:38:48,409 --> 00:38:52,029
+      <font color="#aaaaaa">I HOPE TO BE HALF AS GOOD</font>
+            <font color="#aaaaaa">A FATHER TO MY SON.</font>
+
+725
+00:38:52,079 --> 00:38:57,001
+<font color="#aaaaaa">YOUR SON.</font>
+
+726
+00:38:57,034 --> 00:38:58,419
+                          <font color="#aaaaaa"> <i>DAD.</font></i>
+
+727
+00:39:00,955 --> 00:39:02,206
+        <font color="#aaaaaa">I FORGIVE YOU.</font>
+
+728
+00:39:05,509 --> 00:39:08,879
+                <font color="#aaaaaa">I'VE NEVER SEEN</font>
+                <font color="#aaaaaa">YOU CRY BEFORE.</font>
+
+729
+00:39:08,929 --> 00:39:12,216
+<font color="#aaaaaa">THEY'RE NOT</font>
+<font color="#aaaaaa">MY TEARS, DEX.</font>
+
+730
+00:39:12,266 --> 00:39:13,217
+<font color="#aaaaaa">THEY'RE YOURS.</font>
+
+731
+00:39:13,267 --> 00:39:17,688
+      <font color="#aaaaaa">I KNOW, BUT I'VE NEVER...</font>
+
+732
+00:39:17,722 --> 00:39:19,857
+          <font color="#aaaaaa">I'VE NEVER FELT THIS.</font>
+
+733
+00:39:19,890 --> 00:39:23,477
+<font color="#aaaaaa">YOU'VE NEVER</font>
+<font color="#aaaaaa">HAD A SON BEFORE.</font>
+
+734
+00:39:23,527 --> 00:39:25,312
+<font color="#aaaaaa">YOU WANT TO SEE HIM</font>
+<font color="#aaaaaa">COME INTO THE WORLD.</font>
+
+735
+00:39:25,363 --> 00:39:28,816
+             <font color="#aaaaaa">YES.</font>
+
+736
+00:39:28,866 --> 00:39:31,202
+    <font color="#aaaaaa">TO RAISE HIM WITH RITA.</font>
+
+737
+00:39:31,235 --> 00:39:35,156
+     <font color="#aaaaaa">TO WATCH HIM GROW UP.</font>
+
+738
+00:39:35,206 --> 00:39:37,491
+                <font color="#aaaaaa"> <i>TO PROTECT HIM.</font></i>
+<font color="#aaaaaa"> I KNOW.</font>
+
+739
+00:39:37,541 --> 00:39:39,243
+                      <font color="#aaaaaa">I DIDN'T.</font>
+
+740
+00:39:39,244 --> 00:39:43,297
+       <font color="#aaaaaa">UNTIL NOW, WHEN IT'S ALL</font>
+           <font color="#aaaaaa">GONNA BE TAKEN AWAY.</font>
+
+741
+00:39:43,330 --> 00:39:47,968
+      <font color="#aaaaaa">I WANNA BE THERE FOR HIM.</font>
+
+742
+00:39:48,002 --> 00:39:50,921
+              <font color="#aaaaaa">I'VE NEVER WANTED</font>
+   <font color="#aaaaaa">ANYTHING SO MUCH IN MY LIFE.</font>
+
+743
+00:39:58,729 --> 00:40:00,931
+          <font color="#aaaaaa">[knocking]</font>
+
+744
+00:40:06,237 --> 00:40:07,822
+<font color="#aaaaaa">HEY.</font>
+                             <font color="#aaaaaa">HI.</font>
+
+745
+00:40:07,855 --> 00:40:09,857
+<font color="#aaaaaa">COME IN.</font>
+
+746
+00:40:13,978 --> 00:40:16,931
+              <font color="#aaaaaa">YOU'RE COMPLETELY</font>
+             <font color="#aaaaaa">DIFFERENT FROM ME.</font>
+
+747
+00:40:16,964 --> 00:40:18,666
+              <font color="#aaaaaa">YOU'RE LAID-BACK,</font>
+
+748
+00:40:18,699 --> 00:40:23,471
+                <font color="#aaaaaa">AND MUSICIAN-Y,</font>
+            <font color="#aaaaaa">AND...UN-AMBITIOUS.</font>
+
+749
+00:40:23,504 --> 00:40:26,507
+            <font color="#aaaaaa">YOU'RE LIKE VALIUM.</font>
+
+750
+00:40:26,540 --> 00:40:29,610
+<font color="#aaaaaa">AND YOU'RE LIKE RED BULL.</font>
+
+751
+00:40:29,643 --> 00:40:33,514
+         <font color="#aaaaaa">YOU ARE THE BEST THING</font>
+       <font color="#aaaaaa">THAT HAS HAPPENED TO ME.</font>
+
+752
+00:40:33,547 --> 00:40:35,549
+<font color="#aaaaaa">I'M STILL A WITNESS</font>
+<font color="#aaaaaa">IN YOUR CASE.</font>
+
+753
+00:40:35,599 --> 00:40:37,802
+              <font color="#aaaaaa">IT'S NOT MY CASE.</font>
+
+754
+00:40:37,852 --> 00:40:39,720
+              <font color="#aaaaaa">I RECUSED MYSELF.</font>
+
+755
+00:40:39,770 --> 00:40:41,238
+<font color="#aaaaaa">YOU GAVE UP</font>
+<font color="#aaaaaa">A CASE--THIS CASE?</font>
+
+756
+00:40:41,272 --> 00:40:42,306
+                <font color="#aaaaaa">I HAD A CHOICE.</font>
+
+757
+00:40:42,339 --> 00:40:44,775
+                   <font color="#aaaaaa">I CHOSE YOU.</font>
+
+758
+00:40:47,278 --> 00:40:49,396
+                     <font color="#aaaaaa">YOUR TURN.</font>
+
+759
+00:40:53,117 --> 00:40:54,752
+<font color="#aaaaaa">I'VE ALREADY CHOSEN.</font>
+
+760
+00:40:56,053 --> 00:40:58,739
+          <font color="#aaaaaa">[both laugh]</font>
+                           <font color="#aaaaaa">OKAY.</font>
+
+761
+00:40:58,789 --> 00:40:59,824
+             <font color="#aaaaaa">[cell phone rings]</font>
+
+762
+00:40:59,825 --> 00:41:02,576
+                       <font color="#aaaaaa">HOLD ON.</font>
+     <font color="#aaaaaa">HOLD ON, I'LL TURN IT OFF.</font>
+
+763
+00:41:02,626 --> 00:41:05,162
+               <font color="#aaaaaa">WAIT, JUST, UH--</font>
+
+764
+00:41:05,196 --> 00:41:06,397
+                          <font color="#aaaaaa">WHAT?</font>
+
+765
+00:41:06,430 --> 00:41:08,883
+             <font color="#aaaaaa">GEORGE KING WASN'T</font>
+         <font color="#aaaaaa">AT THAT CIGAR FACTORY.</font>
+
+766
+00:41:08,916 --> 00:41:12,553
+        <font color="#aaaaaa">FUCKING DUH, BUT THAT'S</font>
+           <font color="#aaaaaa">NOT MY CASE ANYMORE.</font>
+
+767
+00:41:12,586 --> 00:41:14,054
+                           <font color="#aaaaaa">WHY?</font>
+
+768
+00:41:14,088 --> 00:41:15,422
+           <font color="#aaaaaa"> <i>(Masuka)</font></i>
+  <font color="#aaaaaa"> <i>WELL, I RE-RAN THE TOBACCO</font></i>
+
+769
+00:41:15,473 --> 00:41:16,724
+         <font color="#aaaaaa"> <i>THAT WE GOT</font></i>
+<font color="#aaaaaa"> <i>FROM GEORGE KING'S STOLEN CAR.</font></i>
+
+770
+00:41:16,757 --> 00:41:19,460
+  <font color="#aaaaaa">IT TURNS OUT IT'S AT LEAST</font>
+      <font color="#aaaaaa">A DOZEN YEARS OLD.</font>
+
+771
+00:41:19,493 --> 00:41:20,644
+  <font color="#aaaaaa">CALLED THE CIGAR FACTORY.</font>
+
+772
+00:41:20,678 --> 00:41:22,680
+      <font color="#aaaaaa">THEY ONLY MOVED IN</font>
+    <font color="#aaaaaa">THERE THREE YEARS AGO.</font>
+
+773
+00:41:22,730 --> 00:41:25,549
+          <font color="#aaaaaa">WHERE'D THEY MOVE IT?</font>
+
+774
+00:41:25,583 --> 00:41:27,852
+          <font color="#aaaaaa">[whistling]</font>
+
+775
+00:41:27,885 --> 00:41:31,088
+          <font color="#aaaaaa">[thinking]</font>
+       <font color="#aaaaaa">I KNOW THAT LOOK.</font>
+
+776
+00:41:31,121 --> 00:41:32,756
+      <font color="#aaaaaa">I'VE HAD THAT LOOK.</font>
+
+777
+00:41:32,790 --> 00:41:35,025
+       <font color="#aaaaaa">HE LIKES CONTROL.</font>
+
+778
+00:41:35,075 --> 00:41:36,677
+           <font color="#aaaaaa">NEEDS IT.</font>
+
+779
+00:41:36,710 --> 00:41:40,781
+<font color="#aaaaaa">SO I'LL TAKE IT AWAY FROM HIM.</font>
+
+780
+00:41:42,716 --> 00:41:44,869
+       <font color="#aaaaaa">I KILLED FREEBO.</font>
+
+781
+00:41:44,902 --> 00:41:46,770
+       <font color="#aaaaaa">[whistling fades]</font>
+
+782
+00:41:46,804 --> 00:41:48,255
+       <font color="#aaaaaa">SORRY 'BOUT THAT.</font>
+
+783
+00:41:49,623 --> 00:41:51,542
+        <font color="#aaaaaa">I TIED HIM UP.</font>
+
+784
+00:41:51,575 --> 00:41:53,711
+<font color="#aaaaaa">NOT UNLIKE THIS.</font>
+
+785
+00:41:53,744 --> 00:41:56,614
+<font color="#aaaaaa">STABBED HIM</font>
+<font color="#aaaaaa">IN THE LEFT CAROTID ARTERY.</font>
+
+786
+00:41:56,647 --> 00:42:00,217
+<font color="#aaaaaa"> <i>USED HIS 16-INCH,</font></i>
+<font color="#aaaaaa"> <i>CARBON STEEL</font></i>
+
+787
+00:42:00,218 --> 00:42:02,469
+<font color="#aaaaaa">BONE SAW TO SEPARATE HIS LIMBS.</font>
+
+788
+00:42:02,503 --> 00:42:04,388
+     <font color="#aaaaaa">I DON'T BELIEVE YOU.</font>
+
+789
+00:42:04,438 --> 00:42:06,307
+     <font color="#aaaaaa">DIVIDED THEM EQUALLY</font>
+
+790
+00:42:06,357 --> 00:42:09,476
+<font color="#aaaaaa">AMONGST SIX</font>
+<font color="#aaaaaa">BIODEGRADABLE TRASH BAGS.</font>
+
+791
+00:42:09,527 --> 00:42:11,328
+   <font color="#aaaaaa">WHICH ARE LONG GONE NOW,</font>
+
+792
+00:42:11,362 --> 00:42:12,980
+         <font color="#aaaaaa">CARRIED NORTH</font>
+      <font color="#aaaaaa">ON THE GULF STREAM.</font>
+
+793
+00:42:19,303 --> 00:42:21,455
+                 <font color="#aaaaaa"> <i>YOU'RE LYING.</font></i>
+
+794
+00:42:21,488 --> 00:42:23,274
+           <font color="#aaaaaa">USUALLY.</font>
+
+795
+00:42:23,307 --> 00:42:25,175
+           <font color="#aaaaaa">NOT NOW.</font>
+
+796
+00:42:25,209 --> 00:42:26,443
+           <font color="#aaaaaa">NO POINT.</font>
+
+797
+00:42:26,477 --> 00:42:29,747
+             <font color="#aaaaaa">WHY WOULD YOU HAVE</font>
+             <font color="#aaaaaa">DONE SUCH A THING?</font>
+
+798
+00:42:29,748 --> 00:42:33,000
+     <font color="#aaaaaa">OH, I HAVE MY EXCUSES</font>
+      <font color="#aaaaaa">AND JUSTIFICATIONS,</font>
+
+799
+00:42:33,033 --> 00:42:36,303
+    <font color="#aaaaaa">BUT, REALLY, I JUST...</font>
+
+800
+00:42:36,337 --> 00:42:37,404
+           <font color="#aaaaaa">NEED TO.</font>
+
+801
+00:42:37,438 --> 00:42:39,139
+<font color="#aaaaaa"> <i>LIKE YOU.</font></i>
+
+802
+00:42:39,173 --> 00:42:41,308
+ <font color="#aaaaaa">YOU HAVE YOUR FLIMSY EXCUSES:</font>
+
+803
+00:42:41,342 --> 00:42:43,377
+        <font color="#aaaaaa">FINDING FREEBO,</font>
+      <font color="#aaaaaa">GETTING YOUR MONEY.</font>
+
+804
+00:42:43,410 --> 00:42:46,313
+<font color="#aaaaaa"> <i>BUT YOU KNOW HE'S DEAD.</font></i>
+
+805
+00:42:46,347 --> 00:42:49,533
+  <font color="#aaaaaa">YOU KNOW THERE'S NO MONEY.</font>
+
+806
+00:42:49,567 --> 00:42:51,368
+   <font color="#aaaaaa">SO REALLY, YOU'RE JUST...</font>
+
+807
+00:42:51,402 --> 00:42:52,369
+           <font color="#aaaaaa">A KILLER.</font>
+
+808
+00:42:52,403 --> 00:42:54,822
+<font color="#aaaaaa"> <i>A MONSTER.</font></i>
+
+809
+00:42:54,855 --> 00:42:57,358
+   <font color="#aaaaaa">THE STUFF OF NIGHTMARES.</font>
+
+810
+00:42:59,226 --> 00:43:01,762
+          <font color="#aaaaaa">I COULD KILL YOU NOW.</font>
+
+811
+00:43:01,795 --> 00:43:03,581
+<font color="#aaaaaa">IF YOU CAN CONVINCE</font>
+<font color="#aaaaaa">YOURSELF I'M LYING.</font>
+
+812
+00:43:03,614 --> 00:43:07,318
+   <font color="#aaaaaa">THAT YOU NEED TO SKIN ME</font>
+ <font color="#aaaaaa">TO GET INFORMATION OUT OF ME.</font>
+
+813
+00:43:07,351 --> 00:43:12,206
+                 <font color="#aaaaaa">YOU ARE LYING.</font>
+
+814
+00:43:12,256 --> 00:43:14,708
+                    <font color="#aaaaaa">YOU DO KNOW</font>
+                   <font color="#aaaaaa">WHERE HE IS.</font>
+
+815
+00:43:14,758 --> 00:43:17,011
+<font color="#aaaaaa"> <i>MIGUEL PRADO</font></i>
+<font color="#aaaaaa"> <i>TELL YOU THAT?</font></i>
+
+816
+00:43:17,044 --> 00:43:19,013
+      <font color="#aaaaaa">HE WANTED ME DEAD.</font>
+
+817
+00:43:19,046 --> 00:43:20,631
+        <font color="#aaaaaa">SO HE USED YOU.</font>
+
+818
+00:43:20,681 --> 00:43:23,801
+<font color="#aaaaaa"> <i>HE PLAYED</font></i>
+<font color="#aaaaaa"> <i>ON YOUR OBSESSION.</font></i>
+
+819
+00:43:23,802 --> 00:43:26,287
+          <font color="#aaaaaa">IT PROBABLY</font>
+       <font color="#aaaaaa">WASN'T TOO HARD.</font>
+
+820
+00:43:26,320 --> 00:43:28,305
+    <font color="#aaaaaa">I MEAN, YOU'RE A LITTLE</font>
+        <font color="#aaaaaa">SINGLE-MINDED.</font>
+
+821
+00:43:28,306 --> 00:43:29,607
+                  <font color="#aaaaaa">[bangs table]</font>
+
+822
+00:43:29,640 --> 00:43:31,725
+                     <font color="#aaaaaa">LET'S HOPE</font>
+          <font color="#aaaaaa">YOU'RE THIS TALKATIVE</font>
+
+823
+00:43:31,775 --> 00:43:32,977
+           <font color="#aaaaaa">ONCE I GET MY TOOLS.</font>
+
+824
+00:43:33,027 --> 00:43:34,812
+            <font color="#aaaaaa">[creak]</font>
+
+825
+00:43:42,202 --> 00:43:45,122
+          <font color="#aaaaaa">[thinking]</font>
+     <font color="#aaaaaa">A WOLF WOULD CHEW OFF</font>
+         <font color="#aaaaaa">ITS OWN PAW.</font>
+
+826
+00:43:45,155 --> 00:43:47,374
+     <font color="#aaaaaa">ITS SURVIVAL INSTINCT</font>
+        <font color="#aaaaaa">IS THAT FIERCE.</font>
+
+827
+00:43:47,408 --> 00:43:49,159
+          <font color="#aaaaaa">SO IS MINE.</font>
+
+828
+00:43:49,160 --> 00:43:51,312
+        <font color="#aaaaaa">[bone cracking]</font>
+             <font color="#aaaaaa">AAH!</font>
+
+829
+00:43:53,831 --> 00:43:55,666
+             <font color="#aaaaaa">AHH.</font>
+
+830
+00:43:58,919 --> 00:44:00,671
+           <font color="#aaaaaa">[grunts]</font>
+
+831
+00:44:02,389 --> 00:44:04,224
+                           <font color="#aaaaaa">AAH!</font>
+
+832
+00:44:07,928 --> 00:44:09,930
+         <font color="#aaaaaa">[struggling]</font>
+
+833
+00:44:11,999 --> 00:44:13,600
+        <font color="#aaaaaa">[police siren]</font>
+
+834
+00:44:16,020 --> 00:44:17,855
+           <font color="#aaaaaa">GAH! AHH!</font>
+
+835
+00:44:20,190 --> 00:44:23,694
+         <font color="#aaaaaa">[neck cracks]</font>
+
+836
+00:44:23,695 --> 00:44:25,112
+                     <font color="#aaaaaa">[grunting]</font>
+                          <font color="#aaaaaa">FUCK!</font>
+
+837
+00:44:30,751 --> 00:44:32,419
+     <font color="#aaaaaa">KING'S TRUCK, 11:00.</font>
+
+838
+00:44:38,592 --> 00:44:39,960
+                         <font color="#aaaaaa"> <i>SHIT!</font></i>
+
+839
+00:44:44,365 --> 00:44:46,333
+          <font color="#aaaaaa">[grunting]</font>
+
+840
+00:44:50,437 --> 00:44:52,389
+          <font color="#aaaaaa"> <i>(officer)</font></i>
+     <font color="#aaaaaa"> <i>NO WAY I COULD STOP</font></i>
+       <font color="#aaaaaa"> <i>IN TIME, MA'AM.</font></i>
+
+841
+00:44:52,439 --> 00:44:54,308
+        <font color="#aaaaaa">HE FUCKIN'</font>
+   <font color="#aaaaaa">CAME OUT OF NOWHERE.</font>
+
+842
+00:44:56,193 --> 00:44:58,145
+    <font color="#aaaaaa">[police radio chatter]</font>
+
+843
+00:45:05,319 --> 00:45:07,321
+<font color="#aaaaaa"> <i>JESUS, OFFICER.</font></i>
+
+844
+00:45:07,371 --> 00:45:09,306
+          <font color="#aaaaaa">HE SCRAPED</font>
+     <font color="#aaaaaa">HIS FUCKING SKIN OFF.</font>
+
+845
+00:45:09,339 --> 00:45:12,793
+<font color="#aaaaaa">YEAH, WELL, WHAT GOES AROUND</font>
+<font color="#aaaaaa">COMES AROUND.</font>
+
+846
+00:45:12,826 --> 00:45:14,995
+<font color="#aaaaaa">AND IT'S DETECTIVE.</font>
+
+847
+00:45:15,045 --> 00:45:17,998
+    <font color="#aaaaaa">[pleasant guitar music]</font>
+
+848
+00:45:18,031 --> 00:45:21,201
+              <font color="#aaaaaa">&l &l</font>
+
+849
+00:45:21,235 --> 00:45:23,170
+<font color="#aaaaaa">DEXTER'S HERE.</font>
+
+850
+00:45:23,220 --> 00:45:24,354
+            <font color="#aaaaaa"> <i>HE JUST PULLED UP.</font></i>
+
+851
+00:45:24,388 --> 00:45:25,522
+<font color="#aaaaaa">OH, FINALLY.</font>
+
+852
+00:45:25,556 --> 00:45:27,307
+<font color="#aaaaaa">NOTHING TO BE CONCERNED ABOUT,</font>
+
+853
+00:45:27,341 --> 00:45:29,426
+      <font color="#aaaaaa">BUT HE KIND OF HAD</font>
+      <font color="#aaaaaa">A LITTLE ACCIDENT.</font>
+
+854
+00:45:29,476 --> 00:45:31,395
+                 <font color="#aaaaaa">WHAT HAPPENED?</font>
+
+855
+00:45:31,428 --> 00:45:33,147
+<font color="#aaaaaa">HE TOOK A TUMBLE</font>
+<font color="#aaaaaa">DOWN SOME STAIRS.</font>
+
+856
+00:45:33,180 --> 00:45:34,681
+<font color="#aaaaaa"> <i>BROKE HIS HAND.</font></i>
+                    <font color="#aaaaaa"> <i>OH, MY GOD.</font></i>
+
+857
+00:45:34,732 --> 00:45:37,317
+<font color="#aaaaaa">RITA, HE'S FINE.</font>
+
+858
+00:45:37,351 --> 00:45:38,352
+<font color="#aaaaaa">HE CAN'T WAIT</font>
+<font color="#aaaaaa">TO GET MARRIED.</font>
+
+859
+00:45:38,402 --> 00:45:40,521
+              <font color="#aaaaaa">HI.</font>
+
+860
+00:45:40,571 --> 00:45:41,538
+            <font color="#aaaaaa">DEXTER!</font>
+
+861
+00:45:41,572 --> 00:45:42,639
+<font color="#aaaaaa">DEXTER, YOUR ROOM</font>
+<font color="#aaaaaa">IS DOWN THE HALL.</font>
+
+862
+00:45:42,673 --> 00:45:44,408
+<font color="#aaaaaa"> <i>YOU CANNOT BE IN HERE.</font></i>
+
+863
+00:45:44,441 --> 00:45:46,160
+       <font color="#aaaaaa">WOW. YOU LOOK...</font>
+
+864
+00:45:46,193 --> 00:45:47,244
+             <font color="#aaaaaa">WOW.</font>
+
+865
+00:45:47,277 --> 00:45:49,196
+<font color="#aaaaaa">YOU CAN'T SEE HER</font>
+<font color="#aaaaaa">'TIL THE WEDDING.</font>
+
+866
+00:45:49,246 --> 00:45:50,330
+<font color="#aaaaaa">IT'S BAD LUCK.</font>
+
+867
+00:45:50,364 --> 00:45:52,950
+         <font color="#aaaaaa">I THINK I GOT</font>
+  <font color="#aaaaaa">THAT ONE COVERED, SWEETIE.</font>
+
+868
+00:45:53,000 --> 00:45:55,119
+    <font color="#aaaaaa">OH, BABY, ARE YOU OKAY?</font>
+
+869
+00:45:55,169 --> 00:45:58,539
+<font color="#aaaaaa">JUST EMBARRASSED,</font>
+<font color="#aaaaaa">MORE THAN ANYTHING.</font>
+
+870
+00:45:58,589 --> 00:46:00,624
+<font color="#aaaaaa"> <i>(Syl)</font></i>
+<font color="#aaaaaa"> <i>SWEETHEART, WHY DON'T WE GO</font></i>
+<font color="#aaaaaa"> <i>AND DO YOUR MAKEUP?</font></i>
+
+871
+00:46:06,213 --> 00:46:07,181
+          <font color="#aaaaaa">I'M SORRY.</font>
+
+872
+00:46:07,214 --> 00:46:08,298
+<font color="#aaaaaa">IT'S OKAY.</font>
+
+873
+00:46:08,348 --> 00:46:09,433
+              <font color="#aaaaaa">YOU'RE NOT ANGRY?</font>
+
+874
+00:46:09,466 --> 00:46:11,435
+<font color="#aaaaaa">WHY WOULD I BE?</font>
+
+875
+00:46:11,468 --> 00:46:13,053
+<font color="#aaaaaa">IT'S NOT LIKE YOU BROKE</font>
+<font color="#aaaaaa">YOUR HAND ON PURPOSE.</font>
+
+876
+00:46:13,103 --> 00:46:16,023
+<font color="#aaaaaa"> <i>I'M JUST GLAD</font></i>
+<font color="#aaaaaa"> <i>YOU'RE HERE.</font></i>
+
+877
+00:46:16,056 --> 00:46:17,524
+<font color="#aaaaaa">SAFE.</font>
+
+878
+00:46:17,558 --> 00:46:19,393
+            <font color="#aaaaaa">ME TOO.</font>
+
+879
+00:46:19,443 --> 00:46:20,778
+<font color="#aaaaaa">ALL RIGHT,</font>
+<font color="#aaaaaa">NOW GO, GO.</font>
+
+880
+00:46:20,811 --> 00:46:23,447
+             <font color="#aaaaaa">OKAY.</font>
+     <font color="#aaaaaa">BE READY IN A JIFFY.</font>
+
+881
+00:46:28,368 --> 00:46:30,988
+ <font color="#aaaaaa">YOU REALLY DO LOOK BEAUTIFUL.</font>
+
+882
+00:46:31,038 --> 00:46:33,707
+          <font color="#aaaaaa">[thinking]</font>
+       <font color="#aaaaaa">SHE WANTS TO HOLD</font>
+       <font color="#aaaaaa">ONTO HER SECRET.</font>
+
+883
+00:46:33,740 --> 00:46:35,659
+<font color="#aaaaaa">AND I'M GOING TO RESPECT THAT.</font>
+
+884
+00:46:35,660 --> 00:46:37,461
+      <font color="#aaaaaa">IT SEEMS ONLY FAIR,</font>
+
+885
+00:46:37,494 --> 00:46:39,913
+       <font color="#aaaaaa">GIVEN THE SECRETS</font>
+       <font color="#aaaaaa">I KEEP FROM HER.</font>
+
+886
+00:46:39,963 --> 00:46:41,715
+     <font color="#aaaaaa">WE ALL HAVE SECRETS.</font>
+
+887
+00:46:41,748 --> 00:46:44,418
+         <font color="#aaaaaa">IN THAT WAY,</font>
+ <font color="#aaaaaa">I'M JUST LIKE EVERYONE ELSE.</font>
+
+888
+00:46:44,468 --> 00:46:46,136
+            <font color="#aaaaaa">SORTA.</font>
+
+889
+00:46:51,008 --> 00:46:53,227
+                       <font color="#aaaaaa"> <i>(Debra)</font></i>
+ <font color="#aaaaaa"> <i>HEARD ABOUT YOUR LITTLE FALL.</font></i>
+                 <font color="#aaaaaa"> <i>ARE YOU OKAY?</font></i>
+
+890
+00:46:53,260 --> 00:46:54,228
+<font color="#aaaaaa">YEAH, I'M FINE.</font>
+
+891
+00:46:54,261 --> 00:46:56,597
+<font color="#aaaaaa">I HEARD YOU NABBED</font>
+<font color="#aaaaaa">GEORGE KING?</font>
+
+892
+00:46:56,647 --> 00:46:57,598
+                          <font color="#aaaaaa">YEAH.</font>
+
+893
+00:46:57,648 --> 00:46:59,850
+               <font color="#aaaaaa">GREAT, BIG, SCARY</font>
+               <font color="#aaaaaa">CONTRA BOOGEYMAN</font>
+
+894
+00:46:59,900 --> 00:47:02,186
+      <font color="#aaaaaa">GETS SURROUNDED AND TAKES</font>
+      <font color="#aaaaaa">THE CHICKEN-SHIT WAY OUT.</font>
+
+895
+00:47:02,236 --> 00:47:04,188
+                  <font color="#aaaaaa">DEATH BY COP.</font>
+
+896
+00:47:04,189 --> 00:47:06,740
+<font color="#aaaaaa">I'M GLAD HE'S THE ONLY ONE</font>
+<font color="#aaaaaa">WHO GOT HURT.</font>
+
+897
+00:47:06,773 --> 00:47:08,025
+                  <font color="#aaaaaa">YEAH, ME TOO.</font>
+
+898
+00:47:08,075 --> 00:47:10,110
+                          <font color="#aaaaaa">YUCK.</font>
+
+899
+00:47:10,160 --> 00:47:11,695
+                 <font color="#aaaaaa">ME IN A DRESS.</font>
+    <font color="#aaaaaa">I FEEL LIKE A TRANSVESTITE.</font>
+
+900
+00:47:11,696 --> 00:47:15,782
+         <font color="#aaaaaa">[both laugh]</font>
+
+901
+00:47:15,833 --> 00:47:18,952
+                     <font color="#aaaaaa">COME HERE.</font>
+
+902
+00:47:19,002 --> 00:47:22,472
+                    <font color="#aaaaaa">RABBIT GOES</font>
+               <font color="#aaaaaa">UNDER THE LOG...</font>
+
+903
+00:47:22,506 --> 00:47:25,209
+           <font color="#aaaaaa">HOPS OVER THE LOG...</font>
+
+904
+00:47:25,210 --> 00:47:26,510
+                       <font color="#aaaaaa">AGAIN...</font>
+
+905
+00:47:26,543 --> 00:47:28,629
+                        <font color="#aaaaaa">THEN...</font>
+
+906
+00:47:28,679 --> 00:47:33,584
+              <font color="#aaaaaa">THROUGH HIS HOLE.</font>
+
+907
+00:47:33,617 --> 00:47:37,688
+<font color="#aaaaaa">SAFE AND SOUND.</font>
+
+908
+00:47:39,773 --> 00:47:41,441
+<font color="#aaaaaa">THANKS.</font>
+
+909
+00:47:41,475 --> 00:47:43,227
+                 <font color="#aaaaaa">JUST REMEMBER,</font>
+           <font color="#aaaaaa">CODY HAS YOUR RINGS.</font>
+
+910
+00:47:43,277 --> 00:47:45,395
+ <font color="#aaaaaa">AND DON'T LOCK YOUR KNEES WHEN</font>
+   <font color="#aaaaaa">YOU'RE STANDING UP UP THERE.</font>
+
+911
+00:47:45,445 --> 00:47:48,031
+                    <font color="#aaaaaa">YOU'LL DROP</font>
+         <font color="#aaaaaa">LIKE A GOD DAMN STONE.</font>
+
+912
+00:47:48,065 --> 00:47:49,283
+           <font color="#aaaaaa">WHERE ARE YOUR VOWS?</font>
+
+913
+00:47:49,316 --> 00:47:51,201
+<font color="#aaaaaa">RIGHT HERE.</font>
+
+914
+00:47:51,235 --> 00:47:52,953
+          <font color="#aaaaaa">I'M SO HAPPY FOR YOU.</font>
+
+915
+00:47:54,955 --> 00:47:58,992
+                  <font color="#aaaaaa">JUST WISH DAD</font>
+                 <font color="#aaaaaa">COULD BE HERE.</font>
+
+916
+00:47:59,042 --> 00:48:01,245
+<font color="#aaaaaa">I HAVE A FEELING HE IS.</font>
+
+917
+00:48:04,748 --> 00:48:07,834
+                 <font color="#aaaaaa">ENOUGH OF THIS</font>
+                    <font color="#aaaaaa">SAPPY SHIT.</font>
+
+918
+00:48:07,885 --> 00:48:10,504
+                  <font color="#aaaaaa">LET'S GET YOU</font>
+               <font color="#aaaaaa">FUCKIN' HITCHED.</font>
+
+919
+00:48:10,554 --> 00:48:13,290
+         <font color="#aaaaaa">I HONOR YOU.</font>
+
+920
+00:48:13,323 --> 00:48:15,392
+          <font color="#aaaaaa">I LOVE YOU.</font>
+
+921
+00:48:15,425 --> 00:48:17,060
+         <font color="#aaaaaa">I MARRY YOU.</font>
+
+922
+00:48:34,945 --> 00:48:39,449
+                   <font color="#aaaaaa">I PROMISE...</font>
+
+923
+00:48:39,450 --> 00:48:42,035
+    <font color="#aaaaaa">TO BE THE VERY BEST HUSBAND</font>
+
+924
+00:48:42,085 --> 00:48:45,322
+                     <font color="#aaaaaa">AND FATHER</font>
+
+925
+00:48:45,355 --> 00:48:47,758
+                 <font color="#aaaaaa">THAT I CAN BE.</font>
+
+926
+00:48:51,361 --> 00:48:54,848
+          <font color="#aaaaaa">[thinking]</font>
+         <font color="#aaaaaa">A COMPLETELY,</font>
+      <font color="#aaaaaa">UTTERLY HONEST VOW.</font>
+
+927
+00:48:56,433 --> 00:48:58,635
+          <font color="#aaaaaa">[applause]</font>
+
+928
+00:49:01,104 --> 00:49:04,074
+   <font color="#aaaaaa">[slow Cuban guitar music]</font>
+
+929
+00:49:04,107 --> 00:49:12,065
+              <font color="#aaaaaa">&l &l</font>
+
+930
+00:49:14,568 --> 00:49:19,122
+           <font color="#aaaaaa">(Dexter)</font>
+  <font color="#aaaaaa">DEXTER MORGAN: FAMILY MAN.</font>
+
+931
+00:49:19,156 --> 00:49:21,375
+   <font color="#aaaaaa">ALL MY PREVIOUS ATTEMPTS</font>
+      <font color="#aaaaaa">AT HUMAN CONNECTION</font>
+
+932
+00:49:21,408 --> 00:49:24,077
+       <font color="#aaaaaa">HAVE ENDED IN...</font>
+         <font color="#aaaaaa">WELL, DEATH.</font>
+
+933
+00:49:24,127 --> 00:49:26,997
+        <font color="#aaaaaa">AND NOW I HAVE</font>
+      <font color="#aaaaaa">A PARTNER FOR LIFE.</font>
+
+934
+00:49:26,998 --> 00:49:29,833
+     <font color="#aaaaaa">HOW DID THAT HAPPEN?</font>
+
+935
+00:49:29,883 --> 00:49:32,069
+   <font color="#aaaaaa">AM I DRAWN TO THE SAFETY</font>
+         <font color="#aaaaaa">OF BELONGING,</font>
+
+936
+00:49:32,102 --> 00:49:36,556
+  <font color="#aaaaaa">OR BEING PART OF SOMETHING</font>
+        <font color="#aaaaaa">BIGGER THAN ME?</font>
+
+937
+00:49:36,590 --> 00:49:39,343
+          <font color="#aaaaaa">EITHER WAY,</font>
+      <font color="#aaaaaa">I'M A MARRIED MAN.</font>
+
+938
+00:49:39,344 --> 00:49:42,529
+     <font color="#aaaaaa">SOON TO BE A FATHER.</font>
+
+939
+00:49:42,562 --> 00:49:46,350
+      <font color="#aaaaaa">BUT WHAT DO I HAVE</font>
+       <font color="#aaaaaa">TO OFFER A CHILD?</font>
+
+940
+00:49:46,400 --> 00:49:50,153
+          <font color="#aaaaaa">JUST...ME.</font>
+
+941
+00:49:50,187 --> 00:49:54,307
+    <font color="#aaaaaa">DEMENTED DADDY DEXTER.</font>
+
+942
+00:49:54,341 --> 00:49:56,576
+       <font color="#aaaaaa">MAYBE I'M MAKING</font>
+<font color="#aaaaaa">THE BIGGEST MISTAKE OF MY LIFE.</font>
+
+943
+00:49:56,610 --> 00:49:59,329
+      <font color="#aaaaaa">BUT WHO'S PERFECT?</font>
+       <font color="#aaaaaa">CERTAINLY NOT ME.</font>
+
+944
+00:49:59,363 --> 00:50:02,866
+     <font color="#aaaaaa">CERTAINLY NOT HARRY.B</font>
+
+945
+00:50:02,916 --> 00:50:05,869
+  <font color="#aaaaaa">SURE, I'M STILL WHO I WAS,</font>
+
+946
+00:50:05,919 --> 00:50:07,454
+           <font color="#aaaaaa">WHO I AM.</font>
+
+947
+00:50:07,504 --> 00:50:09,756
+         <font color="#aaaaaa">QUESTION IS,</font>
+       <font color="#aaaaaa">WHAT DO I BECOME?</font>
+
+948
+00:50:09,790 --> 00:50:12,759
+   <font color="#aaaaaa">THERE ARE SO MANY BLANKS</font>
+       <font color="#aaaaaa">LEFT TO FILL IN.</font>
+
+949
+00:50:12,793 --> 00:50:16,580
+<font color="#aaaaaa">BUT RIGHT NOW, AT THIS MOMENT,</font>
+         <font color="#aaaaaa">I'M CONTENT.</font>
+
+950
+00:50:16,613 --> 00:50:18,999
+         <font color="#aaaaaa">MAYBE EVEN...</font>
+
+951
+00:50:19,032 --> 00:50:20,834
+            <font color="#aaaaaa">HAPPY.</font>
+
+952
+00:50:20,867 --> 00:50:25,572
+     <font color="#aaaaaa">AND I HAVE TO ADMIT,</font>
+ <font color="#aaaaaa">WHEN ALL IS SAID AND DONE...</font>
+
+953
+00:50:25,605 --> 00:50:28,575
+         <font color="#aaaaaa">LIFE IS GOOD.</font>
+
+954
+00:50:28,608 --> 00:50:31,561
+   <font color="#aaaaaa">Captioning by </font><font color="#00aa00">CaptionMax </font>
+      <font color="#aaaaaa">www.captionmax.com</font>
+
